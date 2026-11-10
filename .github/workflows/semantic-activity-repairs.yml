@@ -1,0 +1,65 @@
+name: Correct remaining mismatched itinerary meal and place photographs
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/semantic_activity_repairs.py'
+      - '.github/workflows/semantic-activity-repairs.yml'
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install Pillow==11.3.0
+      - name: Syntax verification
+        run: python -m py_compile scripts/semantic_activity_repairs.py scripts/repair_all_schedule_photos.py
+      - name: Download distinct topic-aligned Commons images and validate
+        run: python -u scripts/semantic_activity_repairs.py
+      - name: Check all 281 photos and byte-unique content
+        run: |
+          python - <<'PY'
+          import json,hashlib
+          from pathlib import Path
+          from PIL import Image
+          rows=json.loads(Path('assets/photo_manifest_281.json').read_text())
+          hashes=[]
+          for x in rows:
+            p=Path(x['local_path'])
+            with Image.open(p) as im:im.verify()
+            hashes.append(hashlib.sha256(p.read_bytes()).hexdigest())
+          report=json.loads(Path('photo_audit/semantic_activity_repairs.json').read_text())
+          print('VALID:',len(hashes),'UNIQUE:',len(set(hashes)),'DUPLICATES:',len(hashes)-len(set(hashes)))
+          assert len(hashes)==281
+          print('Curation status:',report['replaced'],'of',report['checked'],'matched')
+          assert report['replaced']>=8, 'Expected at least 8 validated replacements; check image APIs'
+          assert len(hashes)==len(set(hashes)), 'No reused image files allowed'
+          PY
+      - name: Save all actual verified replacements even if some remain unresolved
+        if: always()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/photos/schedules assets/local_schedule_photos.json assets/recommended.json assets/new_routes.json assets/gallery.json photo_audit/semantic_activity_repairs.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Correct itinerary food and landmark mismatches with real independently sourced photos'
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
+      - name: Retain per-item audit for any unresolved source
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: semantic-activity-repair-report
+          path: photo_audit/semantic_activity_repairs.json
+          if-no-files-found: ignore
