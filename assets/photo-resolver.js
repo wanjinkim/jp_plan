@@ -13,7 +13,7 @@
   const city = params.get('id') || '';
   const RATE = 4;
   const CACHE_DAYS = 2 * 86400000;
-  const cachePrefix = 'japan-atlas-photo-v4:';
+  const cachePrefix = 'japan-atlas-photo-v3:';
   const queryResults = new Map();
   const busy = new Set();
   const queue = [];
@@ -71,7 +71,7 @@
     const cacheKey='ov|'+term;
     if(!queryResults.has(cacheKey)) {
       const url=ovApi+'?'+new URLSearchParams({q:term,page_size:'12',license:'by,by-sa,cc0,pdm'});
-      queryResults.set(cacheKey,json(url,4000).then(j=>(j.results||[]).filter(p=>
+      queryResults.set(cacheKey,json(url,12000).then(j=>(j.results||[]).filter(p=>
         ['by','by-sa','cc0','pdm'].includes((p.license||'').toLowerCase()) &&
         /^https:\/\//.test(p.thumbnail||p.url||'') && /^https:\/\//.test(p.foreign_landing_url||p.detail_url||'')
       ).map(p=>({url:p.thumbnail||p.url,source:p.foreign_landing_url||p.detail_url,
@@ -112,25 +112,26 @@
   async function choose(task, load) {
     const cacheKey='result|'+(task.place||'')+'|'+(task.title||'');
     const known=fromCache(cacheKey);
-    if(known && known.url && await load(known.url))return known;
+    if(known && await load(known))return known;
     const used=new Set();
     // Trusted curated filenames first: avoid search API on the common easy cases.
     for(const p of knownFiles(task)) {
       if(used.has(p.url))continue;used.add(p.url);
-      if(await load(p.url)){toCache(cacheKey,p);return p;}
+      if(await load(p)){toCache(cacheKey,p);return p;}
     }
     try{
       const w=await searchWiki(task);
-      for(const p of w){if(used.has(p.url))continue;used.add(p.url);const pic={...p,scope:'place'};if(await load(pic.url)){toCache(cacheKey,pic);return pic;}}
+      for(const p of w){if(used.has(p.url))continue;used.add(p.url);const pic={...p,scope:'place'};if(await load(pic)){toCache(cacheKey,pic);return pic;}}
     }catch(_){}
     for(const {q,scope} of searchTerms(task)){
       let results=await commons(q,task);
-      results=results.sort((a,b)=>b.matches-a.matches);
+      if(scope==='place')results=results.sort((a,b)=>b.matches-a.matches);
+      else results=results.sort((a,b)=>b.matches-a.matches);
       // Reject blatantly unrelated uploads, only fallback under truthful reference label.
       for(const p of results.slice(0,5)) {
         if(used.has(p.url))continue;used.add(p.url);
         const pic={...p,scope:scope==='place' && p.matches>0?'place':'reference'};
-        if(await load(pic.url)){toCache(cacheKey,pic);return pic;}
+        if(await load(pic)){toCache(cacheKey,pic);return pic;}
       }
       // A second independent provider is essential when Wikimedia returns 403/429.
       if(scope!=='city' && /[a-z]/i.test(q)) {
@@ -138,14 +139,13 @@
         for(const p of ov.slice(0,5)) {
           if(used.has(p.url))continue;used.add(p.url);
           const pic={...p,scope:scope==='place' && p.matches>0?'place':'reference'};
-          if(await load(pic.url)){toCache(cacheKey,pic);return pic;}
+          if(await load(pic)){toCache(cacheKey,pic);return pic;}
         }
       }
     }
     return null;
   }
   function checkImage(url) {
-    if (typeof url !== 'string' || !/^https?:\/\//.test(url)) return Promise.resolve(false);
     return new Promise(resolve=>{
       let settled=false;
       const im=new Image();

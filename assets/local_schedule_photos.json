@@ -1,0 +1,812 @@
+{
+  "hiroshima-d1-01": {
+    "url": "./assets/photos/schedules/hiroshima/d1-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:A_runway_and_a_Sunset_-_panoramio.jpg",
+    "place": "広島空港",
+    "match": "candidate_only"
+  },
+  "hiroshima-d1-02": {
+    "url": "./assets/photos/schedules/hiroshima/d1-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:JR_and_Hiroden_Hiroshima_Station.JPG",
+    "place": "広島駅",
+    "match": "candidate_only"
+  },
+  "hiroshima-d1-03": {
+    "url": "./assets/photos/schedules/hiroshima/d1-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Shukkeien_hdsr_Garden_S5_20.jpg",
+    "place": "広島平和記念公園",
+    "match": "candidate_only"
+  },
+  "hiroshima-d1-04": {
+    "url": "./assets/photos/schedules/hiroshima/d1-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Okonomiyaki_in_Hiroshima_02.jpg",
+    "place": "広島 お好み焼き",
+    "match": "candidate_only"
+  },
+  "hiroshima-d1-05": {
+    "url": "./assets/photos/schedules/hiroshima/d1-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Castle_2025.jpg",
+    "place": "広島城",
+    "match": "candidate_only"
+  },
+  "hiroshima-d1-06": {
+    "url": "./assets/photos/schedules/hiroshima/d1-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_hondori.jpg",
+    "place": "本通商店街 広島",
+    "match": "candidate_only"
+  },
+  "hiroshima-d1-07": {
+    "url": "./assets/photos/schedules/hiroshima/d1-07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kakihune_Kanawa_20140302.JPG",
+    "place": "広島 牡蠣料理",
+    "match": "candidate_only"
+  },
+  "hiroshima-d1-08": {
+    "url": "./assets/photos/schedules/hiroshima/d1-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:A_bomb_dome_hiroshima_sunset.jpg",
+    "place": "流川 広島",
+    "match": "candidate_only"
+  },
+  "hiroshima-d1-09": {
+    "url": "./assets/photos/schedules/hiroshima/d1-09.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2013-09-01_a_hotel_room_in_Hiroshima_01.jpg",
+    "place": "広島駅 ホテル",
+    "match": "candidate_only"
+  },
+  "hiroshima-d2-01": {
+    "url": "./assets/photos/schedules/hiroshima/d2-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:JR_Miyajima_Ferry-344.jpg",
+    "place": "宮島口",
+    "match": "candidate_only"
+  },
+  "hiroshima-d2-02": {
+    "url": "./assets/photos/schedules/hiroshima/d2-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Itsukushima_Gate.jpg",
+    "place": "厳島神社",
+    "match": "candidate_only"
+  },
+  "hiroshima-d2-03": {
+    "url": "./assets/photos/schedules/hiroshima/d2-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Momiji_Manju_Hiroshima.JPG",
+    "place": "宮島表参道商店街",
+    "match": "candidate_only"
+  },
+  "hiroshima-d2-04": {
+    "url": "./assets/photos/schedules/hiroshima/d2-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Anagoju_in_Miyajima_01.jpg",
+    "place": "宮島 あなご飯",
+    "match": "candidate_only"
+  },
+  "hiroshima-d2-05": {
+    "url": "./assets/photos/schedules/hiroshima/d2-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Autumn_colours_on_Miyajima_Island_Japan.jpg",
+    "place": "紅葉谷公園",
+    "match": "candidate_only"
+  },
+  "hiroshima-d2-06": {
+    "url": "./assets/photos/schedules/hiroshima/d2-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Miyajima_Ropeway_Shishiiwa_Line_2010.jpg",
+    "place": "宮島ロープウエー",
+    "match": "candidate_only"
+  },
+  "hiroshima-d2-07": {
+    "url": "./assets/photos/schedules/hiroshima/d2-07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:JR_Hiroshima_station_03d_(2949908323).jpg",
+    "place": "広島駅",
+    "match": "candidate_only"
+  },
+  "hiroshima-d2-08": {
+    "url": "./assets/photos/schedules/hiroshima/d2-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Washington_Hotel.JPG",
+    "place": "宇品天然温泉 ほの湯",
+    "match": "candidate_only"
+  },
+  "hiroshima-d2-09": {
+    "url": "./assets/photos/schedules/hiroshima/d2-09.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Okonomiyaki_in_Hiroshima_03.jpg",
+    "place": "広島駅",
+    "match": "candidate_only"
+  },
+  "hiroshima-d2-10": {
+    "url": "./assets/photos/schedules/hiroshima/d2-10.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mielparque_Hiroshima_2026.JPG",
+    "place": "広島駅 ホテル",
+    "match": "candidate_only"
+  },
+  "hiroshima-d3-01": {
+    "url": "./assets/photos/schedules/hiroshima/d3-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:A_man_prepares_okonomiyaki_in_Hiroshima_2004-08-05.jpg",
+    "place": "広島駅",
+    "match": "candidate_only"
+  },
+  "hiroshima-d3-02": {
+    "url": "./assets/photos/schedules/hiroshima/d3-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Hiroshima_bay,_from_Miyajima_(4177221419).jpg",
+    "place": "縮景園",
+    "match": "candidate_only"
+  },
+  "hiroshima-d3-03": {
+    "url": "./assets/photos/schedules/hiroshima/d3-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_streetcar_at_night_beside_Hondori_Station.jpg",
+    "place": "広島駅",
+    "match": "candidate_only"
+  },
+  "hiroshima-d3-04": {
+    "url": "./assets/photos/schedules/hiroshima/d3-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Matcha_Soft_Serve_in_Miyajima_01.jpg",
+    "place": "広島駅 お好み焼き",
+    "match": "candidate_only"
+  },
+  "hiroshima-d3-05": {
+    "url": "./assets/photos/schedules/hiroshima/d3-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima-Airport_Inside.jpg",
+    "place": "広島駅",
+    "match": "candidate_only"
+  },
+  "hiroshima-d3-06": {
+    "url": "./assets/photos/schedules/hiroshima/d3-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiroden_Ujina_Line_in_Hiroshima.jpg",
+    "place": "広島空港",
+    "match": "candidate_only"
+  },
+  "shizuoka-d1-01": {
+    "url": "./assets/photos/schedules/shizuoka/d1-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shizuoka-airport-terminal.jpg",
+    "place": "富士山静岡空港",
+    "match": "candidate_only"
+  },
+  "shizuoka-d1-02": {
+    "url": "./assets/photos/schedules/shizuoka/d1-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kuretake_Inn_Premium_Shizuoka_Ekimae.JPG",
+    "place": "静岡駅",
+    "match": "candidate_only"
+  },
+  "shizuoka-d1-03": {
+    "url": "./assets/photos/schedules/shizuoka/d1-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:KASHI_NO_ICHI_maguro_kan_in_shimizu_ward.jpg",
+    "place": "静岡駅 まぐろ丼",
+    "match": "candidate_only"
+  },
+  "shizuoka-d1-04": {
+    "url": "./assets/photos/schedules/shizuoka/d1-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunpu_castle_park.JPG",
+    "place": "駿府城公園",
+    "match": "candidate_only"
+  },
+  "shizuoka-d1-05": {
+    "url": "./assets/photos/schedules/shizuoka/d1-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Matcha_ice_cream_001.jpg",
+    "place": "静岡 抹茶ジェラート",
+    "match": "candidate_only"
+  },
+  "shizuoka-d1-06": {
+    "url": "./assets/photos/schedules/shizuoka/d1-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sumpu-jou_park_Oden_shop.jpg",
+    "place": "青葉おでん街",
+    "match": "candidate_only"
+  },
+  "shizuoka-d1-07": {
+    "url": "./assets/photos/schedules/shizuoka/d1-07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:ASTY_Shizuoka_01.jpg",
+    "place": "静岡駅 ASTY",
+    "match": "candidate_only"
+  },
+  "shizuoka-d1-08": {
+    "url": "./assets/photos/schedules/shizuoka/d1-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Associa_Shizuoka.JPG",
+    "place": "静岡駅 ホテル",
+    "match": "candidate_only"
+  },
+  "shizuoka-d2-01": {
+    "url": "./assets/photos/schedules/shizuoka/d2-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Miho_no_Matsubara_and_Mount_Fuji.JPG",
+    "place": "清水駅",
+    "match": "candidate_only"
+  },
+  "shizuoka-d2-02": {
+    "url": "./assets/photos/schedules/shizuoka/d2-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:231027_Shimizu_Port_Shizuoka_Japan01s3.jpg",
+    "place": "三保松原",
+    "match": "candidate_only"
+  },
+  "shizuoka-d2-03": {
+    "url": "./assets/photos/schedules/shizuoka/d2-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Matcha_latte.jpg",
+    "place": "清水魚市場 河岸の市",
+    "match": "candidate_only"
+  },
+  "shizuoka-d2-04": {
+    "url": "./assets/photos/schedules/shizuoka/d2-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:231027_Shimizu_Port_Shizuoka_Japan03s3.jpg",
+    "place": "清水港",
+    "match": "candidate_only"
+  },
+  "shizuoka-d2-05": {
+    "url": "./assets/photos/schedules/shizuoka/d2-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_station_01.jpg",
+    "place": "草薙駅",
+    "match": "candidate_only"
+  },
+  "shizuoka-d2-06": {
+    "url": "./assets/photos/schedules/shizuoka/d2-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aoba_Ryokuchi_01.jpg",
+    "place": "あおい温泉 草薙の湯",
+    "match": "candidate_only"
+  },
+  "shizuoka-d2-07": {
+    "url": "./assets/photos/schedules/shizuoka/d2-07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Oden_matsuri.jpg",
+    "place": "静岡駅",
+    "match": "candidate_only"
+  },
+  "shizuoka-d2-08": {
+    "url": "./assets/photos/schedules/shizuoka/d2-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shizoka_oden_1_20151022.jpg",
+    "place": "静岡駅 ASTY",
+    "match": "candidate_only"
+  },
+  "shizuoka-d2-09": {
+    "url": "./assets/photos/schedules/shizuoka/d2-09.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aoba_Symbol_Road_01.jpg",
+    "place": "静岡駅 ホテル",
+    "match": "candidate_only"
+  },
+  "shizuoka-d3-01": {
+    "url": "./assets/photos/schedules/shizuoka/d3-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sanco_Inn_Shizuoka_Kitaguchi.JPG",
+    "place": "静岡駅",
+    "match": "candidate_only"
+  },
+  "shizuoka-d3-02": {
+    "url": "./assets/photos/schedules/shizuoka/d3-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aoba_Oden_Street_01.jpg",
+    "place": "静岡駅 ASTY",
+    "match": "candidate_only"
+  },
+  "shizuoka-d3-03": {
+    "url": "./assets/photos/schedules/shizuoka/d3-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shizoka_oden_2_20151022.jpg",
+    "place": "静岡駅 静岡おでん",
+    "match": "candidate_only"
+  },
+  "shizuoka-d3-04": {
+    "url": "./assets/photos/schedules/shizuoka/d3-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_airport_-_panoramio.jpg",
+    "place": "静岡駅",
+    "match": "candidate_only"
+  },
+  "shizuoka-d3-05": {
+    "url": "./assets/photos/schedules/shizuoka/d3-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_Concourse.jpg",
+    "place": "富士山静岡空港",
+    "match": "candidate_only"
+  },
+  "sapporo-d1-01": {
+    "url": "./assets/photos/schedules/sapporo/d1-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:New_CHITOSE_Airport_terminal.jpg",
+    "place": "新千歳空港",
+    "match": "candidate_only"
+  },
+  "sapporo-d1-02": {
+    "url": "./assets/photos/schedules/sapporo/d1-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Route_Inn_Sapporo-Ekimae-Kitaguchi.JPG",
+    "place": "札幌駅",
+    "match": "candidate_only"
+  },
+  "sapporo-d1-03": {
+    "url": "./assets/photos/schedules/sapporo/d1-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:A_soup_curry_dish_in_Sapporo_-_Flickr_-_odako1.jpg",
+    "place": "札幌 スープカレー",
+    "match": "candidate_only"
+  },
+  "sapporo-d1-04": {
+    "url": "./assets/photos/schedules/sapporo/d1-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hokkaido_Sapporo_Odori_Park.jpg",
+    "place": "大通公園",
+    "match": "candidate_only"
+  },
+  "sapporo-d1-05": {
+    "url": "./assets/photos/schedules/sapporo/d1-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Chitose_Airport_at_departure_01.jpg",
+    "place": "北海道庁旧本庁舎",
+    "match": "candidate_only"
+  },
+  "sapporo-d1-06": {
+    "url": "./assets/photos/schedules/sapporo/d1-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Yakiniku_on_braziers_at_%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97_%E3%81%A0%E3%82%8B%E3%81%BE_in_Sapporo%2C_Japan_(244).jpg",
+    "place": "成吉思汗 だるま 札幌",
+    "match": "candidate_only"
+  },
+  "sapporo-d1-07": {
+    "url": "./assets/photos/schedules/sapporo/d1-07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Curry_dish_at_Rojiura_Curry_SAMURAI_in_Sapporo,_Japan_(242).jpg",
+    "place": "元祖さっぽろラーメン横丁",
+    "match": "candidate_only"
+  },
+  "sapporo-d1-08": {
+    "url": "./assets/photos/schedules/sapporo/d1-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:定山渓ビューホテル_-_panoramio.jpg",
+    "place": "札幌駅 ホテル",
+    "match": "candidate_only"
+  },
+  "sapporo-d2-01": {
+    "url": "./assets/photos/schedules/sapporo/d2-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:A_Corridor_of_Sapporo_Station_01.jpg",
+    "place": "札幌駅",
+    "match": "candidate_only"
+  },
+  "sapporo-d2-02": {
+    "url": "./assets/photos/schedules/sapporo/d2-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:JozankeiOnsen.jpg",
+    "place": "定山渓温泉",
+    "match": "candidate_only"
+  },
+  "sapporo-d2-03": {
+    "url": "./assets/photos/schedules/sapporo/d2-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:20240923_Sapporo_Odori_Park.jpg",
+    "place": "定山渓二見吊橋",
+    "match": "candidate_only"
+  },
+  "sapporo-d2-04": {
+    "url": "./assets/photos/schedules/sapporo/d2-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:SAKURAKO_in_the_JyoZanKei_hot_springs._(8345382759).jpg",
+    "place": "定山渓温泉",
+    "match": "candidate_only"
+  },
+  "sapporo-d2-05": {
+    "url": "./assets/photos/schedules/sapporo/d2-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Former_Hokkaido_Government_Office_Building_20090112-01.jpg",
+    "place": "定山渓温泉 日帰り入浴",
+    "match": "candidate_only"
+  },
+  "sapporo-d2-06": {
+    "url": "./assets/photos/schedules/sapporo/d2-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Corridor_of_Sapporo_Station_02.jpg",
+    "place": "札幌駅",
+    "match": "candidate_only"
+  },
+  "sapporo-d2-07": {
+    "url": "./assets/photos/schedules/sapporo/d2-07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Soup-Curry_：_PICANTE,_Sapporo,_Japan_-_panoramio.jpg",
+    "place": "札幌 味噌ラーメン",
+    "match": "candidate_only"
+  },
+  "sapporo-d2-08": {
+    "url": "./assets/photos/schedules/sapporo/d2-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nakajima_Park_Sapporo01n3200.jpg",
+    "place": "すすきの",
+    "match": "candidate_only"
+  },
+  "sapporo-d2-09": {
+    "url": "./assets/photos/schedules/sapporo/d2-09.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:KEIO-PRELIA.Sapporo.JPG",
+    "place": "札幌駅 ホテル",
+    "match": "candidate_only"
+  },
+  "sapporo-d3-01": {
+    "url": "./assets/photos/schedules/sapporo/d3-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:The_snack_bar_district_in_Sapporo's_Susukino_in_winter.jpg",
+    "place": "札幌駅",
+    "match": "candidate_only"
+  },
+  "sapporo-d3-02": {
+    "url": "./assets/photos/schedules/sapporo/d3-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nakajima_Park_Sapporo02n4272.jpg",
+    "place": "中島公園",
+    "match": "candidate_only"
+  },
+  "sapporo-d3-03": {
+    "url": "./assets/photos/schedules/sapporo/d3-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Susukino-night_from_TV_Tower.JPG",
+    "place": "札幌駅",
+    "match": "candidate_only"
+  },
+  "sapporo-d3-04": {
+    "url": "./assets/photos/schedules/sapporo/d3-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Genghis_Khan_dish.jpg",
+    "place": "札幌 味噌ラーメン",
+    "match": "candidate_only"
+  },
+  "sapporo-d3-05": {
+    "url": "./assets/photos/schedules/sapporo/d3-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ramen_Alley_Sapporo_Japan.jpg",
+    "place": "新千歳空港",
+    "match": "candidate_only"
+  },
+  "sapporo-d3-06": {
+    "url": "./assets/photos/schedules/sapporo/d3-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Former_Hokkaido_Government_Office_202507.jpg",
+    "place": "新千歳空港",
+    "match": "candidate_only"
+  },
+  "nagoya-d1-01": {
+    "url": "./assets/photos/schedules/nagoya/d1-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Central_Japan_International_Airport_Station_from_departure_lobby_of_Chubu_Centrair_International_Airport.JPG",
+    "place": "中部国際空港",
+    "match": "candidate_only"
+  },
+  "nagoya-d1-02": {
+    "url": "./assets/photos/schedules/nagoya/d1-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:名古屋プリンスホテル_スカイタワー_(50523581076).jpg",
+    "place": "名古屋駅",
+    "match": "candidate_only"
+  },
+  "nagoya-d1-03": {
+    "url": "./assets/photos/schedules/nagoya/d1-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Yabaton's_misokatsu_（Nagoya_soul_food）.jpg",
+    "place": "矢場とん 名古屋",
+    "match": "candidate_only"
+  },
+  "nagoya-d1-04": {
+    "url": "./assets/photos/schedules/nagoya/d1-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagoya_Castle2026.jpg",
+    "place": "名古屋城",
+    "match": "candidate_only"
+  },
+  "nagoya-d1-05": {
+    "url": "./assets/photos/schedules/nagoya/d1-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hisayaodori_Park%2C_Marunouchi_Naka_Ward_Nagoya_2022.jpg",
+    "place": "久屋大通公園",
+    "match": "candidate_only"
+  },
+  "nagoya-d1-06": {
+    "url": "./assets/photos/schedules/nagoya/d1-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Miso_katsu,_tsukemono_and_miso_soup_by_shibainu_in_Nagoya.jpg",
+    "place": "栄 名古屋 名古屋めし",
+    "match": "candidate_only"
+  },
+  "nagoya-d1-07": {
+    "url": "./assets/photos/schedules/nagoya/d1-07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Oasis_21_from_Nagoya_TV_Tower_at_night.jpg",
+    "place": "オアシス21",
+    "match": "candidate_only"
+  },
+  "nagoya-d1-08": {
+    "url": "./assets/photos/schedules/nagoya/d1-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagoya_Castle_6.jpg",
+    "place": "名古屋駅 ホテル",
+    "match": "candidate_only"
+  },
+  "nagoya-d2-01": {
+    "url": "./assets/photos/schedules/nagoya/d2-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Atsuta_Shrine.jpg",
+    "place": "熱田神宮",
+    "match": "candidate_only"
+  },
+  "nagoya-d2-02": {
+    "url": "./assets/photos/schedules/nagoya/d2-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Atsuta_Jingu_20211226-02.jpg",
+    "place": "熱田神宮",
+    "match": "candidate_only"
+  },
+  "nagoya-d2-03": {
+    "url": "./assets/photos/schedules/nagoya/d2-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hitsumabushi_by_Tomotaka_in_Nagoya.jpg",
+    "place": "あつた蓬莱軒 本店",
+    "match": "candidate_only"
+  },
+  "nagoya-d2-04": {
+    "url": "./assets/photos/schedules/nagoya/d2-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Main_shopping_street_(Osu_in_Nagoya,_Japan).jpg",
+    "place": "大須商店街",
+    "match": "candidate_only"
+  },
+  "nagoya-d2-05": {
+    "url": "./assets/photos/schedules/nagoya/d2-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lawn_field_of_RAYARD_Hisaya-odori_Park.jpg",
+    "place": "天然温泉 アーバンクア",
+    "match": "candidate_only"
+  },
+  "nagoya-d2-06": {
+    "url": "./assets/photos/schedules/nagoya/d2-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Miso_Katsu_by_jetalone_in_Nagoya.jpg",
+    "place": "名古屋駅",
+    "match": "candidate_only"
+  },
+  "nagoya-d2-07": {
+    "url": "./assets/photos/schedules/nagoya/d2-07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Oasis_21.JPG",
+    "place": "オアシス21",
+    "match": "candidate_only"
+  },
+  "nagoya-d2-08": {
+    "url": "./assets/photos/schedules/nagoya/d2-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagoya_2017_(34159008173).jpg",
+    "place": "名古屋駅 ホテル",
+    "match": "candidate_only"
+  },
+  "nagoya-d3-01": {
+    "url": "./assets/photos/schedules/nagoya/d3-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Christmas_decoration_at_Nagoya_Station%3B_November_2007.jpg",
+    "place": "名古屋駅",
+    "match": "candidate_only"
+  },
+  "nagoya-d3-02": {
+    "url": "./assets/photos/schedules/nagoya/d3-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Autumn_Leaves_in_Noritake_Garden_-_1.jpg",
+    "place": "ノリタケの森",
+    "match": "candidate_only"
+  },
+  "nagoya-d3-03": {
+    "url": "./assets/photos/schedules/nagoya/d3-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Warajikatsu_Yabaton.jpg",
+    "place": "名古屋駅 きしめん",
+    "match": "candidate_only"
+  },
+  "nagoya-d3-04": {
+    "url": "./assets/photos/schedules/nagoya/d3-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Central_Japan_International_Airport_Station_interior_01.JPG",
+    "place": "名鉄名古屋駅",
+    "match": "candidate_only"
+  },
+  "nagoya-d3-05": {
+    "url": "./assets/photos/schedules/nagoya/d3-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Oasis21_at_Night.jpg",
+    "place": "中部国際空港",
+    "match": "candidate_only"
+  },
+  "okinawa-d1-01": {
+    "url": "./assets/photos/schedules/okinawa/d1-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:140902_Naha_Airport_Naha_Okinawa_pref_Japan01bs50.jpg",
+    "place": "那覇空港",
+    "match": "candidate_only"
+  },
+  "okinawa-d1-02": {
+    "url": "./assets/photos/schedules/okinawa/d1-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_JALCITY_Naha.JPG",
+    "place": "県庁前駅 那覇",
+    "match": "candidate_only"
+  },
+  "okinawa-d1-03": {
+    "url": "./assets/photos/schedules/okinawa/d1-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ryutan_and_Shuri_Castle_01.JPG",
+    "place": "首里城公園",
+    "match": "candidate_only"
+  },
+  "okinawa-d1-04": {
+    "url": "./assets/photos/schedules/okinawa/d1-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Okinawan_Restaurant_Kokusaidori.jpg",
+    "place": "那覇国際通り",
+    "match": "candidate_only"
+  },
+  "okinawa-d1-05": {
+    "url": "./assets/photos/schedules/okinawa/d1-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Naha_Airport_Station_(17173992728).jpg",
+    "place": "赤嶺駅",
+    "match": "candidate_only"
+  },
+  "okinawa-d1-06": {
+    "url": "./assets/photos/schedules/okinawa/d1-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:JP_日本_Japan_沖繩_OKINAWA_那霸_Naha_九州酒店_Kyushu_Hotel_Blossom_Naha_January_2025_R12S_128.jpg",
+    "place": "琉球温泉 龍神の湯",
+    "match": "candidate_only"
+  },
+  "okinawa-d1-07": {
+    "url": "./assets/photos/schedules/okinawa/d1-07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tacos_in_Okinawa.jpg",
+    "place": "那覇国際通り",
+    "match": "candidate_only"
+  },
+  "okinawa-d1-08": {
+    "url": "./assets/photos/schedules/okinawa/d1-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kokusaidori_at_night.jpg",
+    "place": "那覇国際通り",
+    "match": "candidate_only"
+  },
+  "okinawa-d1-09": {
+    "url": "./assets/photos/schedules/okinawa/d1-09.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Rocore_Naha.JPG",
+    "place": "那覇 ホテル",
+    "match": "candidate_only"
+  },
+  "okinawa-d2-01": {
+    "url": "./assets/photos/schedules/okinawa/d2-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Monoriel_en_okinawa.jpg",
+    "place": "県庁前 パレットくもじ",
+    "match": "candidate_only"
+  },
+  "okinawa-d2-02": {
+    "url": "./assets/photos/schedules/okinawa/d2-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Okinawa_Churaumi_Aquarium_main_entrance_far_view_20170408.jpg",
+    "place": "沖縄美ら海水族館",
+    "match": "candidate_only"
+  },
+  "okinawa-d2-03": {
+    "url": "./assets/photos/schedules/okinawa/d2-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kouri_Bridge_(15130568259).jpg",
+    "place": "沖縄美ら海水族館",
+    "match": "candidate_only"
+  },
+  "okinawa-d2-04": {
+    "url": "./assets/photos/schedules/okinawa/d2-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kouri_01.jpg",
+    "place": "古宇利島",
+    "match": "candidate_only"
+  },
+  "okinawa-d2-05": {
+    "url": "./assets/photos/schedules/okinawa/d2-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503183151.jpg",
+    "place": "御菓子御殿 恩納店",
+    "match": "candidate_only"
+  },
+  "okinawa-d2-06": {
+    "url": "./assets/photos/schedules/okinawa/d2-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Outlet_Mall_Ashibinaa_%E8%B1%90%E8%A6%8B%E5%9F%8E%E5%B8%82_Tomigusuku_taxi_tour_view_to_%E7%80%A8%E9%95%B7%E5%B3%B6_Senagajima_Umikaji_Terrace_January_2025_R12S_01.jpg",
+    "place": "万座毛",
+    "match": "candidate_only"
+  },
+  "okinawa-d2-07": {
+    "url": "./assets/photos/schedules/okinawa/d2-07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:American_Village_in_Okinawa.jpg",
+    "place": "アメリカンビレッジ",
+    "match": "candidate_only"
+  },
+  "okinawa-d2-08": {
+    "url": "./assets/photos/schedules/okinawa/d2-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Okinawa_Churaumi_Aquarium_20131009.jpg",
+    "place": "県庁前 パレットくもじ",
+    "match": "candidate_only"
+  },
+  "okinawa-d2-09": {
+    "url": "./assets/photos/schedules/okinawa/d2-09.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ryukyu_Sweets_with_Sanpin-cha_in_Shuri_Castle.JPG",
+    "place": "那覇国際通り タコライス",
+    "match": "candidate_only"
+  },
+  "okinawa-d2-10": {
+    "url": "./assets/photos/schedules/okinawa/d2-10.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:202408_%E6%B2%96%E7%B9%A9%E7%B8%A3%E9%82%A3%E9%9C%B8%E5%B8%82%E7%9A%84%E9%82%A3%E9%9C%B8%E5%9C%8B%E9%9A%9B%E9%80%9A%E7%9A%84%E8%A1%97%E6%99%AF.jpg",
+    "place": "那覇国際通り",
+    "match": "candidate_only"
+  },
+  "okinawa-d3-01": {
+    "url": "./assets/photos/schedules/okinawa/d3-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Okinawa_Churaumi_Aquarium.jpg",
+    "place": "県庁前駅 那覇",
+    "match": "candidate_only"
+  },
+  "okinawa-d3-02": {
+    "url": "./assets/photos/schedules/okinawa/d3-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Umikaji_Terrace_Senagajima.jpg",
+    "place": "瀬長島ウミカジテラス",
+    "match": "candidate_only"
+  },
+  "okinawa-d3-03": {
+    "url": "./assets/photos/schedules/okinawa/d3-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shuri_soba_by_kazuh.jpg",
+    "place": "瀬長島ウミカジテラス",
+    "match": "candidate_only"
+  },
+  "okinawa-d3-04": {
+    "url": "./assets/photos/schedules/okinawa/d3-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Naha_Airport_Departure_Lobby.jpg",
+    "place": "那覇空港",
+    "match": "candidate_only"
+  },
+  "okinawa-d3-05": {
+    "url": "./assets/photos/schedules/okinawa/d3-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_view_of_Naha_Airport_Domestic_Passenger_Terminal_Building.JPG",
+    "place": "那覇空港",
+    "match": "candidate_only"
+  },
+  "sendai-d1-01": {
+    "url": "./assets/photos/schedules/sendai/d1-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:211028_Sendai_Airport_Station_Miyagi_prefecture_Japan01s.jpg",
+    "place": "仙台空港",
+    "match": "candidate_only"
+  },
+  "sendai-d1-02": {
+    "url": "./assets/photos/schedules/sendai/d1-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_west_entrance_2021.jpg",
+    "place": "仙台駅",
+    "match": "candidate_only"
+  },
+  "sendai-d1-03": {
+    "url": "./assets/photos/schedules/sendai/d1-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gyutan_teishoku.JPG",
+    "place": "仙台駅 牛タン",
+    "match": "candidate_only"
+  },
+  "sendai-d1-04": {
+    "url": "./assets/photos/schedules/sendai/d1-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_citybus_in_Jozenji-dori_ave._2023.jpg",
+    "place": "松島海岸駅",
+    "match": "candidate_only"
+  },
+  "sendai-d1-05": {
+    "url": "./assets/photos/schedules/sendai/d1-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Matsushima_Bay_-_Matsushima6238.jpg",
+    "place": "松島湾",
+    "match": "candidate_only"
+  },
+  "sendai-d1-06": {
+    "url": "./assets/photos/schedules/sendai/d1-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_station_Senzan_Line_platforms.jpg",
+    "place": "仙台駅",
+    "match": "candidate_only"
+  },
+  "sendai-d1-07": {
+    "url": "./assets/photos/schedules/sendai/d1-07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Exterior_view_of_Sendai_Mediatheque_from_Jozenji_Street_20220910a.jpg",
+    "place": "定禅寺通",
+    "match": "candidate_only"
+  },
+  "sendai-d1-08": {
+    "url": "./assets/photos/schedules/sendai/d1-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_gyutan.JPG",
+    "place": "国分町 仙台",
+    "match": "candidate_only"
+  },
+  "sendai-d1-09": {
+    "url": "./assets/photos/schedules/sendai/d1-09.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:WestinSendai_Front.JPG",
+    "place": "仙台駅 ホテル",
+    "match": "candidate_only"
+  },
+  "sendai-d2-01": {
+    "url": "./assets/photos/schedules/sendai/d2-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:仙台駅の外観.jpg",
+    "place": "仙台駅 西口",
+    "match": "candidate_only"
+  },
+  "sendai-d2-02": {
+    "url": "./assets/photos/schedules/sendai/d2-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:211028_Akiu_Onsen_Sendai_Miyagi_pref_Japan01s3.jpg",
+    "place": "秋保温泉",
+    "match": "candidate_only"
+  },
+  "sendai-d2-06": {
+    "url": "./assets/photos/schedules/sendai/d2-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_west_entrance_2020.jpg",
+    "place": "仙台駅",
+    "match": "candidate_only"
+  },
+  "sendai-d2-08": {
+    "url": "./assets/photos/schedules/sendai/d2-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:牛タン定食（牛タン焼専門店司西口名掛丁店・仙台）20220312-P1330639.jpg",
+    "place": "仙台 牛タン",
+    "match": "candidate_only"
+  },
+  "sendai-d2-09": {
+    "url": "./assets/photos/schedules/sendai/d2-09.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_night_(30648489646).jpg",
+    "place": "仙台駅",
+    "match": "candidate_only"
+  },
+  "sendai-d2-10": {
+    "url": "./assets/photos/schedules/sendai/d2-10.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Akiu_spa_Hotel_zuiho_2008.jpg",
+    "place": "仙台駅 ホテル",
+    "match": "candidate_only"
+  },
+  "sendai-d3-01": {
+    "url": "./assets/photos/schedules/sendai/d3-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Zuiho-den02s3200.jpg",
+    "place": "仙台駅",
+    "match": "candidate_only"
+  },
+  "sendai-d3-03": {
+    "url": "./assets/photos/schedules/sendai/d3-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_Night.JPG",
+    "place": "仙台駅 ずんだ餅",
+    "match": "candidate_only"
+  },
+  "sendai-d3-04": {
+    "url": "./assets/photos/schedules/sendai/d3-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:211030_Kameshima_Matsushima_Miyagi_pref_Japan01n.jpg",
+    "place": "仙台駅 牛タン",
+    "match": "candidate_only"
+  },
+  "sendai-d3-05": {
+    "url": "./assets/photos/schedules/sendai/d3-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rapid_train_to_Sendai.jpg",
+    "place": "仙台空港",
+    "match": "candidate_only"
+  },
+  "sendai-d3-06": {
+    "url": "./assets/photos/schedules/sendai/d3-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:仙台駅,_Sendai_station_-_panoramio.jpg",
+    "place": "仙台空港",
+    "match": "candidate_only"
+  }
+}
