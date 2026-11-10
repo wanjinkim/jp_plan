@@ -1,25 +1,83 @@
-name: Collect licensed travel photos
+name: Collect 281 real Wikimedia travel photos
 on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: collect-japan-photos-${{ github.ref }}
+  cancel-in-progress: false
 jobs:
-  collect:
+  photo-collection:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 70
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
-      - name: Install Pillow
-        run: python -m pip install --disable-pip-version-check Pillow==11.3.0
-      - name: Download licensed location photos
-        run: python scripts/download_photos.py
-      - name: Commit obtained images and source details
+          python-version: '3.11'
+      - name: Install photo decoder
+        run: python -m pip install Pillow==11.1.0
+      - name: Download photos, saving progress along the way
+        id: collect
+        continue-on-error: true
+        run: python scripts/collect_281_photos.py --max-runtime-seconds 2700
+      - name: Verify current local files
+        id: verify
+        continue-on-error: true
+        run: python scripts/verify_and_pack.py --package
+      - name: Report collection count
+        if: always()
+        shell: bash
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/new_routes.json assets/photo_tasks.json assets/photos PHOTO_LICENSES.json PHOTO_DOWNLOAD_REPORT.md PHOTO_DOWNLOAD_ERRORS.json
-          git diff --staged --quiet || git commit -m "Add verified Wikimedia Commons travel photos with credits"
-          git push
+          python - <<'PY'
+          import json, pathlib
+          p=pathlib.Path('assets/photo_manifest_281.json')
+          if p.exists():
+              arr=json.loads(p.read_text(encoding='utf-8'))
+              ok=sum(x.get('status')=='downloaded' and pathlib.Path(x['local_path']).exists() for x in arr)
+              print(f'Downloaded image files in this checkout: {ok}/{len(arr)}')
+              pathlib.Path('PHOTO_ACTION_SUMMARY.txt').write_text(f'Local photo files: {ok}/{len(arr)}\n', encoding='utf-8')
+          PY
+      - name: Commit and deploy photos already downloaded, even if collection is incomplete
+        if: always() && steps.collect.outcome != 'skipped'
+        shell: bash
+        run: |
+          if ! find assets/photos -type f -name '*.jpg' -print -quit 2>/dev/null | grep -q .; then
+            echo 'No local JPG images to commit. Check report and API errors.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A -- assets/photos assets/gallery.json assets/new_routes.json assets/recommended.json assets/photo_manifest_281.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Publish available licensed travel photos (partial progress)'
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo 'No new photo changes to publish.'
+          fi
+      - name: Upload photos and reports for review
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: PHOTO-ACQUISITION-REPORT-AND-PARTIAL-PHOTOS
+          path: |
+            PHOTO_ACTION_SUMMARY.txt
+            PHOTO_DOWNLOAD_REPORT.json
+            PHOTO_VERIFICATION_REPORT.md
+            assets/photo_manifest_281.json
+            assets/photos/**
+          retention-days: 14
+      - name: Upload complete ZIP when all 281 are verified
+        if: steps.verify.outcome == 'success'
+        uses: actions/upload-artifact@v4
+        with:
+          name: JAPAN-ATLAS-281-REAL-PHOTOS-FINAL
+          path: JAPAN_ATLAS_281_REAL_PHOTOS_FINAL.zip
+          retention-days: 30
+      - name: Mark workflow incomplete if anything is still missing
+        if: steps.verify.outcome != 'success'
+        run: |
+          echo 'Incomplete: a partial photo collection may have been committed. Consult PHOTO_VERIFICATION_REPORT.md.'
+          exit 1
