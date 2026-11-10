@@ -10,12 +10,3 @@
 /* 2026-11-10: research-backed cost evidence and uninterrupted three-day reading */
 .timeline-head{scroll-margin-top:96px;padding-top:26px;margin-top:32px;border-top:1px solid #e9edf0}.day-buttons{position:relative}.day-buttons a{display:inline-flex;padding:9px 16px;background:white;border:1px solid #e5eaf0;border-radius:14px;font-size:12px;font-weight:700;color:#677c8a}.budget-evidence{padding:18px 4px 5px}.budget-evidence h3{font-size:16px}.budget-evidence p{font-size:12px;color:#6b7c87;line-height:1.8;margin:12px 0 6px}.budget-evidence ul{margin:0 0 6px;padding-left:21px;font-size:11px;color:#7b8994}.budget-evidence li{margin:4px 0}.budget-evidence a{color:#377ca4;text-decoration:underline;text-underline-offset:3px}.budget-adjust{border:1px solid #e9edf0;border-radius:18px;padding:14px 17px;margin:14px 0}.budget-adjust summary{font-weight:750;cursor:pointer;color:#456775}.budget-adjust p{font-size:12px;color:#7b8994}.budget-inputs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.budget-inputs label{display:flex;flex-direction:column;gap:5px;color:#637788;font-size:11px}.budget-inputs input{width:100%;background:#fff;border:1px solid #dae4e9;border-radius:12px;padding:9px;color:#263746;font:inherit}.budget-disclaimer{line-height:1.8}.timeline-head:first-child{border:0}
 @media(max-width:690px){.budget-inputs{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:380px){.budget-inputs{grid-template-columns:1fr}}
-
-/* 2026-11-10 new city photo audit: source/accuracy badges remain readable on mobile */
-.schedule-media{min-width:0;display:flex;flex-direction:column;align-self:stretch;background:#fff}
-.schedule-media>.schedule-image{flex:1;min-height:155px}
-.photo-context{position:absolute;top:12px;left:14px;max-width:calc(100% - 27px);background:rgba(255,255,255,.94);border:1px solid #eee;border-radius:10px;padding:4px 7px;font-size:9px;font-weight:700;color:#446879;line-height:1.4;z-index:2}
-.photo-context.reference{color:#9a6759;background:rgba(255,248,242,.96)}
-.photo-attribution{padding:1px 15px 8px;text-align:right;font-size:10px;color:#788a97}
-.photo-attribution a{text-decoration:underline;text-underline-offset:2px}
-@media(max-width:690px){.schedule-media>.schedule-image{min-height:174px;max-height:225px;padding:0 12px}.photo-context{left:12px;top:7px}.photo-attribution{padding:0 15px 12px}}
