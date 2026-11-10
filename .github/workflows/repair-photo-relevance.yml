@@ -1,0 +1,75 @@
+name: Repair visually mismatched itinerary pictures
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/repair_photo_relevance.py'
+      - '.github/workflows/repair-photo-relevance.yml'
+permissions:
+  contents: write
+concurrency:
+  group: japan-atlas-semantic-repair
+  cancel-in-progress: false
+jobs:
+  repair:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Pillow for downloaded image validation
+        run: python -m pip install Pillow==11.3.0
+      - name: Check repair and index builder syntax
+        run: |
+          python -m py_compile scripts/repair_photo_relevance.py scripts/repair_all_schedule_photos.py scripts/build_local_photo_index.py
+      - name: Search licensed photographs by each flagged activity and actual venue
+        continue-on-error: true
+        timeout-minutes: 75
+        run: python -u scripts/repair_photo_relevance.py
+      - name: Update validated image index with immutable photo-source proof
+        if: always()
+        run: python scripts/build_local_photo_index.py
+      - name: Validate local image bytes and provenance
+        if: always()
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from PIL import Image
+          rows=json.loads(Path('assets/photo_manifest_281.json').read_text())
+          idx=json.loads(Path('assets/local_schedule_photos.json').read_text())
+          assert len(rows)==281
+          for key,item in idx.items():
+            p=Path(item['url'].removeprefix('./'))
+            assert p.is_file(),key
+            with Image.open(p) as im:im.verify()
+            assert item.get('source'),f'Missing provenance: {key}'
+          print('LOADABLE WITH SOURCE:',len(idx),'/281')
+          PY
+      - name: Commit verified replacements and repair results
+        if: always()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/local_schedule_photos.json assets/recommended.json assets/new_routes.json assets/gallery.json assets/photos/schedules photo_audit/relevance_repairs.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Replace unrelated itinerary images with licensed topic-matched photographs'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Save traceable replacement report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: photo-relevance-repair-results
+          path: |
+            photo_audit/relevance_repairs.json
+            assets/local_schedule_photos.json
+          retention-days: 30
+          if-no-files-found: warn
