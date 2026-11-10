@@ -1,0 +1,10 @@
+{
+  "id": "osaka-d1-08",
+  "status": "downloaded",
+  "source": "https://www.yunavi.net/sento/tennenonsen_naniwanoyu/photogallary/",
+  "name": "나니와노유 외관 야경",
+  "sha": "83f277b4bfe3456d4144ee1d928cbf21d18f1bb5",
+  "errors": [
+    "https://naniwanoyu.com/onsen/images/sga.jpg HTTP Error 404: Not Found"
+  ]
+}

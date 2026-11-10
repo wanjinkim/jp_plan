@@ -3322,5 +3322,16 @@
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "d2c1d297898894699a70a2cf795cec623221ffb0",
     "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+  },
+  "osaka-d1-08": {
+    "url": "./assets/photos/schedules/osaka/d1-08.jpg",
+    "source": "https://www.yunavi.net/sento/tennenonsen_naniwanoyu/photogallary/",
+    "place": "天然温泉 なにわの湯",
+    "author": "시설 또는 사진 제공처",
+    "license": "권리 상태 미확인 · 출처 명시",
+    "license_url": "",
+    "match": "exact_venue",
+    "source_verified_by": "official_or_venue_catalog_image",
+    "source_proof_blob_sha": "83f277b4bfe3456d4144ee1d928cbf21d18f1bb5"
   }
 }

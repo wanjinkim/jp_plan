@@ -781,7 +781,9 @@
             "kind": "온천",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "LOCAL-osaka-d1-08.jpg",
+            "photo_match": "실제 나니와노유 시설 사진 · 공식/사진 제공처 출처"
           },
           {
             "start": "22:15",
@@ -1269,6 +1271,19 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+        },
+        {
+          "file": "LOCAL-osaka-d1-08.jpg",
+          "title": "나니와노유 천연온천",
+          "place": "天然温泉 なにわの湯",
+          "kind": "온천",
+          "local": "./assets/photos/schedules/osaka/d1-08.jpg",
+          "local_verified": true,
+          "source": "https://www.yunavi.net/sento/tennenonsen_naniwanoyu/photogallary/",
+          "author": "시설 또는 사진 제공처",
+          "license": "권리 상태 미확인 · 출처 명시",
+          "license_url": "",
+          "scope": "실제 나니와노유 시설 사진 · 공식/사진 제공처 출처"
         }
       ]
     },
