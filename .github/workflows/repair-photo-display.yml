@@ -1,0 +1,61 @@
+name: REPAIR displayed itinerary images from saved files
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: japan-atlas-photo-display-only
+  cancel-in-progress: false
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current main, preserving existing photos
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install local image verifier
+        run: python -m pip install Pillow==11.3.0
+      - name: Repair image URLs, disable browser API, index actual JPGs
+        run: python scripts/repair_photo_display.py
+      - name: Check JS and HTML references
+        run: |
+          node --check assets/app.js
+          node --check assets/photo-local-fix.js
+          python - <<'PY'
+          from pathlib import Path
+          s=Path('index.html').read_text('utf-8')
+          assert 'photo-resolver.js' not in s, 'Old external API resolver still installed'
+          assert 'photo-local-fix.js' in s, 'Missing saved-file loader'
+          assert '[object Object]' not in Path('assets/app.js').read_text('utf-8') or 'typeof' in Path('assets/app.js').read_text('utf-8')
+          print('Image display patch validation: PASS')
+          PY
+      - name: Commit only display files, not itineraries or budgets
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html assets/app.js assets/photo-local-fix.js assets/photo-file-index.json
+          if test -f scripts/install_photo_resolver.py; then git add scripts/install_photo_resolver.py; fi
+          if git diff --cached --quiet; then
+            echo 'No changes required.'
+          else
+            git commit -m 'Show locally downloaded itinerary images and remove failing browser photo APIs'
+            git push origin HEAD:main
+          fi
+      - name: Summary of image coverage
+        run: |
+          python - <<'PY'
+          import json,os
+          m=json.load(open('assets/photo-file-index.json'))
+          body='## Saved travel photo coverage\n\nActual working-copy images: **'+str(m['total'])+'**\n\n'
+          body+='| City | Valid JPG files |\n|---|---:|\n'
+          body+=''.join('| '+k+' | '+str(v)+' |\n' for k,v in m['counts'].items())
+          body+='\nOnly images that physically exist were counted. A successful job does **not** mean all itinerary photos exist.\n'
+          print(body)
+          with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as f: f.write(body)
+          PY
