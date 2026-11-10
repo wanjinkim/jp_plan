@@ -6,14 +6,14 @@
 (() => {
   'use strict';
   const PREFIX = './assets/';
-  const api = 'https://commons.wikimedia.org/w/api.php';
-  const wikiApi = 'https://ja.wikipedia.org/w/api.php';
-  const ovApi = 'https://api.openverse.org/v1/images/';
+  const api = 'https://wikimedia.org';
+  const wikiApi = 'https://wikipedia.org';
+  const ovApi = 'https://openverse.org';
   const params = new URLSearchParams(location.search);
   const city = params.get('id') || '';
   const RATE = 4;
   const CACHE_DAYS = 2 * 86400000;
-  const cachePrefix = 'japan-atlas-photo-v3:';
+  const cachePrefix = 'japan-atlas-photo-v4:';
   const queryResults = new Map();
   const busy = new Set();
   const queue = [];
@@ -51,7 +51,7 @@
     for(const k of new Set(keyTokens))if(txt.includes(k))matches++;
     const place=(task?.place||'').replace(/\s+/g,'').toLowerCase();
     if(place.length>=3 && txt.replace(/\s+/g,'').includes(place))matches+=4;
-    const source='https://commons.wikimedia.org/wiki/'+encodeURIComponent(file.replace(/ /g,'_')).replace(/%3A/i,':');
+    const source='https://wikimedia.org(file.replace(/ /g,'_')).replace(/%3A/i,':');
     return {url,file,source,license:plain(i.extmetadata?.LicenseShortName?.value||''),author:plain(i.extmetadata?.Artist?.value||''),matches};
   }
   async function json(url, timeout=12000) {
@@ -71,7 +71,7 @@
     const cacheKey='ov|'+term;
     if(!queryResults.has(cacheKey)) {
       const url=ovApi+'?'+new URLSearchParams({q:term,page_size:'12',license:'by,by-sa,cc0,pdm'});
-      queryResults.set(cacheKey,json(url,12000).then(j=>(j.results||[]).filter(p=>
+      queryResults.set(cacheKey,json(url,4000).then(j=>(j.results||[]).filter(p=>
         ['by','by-sa','cc0','pdm'].includes((p.license||'').toLowerCase()) &&
         /^https:\/\//.test(p.thumbnail||p.url||'') && /^https:\/\//.test(p.foreign_landing_url||p.detail_url||'')
       ).map(p=>({url:p.thumbnail||p.url,source:p.foreign_landing_url||p.detail_url,
@@ -83,8 +83,8 @@
   }
   function knownFiles(task) {
     return [...new Set(task.files||[])].map(fn=>({
-      url:'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(fn)+'?width=780',
-      source:'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(fn.replace(/ /g,'_')),
+      url:'https://wikimedia.org',
+      source:'https://wikimedia.org(fn.replace(/ /g,'_')),
       file:fn,license:'원본 Commons 확인',author:'',matches:4,scope:'place'
     }));
   }
@@ -112,26 +112,25 @@
   async function choose(task, load) {
     const cacheKey='result|'+(task.place||'')+'|'+(task.title||'');
     const known=fromCache(cacheKey);
-    if(known && await load(known))return known;
+    if(known && known.url && await load(known.url))return known;
     const used=new Set();
     // Trusted curated filenames first: avoid search API on the common easy cases.
     for(const p of knownFiles(task)) {
       if(used.has(p.url))continue;used.add(p.url);
-      if(await load(p)){toCache(cacheKey,p);return p;}
+      if(await load(p.url)){toCache(cacheKey,p);return p;}
     }
     try{
       const w=await searchWiki(task);
-      for(const p of w){if(used.has(p.url))continue;used.add(p.url);const pic={...p,scope:'place'};if(await load(pic)){toCache(cacheKey,pic);return pic;}}
+      for(const p of w){if(used.has(p.url))continue;used.add(p.url);const pic={...p,scope:'place'};if(await load(pic.url)){toCache(cacheKey,pic);return pic;}}
     }catch(_){}
     for(const {q,scope} of searchTerms(task)){
       let results=await commons(q,task);
-      if(scope==='place')results=results.sort((a,b)=>b.matches-a.matches);
-      else results=results.sort((a,b)=>b.matches-a.matches);
+      results=results.sort((a,b)=>b.matches-a.matches);
       // Reject blatantly unrelated uploads, only fallback under truthful reference label.
       for(const p of results.slice(0,5)) {
         if(used.has(p.url))continue;used.add(p.url);
         const pic={...p,scope:scope==='place' && p.matches>0?'place':'reference'};
-        if(await load(pic)){toCache(cacheKey,pic);return pic;}
+        if(await load(pic.url)){toCache(cacheKey,pic);return pic;}
       }
       // A second independent provider is essential when Wikimedia returns 403/429.
       if(scope!=='city' && /[a-z]/i.test(q)) {
@@ -139,13 +138,14 @@
         for(const p of ov.slice(0,5)) {
           if(used.has(p.url))continue;used.add(p.url);
           const pic={...p,scope:scope==='place' && p.matches>0?'place':'reference'};
-          if(await load(pic)){toCache(cacheKey,pic);return pic;}
+          if(await load(pic.url)){toCache(cacheKey,pic);return pic;}
         }
       }
     }
     return null;
   }
   function checkImage(url) {
+    if (typeof url !== 'string' || !/^https?:\/\//.test(url)) return Promise.resolve(false);
     return new Promise(resolve=>{
       let settled=false;
       const im=new Image();
@@ -174,88 +174,3 @@
       // Existing click still opens the place's Google Images search, as requested.
       const source=document.createElement('a');source.className='resolved-photo-credit';
       source.href=pic.source;source.target='_blank';source.rel='noopener noreferrer';
-      source.textContent='사진 출처';
-      el.parentElement?.appendChild(source); // sibling, never nested inside a.photo-link
-    }
-  }
-  async function doResolve(el,task) {
-    if(!el?.isConnected || el.dataset.photoResolved==='yes')return;
-    el.dataset.photoResolved='working';
-    el.classList.add('is-photo-searching');
-    let result=null;
-    try{result=await choose(task,checkImage);}catch(e){console.warn('[사진 검색 오류]',task.place,e);}
-    if(!el.isConnected)return;
-    el.classList.remove('is-photo-searching');
-    if(result){apply(el,result,task);el.dataset.photoResolved='yes';return;}
-    el.dataset.photoResolved='unavailable';
-    const ph=el.querySelector('.photo-placeholder');
-    if(ph){ph.hidden=false;const span=ph.querySelector('span');if(span)span.textContent='사진 검색 결과를 확인하지 못했습니다';}
-    // Keep the user-visible Google Images search link, never display a fake photo.
-  }
-  function pump(){while(active<RATE && queue.length){const [el,task]=queue.shift(); if(!el.isConnected){busy.delete(el);continue;}
-    active++;
-    doResolve(el,task).finally(()=>{busy.delete(el);active--;pump();});
-  }}
-  function enqueue(el,task) {
-    if(!el || !task || busy.has(el) || el.dataset.photoResolved==='yes')return;
-    if(el.dataset.photoResolved==='unavailable')return;
-    busy.add(el);
-    queue.push([el,task]);pump();
-  }
-  function taskOf(el) {
-    const row=el.closest('.schedule-row');
-    if(row){
-      const host=row.closest('.timeline');
-      const all=[...document.querySelectorAll('#timelineHost .timeline')];
-      const day=all.indexOf(host)+1;const step=[...host.querySelectorAll('.schedule-row')].indexOf(row)+1;
-      if(day>=1&&step>=1){const key=city+'-d'+day+'-'+String(step).padStart(2,'0');if(items[key])return items[key];}
-      const q=row.querySelector('h4')?.textContent||row.querySelector('.photo-placeholder b')?.textContent||'';
-      return {city,place:q,title:q,queries:[q+' '+city+' Japan'],city_en:city,type:'scenery'};
-    }
-    const parent=el.closest('.photo-item,.gallery-unit,.city-card,.hero-pic,.city-hero-photo,.gallery-teaser');
-    if(!parent)return null;
-    const label=(parent.querySelector('h3,span,strong')?.textContent||'').trim();
-    const place=parent.querySelector('.photo-placeholder b')?.textContent ||label||city;
-    const cityName=parent.closest('.city-card')?.querySelector('h3')?.textContent||city;
-    return {city,place,title:label,queries:[place+' '+cityName+' Japan'],city_en:cityName,city_jp:'',type:'scenery'};
-  }
-  function inspect(el) {
-    if(!el || !el.isConnected || el.dataset.photoResolved==='yes'||el.dataset.photoResolved==='unavailable')return;
-    const pic=el.querySelector('img');const ph=el.querySelector('.photo-placeholder');
-    // Leave a successfully loaded original untouched.
-    if(pic && !pic.hidden && pic.complete && pic.naturalWidth>0)return;
-    // A pending original image gets its own error event; don't override it prematurely.
-    if(pic && !pic.hidden && !pic.complete)return;
-    // Only queue a missing/broken image or visible placeholder.
-    if(!pic || pic.hidden || (pic.complete && pic.naturalWidth===0) || (ph&&!ph.hidden)){
-      const t=taskOf(el); if(t)enqueue(el,t);
-    }
-  }
-  function target(img){
-    if(!img)return null;
-    return img.closest('.photo-link,.city-hero-photo,.hero-pic,.city-visual,.gallery-teaser');
-  }
-  function scan() {
-    scanScheduled=false;if(!ready)return;
-    const anchors=[...document.querySelectorAll('#app a.photo-link,#app .city-hero-photo,#app .hero-pic,#app .city-visual,#app .gallery-teaser')];
-    for(const el of anchors){
-      if(el.dataset.photoScanned==='1')continue;
-      el.dataset.photoScanned='1';
-      if(photoView)photoView.observe(el);else inspect(el);
-    }
-  }
-  function scheduleScan(){if(scanScheduled)return;scanScheduled=true;queueMicrotask(scan);}
-  async function init() {
-    try{const r=await fetch(PREFIX+'photo-keywords-281.json',{cache:'no-cache'});if(!r.ok)throw Error('Photo keyword index HTTP '+r.status);items=(await r.json()).items||{};}
-    catch(e){console.warn('Photo index unavailable; use visible labels.',e);}
-    ready=true;
-    if('IntersectionObserver' in window){photoView=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){photoView.unobserve(entry.target);inspect(entry.target);}}),{rootMargin:'600px'});}
-    // Inline app.js onerror hides an img; capturing handler starts recovery when the original URL fails.
-    document.addEventListener('error', ev=>{if(ev.target instanceof HTMLImageElement){const el=target(ev.target);if(el){const t=taskOf(el);if(t){ev.target.hidden=true;enqueue(el,t);}}}},true);
-    observer=new MutationObserver(scheduleScan);
-    observer.observe(document.getElementById('app')||document.body,{childList:true,subtree:true});
-    scan();
-    console.info('일정 기반 Commons + Openverse 사진 복구: '+Object.keys(items).length+'개 일정');
-  }
-  init();
-})();
