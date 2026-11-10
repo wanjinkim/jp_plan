@@ -26,7 +26,7 @@ for row in manifest:
    if img.width<100 or img.height<90:continue
  except (OSError,ValueError,SyntaxError):continue
  contents=p.read_bytes()
- blob_sha=hashlib.sha1(f'blob {len(contents)}\\0'.encode()+contents).hexdigest()
+ blob_sha=hashlib.sha1(f'blob {len(contents)}\0'.encode()+contents).hexdigest()
  previous=old.get(key,{})
  if previous.get('source_proof_blob_sha')==blob_sha:
   item=previous.copy()
@@ -47,7 +47,7 @@ for row in manifest:
  item['place']=row.get('place','')
  item['source_proof_blob_sha']=blob_sha
  data[key]=item
-index_file.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\\n',encoding='utf-8')
+index_file.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(f'Index built: {len(data)}/{len(manifest)} verified local files, '
       f'{sum(bool(x.get("source")) for x in data.values())} with source, '
       f'{sum(bool(x.get("license")) for x in data.values())} with recorded license')
