@@ -55,8 +55,13 @@ jobs:
           git add assets/photos/schedules assets/local_schedule_photos.json assets/recommended.json assets/new_routes.json assets/gallery.json photo_audit/deduplication_report.json
           if ! git diff --cached --quiet; then
             git commit -m 'Deduplicate repeated itinerary pictures with different verified image sources'
-            git pull --rebase origin main
-            git push origin HEAD:main
+            for retry in 1 2 3 4 5; do
+              git fetch origin main
+              git rebase origin/main || { git rebase --abort || true; exit 1; }
+              if git push origin HEAD:main; then break; fi
+              if [ "$retry" -eq 5 ]; then exit 1; fi
+              sleep 4
+            done
           fi
       - name: Save detailed deduplication inspection
         if: always()
