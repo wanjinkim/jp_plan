@@ -6,6 +6,11 @@ on:
     paths:
       - 'scripts/audit_photo_relevance.py'
       - '.github/workflows/audit-photo-relevance.yml'
+      - 'assets/local_schedule_photos.json'
+      - 'assets/photos/schedules/**'
+      - 'assets/recommended.json'
+      - 'assets/new_routes.json'
+      - 'assets/gallery.json'
 permissions:
   contents: write
 jobs:
