@@ -1,0 +1,1978 @@
+[
+  {
+    "id": "fukuoka-d1-01",
+    "city": "fukuoka",
+    "day": 1,
+    "step": 1,
+    "place": "福岡空港",
+    "title": "공항 입국·시내 이동 준비",
+    "search_keywords": "Fukuoka Airport international terminal 福岡空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Fukuoka%20Airport%20international%20terminal%20%E7%A6%8F%E5%B2%A1%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Fukuoka%20Airport%20international%20terminal&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Fukuoka Airport international terminal.jpg",
+      "Fukuoka Airport International Terminal Departure Floor.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d1-02",
+    "city": "fukuoka",
+    "day": 1,
+    "step": 2,
+    "place": "博多駅",
+    "title": "지하철로 하카타역 이동·수하물 보관",
+    "search_keywords": "Hakata Station Fukuoka 博多駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Hakata%20Station%20Fukuoka%20%E5%8D%9A%E5%A4%9A%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Hakata%20Station%20Fukuoka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Fukuoka City Subway Airport Line Hakata Station.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d1-03",
+    "city": "fukuoka",
+    "day": 1,
+    "step": 3,
+    "place": "キャナルシティ博多",
+    "title": "캐널시티 주변 탐방",
+    "search_keywords": "Canal City Hakata キャナルシティ博多 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Canal%20City%20Hakata%20%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3%E5%8D%9A%E5%A4%9A%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Canal%20City%20Hakata&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Canal city hakata fukuoka.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d1-04",
+    "city": "fukuoka",
+    "day": 1,
+    "step": 4,
+    "place": "博多ラーメン",
+    "title": "하카타 라멘 점심",
+    "search_keywords": "Hakata tonkotsu ramen 博多ラーメン 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Hakata%20tonkotsu%20ramen%20%E5%8D%9A%E5%A4%9A%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Hakata%20tonkotsu%20ramen&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d1-05",
+    "city": "fukuoka",
+    "day": 1,
+    "step": 5,
+    "place": "大濠公園",
+    "title": "오호리공원 호수 풍경 산책",
+    "search_keywords": "Ohori Park Fukuoka 大濠公園 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Ohori%20Park%20Fukuoka%20%E5%A4%A7%E6%BF%A0%E5%85%AC%E5%9C%92%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Ohori%20Park%20Fukuoka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Ohori Park 20170505-4.jpg",
+      "Ohori Park 20200716-7.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d1-06",
+    "city": "fukuoka",
+    "day": 1,
+    "step": 6,
+    "place": "舞鶴公園",
+    "title": "후쿠오카 성터와 마이즈루 공원",
+    "search_keywords": "Maizuru Park Fukuoka castle ruins 舞鶴公園 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Maizuru%20Park%20Fukuoka%20castle%20ruins%20%E8%88%9E%E9%B6%B4%E5%85%AC%E5%9C%92%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Maizuru%20Park%20Fukuoka%20castle%20ruins&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d1-07",
+    "city": "fukuoka",
+    "day": 1,
+    "step": 7,
+    "place": "天神",
+    "title": "텐진 쇼핑거리·휴식",
+    "search_keywords": "Tenjin Fukuoka 天神 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Tenjin%20Fukuoka%20%E5%A4%A9%E7%A5%9E%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Tenjin%20Fukuoka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d1-08",
+    "city": "fukuoka",
+    "day": 1,
+    "step": 8,
+    "place": "天神 もつ鍋",
+    "title": "모츠나베 저녁 식사",
+    "search_keywords": "motsunabe Fukuoka 天神 もつ鍋 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=motsunabe%20Fukuoka%20%E5%A4%A9%E7%A5%9E%20%E3%82%82%E3%81%A4%E9%8D%8B%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=motsunabe%20Fukuoka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d1-09",
+    "city": "fukuoka",
+    "day": 1,
+    "step": 9,
+    "place": "みなと温泉 波葉の湯",
+    "title": "나미하노유 천연온천",
+    "search_keywords": "Namiha no Yu onsen Fukuoka みなと温泉 波葉の湯 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Namiha%20no%20Yu%20onsen%20Fukuoka%20%E3%81%BF%E3%81%AA%E3%81%A8%E6%B8%A9%E6%B3%89%20%E6%B3%A2%E8%91%89%E3%81%AE%E6%B9%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Namiha%20no%20Yu%20onsen%20Fukuoka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d1-10",
+    "city": "fukuoka",
+    "day": 1,
+    "step": 10,
+    "place": "博多駅",
+    "title": "버스로 복귀·야식·호텔",
+    "search_keywords": "Hakata Station Fukuoka 博多駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Hakata%20Station%20Fukuoka%20%E5%8D%9A%E5%A4%9A%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Hakata%20Station%20Fukuoka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Fukuoka City Subway Airport Line Hakata Station.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d2-01",
+    "city": "fukuoka",
+    "day": 2,
+    "step": 1,
+    "place": "姪浜駅",
+    "title": "하카타 출발, 메이노하마 이동",
+    "search_keywords": "Meinohama Station 姪浜駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Meinohama%20Station%20%E5%A7%AA%E6%B5%9C%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Meinohama%20Station&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d2-02",
+    "city": "fukuoka",
+    "day": 2,
+    "step": 2,
+    "place": "能古島渡船場",
+    "title": "버스·페리로 노코노시마",
+    "search_keywords": "Nokonoshima ferry terminal 能古島渡船場 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Nokonoshima%20ferry%20terminal%20%E8%83%BD%E5%8F%A4%E5%B3%B6%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Nokonoshima%20ferry%20terminal&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d2-03",
+    "city": "fukuoka",
+    "day": 2,
+    "step": 3,
+    "place": "のこのしまアイランドパーク",
+    "title": "섬 자연 경관·전망대",
+    "search_keywords": "Nokonoshima Island Park のこのしまアイランドパーク 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Nokonoshima%20Island%20Park%20%E3%81%AE%E3%81%93%E3%81%AE%E3%81%97%E3%81%BE%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%91%E3%83%BC%E3%82%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Nokonoshima%20Island%20Park&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Canola field in Nokonoshima Island Park 1.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d2-04",
+    "city": "fukuoka",
+    "day": 2,
+    "step": 4,
+    "place": "のこのしまアイランドパーク",
+    "title": "섬 레스토랑 점심",
+    "search_keywords": "Nokonoshima Island Park のこのしまアイランドパーク 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Nokonoshima%20Island%20Park%20%E3%81%AE%E3%81%93%E3%81%AE%E3%81%97%E3%81%BE%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%91%E3%83%BC%E3%82%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Nokonoshima%20Island%20Park&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Canola field in Nokonoshima Island Park 1.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d2-05",
+    "city": "fukuoka",
+    "day": 2,
+    "step": 5,
+    "place": "能古島",
+    "title": "세토내해가 아닌 하카타만 경관 감상",
+    "search_keywords": "Nokonoshima island 能古島 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Nokonoshima%20island%20%E8%83%BD%E5%8F%A4%E5%B3%B6%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Nokonoshima%20island&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d2-06",
+    "city": "fukuoka",
+    "day": 2,
+    "step": 6,
+    "place": "姪浜渡船場",
+    "title": "페리·버스로 후쿠오카 복귀",
+    "search_keywords": "Meinohama ferry terminal 姪浜渡船場 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Meinohama%20ferry%20terminal%20%E5%A7%AA%E6%B5%9C%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Meinohama%20ferry%20terminal&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d2-07",
+    "city": "fukuoka",
+    "day": 2,
+    "step": 7,
+    "place": "博多駅",
+    "title": "하카타역 일대 카페",
+    "search_keywords": "Hakata Station Fukuoka 博多駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Hakata%20Station%20Fukuoka%20%E5%8D%9A%E5%A4%9A%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Hakata%20Station%20Fukuoka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Fukuoka City Subway Airport Line Hakata Station.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d2-08",
+    "city": "fukuoka",
+    "day": 2,
+    "step": 8,
+    "place": "博多駅 居酒屋",
+    "title": "가성비 현지 이자카야 저녁",
+    "search_keywords": "Hakata izakaya Fukuoka 博多駅 居酒屋 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Hakata%20izakaya%20Fukuoka%20%E5%8D%9A%E5%A4%9A%E9%A7%85%20%E5%B1%85%E9%85%92%E5%B1%8B%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Hakata%20izakaya%20Fukuoka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d2-09",
+    "city": "fukuoka",
+    "day": 2,
+    "step": 9,
+    "place": "中洲",
+    "title": "나카스 강변 야경",
+    "search_keywords": "Nakasu Fukuoka at night 中洲 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Nakasu%20Fukuoka%20at%20night%20%E4%B8%AD%E6%B4%B2%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Nakasu%20Fukuoka%20at%20night&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Nakasu at night.jpg",
+      "Night view of Nakasu and Canal City Hakata November 2011.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d2-10",
+    "city": "fukuoka",
+    "day": 2,
+    "step": 10,
+    "place": "博多駅",
+    "title": "야식·호텔 복귀",
+    "search_keywords": "Hakata Station Fukuoka 博多駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Hakata%20Station%20Fukuoka%20%E5%8D%9A%E5%A4%9A%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Hakata%20Station%20Fukuoka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Fukuoka City Subway Airport Line Hakata Station.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d3-01",
+    "city": "fukuoka",
+    "day": 3,
+    "step": 1,
+    "place": "博多駅",
+    "title": "체크아웃·수하물 정리",
+    "search_keywords": "Hakata Station Fukuoka 博多駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Hakata%20Station%20Fukuoka%20%E5%8D%9A%E5%A4%9A%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Hakata%20Station%20Fukuoka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Fukuoka City Subway Airport Line Hakata Station.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d3-02",
+    "city": "fukuoka",
+    "day": 3,
+    "step": 2,
+    "place": "住吉神社 福岡",
+    "title": "스미요시 신사 산책",
+    "search_keywords": "Sumiyoshi Shrine Fukuoka 住吉神社 福岡 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Sumiyoshi%20Shrine%20Fukuoka%20%E4%BD%8F%E5%90%89%E7%A5%9E%E7%A4%BE%20%E7%A6%8F%E5%B2%A1%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Sumiyoshi%20Shrine%20Fukuoka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d3-03",
+    "city": "fukuoka",
+    "day": 3,
+    "step": 3,
+    "place": "博多駅",
+    "title": "마지막 점심·기념품",
+    "search_keywords": "Hakata Station Fukuoka 博多駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Hakata%20Station%20Fukuoka%20%E5%8D%9A%E5%A4%9A%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Hakata%20Station%20Fukuoka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Fukuoka City Subway Airport Line Hakata Station.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d3-04",
+    "city": "fukuoka",
+    "day": 3,
+    "step": 4,
+    "place": "福岡空港",
+    "title": "지하철로 공항 이동",
+    "search_keywords": "Fukuoka Airport international terminal 福岡空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Fukuoka%20Airport%20international%20terminal%20%E7%A6%8F%E5%B2%A1%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Fukuoka%20Airport%20international%20terminal&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Fukuoka Airport international terminal.jpg",
+      "Fukuoka Airport International Terminal Departure Floor.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "fukuoka-d3-05",
+    "city": "fukuoka",
+    "day": 3,
+    "step": 5,
+    "place": "福岡空港",
+    "title": "출국 수속·탑승 대기",
+    "search_keywords": "Fukuoka Airport international terminal 福岡空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Fukuoka%20Airport%20international%20terminal%20%E7%A6%8F%E5%B2%A1%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Fukuoka%20Airport%20international%20terminal&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Fukuoka Airport international terminal.jpg",
+      "Fukuoka Airport International Terminal Departure Floor.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d1-01",
+    "city": "osaka",
+    "day": 1,
+    "step": 1,
+    "place": "関西国際空港",
+    "title": "간사이공항 입국·난카이 전철",
+    "search_keywords": "Kansai International Airport Osaka 関西国際空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kansai%20International%20Airport%20Osaka%20%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kansai%20International%20Airport%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Kansai International Airport.JPG"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d1-02",
+    "city": "osaka",
+    "day": 1,
+    "step": 2,
+    "place": "なんば駅",
+    "title": "난바 호텔 짐 보관",
+    "search_keywords": "Namba Station Osaka なんば駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Namba%20Station%20Osaka%20%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Namba%20Station%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d1-03",
+    "city": "osaka",
+    "day": 1,
+    "step": 3,
+    "place": "難波 お好み焼き",
+    "title": "오코노미야키 점심",
+    "search_keywords": "okonomiyaki Osaka 難波 お好み焼き 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=okonomiyaki%20Osaka%20%E9%9B%A3%E6%B3%A2%20%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=okonomiyaki%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d1-04",
+    "city": "osaka",
+    "day": 1,
+    "step": 4,
+    "place": "大阪城公園",
+    "title": "오사카성 공원 산책",
+    "search_keywords": "Osaka Castle Park 大阪城公園 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Osaka%20Castle%20Park%20%E5%A4%A7%E9%98%AA%E5%9F%8E%E5%85%AC%E5%9C%92%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Osaka%20Castle%20Park&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Osaka Castle June 2019.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d1-05",
+    "city": "osaka",
+    "day": 1,
+    "step": 5,
+    "place": "大阪城天守閣",
+    "title": "천수각 외관·정원 전망",
+    "search_keywords": "Osaka Castle main keep 大阪城天守閣 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Osaka%20Castle%20main%20keep%20%E5%A4%A7%E9%98%AA%E5%9F%8E%E5%A4%A9%E5%AE%88%E9%96%A3%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Osaka%20Castle%20main%20keep&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Exterior of Osaka Castle (I).jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d1-06",
+    "city": "osaka",
+    "day": 1,
+    "step": 6,
+    "place": "梅田",
+    "title": "우메다 주변 카페",
+    "search_keywords": "Umeda Osaka 梅田 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Umeda%20Osaka%20%E6%A2%85%E7%94%B0%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Umeda%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d1-07",
+    "city": "osaka",
+    "day": 1,
+    "step": 7,
+    "place": "天神橋筋商店街",
+    "title": "쿠시카츠 저녁",
+    "search_keywords": "Tenjinbashisuji shopping street 天神橋筋商店街 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Tenjinbashisuji%20shopping%20street%20%E5%A4%A9%E7%A5%9E%E6%A9%8B%E7%AD%8B%E5%95%86%E5%BA%97%E8%A1%97%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Tenjinbashisuji%20shopping%20street&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d1-08",
+    "city": "osaka",
+    "day": 1,
+    "step": 8,
+    "place": "天然温泉 なにわの湯",
+    "title": "나니와노유 천연온천",
+    "search_keywords": "Naniwa no Yu Osaka onsen 天然温泉 なにわの湯 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Naniwa%20no%20Yu%20Osaka%20onsen%20%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89%20%E3%81%AA%E3%81%AB%E3%82%8F%E3%81%AE%E6%B9%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Naniwa%20no%20Yu%20Osaka%20onsen&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d1-09",
+    "city": "osaka",
+    "day": 1,
+    "step": 9,
+    "place": "なんば駅",
+    "title": "전철 복귀·호텔 휴식",
+    "search_keywords": "Namba Station Osaka なんば駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Namba%20Station%20Osaka%20%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Namba%20Station%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d2-01",
+    "city": "osaka",
+    "day": 2,
+    "step": 1,
+    "place": "箕面駅",
+    "title": "한큐 전철로 미노오 이동",
+    "search_keywords": "Minoh Station Osaka 箕面駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Minoh%20Station%20Osaka%20%E7%AE%95%E9%9D%A2%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Minoh%20Station%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d2-02",
+    "city": "osaka",
+    "day": 2,
+    "step": 2,
+    "place": "箕面大滝",
+    "title": "미노오 폭포까지 숲길 트레킹(관광 도보)",
+    "search_keywords": "Minoo Falls waterfall 箕面大滝 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Minoo%20Falls%20waterfall%20%E7%AE%95%E9%9D%A2%E5%A4%A7%E6%BB%9D%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Minoo%20Falls%20waterfall&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d2-03",
+    "city": "osaka",
+    "day": 2,
+    "step": 3,
+    "place": "箕面駅",
+    "title": "미노오역 인근 점심",
+    "search_keywords": "Minoh Station Osaka 箕面駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Minoh%20Station%20Osaka%20%E7%AE%95%E9%9D%A2%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Minoh%20Station%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d2-04",
+    "city": "osaka",
+    "day": 2,
+    "step": 4,
+    "place": "大阪梅田駅",
+    "title": "한큐로 오사카 도심 복귀",
+    "search_keywords": "Osaka Umeda station Hankyu 大阪梅田駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Osaka%20Umeda%20station%20Hankyu%20%E5%A4%A7%E9%98%AA%E6%A2%85%E7%94%B0%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Osaka%20Umeda%20station%20Hankyu&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d2-05",
+    "city": "osaka",
+    "day": 2,
+    "step": 5,
+    "place": "中之島公園",
+    "title": "나카노시마 강변 산책",
+    "search_keywords": "Nakanoshima Park Osaka 中之島公園 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Nakanoshima%20Park%20Osaka%20%E4%B8%AD%E4%B9%8B%E5%B3%B6%E5%85%AC%E5%9C%92%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Nakanoshima%20Park%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d2-06",
+    "city": "osaka",
+    "day": 2,
+    "step": 6,
+    "place": "梅田スカイビル",
+    "title": "우메다 전망대 선택 방문",
+    "search_keywords": "Umeda Sky Building Osaka 梅田スカイビル 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Umeda%20Sky%20Building%20Osaka%20%E6%A2%85%E7%94%B0%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%93%E3%83%AB%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Umeda%20Sky%20Building%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "UMEDA SKY BUILDING.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d2-07",
+    "city": "osaka",
+    "day": 2,
+    "step": 7,
+    "place": "梅田",
+    "title": "현지 이자카야 저녁",
+    "search_keywords": "Umeda Osaka 梅田 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Umeda%20Osaka%20%E6%A2%85%E7%94%B0%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Umeda%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d2-08",
+    "city": "osaka",
+    "day": 2,
+    "step": 8,
+    "place": "道頓堀",
+    "title": "도톤보리 운하 야경",
+    "search_keywords": "Dotonbori Osaka at night 道頓堀 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Dotonbori%20Osaka%20at%20night%20%E9%81%93%E9%A0%93%E5%A0%80%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Dotonbori%20Osaka%20at%20night&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Osaka Dotonbori yoru.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d2-09",
+    "city": "osaka",
+    "day": 2,
+    "step": 9,
+    "place": "なんば駅",
+    "title": "난바 간식·숙소 복귀",
+    "search_keywords": "Namba Station Osaka なんば駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Namba%20Station%20Osaka%20%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Namba%20Station%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d3-01",
+    "city": "osaka",
+    "day": 3,
+    "step": 1,
+    "place": "なんば駅",
+    "title": "호텔 체크아웃",
+    "search_keywords": "Namba Station Osaka なんば駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Namba%20Station%20Osaka%20%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Namba%20Station%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d3-02",
+    "city": "osaka",
+    "day": 3,
+    "step": 2,
+    "place": "黒門市場",
+    "title": "구로몬 시장 구경",
+    "search_keywords": "Kuromon Ichiba Market Osaka 黒門市場 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kuromon%20Ichiba%20Market%20Osaka%20%E9%BB%92%E9%96%80%E5%B8%82%E5%A0%B4%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kuromon%20Ichiba%20Market%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Kuromon Ichiba Osaka.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d3-03",
+    "city": "osaka",
+    "day": 3,
+    "step": 3,
+    "place": "なんば駅",
+    "title": "마지막 점심",
+    "search_keywords": "Namba Station Osaka なんば駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Namba%20Station%20Osaka%20%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Namba%20Station%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d3-04",
+    "city": "osaka",
+    "day": 3,
+    "step": 4,
+    "place": "関西国際空港",
+    "title": "공항 전철 이동",
+    "search_keywords": "Kansai International Airport Osaka 関西国際空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kansai%20International%20Airport%20Osaka%20%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kansai%20International%20Airport%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Kansai International Airport.JPG"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "osaka-d3-05",
+    "city": "osaka",
+    "day": 3,
+    "step": 5,
+    "place": "関西国際空港",
+    "title": "출국 수속·면세점",
+    "search_keywords": "Kansai International Airport Osaka 関西国際空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kansai%20International%20Airport%20Osaka%20%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kansai%20International%20Airport%20Osaka&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Kansai International Airport.JPG"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d1-01",
+    "city": "tokyo",
+    "day": 1,
+    "step": 1,
+    "place": "成田国際空港",
+    "title": "나리타공항 입국·공항철도·도심 이동",
+    "search_keywords": "Narita International Airport Tokyo terminal 成田国際空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Narita%20International%20Airport%20Tokyo%20terminal%20%E6%88%90%E7%94%B0%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Narita%20International%20Airport%20Tokyo%20terminal&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d1-02",
+    "city": "tokyo",
+    "day": 1,
+    "step": 2,
+    "place": "上野駅",
+    "title": "우에노역 호텔 짐 보관",
+    "search_keywords": "Ueno Station Tokyo 上野駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Ueno%20Station%20Tokyo%20%E4%B8%8A%E9%87%8E%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Ueno%20Station%20Tokyo&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Ueno Station.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d1-03",
+    "city": "tokyo",
+    "day": 1,
+    "step": 3,
+    "place": "アメ横",
+    "title": "우에노 지역 점심",
+    "search_keywords": "Ameya Yokocho market Tokyo アメ横 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Ameya%20Yokocho%20market%20Tokyo%20%E3%82%A2%E3%83%A1%E6%A8%AA%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Ameya%20Yokocho%20market%20Tokyo&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d1-04",
+    "city": "tokyo",
+    "day": 1,
+    "step": 4,
+    "place": "上野恩賜公園",
+    "title": "우에노 공원 가을 산책",
+    "search_keywords": "Ueno Park Tokyo 上野恩賜公園 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Ueno%20Park%20Tokyo%20%E4%B8%8A%E9%87%8E%E6%81%A9%E8%B3%9C%E5%85%AC%E5%9C%92%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Ueno%20Park%20Tokyo&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d1-05",
+    "city": "tokyo",
+    "day": 1,
+    "step": 5,
+    "place": "不忍池",
+    "title": "시노바즈 연못과 거리",
+    "search_keywords": "Shinobazu Pond Ueno Tokyo 不忍池 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Shinobazu%20Pond%20Ueno%20Tokyo%20%E4%B8%8D%E5%BF%8D%E6%B1%A0%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Shinobazu%20Pond%20Ueno%20Tokyo&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d1-06",
+    "city": "tokyo",
+    "day": 1,
+    "step": 6,
+    "place": "東京ドームシティ",
+    "title": "도쿄 돔시티 저녁",
+    "search_keywords": "Tokyo Dome City 東京ドームシティ 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Tokyo%20Dome%20City%20%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%86%E3%82%A3%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Tokyo%20Dome%20City&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Tokyo Dome City LaQua.JPG"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d1-07",
+    "city": "tokyo",
+    "day": 1,
+    "step": 7,
+    "place": "東京ドーム天然温泉 Spa LaQua",
+    "title": "스파 라쿠아 천연온천",
+    "search_keywords": "Tokyo Dome City Spa LaQua 東京ドーム天然温泉 Spa LaQua 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Tokyo%20Dome%20City%20Spa%20LaQua%20%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89%20Spa%20LaQua%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Tokyo%20Dome%20City%20Spa%20LaQua&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Tokyo Dome City LaQua.JPG"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d1-08",
+    "city": "tokyo",
+    "day": 1,
+    "step": 8,
+    "place": "上野駅",
+    "title": "전철로 우에노 복귀·휴식",
+    "search_keywords": "Ueno Station Tokyo 上野駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Ueno%20Station%20Tokyo%20%E4%B8%8A%E9%87%8E%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Ueno%20Station%20Tokyo&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Ueno Station.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d2-01",
+    "city": "tokyo",
+    "day": 2,
+    "step": 1,
+    "place": "新宿駅",
+    "title": "전철로 신주쿠 이동·아침",
+    "search_keywords": "Shinjuku Station 新宿駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Shinjuku%20Station%20%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Shinjuku%20Station&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d2-02",
+    "city": "tokyo",
+    "day": 2,
+    "step": 2,
+    "place": "新宿御苑",
+    "title": "신주쿠교엔 자연 산책",
+    "search_keywords": "Shinjuku Gyoen National Garden 新宿御苑 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Shinjuku%20Gyoen%20National%20Garden%20%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Shinjuku%20Gyoen%20National%20Garden&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Shinjuku-Gyoen Japan-garden.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d2-03",
+    "city": "tokyo",
+    "day": 2,
+    "step": 3,
+    "place": "新宿三丁目",
+    "title": "신주쿠 점심",
+    "search_keywords": "Shinjuku sanchome Tokyo 新宿三丁目 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Shinjuku%20sanchome%20Tokyo%20%E6%96%B0%E5%AE%BF%E4%B8%89%E4%B8%81%E7%9B%AE%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Shinjuku%20sanchome%20Tokyo&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d2-04",
+    "city": "tokyo",
+    "day": 2,
+    "step": 4,
+    "place": "明治神宮",
+    "title": "메이지 신궁 숲길",
+    "search_keywords": "Meiji Jingu shrine Tokyo 明治神宮 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Meiji%20Jingu%20shrine%20Tokyo%20%E6%98%8E%E6%B2%BB%E7%A5%9E%E5%AE%AE%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Meiji%20Jingu%20shrine%20Tokyo&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Meiji shrine.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d2-05",
+    "city": "tokyo",
+    "day": 2,
+    "step": 5,
+    "place": "代々木公園",
+    "title": "요요기공원 산책",
+    "search_keywords": "Yoyogi Park autumn Tokyo 代々木公園 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Yoyogi%20Park%20autumn%20Tokyo%20%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AC%E5%9C%92%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Yoyogi%20Park%20autumn%20Tokyo&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Yoyogipark in Autumn 1.jpg",
+      "Yoyogipark in Autumn 2.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d2-06",
+    "city": "tokyo",
+    "day": 2,
+    "step": 6,
+    "place": "渋谷",
+    "title": "시부야 전망·휴식",
+    "search_keywords": "Shibuya Tokyo 渋谷 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Shibuya%20Tokyo%20%E6%B8%8B%E8%B0%B7%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Shibuya%20Tokyo&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Shibuya Scramble.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d2-07",
+    "city": "tokyo",
+    "day": 2,
+    "step": 7,
+    "place": "渋谷 焼肉",
+    "title": "야키니쿠 저녁",
+    "search_keywords": "Japanese yakiniku grilled beef 渋谷 焼肉 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Japanese%20yakiniku%20grilled%20beef%20%E6%B8%8B%E8%B0%B7%20%E7%84%BC%E8%82%89%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Japanese%20yakiniku%20grilled%20beef&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d2-08",
+    "city": "tokyo",
+    "day": 2,
+    "step": 8,
+    "place": "渋谷スクランブル交差点",
+    "title": "시부야 야경·쇼핑",
+    "search_keywords": "Shibuya Scramble crossing Tokyo night 渋谷スクランブル交差点 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Shibuya%20Scramble%20crossing%20Tokyo%20night%20%E6%B8%8B%E8%B0%B7%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E4%BA%A4%E5%B7%AE%E7%82%B9%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Shibuya%20Scramble%20crossing%20Tokyo%20night&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Shibuya Scramble crossing.jpg",
+      "Shibuya Scramble.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d2-09",
+    "city": "tokyo",
+    "day": 2,
+    "step": 9,
+    "place": "上野駅",
+    "title": "숙소 복귀·야식",
+    "search_keywords": "Ueno Station Tokyo 上野駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Ueno%20Station%20Tokyo%20%E4%B8%8A%E9%87%8E%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Ueno%20Station%20Tokyo&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Ueno Station.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d3-01",
+    "city": "tokyo",
+    "day": 3,
+    "step": 1,
+    "place": "上野駅",
+    "title": "체크아웃·짐 보관",
+    "search_keywords": "Ueno Station Tokyo 上野駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Ueno%20Station%20Tokyo%20%E4%B8%8A%E9%87%8E%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Ueno%20Station%20Tokyo&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Ueno Station.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d3-02",
+    "city": "tokyo",
+    "day": 3,
+    "step": 2,
+    "place": "浅草寺",
+    "title": "아사쿠사 센소지",
+    "search_keywords": "Sensoji Asakusa Tokyo 浅草寺 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Sensoji%20Asakusa%20Tokyo%20%E6%B5%85%E8%8D%89%E5%AF%BA%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Sensoji%20Asakusa%20Tokyo&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Sensoji temple, Asakusa, Tokyo, Japan.jpg",
+      "Sensoji,Asakusa.JPG"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d3-03",
+    "city": "tokyo",
+    "day": 3,
+    "step": 3,
+    "place": "隅田川",
+    "title": "스미다강 조망",
+    "search_keywords": "Sumida River Tokyo 隅田川 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Sumida%20River%20Tokyo%20%E9%9A%85%E7%94%B0%E5%B7%9D%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Sumida%20River%20Tokyo&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d3-04",
+    "city": "tokyo",
+    "day": 3,
+    "step": 4,
+    "place": "浅草",
+    "title": "마지막 식사",
+    "search_keywords": "Asakusa Tokyo 浅草 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Asakusa%20Tokyo%20%E6%B5%85%E8%8D%89%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Asakusa%20Tokyo&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d3-05",
+    "city": "tokyo",
+    "day": 3,
+    "step": 5,
+    "place": "成田国際空港",
+    "title": "나리타공항 이동",
+    "search_keywords": "Narita International Airport Tokyo terminal 成田国際空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Narita%20International%20Airport%20Tokyo%20terminal%20%E6%88%90%E7%94%B0%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Narita%20International%20Airport%20Tokyo%20terminal&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "tokyo-d3-06",
+    "city": "tokyo",
+    "day": 3,
+    "step": 6,
+    "place": "成田国際空港",
+    "title": "출국 수속",
+    "search_keywords": "Narita International Airport Tokyo terminal 成田国際空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Narita%20International%20Airport%20Tokyo%20terminal%20%E6%88%90%E7%94%B0%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Narita%20International%20Airport%20Tokyo%20terminal&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d1-01",
+    "city": "matsuyama",
+    "day": 1,
+    "step": 1,
+    "place": "松山空港",
+    "title": "마쓰야마공항 입국·시내 리무진",
+    "search_keywords": "Matsuyama Airport Ehime 松山空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Matsuyama%20Airport%20Ehime%20%E6%9D%BE%E5%B1%B1%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Matsuyama%20Airport%20Ehime&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Matsuyama Airport 20240605.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d1-02",
+    "city": "matsuyama",
+    "day": 1,
+    "step": 2,
+    "place": "松山市駅",
+    "title": "시내 호텔 짐 보관",
+    "search_keywords": "Matsuyamashi Station Ehime 松山市駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Matsuyamashi%20Station%20Ehime%20%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Matsuyamashi%20Station%20Ehime&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d1-03",
+    "city": "matsuyama",
+    "day": 1,
+    "step": 3,
+    "place": "松山城ロープウェイ",
+    "title": "마쓰야마 성 로프웨이",
+    "search_keywords": "Matsuyama Castle ropeway 松山城ロープウェイ 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Matsuyama%20Castle%20ropeway%20%E6%9D%BE%E5%B1%B1%E5%9F%8E%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Matsuyama%20Castle%20ropeway&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d1-04",
+    "city": "matsuyama",
+    "day": 1,
+    "step": 4,
+    "place": "松山城",
+    "title": "성곽·도시 조망(관광 산책)",
+    "search_keywords": "Matsuyama Castle Ehime 松山城 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Matsuyama%20Castle%20Ehime%20%E6%9D%BE%E5%B1%B1%E5%9F%8E%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Matsuyama%20Castle%20Ehime&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Matsuyama Castle.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d1-05",
+    "city": "matsuyama",
+    "day": 1,
+    "step": 5,
+    "place": "松山市駅 鯛めし",
+    "title": "도미밥 점심",
+    "search_keywords": "Ehime taimeshi rice sea bream 松山市駅 鯛めし 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Ehime%20taimeshi%20rice%20sea%20bream%20%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85%20%E9%AF%9B%E3%82%81%E3%81%97%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Ehime%20taimeshi%20rice%20sea%20bream&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d1-06",
+    "city": "matsuyama",
+    "day": 1,
+    "step": 6,
+    "place": "道後温泉本館",
+    "title": "도고온천 본관 입욕",
+    "search_keywords": "Dogo Onsen Honkan Matsuyama 道後温泉本館 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Dogo%20Onsen%20Honkan%20Matsuyama%20%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89%E6%9C%AC%E9%A4%A8%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Dogo%20Onsen%20Honkan%20Matsuyama&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Dougo Onsen, Matsuyama.jpg",
+      "Dogo-onsen Honkan.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d1-07",
+    "city": "matsuyama",
+    "day": 1,
+    "step": 7,
+    "place": "道後商店街",
+    "title": "도고 상점가·족욕 주변",
+    "search_keywords": "Dogo shopping street Matsuyama 道後商店街 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Dogo%20shopping%20street%20Matsuyama%20%E9%81%93%E5%BE%8C%E5%95%86%E5%BA%97%E8%A1%97%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Dogo%20shopping%20street%20Matsuyama&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d1-08",
+    "city": "matsuyama",
+    "day": 1,
+    "step": 8,
+    "place": "道後温泉",
+    "title": "에히메 향토음식 저녁",
+    "search_keywords": "Dogo Onsen Matsuyama 道後温泉 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Dogo%20Onsen%20Matsuyama%20%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Dogo%20Onsen%20Matsuyama&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Dougo Onsen, Matsuyama.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d1-09",
+    "city": "matsuyama",
+    "day": 1,
+    "step": 9,
+    "place": "道後公園",
+    "title": "도고 공원 산책",
+    "search_keywords": "Dogo Park Matsuyama 道後公園 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Dogo%20Park%20Matsuyama%20%E9%81%93%E5%BE%8C%E5%85%AC%E5%9C%92%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Dogo%20Park%20Matsuyama&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d1-10",
+    "city": "matsuyama",
+    "day": 1,
+    "step": 10,
+    "place": "松山市駅",
+    "title": "노면전차 복귀·야식",
+    "search_keywords": "Matsuyamashi Station Ehime 松山市駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Matsuyamashi%20Station%20Ehime%20%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Matsuyamashi%20Station%20Ehime&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d2-01",
+    "city": "matsuyama",
+    "day": 2,
+    "step": 1,
+    "place": "松山駅",
+    "title": "JR 요산선으로 해안 이동",
+    "search_keywords": "Matsuyama Station Ehime 松山駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Matsuyama%20Station%20Ehime%20%E6%9D%BE%E5%B1%B1%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Matsuyama%20Station%20Ehime&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d2-02",
+    "city": "matsuyama",
+    "day": 2,
+    "step": 2,
+    "place": "下灘駅",
+    "title": "시모나다역 바다 풍경",
+    "search_keywords": "Shimonada Station Ehime seaside 下灘駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Shimonada%20Station%20Ehime%20seaside%20%E4%B8%8B%E7%81%98%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Shimonada%20Station%20Ehime%20seaside&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Shimonada Station.jpg",
+      "Shimonada Station 2016-09-17.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d2-03",
+    "city": "matsuyama",
+    "day": 2,
+    "step": 3,
+    "place": "伊予市駅",
+    "title": "철도 시각에 맞춰 귀환·점심",
+    "search_keywords": "Iyoshi Station Ehime 伊予市駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Iyoshi%20Station%20Ehime%20%E4%BC%8A%E4%BA%88%E5%B8%82%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Iyoshi%20Station%20Ehime&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d2-04",
+    "city": "matsuyama",
+    "day": 2,
+    "step": 4,
+    "place": "松山駅",
+    "title": "마쓰야마 시내 복귀",
+    "search_keywords": "Matsuyama Station Ehime 松山駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Matsuyama%20Station%20Ehime%20%E6%9D%BE%E5%B1%B1%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Matsuyama%20Station%20Ehime&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d2-05",
+    "city": "matsuyama",
+    "day": 2,
+    "step": 5,
+    "place": "萬翠荘",
+    "title": "반스이소·역사 산책",
+    "search_keywords": "Bansuiso villa Matsuyama 萬翠荘 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Bansuiso%20villa%20Matsuyama%20%E8%90%AC%E7%BF%A0%E8%8D%98%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Bansuiso%20villa%20Matsuyama&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d2-06",
+    "city": "matsuyama",
+    "day": 2,
+    "step": 6,
+    "place": "大街道",
+    "title": "대가도 상점가 휴식",
+    "search_keywords": "Okaido shopping street Matsuyama 大街道 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Okaido%20shopping%20street%20Matsuyama%20%E5%A4%A7%E8%A1%97%E9%81%93%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Okaido%20shopping%20street%20Matsuyama&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d2-07",
+    "city": "matsuyama",
+    "day": 2,
+    "step": 7,
+    "place": "大街道",
+    "title": "저녁 식사",
+    "search_keywords": "Okaido shopping street Matsuyama 大街道 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Okaido%20shopping%20street%20Matsuyama%20%E5%A4%A7%E8%A1%97%E9%81%93%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Okaido%20shopping%20street%20Matsuyama&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d2-08",
+    "city": "matsuyama",
+    "day": 2,
+    "step": 8,
+    "place": "道後温泉駅",
+    "title": "도고온천 주변 야경",
+    "search_keywords": "Dogo Onsen Station Matsuyama 道後温泉駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Dogo%20Onsen%20Station%20Matsuyama%20%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Dogo%20Onsen%20Station%20Matsuyama&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Dogo Onsen Station (Iyo Railway).jpg",
+      "Dogo Onsen Station 20240828.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d2-09",
+    "city": "matsuyama",
+    "day": 2,
+    "step": 9,
+    "place": "松山市駅",
+    "title": "숙소 복귀",
+    "search_keywords": "Matsuyamashi Station Ehime 松山市駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Matsuyamashi%20Station%20Ehime%20%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Matsuyamashi%20Station%20Ehime&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d3-01",
+    "city": "matsuyama",
+    "day": 3,
+    "step": 1,
+    "place": "松山市駅",
+    "title": "체크아웃",
+    "search_keywords": "Matsuyamashi Station Ehime 松山市駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Matsuyamashi%20Station%20Ehime%20%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Matsuyamashi%20Station%20Ehime&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d3-02",
+    "city": "matsuyama",
+    "day": 3,
+    "step": 2,
+    "place": "石手寺",
+    "title": "이시테지 문화·숲길",
+    "search_keywords": "Ishiteji Temple Matsuyama 石手寺 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Ishiteji%20Temple%20Matsuyama%20%E7%9F%B3%E6%89%8B%E5%AF%BA%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Ishiteji%20Temple%20Matsuyama&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d3-03",
+    "city": "matsuyama",
+    "day": 3,
+    "step": 3,
+    "place": "松山市駅",
+    "title": "현지 점심",
+    "search_keywords": "Matsuyamashi Station Ehime 松山市駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Matsuyamashi%20Station%20Ehime%20%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Matsuyamashi%20Station%20Ehime&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d3-04",
+    "city": "matsuyama",
+    "day": 3,
+    "step": 4,
+    "place": "松山空港",
+    "title": "공항 리무진 이동",
+    "search_keywords": "Matsuyama Airport Ehime 松山空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Matsuyama%20Airport%20Ehime%20%E6%9D%BE%E5%B1%B1%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Matsuyama%20Airport%20Ehime&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Matsuyama Airport 20240605.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "matsuyama-d3-05",
+    "city": "matsuyama",
+    "day": 3,
+    "step": 5,
+    "place": "松山空港",
+    "title": "출국 수속·탑승 준비",
+    "search_keywords": "Matsuyama Airport Ehime 松山空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Matsuyama%20Airport%20Ehime%20%E6%9D%BE%E5%B1%B1%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Matsuyama%20Airport%20Ehime&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Matsuyama Airport 20240605.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d1-01",
+    "city": "takamatsu",
+    "day": 1,
+    "step": 1,
+    "place": "高松空港",
+    "title": "다카마쓰공항 입국·리무진버스",
+    "search_keywords": "Takamatsu Airport Kagawa 高松空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Takamatsu%20Airport%20Kagawa%20%E9%AB%98%E6%9D%BE%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Takamatsu%20Airport%20Kagawa&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "高松空港 全景.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d1-02",
+    "city": "takamatsu",
+    "day": 1,
+    "step": 2,
+    "place": "高松駅",
+    "title": "호텔 짐 보관·점심 준비",
+    "search_keywords": "Takamatsu Station Kagawa 高松駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Takamatsu%20Station%20Kagawa%20%E9%AB%98%E6%9D%BE%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Takamatsu%20Station%20Kagawa&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d1-03",
+    "city": "takamatsu",
+    "day": 1,
+    "step": 3,
+    "place": "高松 さぬきうどん",
+    "title": "사누키 우동 점심",
+    "search_keywords": "Sanuki udon Takamatsu 高松 さぬきうどん 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Sanuki%20udon%20Takamatsu%20%E9%AB%98%E6%9D%BE%20%E3%81%95%E3%81%AC%E3%81%8D%E3%81%86%E3%81%A9%E3%82%93%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Sanuki%20udon%20Takamatsu&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d1-04",
+    "city": "takamatsu",
+    "day": 1,
+    "step": 4,
+    "place": "栗林公園",
+    "title": "리쓰린공원 일본정원 산책",
+    "search_keywords": "Ritsurin Garden Takamatsu 栗林公園 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Ritsurin%20Garden%20Takamatsu%20%E6%A0%97%E6%9E%97%E5%85%AC%E5%9C%92%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Ritsurin%20Garden%20Takamatsu&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Ritsurin Garden - Takamatsu.jpg",
+      "Ritsurin Garden.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d1-05",
+    "city": "takamatsu",
+    "day": 1,
+    "step": 5,
+    "place": "仏生山駅",
+    "title": "고토덴으로 붓쇼잔 이동",
+    "search_keywords": "Busshozan Station Takamatsu 仏生山駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Busshozan%20Station%20Takamatsu%20%E4%BB%8F%E7%94%9F%E5%B1%B1%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Busshozan%20Station%20Takamatsu&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "KD-Busshōzan Station-Building.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d1-06",
+    "city": "takamatsu",
+    "day": 1,
+    "step": 6,
+    "place": "仏生山温泉 天平湯",
+    "title": "붓쇼잔온천 천연노천탕",
+    "search_keywords": "Busshozan Onsen Takamatsu 仏生山温泉 天平湯 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Busshozan%20Onsen%20Takamatsu%20%E4%BB%8F%E7%94%9F%E5%B1%B1%E6%B8%A9%E6%B3%89%20%E5%A4%A9%E5%B9%B3%E6%B9%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Busshozan%20Onsen%20Takamatsu&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d1-07",
+    "city": "takamatsu",
+    "day": 1,
+    "step": 7,
+    "place": "瓦町駅",
+    "title": "고토덴으로 중심지 복귀",
+    "search_keywords": "Kawaramachi Station Takamatsu 瓦町駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kawaramachi%20Station%20Takamatsu%20%E7%93%A6%E7%94%BA%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kawaramachi%20Station%20Takamatsu&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d1-08",
+    "city": "takamatsu",
+    "day": 1,
+    "step": 8,
+    "place": "高松駅",
+    "title": "야식·호텔 휴식",
+    "search_keywords": "Takamatsu Station Kagawa 高松駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Takamatsu%20Station%20Kagawa%20%E9%AB%98%E6%9D%BE%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Takamatsu%20Station%20Kagawa&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d2-01",
+    "city": "takamatsu",
+    "day": 2,
+    "step": 1,
+    "place": "琴平駅",
+    "title": "고토덴으로 고토히라 이동",
+    "search_keywords": "Kotohira Station Kagawa 琴平駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kotohira%20Station%20Kagawa%20%E7%90%B4%E5%B9%B3%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kotohira%20Station%20Kagawa&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d2-02",
+    "city": "takamatsu",
+    "day": 2,
+    "step": 2,
+    "place": "金刀比羅宮",
+    "title": "고토히라 신궁 계단길(관광 트레킹)",
+    "search_keywords": "Kotohira-gu Shrine stairs Kagawa 金刀比羅宮 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kotohira-gu%20Shrine%20stairs%20Kagawa%20%E9%87%91%E5%88%80%E6%AF%94%E7%BE%85%E5%AE%AE%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kotohira-gu%20Shrine%20stairs%20Kagawa&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Torii and steps leading to Kotohira-gū inner shrine (6453432445).jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d2-03",
+    "city": "takamatsu",
+    "day": 2,
+    "step": 3,
+    "place": "琴平",
+    "title": "고토히라 점심",
+    "search_keywords": "Kotohira Kagawa 琴平 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kotohira%20Kagawa%20%E7%90%B4%E5%B9%B3%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kotohira%20Kagawa&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d2-04",
+    "city": "takamatsu",
+    "day": 2,
+    "step": 4,
+    "place": "高松築港駅",
+    "title": "고토덴 열차로 다카마쓰 복귀",
+    "search_keywords": "Takamatsu Chikko Station 高松築港駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Takamatsu%20Chikko%20Station%20%E9%AB%98%E6%9D%BE%E7%AF%89%E6%B8%AF%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Takamatsu%20Chikko%20Station&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d2-05",
+    "city": "takamatsu",
+    "day": 2,
+    "step": 5,
+    "place": "サンポート高松",
+    "title": "선포트 항구 조망",
+    "search_keywords": "Sunport Takamatsu サンポート高松 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Sunport%20Takamatsu%20%E3%82%B5%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E9%AB%98%E6%9D%BE%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Sunport%20Takamatsu&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d2-06",
+    "city": "takamatsu",
+    "day": 2,
+    "step": 6,
+    "place": "玉藻公園",
+    "title": "다카마쓰 성터 공원",
+    "search_keywords": "Tamamo Park Takamatsu Castle 玉藻公園 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Tamamo%20Park%20Takamatsu%20Castle%20%E7%8E%89%E8%97%BB%E5%85%AC%E5%9C%92%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Tamamo%20Park%20Takamatsu%20Castle&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Takamatsu Castle - Tamamo Park 20211125 08.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d2-07",
+    "city": "takamatsu",
+    "day": 2,
+    "step": 7,
+    "place": "高松港",
+    "title": "해산물 저녁",
+    "search_keywords": "Takamatsu Port Kagawa 高松港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Takamatsu%20Port%20Kagawa%20%E9%AB%98%E6%9D%BE%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Takamatsu%20Port%20Kagawa&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d2-08",
+    "city": "takamatsu",
+    "day": 2,
+    "step": 8,
+    "place": "丸亀町商店街",
+    "title": "야경과 상점가",
+    "search_keywords": "Marugamemachi shopping street Takamatsu 丸亀町商店街 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Marugamemachi%20shopping%20street%20Takamatsu%20%E4%B8%B8%E4%BA%80%E7%94%BA%E5%95%86%E5%BA%97%E8%A1%97%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Marugamemachi%20shopping%20street%20Takamatsu&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d2-09",
+    "city": "takamatsu",
+    "day": 2,
+    "step": 9,
+    "place": "高松駅",
+    "title": "숙소 복귀·휴식",
+    "search_keywords": "Takamatsu Station Kagawa 高松駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Takamatsu%20Station%20Kagawa%20%E9%AB%98%E6%9D%BE%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Takamatsu%20Station%20Kagawa&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d3-01",
+    "city": "takamatsu",
+    "day": 3,
+    "step": 1,
+    "place": "高松駅",
+    "title": "체크아웃",
+    "search_keywords": "Takamatsu Station Kagawa 高松駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Takamatsu%20Station%20Kagawa%20%E9%AB%98%E6%9D%BE%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Takamatsu%20Station%20Kagawa&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d3-02",
+    "city": "takamatsu",
+    "day": 3,
+    "step": 2,
+    "place": "兵庫町商店街",
+    "title": "다카마쓰 중앙 상점가",
+    "search_keywords": "Hyogomachi shopping street Takamatsu 兵庫町商店街 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Hyogomachi%20shopping%20street%20Takamatsu%20%E5%85%B5%E5%BA%AB%E7%94%BA%E5%95%86%E5%BA%97%E8%A1%97%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Hyogomachi%20shopping%20street%20Takamatsu&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d3-03",
+    "city": "takamatsu",
+    "day": 3,
+    "step": 3,
+    "place": "高松駅",
+    "title": "사누키 우동 마지막 점심",
+    "search_keywords": "Takamatsu Station Kagawa 高松駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Takamatsu%20Station%20Kagawa%20%E9%AB%98%E6%9D%BE%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Takamatsu%20Station%20Kagawa&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d3-04",
+    "city": "takamatsu",
+    "day": 3,
+    "step": 4,
+    "place": "高松空港",
+    "title": "공항 리무진 이동",
+    "search_keywords": "Takamatsu Airport Kagawa 高松空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Takamatsu%20Airport%20Kagawa%20%E9%AB%98%E6%9D%BE%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Takamatsu%20Airport%20Kagawa&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "高松空港 全景.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "takamatsu-d3-05",
+    "city": "takamatsu",
+    "day": 3,
+    "step": 5,
+    "place": "高松空港",
+    "title": "출국 수속·탑승",
+    "search_keywords": "Takamatsu Airport Kagawa 高松空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Takamatsu%20Airport%20Kagawa%20%E9%AB%98%E6%9D%BE%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Takamatsu%20Airport%20Kagawa&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "高松空港 全景.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d1-01",
+    "city": "kumamoto",
+    "day": 1,
+    "step": 1,
+    "place": "熊本空港",
+    "title": "구마모토공항 입국·시내버스",
+    "search_keywords": "Kumamoto Airport terminal 熊本空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kumamoto%20Airport%20terminal%20%E7%86%8A%E6%9C%AC%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kumamoto%20Airport%20terminal&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Kumamoto Airport Terminal inside1.jpg",
+      "Kumamoto Airport Terminal inside2.jpg",
+      "In front of the baggage inspection area at Kumamoto Airport.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d1-02",
+    "city": "kumamoto",
+    "day": 1,
+    "step": 2,
+    "place": "桜町バスターミナル",
+    "title": "시내 짐 보관",
+    "search_keywords": "Sakuramachi bus terminal Kumamoto 桜町バスターミナル 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Sakuramachi%20bus%20terminal%20Kumamoto%20%E6%A1%9C%E7%94%BA%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Sakuramachi%20bus%20terminal%20Kumamoto&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Kumamoto Sakuramachi Bus terminal.JPG"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d1-03",
+    "city": "kumamoto",
+    "day": 1,
+    "step": 3,
+    "place": "熊本ラーメン",
+    "title": "구마모토 라멘 점심",
+    "search_keywords": "Kumamoto ramen tonkotsu 熊本ラーメン 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kumamoto%20ramen%20tonkotsu%20%E7%86%8A%E6%9C%AC%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kumamoto%20ramen%20tonkotsu&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d1-04",
+    "city": "kumamoto",
+    "day": 1,
+    "step": 4,
+    "place": "熊本城",
+    "title": "구마모토성 및 공원 산책",
+    "search_keywords": "Kumamoto Castle 熊本城 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kumamoto%20Castle%20%E7%86%8A%E6%9C%AC%E5%9F%8E%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kumamoto%20Castle&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Kumamoto Castle 05n3200.jpg",
+      "KumamotoCastle.jpg",
+      "Kumamoto Castle.JPG"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d1-05",
+    "city": "kumamoto",
+    "day": 1,
+    "step": 5,
+    "place": "桜町バスターミナル",
+    "title": "사쿠라마치 카페·쇼핑",
+    "search_keywords": "Sakuramachi bus terminal Kumamoto 桜町バスターミナル 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Sakuramachi%20bus%20terminal%20Kumamoto%20%E6%A1%9C%E7%94%BA%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Sakuramachi%20bus%20terminal%20Kumamoto&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Kumamoto Sakuramachi Bus terminal.JPG"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d1-06",
+    "city": "kumamoto",
+    "day": 1,
+    "step": 6,
+    "place": "水前寺成趣園",
+    "title": "도심 전차로 자연 명소 이동",
+    "search_keywords": "Suizenji Jojuen garden Kumamoto 水前寺成趣園 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Suizenji%20Jojuen%20garden%20Kumamoto%20%E6%B0%B4%E5%89%8D%E5%AF%BA%E6%88%90%E8%B6%A3%E5%9C%92%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Suizenji%20Jojuen%20garden%20Kumamoto&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Suizenji jojuen garden.jpg",
+      "Suizen-ji Garden, Kumamoto.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d1-07",
+    "city": "kumamoto",
+    "day": 1,
+    "step": 7,
+    "place": "辛島町",
+    "title": "말고기·향토 음식 저녁",
+    "search_keywords": "Karashimacho Kumamoto 辛島町 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Karashimacho%20Kumamoto%20%E8%BE%9B%E5%B3%B6%E7%94%BA%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Karashimacho%20Kumamoto&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d1-08",
+    "city": "kumamoto",
+    "day": 1,
+    "step": 8,
+    "place": "湯らっくす",
+    "title": "JR 헤이세이역 인근 유락쿠스 온천",
+    "search_keywords": "Yulax Kumamoto onsen 湯らっくす 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Yulax%20Kumamoto%20onsen%20%E6%B9%AF%E3%82%89%E3%81%A3%E3%81%8F%E3%81%99%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Yulax%20Kumamoto%20onsen&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d1-09",
+    "city": "kumamoto",
+    "day": 1,
+    "step": 9,
+    "place": "熊本駅",
+    "title": "전철·버스 복귀·숙소",
+    "search_keywords": "Kumamoto Station Kyushu 熊本駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kumamoto%20Station%20Kyushu%20%E7%86%8A%E6%9C%AC%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kumamoto%20Station%20Kyushu&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d2-01",
+    "city": "kumamoto",
+    "day": 2,
+    "step": 1,
+    "place": "新水前寺駅",
+    "title": "아침 식사·노면전차 이동",
+    "search_keywords": "Shinsuizenji Station Kumamoto 新水前寺駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Shinsuizenji%20Station%20Kumamoto%20%E6%96%B0%E6%B0%B4%E5%89%8D%E5%AF%BA%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Shinsuizenji%20Station%20Kumamoto&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d2-02",
+    "city": "kumamoto",
+    "day": 2,
+    "step": 2,
+    "place": "水前寺成趣園",
+    "title": "수이젠지 정원 자연 산책",
+    "search_keywords": "Suizenji Jojuen garden Kumamoto 水前寺成趣園 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Suizenji%20Jojuen%20garden%20Kumamoto%20%E6%B0%B4%E5%89%8D%E5%AF%BA%E6%88%90%E8%B6%A3%E5%9C%92%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Suizenji%20Jojuen%20garden%20Kumamoto&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Suizenji jojuen garden.jpg",
+      "Suizen-ji Garden, Kumamoto.jpg",
+      "Kumamoto Suizenji-jojuen01n4272.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d2-03",
+    "city": "kumamoto",
+    "day": 2,
+    "step": 3,
+    "place": "上江津湖",
+    "title": "에즈호 주변 조망",
+    "search_keywords": "Ezu Lake Kumamoto 上江津湖 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Ezu%20Lake%20Kumamoto%20%E4%B8%8A%E6%B1%9F%E6%B4%A5%E6%B9%96%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Ezu%20Lake%20Kumamoto&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d2-04",
+    "city": "kumamoto",
+    "day": 2,
+    "step": 4,
+    "place": "江津湖",
+    "title": "호수 인근 점심",
+    "search_keywords": "Ezu Lake Kumamoto 江津湖 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Ezu%20Lake%20Kumamoto%20%E6%B1%9F%E6%B4%A5%E6%B9%96%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Ezu%20Lake%20Kumamoto&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d2-05",
+    "city": "kumamoto",
+    "day": 2,
+    "step": 5,
+    "place": "通町筋",
+    "title": "전차로 도심 복귀",
+    "search_keywords": "Torichosuji tram stop Kumamoto 通町筋 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Torichosuji%20tram%20stop%20Kumamoto%20%E9%80%9A%E7%94%BA%E7%AD%8B%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Torichosuji%20tram%20stop%20Kumamoto&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d2-06",
+    "city": "kumamoto",
+    "day": 2,
+    "step": 6,
+    "place": "下通アーケード",
+    "title": "시모토리 아케이드",
+    "search_keywords": "Shimotori shopping arcade Kumamoto 下通アーケード 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Shimotori%20shopping%20arcade%20Kumamoto%20%E4%B8%8B%E9%80%9A%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Shimotori%20shopping%20arcade%20Kumamoto&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d2-07",
+    "city": "kumamoto",
+    "day": 2,
+    "step": 7,
+    "place": "熊本城",
+    "title": "구마모토 성터 전망",
+    "search_keywords": "Kumamoto Castle 熊本城 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kumamoto%20Castle%20%E7%86%8A%E6%9C%AC%E5%9F%8E%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kumamoto%20Castle&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Kumamoto Castle 05n3200.jpg",
+      "KumamotoCastle.jpg",
+      "Kumamoto Castle.JPG"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d2-08",
+    "city": "kumamoto",
+    "day": 2,
+    "step": 8,
+    "place": "下通",
+    "title": "향토 음식 저녁",
+    "search_keywords": "Shimotori shopping street Kumamoto 下通 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Shimotori%20shopping%20street%20Kumamoto%20%E4%B8%8B%E9%80%9A%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Shimotori%20shopping%20street%20Kumamoto&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d2-09",
+    "city": "kumamoto",
+    "day": 2,
+    "step": 9,
+    "place": "花畑広場",
+    "title": "도심 카페·야경",
+    "search_keywords": "Hanabata Square Kumamoto 花畑広場 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Hanabata%20Square%20Kumamoto%20%E8%8A%B1%E7%95%91%E5%BA%83%E5%A0%B4%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Hanabata%20Square%20Kumamoto&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "SAKURA-MACHI-Kumamoto.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d2-10",
+    "city": "kumamoto",
+    "day": 2,
+    "step": 10,
+    "place": "熊本駅",
+    "title": "숙소 복귀",
+    "search_keywords": "Kumamoto Station Kyushu 熊本駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kumamoto%20Station%20Kyushu%20%E7%86%8A%E6%9C%AC%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kumamoto%20Station%20Kyushu&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d3-01",
+    "city": "kumamoto",
+    "day": 3,
+    "step": 1,
+    "place": "熊本駅",
+    "title": "체크아웃",
+    "search_keywords": "Kumamoto Station Kyushu 熊本駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kumamoto%20Station%20Kyushu%20%E7%86%8A%E6%9C%AC%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kumamoto%20Station%20Kyushu&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d3-02",
+    "city": "kumamoto",
+    "day": 3,
+    "step": 2,
+    "place": "アミュプラザくまもと",
+    "title": "구마모토역 쇼핑",
+    "search_keywords": "Amu Plaza Kumamoto アミュプラザくまもと 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Amu%20Plaza%20Kumamoto%20%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%97%E3%83%A9%E3%82%B6%E3%81%8F%E3%81%BE%E3%82%82%E3%81%A8%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Amu%20Plaza%20Kumamoto&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d3-03",
+    "city": "kumamoto",
+    "day": 3,
+    "step": 3,
+    "place": "熊本駅",
+    "title": "마지막 점심",
+    "search_keywords": "Kumamoto Station Kyushu 熊本駅 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kumamoto%20Station%20Kyushu%20%E7%86%8A%E6%9C%AC%E9%A7%85%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kumamoto%20Station%20Kyushu&title=Special:MediaSearch&type=image",
+    "commons_candidates": [],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d3-04",
+    "city": "kumamoto",
+    "day": 3,
+    "step": 4,
+    "place": "熊本空港",
+    "title": "공항 리무진버스",
+    "search_keywords": "Kumamoto Airport terminal 熊本空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kumamoto%20Airport%20terminal%20%E7%86%8A%E6%9C%AC%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kumamoto%20Airport%20terminal&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Kumamoto Airport Terminal inside1.jpg",
+      "Kumamoto Airport Terminal inside2.jpg",
+      "In front of the baggage inspection area at Kumamoto Airport.jpg"
+    ],
+    "status": "retrieval_pending"
+  },
+  {
+    "id": "kumamoto-d3-05",
+    "city": "kumamoto",
+    "day": 3,
+    "step": 5,
+    "place": "熊本空港",
+    "title": "출국 수속·탑승",
+    "search_keywords": "Kumamoto Airport terminal 熊本空港 日本",
+    "google_images": "https://www.google.com/search?tbm=isch&q=Kumamoto%20Airport%20terminal%20%E7%86%8A%E6%9C%AC%E7%A9%BA%E6%B8%AF%20%E6%97%A5%E6%9C%AC",
+    "commons_search": "https://commons.wikimedia.org/w/index.php?search=Kumamoto%20Airport%20terminal&title=Special:MediaSearch&type=image",
+    "commons_candidates": [
+      "Kumamoto Airport Terminal inside1.jpg",
+      "Kumamoto Airport Terminal inside2.jpg",
+      "In front of the baggage inspection area at Kumamoto Airport.jpg"
+    ],
+    "status": "retrieval_pending"
+  }
+]

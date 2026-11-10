@@ -26,7 +26,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Fukuoka Airport international terminal.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "10:15",
@@ -36,7 +38,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Fukuoka City Subway Airport Line Hakata Station.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "11:15",
@@ -46,7 +50,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Canal city hakata fukuoka.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "12:30",
@@ -56,7 +62,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "博多ラーメン"
           },
           {
             "start": "14:00",
@@ -77,7 +84,8 @@
             "kind": "자연",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "舞鶴公園"
           },
           {
             "start": "17:00",
@@ -87,7 +95,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "天神"
           },
           {
             "start": "18:30",
@@ -97,7 +106,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "天神 もつ鍋"
           },
           {
             "start": "20:15",
@@ -107,7 +117,8 @@
             "kind": "온천",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "みなと温泉 波葉の湯"
           },
           {
             "start": "22:30",
@@ -117,7 +128,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Fukuoka City Subway Airport Line Hakata Station.jpg",
+            "photo_match": "장소일치"
           }
         ],
         [
@@ -129,7 +142,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "姪浜駅"
           },
           {
             "start": "09:00",
@@ -139,7 +153,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "能古島渡船場"
           },
           {
             "start": "10:15",
@@ -149,7 +164,8 @@
             "kind": "자연",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "のこのしまアイランドパーク"
           },
           {
             "start": "12:00",
@@ -159,7 +175,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "のこのしまアイランドパーク"
           },
           {
             "start": "13:30",
@@ -169,7 +186,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "能古島"
           },
           {
             "start": "15:00",
@@ -179,7 +197,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "姪浜渡船場"
           },
           {
             "start": "16:30",
@@ -189,7 +208,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Fukuoka City Subway Airport Line Hakata Station.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "18:00",
@@ -199,7 +220,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "博多駅 居酒屋"
           },
           {
             "start": "20:00",
@@ -209,7 +231,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "中洲"
           },
           {
             "start": "22:00",
@@ -219,7 +242,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Fukuoka City Subway Airport Line Hakata Station.jpg",
+            "photo_match": "장소일치"
           }
         ],
         [
@@ -231,7 +256,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Fukuoka City Subway Airport Line Hakata Station.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "09:30",
@@ -241,7 +268,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "住吉神社 福岡"
           },
           {
             "start": "11:00",
@@ -251,7 +279,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Fukuoka City Subway Airport Line Hakata Station.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "12:30",
@@ -261,7 +291,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Fukuoka Airport international terminal.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "14:00",
@@ -271,7 +303,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Fukuoka Airport international terminal.jpg",
+            "photo_match": "장소일치"
           }
         ]
       ],
@@ -296,6 +330,30 @@
           "place": "大濠公園",
           "source": "https://commons.wikimedia.org/wiki/File:Ohori_Park_2011-11_01.jpg",
           "kind": "명소"
+        },
+        {
+          "file": "Fukuoka Airport international terminal.jpg",
+          "title": "후쿠오카공항 국제선 터미널",
+          "place": "福岡空港",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:Fukuoka_Airport_international_terminal.jpg",
+          "match_type": "장소일치"
+        },
+        {
+          "file": "Fukuoka City Subway Airport Line Hakata Station.jpg",
+          "title": "하카타역 지하철",
+          "place": "博多駅",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:Fukuoka_City_Subway_Airport_Line_Hakata_Station.jpg",
+          "match_type": "장소일치"
+        },
+        {
+          "file": "Canal city hakata fukuoka.jpg",
+          "title": "캐널시티 하카타",
+          "place": "キャナルシティ博多",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:Canal_city_hakata_fukuoka.jpg",
+          "match_type": "장소일치"
         }
       ]
     },
@@ -323,7 +381,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Kansai International Airport.JPG",
+            "photo_match": "장소일치"
           },
           {
             "start": "10:45",
@@ -333,7 +393,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "なんば駅"
           },
           {
             "start": "11:45",
@@ -343,7 +404,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "難波 お好み焼き"
           },
           {
             "start": "13:15",
@@ -375,7 +437,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "梅田"
           },
           {
             "start": "18:30",
@@ -385,7 +448,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "天神橋筋商店街"
           },
           {
             "start": "20:00",
@@ -395,7 +459,8 @@
             "kind": "온천",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "天然温泉 なにわの湯"
           },
           {
             "start": "22:15",
@@ -405,7 +470,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "なんば駅"
           }
         ],
         [
@@ -417,7 +483,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "箕面駅"
           },
           {
             "start": "09:30",
@@ -427,7 +494,8 @@
             "kind": "자연",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "箕面大滝"
           },
           {
             "start": "12:00",
@@ -437,7 +505,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "箕面駅"
           },
           {
             "start": "13:30",
@@ -447,7 +516,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "大阪梅田駅"
           },
           {
             "start": "15:00",
@@ -457,7 +527,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "中之島公園"
           },
           {
             "start": "16:30",
@@ -467,7 +538,8 @@
             "kind": "자연",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "梅田スカイビル"
           },
           {
             "start": "18:00",
@@ -477,7 +549,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "梅田"
           },
           {
             "start": "20:00",
@@ -487,7 +560,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Osaka Dotonbori yoru.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "22:00",
@@ -497,7 +572,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "なんば駅"
           }
         ],
         [
@@ -509,7 +585,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "なんば駅"
           },
           {
             "start": "09:00",
@@ -519,7 +596,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "黒門市場"
           },
           {
             "start": "10:30",
@@ -529,7 +607,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "なんば駅"
           },
           {
             "start": "12:00",
@@ -539,7 +618,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Kansai International Airport.JPG",
+            "photo_match": "장소일치"
           },
           {
             "start": "13:30",
@@ -549,7 +630,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Kansai International Airport.JPG",
+            "photo_match": "장소일치"
           }
         ]
       ],
@@ -567,6 +650,22 @@
           "place": "大阪城公園",
           "source": "https://commons.wikimedia.org/wiki/File:Osaka_Castle_June_2019.jpg",
           "kind": "명소"
+        },
+        {
+          "file": "Kansai International Airport.JPG",
+          "title": "간사이국제공항",
+          "place": "関西国際空港",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:Kansai_International_Airport.JPG",
+          "match_type": "장소일치"
+        },
+        {
+          "file": "Osaka Dotonbori yoru.jpg",
+          "title": "도톤보리 야경",
+          "place": "道頓堀",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:Osaka_Dotonbori_yoru.jpg",
+          "match_type": "장소일치"
         }
       ]
     },
@@ -594,7 +693,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "成田国際空港"
           },
           {
             "start": "12:00",
@@ -604,7 +704,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Ueno Station.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "13:00",
@@ -614,7 +716,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "アメ横"
           },
           {
             "start": "14:30",
@@ -624,7 +727,8 @@
             "kind": "자연",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "上野恩賜公園"
           },
           {
             "start": "16:30",
@@ -634,7 +738,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "不忍池"
           },
           {
             "start": "18:00",
@@ -644,7 +749,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "東京ドームシティ"
           },
           {
             "start": "19:30",
@@ -654,7 +760,8 @@
             "kind": "온천",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "東京ドーム天然温泉 Spa LaQua"
           },
           {
             "start": "22:15",
@@ -664,7 +771,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Ueno Station.jpg",
+            "photo_match": "장소일치"
           }
         ],
         [
@@ -676,7 +785,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "新宿駅"
           },
           {
             "start": "09:30",
@@ -686,7 +796,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "新宿御苑"
           },
           {
             "start": "12:00",
@@ -696,7 +807,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "新宿三丁目"
           },
           {
             "start": "13:30",
@@ -706,7 +818,9 @@
             "kind": "자연",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Meiji shrine.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "15:00",
@@ -716,7 +830,8 @@
             "kind": "자연",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "代々木公園"
           },
           {
             "start": "16:30",
@@ -726,7 +841,8 @@
             "kind": "자연",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "渋谷"
           },
           {
             "start": "18:00",
@@ -736,7 +852,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "渋谷 焼肉"
           },
           {
             "start": "20:00",
@@ -746,7 +863,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "渋谷スクランブル交差点"
           },
           {
             "start": "22:00",
@@ -756,7 +874,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Ueno Station.jpg",
+            "photo_match": "장소일치"
           }
         ],
         [
@@ -768,7 +888,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Ueno Station.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "09:00",
@@ -778,7 +900,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "浅草寺"
           },
           {
             "start": "10:30",
@@ -788,7 +911,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "隅田川"
           },
           {
             "start": "12:00",
@@ -798,7 +922,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "浅草"
           },
           {
             "start": "13:00",
@@ -808,7 +933,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "成田国際空港"
           },
           {
             "start": "15:00",
@@ -818,7 +944,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "成田国際空港"
           }
         ]
       ],
@@ -843,6 +970,22 @@
           "place": "新宿御苑",
           "source": "https://commons.wikimedia.org/wiki/File:Impression_of_Shinjuku_Gyoen,_Tokyo_(4).jpg",
           "kind": "명소"
+        },
+        {
+          "file": "Ueno Station.jpg",
+          "title": "우에노역",
+          "place": "上野駅",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:Ueno_Station.jpg",
+          "match_type": "장소일치"
+        },
+        {
+          "file": "Meiji shrine.jpg",
+          "title": "메이지 신궁",
+          "place": "明治神宮",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:Meiji_shrine.jpg",
+          "match_type": "장소일치"
         }
       ]
     },
@@ -870,7 +1013,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Matsuyama Airport 20240605.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "10:00",
@@ -880,7 +1025,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "松山市駅"
           },
           {
             "start": "11:00",
@@ -890,7 +1036,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "松山城ロープウェイ"
           },
           {
             "start": "12:30",
@@ -911,7 +1058,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "松山市駅 鯛めし"
           },
           {
             "start": "15:30",
@@ -932,7 +1080,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "道後商店街"
           },
           {
             "start": "19:00",
@@ -942,7 +1091,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "道後温泉"
           },
           {
             "start": "21:00",
@@ -952,7 +1102,8 @@
             "kind": "자연",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "道後公園"
           },
           {
             "start": "22:30",
@@ -962,7 +1113,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "松山市駅"
           }
         ],
         [
@@ -974,7 +1126,8 @@
             "kind": "자연",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "松山駅"
           },
           {
             "start": "09:30",
@@ -984,7 +1137,9 @@
             "kind": "자연",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Shimonada Station 2016-09-17.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "11:30",
@@ -994,7 +1149,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "伊予市駅"
           },
           {
             "start": "13:00",
@@ -1004,7 +1160,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "松山駅"
           },
           {
             "start": "14:30",
@@ -1014,7 +1171,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "萬翠荘"
           },
           {
             "start": "16:30",
@@ -1024,7 +1182,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "大街道"
           },
           {
             "start": "18:00",
@@ -1034,7 +1193,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "大街道"
           },
           {
             "start": "20:00",
@@ -1044,7 +1204,9 @@
             "kind": "온천",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Dogo Onsen Station 20240828.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "22:00",
@@ -1054,7 +1216,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "松山市駅"
           }
         ],
         [
@@ -1066,7 +1229,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "松山市駅"
           },
           {
             "start": "09:00",
@@ -1076,7 +1240,8 @@
             "kind": "자연",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "石手寺"
           },
           {
             "start": "10:30",
@@ -1086,7 +1251,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "松山市駅"
           },
           {
             "start": "12:00",
@@ -1096,7 +1262,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Matsuyama Airport 20240605.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "13:30",
@@ -1106,7 +1274,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Matsuyama Airport 20240605.jpg",
+            "photo_match": "장소일치"
           }
         ]
       ],
@@ -1131,6 +1301,30 @@
           "place": "松山城",
           "source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Castle_(Iyo).jpg",
           "kind": "명소"
+        },
+        {
+          "file": "Matsuyama Airport 20240605.jpg",
+          "title": "마쓰야마 공항",
+          "place": "松山空港",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Airport_20240605.jpg",
+          "match_type": "장소일치"
+        },
+        {
+          "file": "Shimonada Station 2016-09-17.jpg",
+          "title": "시모나다역",
+          "place": "下灘駅",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:Shimonada_Station_2016-09-17.jpg",
+          "match_type": "장소일치"
+        },
+        {
+          "file": "Dogo Onsen Station 20240828.jpg",
+          "title": "도고온천역",
+          "place": "道後温泉駅",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:Dogo_Onsen_Station_20240828.jpg",
+          "match_type": "장소일치"
         }
       ]
     },
@@ -1158,7 +1352,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "高松空港 全景.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "12:00",
@@ -1168,7 +1364,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "高松駅"
           },
           {
             "start": "13:00",
@@ -1178,7 +1375,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "高松 さぬきうどん"
           },
           {
             "start": "14:30",
@@ -1199,7 +1397,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "KD-Busshōzan Station-Building.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "18:30",
@@ -1209,7 +1409,8 @@
             "kind": "온천",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "仏生山温泉 天平湯"
           },
           {
             "start": "20:45",
@@ -1219,7 +1420,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "瓦町駅"
           },
           {
             "start": "22:15",
@@ -1229,7 +1431,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "高松駅"
           }
         ],
         [
@@ -1241,7 +1444,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "琴平駅"
           },
           {
             "start": "09:30",
@@ -1251,7 +1455,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "金刀比羅宮"
           },
           {
             "start": "12:00",
@@ -1261,7 +1466,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "琴平"
           },
           {
             "start": "13:30",
@@ -1271,7 +1477,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "高松築港駅"
           },
           {
             "start": "15:00",
@@ -1281,7 +1488,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "サンポート高松"
           },
           {
             "start": "16:30",
@@ -1291,7 +1499,8 @@
             "kind": "자연",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "玉藻公園"
           },
           {
             "start": "18:00",
@@ -1301,7 +1510,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "高松港"
           },
           {
             "start": "20:00",
@@ -1311,7 +1521,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "丸亀町商店街"
           },
           {
             "start": "22:00",
@@ -1321,7 +1532,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "高松駅"
           }
         ],
         [
@@ -1333,7 +1545,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "高松駅"
           },
           {
             "start": "09:00",
@@ -1343,7 +1556,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "兵庫町商店街"
           },
           {
             "start": "10:30",
@@ -1353,7 +1567,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "高松駅"
           },
           {
             "start": "11:30",
@@ -1363,7 +1578,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "高松空港 全景.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "13:00",
@@ -1373,7 +1590,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "高松空港 全景.jpg",
+            "photo_match": "장소일치"
           }
         ]
       ],
@@ -1398,6 +1617,22 @@
           "place": "栗林公園",
           "source": "https://commons.wikimedia.org/wiki/File:Ritsurin-Garden-M3566.jpg",
           "kind": "명소"
+        },
+        {
+          "file": "高松空港 全景.jpg",
+          "title": "다카마쓰공항",
+          "place": "高松空港",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:高松空港_全景.jpg",
+          "match_type": "장소일치"
+        },
+        {
+          "file": "KD-Busshōzan Station-Building.jpg",
+          "title": "붓쇼잔역",
+          "place": "仏生山駅",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:KD-Busshōzan_Station-Building.jpg",
+          "match_type": "장소일치"
         }
       ]
     },
@@ -1425,7 +1660,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "In front of the baggage inspection area at Kumamoto Airport.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "11:00",
@@ -1435,7 +1672,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Kumamoto Sakuramachi Bus terminal.JPG",
+            "photo_match": "장소일치"
           },
           {
             "start": "12:00",
@@ -1445,7 +1684,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "熊本ラーメン"
           },
           {
             "start": "13:30",
@@ -1466,7 +1706,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "Kumamoto Sakuramachi Bus terminal.JPG",
+            "photo_match": "장소일치"
           },
           {
             "start": "17:00",
@@ -1476,7 +1718,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "水前寺成趣園"
           },
           {
             "start": "18:30",
@@ -1486,7 +1729,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "辛島町"
           },
           {
             "start": "20:00",
@@ -1496,7 +1740,8 @@
             "kind": "온천",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "湯らっくす"
           },
           {
             "start": "22:30",
@@ -1506,7 +1751,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "熊本駅"
           }
         ],
         [
@@ -1518,7 +1764,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "新水前寺駅"
           },
           {
             "start": "09:00",
@@ -1539,7 +1786,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "上江津湖"
           },
           {
             "start": "12:00",
@@ -1549,7 +1797,8 @@
             "kind": "자연",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "江津湖"
           },
           {
             "start": "13:30",
@@ -1559,7 +1808,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "通町筋"
           },
           {
             "start": "15:00",
@@ -1569,7 +1819,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "下通アーケード"
           },
           {
             "start": "16:30",
@@ -1590,7 +1841,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "下通"
           },
           {
             "start": "20:00",
@@ -1600,7 +1852,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "SAKURA-MACHI-Kumamoto.jpg",
+            "photo_match": "지역참고"
           },
           {
             "start": "22:00",
@@ -1610,7 +1864,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "熊本駅"
           }
         ],
         [
@@ -1622,7 +1877,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "熊本駅"
           },
           {
             "start": "09:00",
@@ -1632,7 +1888,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "アミュプラザくまもと"
           },
           {
             "start": "10:30",
@@ -1642,7 +1899,8 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_query": "熊本駅"
           },
           {
             "start": "12:00",
@@ -1652,7 +1910,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "In front of the baggage inspection area at Kumamoto Airport.jpg",
+            "photo_match": "장소일치"
           },
           {
             "start": "13:30",
@@ -1662,7 +1922,9 @@
             "kind": "일정",
             "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
             "walk": null,
-            "verified": false
+            "verified": false,
+            "photo_file": "In front of the baggage inspection area at Kumamoto Airport.jpg",
+            "photo_match": "장소일치"
           }
         ]
       ],
@@ -1687,8 +1949,33 @@
           "place": "水前寺成趣園",
           "source": "https://commons.wikimedia.org/wiki/File:Suizenji_Garden_(31227046980).jpg",
           "kind": "명소"
+        },
+        {
+          "file": "In front of the baggage inspection area at Kumamoto Airport.jpg",
+          "title": "구마모토공항 수하물 검사 구역",
+          "place": "熊本空港",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:In_front_of_the_baggage_inspection_area_at_Kumamoto_Airport.jpg",
+          "match_type": "장소일치"
+        },
+        {
+          "file": "Kumamoto Sakuramachi Bus terminal.JPG",
+          "title": "사쿠라마치 버스터미널",
+          "place": "桜町バスターミナル",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Sakuramachi_Bus_terminal.JPG",
+          "match_type": "장소일치"
+        },
+        {
+          "file": "SAKURA-MACHI-Kumamoto.jpg",
+          "title": "사쿠라마치 상업시설(인근 참고)",
+          "place": "花畑広場",
+          "kind": "명소",
+          "source": "https://commons.wikimedia.org/wiki/File:SAKURA-MACHI-Kumamoto.jpg",
+          "match_type": "지역참고"
         }
       ]
     }
-  }
+  },
+  "photo_patch": "2026-11-10: named Commons sources plus browser-side Wikimedia lookup for unmatched entries; non-matches are disclosed."
 }

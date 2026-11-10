@@ -11,14 +11,78 @@ const dates=['11월 27일 · 금','11월 28일 · 토','11월 29일 · 일'];
 const IDsOriginal=['hiroshima','shizuoka','sapporo','nagoya','okinawa','sendai'];
 const IDsNew=['fukuoka','osaka','tokyo','matsuyama','takamatsu','kumamoto'];
 let B=null,OLD=null,NEW=null,PHOTOS=null,INDEX=new Map();
-const gPhoto=(photo)=>photo?`https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(photo.file)}?width=800`:null;
+const gPhoto=(photo)=>photo?(photo.local||`https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(photo.file)}?width=800`):null;
 function photoCatalog(id){return INDEX.get(id)?.group==='원래 후보'?(PHOTOS[id]||[]):(NEW.cities[id]?.photos||[])}
 function cardPhoto(id,place='',exact=null){let pool=photoCatalog(id);if(exact){let p=pool.find(v=>v.file===exact);if(p)return p;}if(place){let p=pool.find(v=>(v.place||'')===place);if(p)return p;}return null;}
 function bannerPhoto(id){let pool=photoCatalog(id);return pool.find(p=>['자연','명소','거리'].includes(p.kind))||pool[0]||null;}
-function photoBox(photo,search,alt='',classes=''){
-  let dest=googleImg(search);return `<a class="photo-link ${classes}" data-safe-url="${esc(dest)}" href="${esc(dest)}" target="_blank" rel="noopener noreferrer" aria-label="${esc(alt||search)} 사진 검색">
-  ${photo?`<img loading="lazy" src="${esc(gPhoto(photo))}" alt="${esc(alt||photo.title)}" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><span class="photo-placeholder" hidden><span>사진 검색</span><b>${esc(search)}</b></span>`:`<span class="photo-placeholder"><span>이미지 자료 확인</span><b>${esc(search)}</b><small>구글 이미지에서 살펴보기 ↗</small></span>`}
+function photoBox(photo,search,alt='',classes='',lookup=''){
+  const dest=googleImg(search),isSchedule=classes.includes('schedule-image'),hasPhoto=!!photo;
+  const fileSrc=hasPhoto?gPhoto(photo):null;
+  const status=lookup?'지역 참고사진 · 해당 방문지 사진 자동 조회 중':(photo?.match_type==='지역참고'?'주변 참고 사진 · 해당 장소 사진 아님':(hasPhoto?'방문 장소 사진 · 출처 확인':'사진을 찾지 못함'));
+  const attrs=lookup?` data-photo-lookup="${esc(lookup)}" data-photo-alt="${esc(alt)}"`:'';
+  const anchor=`<a class="photo-link ${classes}" data-safe-url="${esc(dest)}" href="${esc(dest)}" target="_blank" rel="noopener noreferrer" aria-label="${esc(alt||search)} 사진 검색">
+  ${fileSrc?`<img loading="lazy" src="${esc(fileSrc)}" alt="${esc(lookup?'해당 도시 참고 사진 · 실제 방문지 사진 조회 중':alt||photo.title)}"${attrs} onerror="this.hidden=true;this.nextElementSibling.hidden=false"><span class="photo-placeholder" hidden><span>이미지 로딩 실패</span><b>${esc(search)}</b></span>`:`<span class="photo-placeholder"><span>이미지 자료 확인</span><b>${esc(search)}</b><small>구글 이미지에서 살펴보기 ↗</small></span>`}
+  ${isSchedule?`<span class="photo-context${lookup?' reference':''}">${esc(status)}</span>`:''}
   <span class="view-hint">이미지 검색 ↗</span></a>`;
+  if(!isSchedule)return anchor;
+  const source=hasPhoto?photo.source:'',credit=source?`<a href="${esc(source)}" data-safe-url="${esc(source)}" target="_blank" rel="noopener noreferrer">원본 사진 · 저작자 · 라이선스 확인 ↗</a>`:'사진 검색으로 원본 확인';
+  return `<div class="schedule-media">${anchor}<div class="photo-attribution">${credit}</div></div>`;
+}
+/** Wikimedia public APIs permit anonymous CORS access with origin=*.
+ *  Prefer article photo of the exact Japanese place; if absent, search named Commons files.
+ *  Never silently claim that a generic city image is the exact venue.
+ */
+const PHOTO_LOOKUP_CACHE=new Map();
+async function fetchWikiJSON(base,params){
+  const u=base+'?'+new URLSearchParams({...params,format:'json',origin:'*'}).toString();
+  const res=await fetch(u,{credentials:'omit'});if(!res.ok)throw Error('Wikimedia image API '+res.status);return res.json();
+}
+async function findWikimediaPhoto(place){
+  if(PHOTO_LOOKUP_CACHE.has(place))return PHOTO_LOOKUP_CACHE.get(place);
+  const job=(async()=>{
+   // Exact Japanese Wikipedia page title, including redirects; no fuzzy place substitution.
+   try{
+    const data=await fetchWikiJSON('https://ja.wikipedia.org/w/api.php',{
+      action:'query',titles:place,redirects:'1',prop:'pageimages',piprop:'thumbnail|name',pithumbsize:'800'
+    });
+    const pages=Object.values(data.query?.pages||{}),hit=pages.find(x=>!x.missing&&x.thumbnail?.source&&x.pageimage);
+    if(hit)return {url:hit.thumbnail.source,source:'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(hit.pageimage),label:'방문 장소 문서 대표 이미지'};
+   }catch(e){/* continue to public Commons file name search */}
+   try{
+    const data=await fetchWikiJSON('https://commons.wikimedia.org/w/api.php',{
+     action:'query',generator:'search',gsrsearch:place,gsrnamespace:'6',gsrlimit:'8',prop:'imageinfo',iiprop:'url',iiurlwidth:'800'
+    });
+    const items=Object.values(data.query?.pages||{});
+    const key=place.replace(/[\s・()（）]/g,'').toLocaleLowerCase();
+    const hit=items.find(x=>{
+      const name=(x.title||'').replace(/^File:/,'').replace(/[\s_・()（）]/g,'').toLocaleLowerCase();
+      return name.includes(key)&&/\.(jpg|jpeg|png|webp)$/i.test(x.title||'')&&(x.imageinfo?.[0]?.thumburl||x.imageinfo?.[0]?.url);
+    });
+    if(hit)return {url:hit.imageinfo[0].thumburl||hit.imageinfo[0].url,source:'https://commons.wikimedia.org/wiki/'+encodeURI(hit.title.replace(/ /g,'_')),label:'같은 장소 이름의 Commons 사진 · 일치 재확인'};
+   }catch(e){/* leave explicit reference label */}
+   return null;
+  })();
+  PHOTO_LOOKUP_CACHE.set(place,job);return job;
+}
+async function hydrateSchedulePhotos(){
+ const targets=[...document.querySelectorAll('img[data-photo-lookup]')];
+ let cursor=0;
+ async function worker(){
+  while(cursor<targets.length){
+   let node=targets[cursor++],place=node.dataset.photoLookup;
+   const hit=await findWikimediaPhoto(place);
+   if(!hit||!node.isConnected)continue;
+   const oldSrc=node.src,context=node.closest('.schedule-media');
+   // On failed replacement restore the known (clearly labeled) city reference photo.
+   node.onerror=()=>{node.onerror=null;node.onload=null;node.src=oldSrc;};
+   node.onload=()=>{
+    const badge=context?.querySelector('.photo-context');if(badge){badge.textContent=hit.label;badge.classList.remove('reference');}
+    const credit=context?.querySelector('.photo-attribution');if(credit){credit.innerHTML='';const a=document.createElement('a');a.href=hit.source;a.dataset.safeUrl=hit.source;a.target='_blank';a.rel='noopener noreferrer';a.textContent='원본 사진 · 저작자 · 라이선스 확인 ↗';credit.append(a)}
+   };
+   node.src=hit.url;node.alt=place+' 사진 (Wikimedia 제공)';
+  }
+ }
+ await Promise.all(Array.from({length:Math.min(4,targets.length)},()=>worker()));
 }
 function tag(text){return `<span class="tag">${esc(text)}</span>`}
 function title(k,head,desc){return `<div class="heading"><div><p class="eyebrow">${esc(k)}</p><h2>${esc(head)}</h2><p>${esc(desc)}</p></div></div>`}
@@ -54,8 +118,8 @@ $$('[data-scenario]').forEach(b=>b.addEventListener('click',()=>{selected=b.data
 function candidateDays(id){return INDEX.get(id).group==='원래 후보'?OLD.cities[id].days:NEW.cities[id].days}
 function timeline(id,day){let c=INDEX.get(id),entries=candidateDays(id)[day]||[];let html=`<div class="timeline-head" id="day-${day+1}"><div><span class="eyebrow">DAY ${day+1} · ${dates[day]}</span><h3>${esc(c.name)} ${day+1}일차</h3></div><span>${entries.length}개 일정 · 세로 보기</span></div><div class="timeline">`;
  entries.forEach((e,i)=>{
- let photo=cardPhoto(id,e.place,e.photo_file),prev=entries.slice(0,i).reverse().find(v=>v.place&&v.place!==e.place),photoQuery=[e.place,e.title,c.name,'일본'].filter(Boolean).join(' ');let map=googleMap(e.place),transit=prev?googleTransit(prev.place,e.place):null;
- html+=`<article class="schedule-row"><div class="schedule-copy"><div class="schedule-time"><strong>${esc(e.start)}–${esc(e.end)}</strong><span>${String(i+1).padStart(2,'0')} / ${String(entries.length).padStart(2,'0')}</span></div><h4>${esc(e.title)}</h4><div class="schedule-labels">${tag(e.kind||'일정')}${e.walk!==null&&e.walk!==undefined?tag('이동 도보 '+e.walk+'분 · 계획값'):tag('도보 재확인 필요')}</div><p>${esc(e.note||'계획상 활동·이동 시간입니다. 현장 교통과 영업시간을 재확인하세요.')}</p><div class="schedule-links"><a href="${esc(map)}" data-safe-url="${esc(map)}">지도에서 위치 ↗</a>${transit?`<a href="${esc(transit)}" data-safe-url="${esc(transit)}">대중교통 경로 ↗</a>`:''}</div></div>${photoBox(photo,photoQuery,e.title,'schedule-image')}</article>`;
+ let exactPhoto=cardPhoto(id,e.place,e.photo_file),photo=exactPhoto||bannerPhoto(id),lookup=!exactPhoto?e.photo_query||e.place:'',prev=entries.slice(0,i).reverse().find(v=>v.place&&v.place!==e.place),photoQuery=[e.place,e.title,c.name,'일본'].filter(Boolean).join(' ');let map=googleMap(e.place),transit=prev?googleTransit(prev.place,e.place):null;
+ html+=`<article class="schedule-row"><div class="schedule-copy"><div class="schedule-time"><strong>${esc(e.start)}–${esc(e.end)}</strong><span>${String(i+1).padStart(2,'0')} / ${String(entries.length).padStart(2,'0')}</span></div><h4>${esc(e.title)}</h4><div class="schedule-labels">${tag(e.kind||'일정')}${e.walk!==null&&e.walk!==undefined?tag('이동 도보 '+e.walk+'분 · 계획값'):tag('도보 재확인 필요')}</div><p>${esc(e.note||'계획상 활동·이동 시간입니다. 현장 교통과 영업시간을 재확인하세요.')}</p><div class="schedule-links"><a href="${esc(map)}" data-safe-url="${esc(map)}">지도에서 위치 ↗</a>${transit?`<a href="${esc(transit)}" data-safe-url="${esc(transit)}">대중교통 경로 ↗</a>`:''}</div></div>${photoBox(photo,photoQuery,e.title,'schedule-image',lookup)}</article>`;
  });return html+'</div>'}
 function cityPage(id){let c=INDEX.get(id),original=c.group==='원래 후보',r=original?OLD.cities[id]:NEW.cities[id],photos=photoCatalog(id).slice(0,5),hero=photos[0]||null;
  let lead=original?'09:00 현지 공항 도착 가정':'오전 11시 이전 도착 항공편 사례 기준';
@@ -65,5 +129,5 @@ function galleryPage(){let q=new URLSearchParams(location.search),active=q.get('
 const goodHosts=new Set(['www.google.com','commons.wikimedia.org','namiha.jp','www.crossroadfukuoka.jp','naniwanoyu.com','osaka-info.jp','en.www.laqua.jp','www.gotokyo.org','dogo.jp','matsuyama-sightseeing.com','busshozan.com','www.art-takamatsu.com','www.kumamoto-guide.mom','kumamoto-guide.jp','miyajima-ropeway.info','www.honoyu.jp','www.kusanagino-yu.com','jozankei.jp','www.jotetsu.co.jp','www.resorts.co.jp','akiugrand.com','takeyakotsu.jp','cerulean-blue.co.jp','p-castle.co.jp','www.japan-guide.com','www.koreanair.com','www.tour.ne.jp','www.motu-ooyama.com','sv1.ichiran.com','www.nagoyajo.city.nagoya.jp','www.laqua.jp','itsukushimajinja.jp','jr-miyajimaferry.co.jp','www.city.matsuyama.ehime.jp','www.yulax.info','static.churaumi.oc-am.net','www.akiugrand.com','www.tokyometro.jp','subway.osakametro.co.jp','www.laqua.jp','tabelog.com']);
 let safeNext=null;
 function secureInit(){document.addEventListener('click',e=>{let a=e.target.closest('a[data-safe-url]');if(!a)return;e.preventDefault();try{const url=new URL(a.href);if(url.protocol!=='https:'||url.username||url.password||!goodHosts.has(url.hostname))return;if(url.hostname==='www.google.com'&&!((url.pathname==='/search'&&url.searchParams.get('tbm')==='isch')||url.pathname.startsWith('/maps/')))return;safeNext=url.href;$('#externalDomain').textContent=url.hostname+' · HTTPS';$('#externalModal').hidden=false;$('#externalContinue').focus();}catch{}});$$('[data-close]').forEach(el=>el.addEventListener('click',()=>{$('#externalModal').hidden=true;safeNext=null}));$('#externalContinue').addEventListener('click',()=>{if(safeNext)window.open(safeNext,'_blank','noopener,noreferrer');$('#externalModal').hidden=true;safeNext=null;});}
-async function init(){try{let [bb,old,nn,photos]=await Promise.all([getJSON('budgets.json'),getJSON('recommended.json'),getJSON('new_routes.json'),getJSON('gallery.json')]);B=bb;OLD=old;NEW=nn;PHOTOS=photos;INDEX=new Map(B.cities.map(c=>[c.id,c]));let q=new URLSearchParams(location.search);let page=q.get('page');let id=q.get('id');if(page==='photos')$('#app').innerHTML=galleryPage();else if(page==='city'&&INDEX.has(id)){$('#app').innerHTML=cityPage(id);scenarioControl(INDEX.get(id));$('#timelineHost').innerHTML=[0,1,2].map(n=>timeline(id,n)).join('')}else $('#app').innerHTML=home();secureInit();}catch(e){$('#app').innerHTML=`<div class="container error">페이지를 불러오지 못했습니다: ${esc(e.message)}<p>index.html과 assets 폴더를 저장소 최상위에 함께 업로드했는지 확인하세요.</p></div>`;}}
+async function init(){try{let [bb,old,nn,photos]=await Promise.all([getJSON('budgets.json'),getJSON('recommended.json'),getJSON('new_routes.json'),getJSON('gallery.json')]);B=bb;OLD=old;NEW=nn;PHOTOS=photos;INDEX=new Map(B.cities.map(c=>[c.id,c]));let q=new URLSearchParams(location.search);let page=q.get('page');let id=q.get('id');if(page==='photos')$('#app').innerHTML=galleryPage();else if(page==='city'&&INDEX.has(id)){$('#app').innerHTML=cityPage(id);scenarioControl(INDEX.get(id));$('#timelineHost').innerHTML=[0,1,2].map(n=>timeline(id,n)).join('')}else $('#app').innerHTML=home();secureInit();if(page==='city'&&INDEX.has(id)&&IDsNew.includes(id))hydrateSchedulePhotos();}catch(e){$('#app').innerHTML=`<div class="container error">페이지를 불러오지 못했습니다: ${esc(e.message)}<p>index.html과 assets 폴더를 저장소 최상위에 함께 업로드했는지 확인하세요.</p></div>`;}}
 init();
