@@ -179,15 +179,14 @@
   },
   "hiroshima-d2-07": {
     "url": "./assets/photos/schedules/hiroshima/d2-07.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:JR_Hiroshima_station_03d_(2949908323).jpg",
     "place": "広島駅",
-    "match": "exact",
-    "author": "ノボホショコロトソ",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "8a4a1fafbe1ce3efeebfa6685b6d3b730e96dc31",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "midorisyu  from JAPAN",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "857dacdf5bb6d367e40450e41b55b997330c6502",
+    "source_verified_by": "download_verified_content"
   },
   "hiroshima-d2-08": {
     "url": "./assets/photos/schedules/hiroshima/d2-08.jpg",
@@ -214,16 +213,14 @@
   },
   "hiroshima-d2-10": {
     "url": "./assets/photos/schedules/hiroshima/d2-10.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%BE%E9%81%93%E9%A7%85_-_Flickr_-_m-louis.jpg",
     "place": "広島駅 ホテル",
-    "source": "https://commons.wikimedia.org/wiki/File:Grand_Prince_Hotel_Hiroshima_Prince_Club_Floor_King_bedroom_20190614-001.jpg",
-    "author": "J o",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "match": "related_activity_example",
-    "source_proof_blob_sha": "ad218f2e5d881ee2195061ecf5855da4556fd95a",
-    "source_proof_commit": "",
-    "source_verified_by": "same_byte_blob_from_locally_verified_activity",
-    "reused_from": "hiroshima-d1-09"
+    "author": "m-louis .®  from Osaka, Japan",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "119a26dfa3da96716248175ec8e2460902e0ea1b",
+    "source_verified_by": "download_verified_content"
   },
   "hiroshima-d3-01": {
     "url": "./assets/photos/schedules/hiroshima/d3-01.jpg",
@@ -251,15 +248,14 @@
   },
   "hiroshima-d3-03": {
     "url": "./assets/photos/schedules/hiroshima/d3-03.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_streetcar_at_night_beside_Hondori_Station.jpg",
     "place": "広島駅",
-    "match": "exact",
-    "author": "ノボホショコロトソ",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "8a4a1fafbe1ce3efeebfa6685b6d3b730e96dc31",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "Benlisquare",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "73d16acf1860e4e9928cd7f8102a44b077b441f9",
+    "source_verified_by": "download_verified_content"
   },
   "hiroshima-d3-04": {
     "source": "https://commons.wikimedia.org/wiki/File:A_man_prepares_okonomiyaki_in_Hiroshima_2004-08-05.jpg",
@@ -273,27 +269,26 @@
     "source_proof_blob_sha": "824fba5a7a1a52913bd52cc6a9f3d5357650e33a"
   },
   "hiroshima-d3-05": {
-    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg",
-    "author": "ノボホショコロトソ",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0",
-    "match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)",
-    "source_verified_by": "current_catalog_for_changed_image",
     "url": "./assets/photos/schedules/hiroshima/d3-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima-Airport_Inside.jpg",
     "place": "広島駅",
-    "source_proof_blob_sha": "8a4a1fafbe1ce3efeebfa6685b6d3b730e96dc31"
+    "author": "MaedaAkihiko",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "edd349d2d932deaed319cfbe25825d81cdd69f6f",
+    "source_verified_by": "download_verified_content"
   },
   "hiroshima-d3-06": {
     "url": "./assets/photos/schedules/hiroshima/d3-06.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:%E5%BA%83%E5%B3%B6%E7%A9%BA%E6%B8%AF01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_airport_japan.jpg",
     "place": "広島空港",
-    "match": "exact",
-    "author": "Taisyo",
-    "license": "CC BY 3.0",
-    "license_url": "https://creativecommons.org/licenses/by/3.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "15ea8198649c33bc6934053d7e02827812b4526a",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "nattou",
+    "license": "Public domain",
+    "license_url": "",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "6e5a0b2a08cc8fbed0e86dc435a7005c0da19891",
+    "source_verified_by": "download_verified_content"
   },
   "shizuoka-d1-01": {
     "url": "./assets/photos/schedules/shizuoka/d1-01.jpg",
@@ -416,15 +411,14 @@
   },
   "shizuoka-d2-03": {
     "url": "./assets/photos/schedules/shizuoka/d2-03.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:KASHI_NO_ICHI_maguro_kan_in_shimizu_ward.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Matcha_tea_latte_with_rosetta_latte_art.jpg",
     "place": "清水魚市場 河岸の市",
-    "match": "exact",
-    "author": "Halowand",
+    "author": "Irvan Ary Maulana",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "425d1d9487256ac7d45b49a43a30e17939d5df42",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "07967d606b6643ca38366690d27bd6bf942c3c85",
+    "source_verified_by": "download_verified_content"
   },
   "shizuoka-d2-04": {
     "url": "./assets/photos/schedules/shizuoka/d2-04.jpg",
@@ -476,16 +470,14 @@
   },
   "shizuoka-d2-08": {
     "url": "./assets/photos/schedules/shizuoka/d2-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:ASTY%E9%9D%99%E5%B2%A1%E6%9D%B1%E9%A4%A8.jpg",
     "place": "静岡駅 ASTY",
-    "source": "https://commons.wikimedia.org/wiki/File:Matcha_ice_cream_001.jpg",
-    "author": "City Foodsters",
-    "license": "CC BY 2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "match": "related_activity_example",
-    "source_proof_blob_sha": "62b15418809cbf7321d518424a0f0a84638dda9c",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
-    "source_verified_by": "same_byte_blob_from_locally_verified_activity",
-    "reused_from": "shizuoka-d1-05"
+    "author": "電車(新幹線)でゴー！",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "b0dafe12f8d4000367b49ab2d5a82d5fe9f93e0f",
+    "source_verified_by": "download_verified_content"
   },
   "shizuoka-d2-09": {
     "source": "https://commons.wikimedia.org/wiki/File:Hotel_Associa_Shizuoka_from_Tokaido_Shinkansen_window_view.jpg",
@@ -535,27 +527,26 @@
     "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
   },
   "shizuoka-d3-04": {
-    "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_201016a.jpg",
-    "author": "江戸村のとくぞう",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)",
-    "source_verified_by": "current_catalog_for_changed_image",
     "url": "./assets/photos/schedules/shizuoka/d3-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_airport_-_panoramio.jpg",
     "place": "静岡駅",
-    "source_proof_blob_sha": "86efc031cd2d8c2e8af77c8cdadad16e0881875c"
+    "author": "Kaz Ish",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "668bb7a1e91c8d20bd760d3aefa99be2f110ff44",
+    "source_verified_by": "download_verified_content"
   },
   "shizuoka-d3-05": {
     "url": "./assets/photos/schedules/shizuoka/d3-05.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Fujisan-Shizuoka_airport,Makinohara-city,Japan.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shizuoka-airport-terminal.jpg",
     "place": "富士山静岡空港",
-    "match": "exact",
-    "author": "katorisi",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "ee2f7fc0f1fa3193027fc232f7e3e0e7dc547c00",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "しんかわな",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "3cfeb146475ad71fd177df4af2a176b5440f3bb3",
+    "source_verified_by": "download_verified_content"
   },
   "sapporo-d1-01": {
     "url": "./assets/photos/schedules/sapporo/d1-01.jpg",
@@ -653,15 +644,14 @@
   },
   "sapporo-d2-01": {
     "url": "./assets/photos/schedules/sapporo/d2-01.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:JR_Sapporo_Sta03n3200.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:A_Corridor_of_Sapporo_Station_01.jpg",
     "place": "札幌駅",
-    "match": "exact",
-    "author": "663highland",
-    "license": "CC BY 2.5",
-    "license_url": "https://creativecommons.org/licenses/by/2.5",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "cb2f5ffcaf50f4deae64e7a43eec105604e7b6c1",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "ノボホショコロトソ",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "85bc3b9eea27cd013e0857376ec10f66f22e8a8a",
+    "source_verified_by": "download_verified_content"
   },
   "sapporo-d2-02": {
     "url": "./assets/photos/schedules/sapporo/d2-02.jpg",
@@ -689,15 +679,14 @@
   },
   "sapporo-d2-04": {
     "url": "./assets/photos/schedules/sapporo/d2-04.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:TsukimiBashi2004-12.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:SAKURAKO_in_the_JyoZanKei_hot_springs._(8345382759).jpg",
     "place": "定山渓温泉",
-    "match": "exact",
-    "author": "",
-    "license": "Public domain",
-    "license_url": "",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "c0b0bba5ea71b5fb88404112848019021fd29406",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "MIKI Yoshihito  from Sapporo City,Hokkaido., JAPAN",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "43e71b764c7485146f2a31188d4a05a7a1a63dd6",
+    "source_verified_by": "download_verified_content"
   },
   "sapporo-d2-05": {
     "url": "./assets/photos/schedules/sapporo/d2-05.jpg",
@@ -713,15 +702,14 @@
   },
   "sapporo-d2-06": {
     "url": "./assets/photos/schedules/sapporo/d2-06.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:JR_Sapporo_Sta03n3200.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Corridor_of_Sapporo_Station_02.jpg",
     "place": "札幌駅",
-    "match": "exact",
-    "author": "663highland",
-    "license": "CC BY 2.5",
-    "license_url": "https://creativecommons.org/licenses/by/2.5",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "cb2f5ffcaf50f4deae64e7a43eec105604e7b6c1",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "ノボホショコロトソ",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "a224e5beac625930a5ad6b6906ec4d713a3b9a8c",
+    "source_verified_by": "download_verified_content"
   },
   "sapporo-d2-07": {
     "url": "./assets/photos/schedules/sapporo/d2-07.jpg",
@@ -748,15 +736,15 @@
     "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
   },
   "sapporo-d2-09": {
-    "source": "https://commons.wikimedia.org/wiki/File:SapporoNight2004-11.jpg",
-    "author": "Kinori",
+    "url": "./assets/photos/schedules/sapporo/d2-09.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sapporo2005-1-9.jpg",
+    "place": "札幌駅 ホテル",
+    "author": "w:ja:user:Kinori",
     "license": "Public domain",
     "license_url": "",
-    "match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)",
-    "source_verified_by": "current_catalog_for_changed_image",
-    "url": "./assets/photos/schedules/sapporo/d2-09.jpg",
-    "place": "札幌駅 ホテル",
-    "source_proof_blob_sha": "93b86bdf5e63df52b1f583f85f05ed1456b61365"
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "b11bf8163e76eff79901e5f8fdc1ffac5ad99da0",
+    "source_verified_by": "download_verified_content"
   },
   "sapporo-d3-01": {
     "url": "./assets/photos/schedules/sapporo/d3-01.jpg",
@@ -808,27 +796,25 @@
   },
   "sapporo-d3-05": {
     "url": "./assets/photos/schedules/sapporo/d3-05.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:New_Chitose_Airport.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Chitose_Airport_outside_(International).jpg",
     "place": "新千歳空港",
-    "match": "exact",
-    "author": "ja:user:Hykw-a4",
+    "author": "欅  (Keyaki)",
     "license": "CC BY-SA 3.0",
-    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "1c16b8e949aa0e19ec8035a366f044adf65c07ac",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "4bc0d3b814ef8fc6aa28cea61087fa2cf8aef02d",
+    "source_verified_by": "download_verified_content"
   },
   "sapporo-d3-06": {
     "url": "./assets/photos/schedules/sapporo/d3-06.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:New_Chitose_Airport.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Chitose_Airport_control_tower.jpg",
     "place": "新千歳空港",
-    "match": "exact",
-    "author": "ja:user:Hykw-a4",
+    "author": "欅  (Keyaki)",
     "license": "CC BY-SA 3.0",
-    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "1c16b8e949aa0e19ec8035a366f044adf65c07ac",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "98c4222f26deddb6efa65afcb6672bc5f24ebff7",
+    "source_verified_by": "download_verified_content"
   },
   "nagoya-d1-01": {
     "url": "./assets/photos/schedules/nagoya/d1-01.jpg",
@@ -940,15 +926,14 @@
   },
   "nagoya-d2-02": {
     "url": "./assets/photos/schedules/nagoya/d2-02.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Atsuta-jingu_Shrine_Haiden,_Jingu_Atsuta_Ward_Nagoya_2023.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Atsuta_Jingu_20211226-02.jpg",
     "place": "熱田神宮",
-    "match": "exact",
-    "author": "Tomio344456",
+    "author": "円周率３パーセント",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "929907e94ddbced3442fe271f14fc15ff845450c",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "40bc92f411a9c99b4ccb5f24e241822fa639d0bf",
+    "source_verified_by": "download_verified_content"
   },
   "nagoya-d2-03": {
     "source": "https://commons.wikimedia.org/wiki/File:Atsutahouraiken20071117.PNG",
@@ -986,28 +971,25 @@
   },
   "nagoya-d2-06": {
     "url": "./assets/photos/schedules/nagoya/d2-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Miso_Katsu_by_jetalone_in_Nagoya.jpg",
     "place": "名古屋駅",
-    "source": "https://commons.wikimedia.org/wiki/File:Miso_katsu,_tsukemono_and_miso_soup_by_shibainu_in_Nagoya.jpg",
-    "author": "shibainu  from Nagoya",
+    "author": "jetalone  from Nagoya",
     "license": "CC BY 2.0",
     "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "match": "related_activity_example",
-    "source_proof_blob_sha": "0e2fbfe01273669191861d8cccfc1a779297dd22",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
-    "source_verified_by": "same_byte_blob_from_locally_verified_activity",
-    "reused_from": "nagoya-d1-06"
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "cb7dbb7bf3c701eb513e89284f891cd507547ba5",
+    "source_verified_by": "download_verified_content"
   },
   "nagoya-d2-07": {
     "url": "./assets/photos/schedules/nagoya/d2-07.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Nagoya_TV_Tower_%26_Spaceship-Aqua,_Higashisakura_Higashi_Ward_Nagoya_2020.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Oasis_21.JPG",
     "place": "オアシス21",
-    "match": "exact",
-    "author": "Tomio344456",
+    "author": "Alpsdake",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "01fa12a9b225d8fa6c067e66378a257c7f70f548",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "4cb1b8cf945d59bfe22a76b6d50c7a789d323681",
+    "source_verified_by": "download_verified_content"
   },
   "nagoya-d2-08": {
     "url": "./assets/photos/schedules/nagoya/d2-08.jpg",
@@ -1023,15 +1005,14 @@
   },
   "nagoya-d3-01": {
     "url": "./assets/photos/schedules/nagoya/d3-01.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:View_of_Nagoya_Station,_Tsubaki-cho_Nakamura_Ward_Nagoya_2022.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Christmas_decoration_at_Nagoya_Station%3B_November_2007.jpg",
     "place": "名古屋駅",
-    "match": "exact",
-    "author": "Tomio344456",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "97fc12802db5032d6c354d121d5d810a0dd68bdb",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "Shubert Ciencia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "dadd7864c662f2530d9a5d5f59994e4f72dc0911",
+    "source_verified_by": "download_verified_content"
   },
   "nagoya-d3-02": {
     "url": "./assets/photos/schedules/nagoya/d3-02.jpg",
@@ -1070,15 +1051,14 @@
   },
   "nagoya-d3-05": {
     "url": "./assets/photos/schedules/nagoya/d3-05.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Centrair_Terminal1-20220514-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E9%83%A8%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF_(chubu_Intl_airport)_(2190668919).jpg",
     "place": "中部国際空港",
-    "match": "exact",
-    "author": "Nryate",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "f4eb376fa326198e2098d0c270cf94fbb4fc66fa",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "Yamaguchi Yoshiaki  from Japan",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "3ef4eb0f129174435e517014b669699bcf2f8668",
+    "source_verified_by": "download_verified_content"
   },
   "okinawa-d1-01": {
     "url": "./assets/photos/schedules/okinawa/d1-01.jpg",
@@ -1294,27 +1274,25 @@
   },
   "okinawa-d2-10": {
     "url": "./assets/photos/schedules/okinawa/d2-10.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:202408_%E6%B2%96%E7%B9%A9%E7%B8%A3%E9%82%A3%E9%9C%B8%E5%B8%82%E7%9A%84%E9%82%A3%E9%9C%B8%E5%9C%8B%E9%9A%9B%E9%80%9A%E7%9A%84%E8%A1%97%E6%99%AF.jpg",
     "place": "那覇国際通り",
-    "source": "https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503182722.jpg",
-    "author": "TurnOnTheNight",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "match": "related_activity_example",
-    "source_proof_blob_sha": "254e1f47fcac9c69134256074bfd2f1c5bd1a723",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
-    "source_verified_by": "same_byte_blob_from_locally_verified_activity",
-    "reused_from": "okinawa-d1-08"
+    "author": "Junyu-K",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "78f71e5e3dcb7b29efcbdee9ad2b7f4b863f940c",
+    "source_verified_by": "download_verified_content"
   },
   "okinawa-d3-01": {
     "url": "./assets/photos/schedules/okinawa/d3-01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Yui_Rail,_Kench%C5%8D-mae_Station_(Okinawa).jpg",
     "place": "県庁前駅 那覇",
-    "source": "https://commons.wikimedia.org/wiki/File:Kencho-mae_Station_Okinawa.jpg",
-    "author": "Rsa",
+    "author": "Mk2010",
     "license": "CC BY-SA 3.0",
-    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "match": "manual_venue_and_season_review",
-    "source_verified_by": "commons_file_metadata_and_visual_review",
-    "source_proof_blob_sha": "40302821063d29ba2e5e4d91913621373af1f0f6"
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "a2b29e1c72e24ad4938dbf234db43b323b86504d",
+    "source_verified_by": "download_verified_content"
   },
   "okinawa-d3-02": {
     "url": "./assets/photos/schedules/okinawa/d3-02.jpg",
@@ -1342,27 +1320,25 @@
   },
   "okinawa-d3-04": {
     "url": "./assets/photos/schedules/okinawa/d3-04.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Naha_Airport13s3s4410.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Naha_Airport_Departure_Lobby.jpg",
     "place": "那覇空港",
-    "match": "exact",
-    "author": "663highland",
-    "license": "CC BY 2.5",
-    "license_url": "https://creativecommons.org/licenses/by/2.5",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "9da53f03b78489e14c4f0190b498efd176e93cf3",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "Mk2010",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "7cae1651d70c25e940247fa27751c644ff0a64f5",
+    "source_verified_by": "download_verified_content"
   },
   "okinawa-d3-05": {
     "url": "./assets/photos/schedules/okinawa/d3-05.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Naha_Airport13s3s4410.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_view_of_Naha_Airport_Domestic_Passenger_Terminal_Building.JPG",
     "place": "那覇空港",
-    "match": "exact",
-    "author": "663highland",
-    "license": "CC BY 2.5",
-    "license_url": "https://creativecommons.org/licenses/by/2.5",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "9da53f03b78489e14c4f0190b498efd176e93cf3",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "そらみみ",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "bac66ddab306f8a9e9e8d5297b3ed474c9c300d0",
+    "source_verified_by": "download_verified_content"
   },
   "sendai-d1-01": {
     "url": "./assets/photos/schedules/sendai/d1-01.jpg",
@@ -1426,15 +1402,14 @@
   },
   "sendai-d1-06": {
     "url": "./assets/photos/schedules/sendai/d1-06.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_station_Senzan_Line_platforms.jpg",
     "place": "仙台駅",
-    "match": "exact",
-    "author": "掬茶",
+    "author": "Ymblanter",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "8e10d2fb5903e8240cf17390f402148bdb2c6ad2",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "e44d7ef8669b3accefef9a1ee6fa756c5c75e0d5",
+    "source_verified_by": "download_verified_content"
   },
   "sendai-d1-07": {
     "url": "./assets/photos/schedules/sendai/d1-07.jpg",
@@ -1462,27 +1437,25 @@
   },
   "sendai-d1-09": {
     "url": "./assets/photos/schedules/sendai/d1-09.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Metropolitan_Sendai_001.JPG",
     "place": "仙台駅 ホテル",
-    "match": "reference",
-    "author": "掬茶",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "8e10d2fb5903e8240cf17390f402148bdb2c6ad2",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "neuropower",
+    "license": "Public domain",
+    "license_url": "",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "cd6da513a1e54cae7efecef41474b5292546745e",
+    "source_verified_by": "download_verified_content"
   },
   "sendai-d2-01": {
     "url": "./assets/photos/schedules/sendai/d2-01.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:International-Center-STA_South1.jpg",
     "place": "仙台駅 西口",
-    "match": "reference",
-    "author": "掬茶",
+    "author": "MaedaAkihiko",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "8e10d2fb5903e8240cf17390f402148bdb2c6ad2",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "80df232bee3551a51db6d9338d40c62eeabee0d9",
+    "source_verified_by": "download_verified_content"
   },
   "sendai-d2-02": {
     "source": "https://commons.wikimedia.org/wiki/File:211029_Akiu_Onsen_Sendai_Miyagi_pref_Japan01s3.jpg",
@@ -1509,15 +1482,14 @@
   },
   "sendai-d2-04": {
     "url": "./assets/photos/schedules/sendai/d2-04.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:211029_Akiu_Onsen_Sendai_Miyagi_pref_Japan01s3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Akiu_Onsen,_Ryokusuitei_01.jpg",
     "place": "秋保温泉",
-    "match": "exact",
-    "author": "663highland",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "f629d72aa3462785d2ba6a98b9287ac66c6f2fda",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "gp  from Japan.",
+    "license": "CC BY-SA 2.1 jp",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "7df2a9ce7941357bcd03458f1dac5ec64ccc61e4",
+    "source_verified_by": "download_verified_content"
   },
   "sendai-d2-05": {
     "url": "./assets/photos/schedules/sendai/d2-05.jpg",
@@ -1533,15 +1505,14 @@
   },
   "sendai-d2-06": {
     "url": "./assets/photos/schedules/sendai/d2-06.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_west_entrance_2020.jpg",
     "place": "仙台駅",
-    "match": "reference",
-    "author": "掬茶",
+    "author": "にほにうむ",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "8e10d2fb5903e8240cf17390f402148bdb2c6ad2",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "f5839341d5eb0e8caf5cd631493c97f33bb20da1",
+    "source_verified_by": "download_verified_content"
   },
   "sendai-d2-07": {
     "url": "./assets/photos/schedules/sendai/d2-07.jpg",
@@ -1569,15 +1540,14 @@
   },
   "sendai-d2-09": {
     "url": "./assets/photos/schedules/sendai/d2-09.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_night_(30648489646).jpg",
     "place": "仙台駅",
-    "match": "reference",
-    "author": "掬茶",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "8e10d2fb5903e8240cf17390f402148bdb2c6ad2",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "Cheng-en Cheng  from Taichung City, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "04ff0271787bcb36c10be2221231cb07f0d2d6e6",
+    "source_verified_by": "download_verified_content"
   },
   "sendai-d2-10": {
     "source": "https://commons.wikimedia.org/wiki/File:Sendai_Hotel_viewed_from_a_pedway_in_front_of_Sendai_station_west_exit.JPG",
@@ -1616,50 +1586,47 @@
   },
   "sendai-d3-03": {
     "url": "./assets/photos/schedules/sendai/d3-03.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_Night.JPG",
     "place": "仙台駅 ずんだ餅",
-    "match": "reference",
-    "author": "掬茶",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "8e10d2fb5903e8240cf17390f402148bdb2c6ad2",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
-  },
-  "sendai-d3-04": {
-    "source": "https://commons.wikimedia.org/wiki/File:Gyutan_teishoku.JPG",
-    "author": "Captain76",
+    "author": "Caveman2",
     "license": "Public domain",
     "license_url": "",
-    "match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)",
-    "source_verified_by": "current_catalog_for_changed_image",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "ae2fe07367eeb235ec3dfd5de9d71b0fde7448d1",
+    "source_verified_by": "download_verified_content"
+  },
+  "sendai-d3-04": {
     "url": "./assets/photos/schedules/sendai/d3-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:211030_Kameshima_Matsushima_Miyagi_pref_Japan01n.jpg",
     "place": "仙台駅 牛タン",
-    "source_proof_blob_sha": "c9afb491f3f74d2577df6b59edcbfbb77881cae8"
+    "author": "663highland",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "a58eae90607251380b1dc3fdcd64121a0eb7d2f7",
+    "source_verified_by": "download_verified_content"
   },
   "sendai-d3-05": {
     "url": "./assets/photos/schedules/sendai/d3-05.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Airport_Building_front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rapid_train_to_Sendai.jpg",
     "place": "仙台空港",
-    "match": "reference",
-    "author": "ブルーノ・プラス",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "347af91111f78d063768778a15670ba6cfb15082",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "Muji Tra",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "bdfdf497180a3a937ec6a9455629da5a57459e31",
+    "source_verified_by": "download_verified_content"
   },
   "sendai-d3-06": {
     "url": "./assets/photos/schedules/sendai/d3-06.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Airport_Building_front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_airport_access_line_%E4%BB%99%E5%8F%B0%E7%A9%BA%E6%B8%AF%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E9%89%84%E9%81%93_(436613433).jpg",
     "place": "仙台空港",
-    "match": "reference",
-    "author": "ブルーノ・プラス",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "347af91111f78d063768778a15670ba6cfb15082",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "Yamaguchi Yoshiaki  from Japan",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "22d9a78fd35ca97ec79475f4b5c985b1dedb77db",
+    "source_verified_by": "download_verified_content"
   },
   "fukuoka-d1-01": {
     "url": "./assets/photos/schedules/fukuoka/d1-01.jpg",
@@ -1840,15 +1807,14 @@
   },
   "fukuoka-d2-06": {
     "url": "./assets/photos/schedules/fukuoka/d2-06.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Meinohama_Ferry_Passenger_Terminal-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Meinohama_Ferry_Passenger_Terminal.jpg",
     "place": "姪浜渡船場",
-    "match": "exact",
     "author": "Momotarou2012",
     "license": "CC BY-SA 3.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "0b05834027fea77a15be4c83689534a65fcdea4b",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "4156a82a8a99fa5716e44090ccb682c7648dd292",
+    "source_verified_by": "download_verified_content"
   },
   "fukuoka-d2-07": {
     "source": "https://commons.wikimedia.org/wiki/File:JR_Hakata_City_2011_Jan.jpg",
@@ -1897,15 +1863,14 @@
   },
   "fukuoka-d3-01": {
     "url": "./assets/photos/schedules/fukuoka/d3-01.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Hakata_Station_Sign_(Fukuoka_Municipal_Subway).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fukuoka_City_Subway_Airport_Line_Hakata_Station.jpg",
     "place": "博多駅",
-    "match": "exact",
-    "author": "そらみみ",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "2bbec0c5c90e4b9e3957870fdd44720225f2f908",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "G43",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "0c5103e969d0560b2d59312e4649524683232244",
+    "source_verified_by": "download_verified_content"
   },
   "fukuoka-d3-02": {
     "source": "https://commons.wikimedia.org/wiki/File:Sumiyoshi-jinja_(Fukuoka)_haiden-1.JPG",
@@ -2038,15 +2003,14 @@
   },
   "osaka-d1-09": {
     "url": "./assets/photos/schedules/osaka/d1-09.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Osaka-namba-L1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Namba_Station.JPG",
     "place": "なんば駅",
-    "match": "exact",
-    "author": "Electroliner",
-    "license": "Public domain",
-    "license_url": "",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "e99081554d5b08905e6e814b1f362f9e6133ff51",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "Own work",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "50b7b4b049d51e5691ff466880dc3f2c4b34df3e",
+    "source_verified_by": "download_verified_content"
   },
   "osaka-d2-01": {
     "url": "./assets/photos/schedules/osaka/d2-01.jpg",
@@ -2146,27 +2110,25 @@
   },
   "osaka-d2-09": {
     "url": "./assets/photos/schedules/osaka/d2-09.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Osaka-namba-L1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%B5%B7%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85_-_panoramio.jpg",
     "place": "なんば駅",
-    "match": "exact",
-    "author": "Electroliner",
-    "license": "Public domain",
-    "license_url": "",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "e99081554d5b08905e6e814b1f362f9e6133ff51",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "くろふね",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "b60124b153abc732acbb0ad180263478f32939ae",
+    "source_verified_by": "download_verified_content"
   },
   "osaka-d3-01": {
     "url": "./assets/photos/schedules/osaka/d3-01.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Osaka-namba-L1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%B5%B7%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85_-_panoramio_(1).jpg",
     "place": "なんば駅",
-    "match": "exact",
-    "author": "Electroliner",
-    "license": "Public domain",
-    "license_url": "",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "e99081554d5b08905e6e814b1f362f9e6133ff51",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "C.L. Kao (eddie5150)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "281bc042a7ec469d04f0f40173d5c43a96035b8e",
+    "source_verified_by": "download_verified_content"
   },
   "osaka-d3-02": {
     "url": "./assets/photos/schedules/osaka/d3-02.jpg",
@@ -2182,15 +2144,14 @@
   },
   "osaka-d3-03": {
     "url": "./assets/photos/schedules/osaka/d3-03.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Osaka-namba-L1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nankai_6000_series_at_Namba_Station_(Nankai)_2009-10-06.jpg",
     "place": "なんば駅",
-    "match": "exact",
-    "author": "Electroliner",
-    "license": "Public domain",
-    "license_url": "",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "e99081554d5b08905e6e814b1f362f9e6133ff51",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "船 長",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "3fa0d47f4e60384e48cd6391e237f015f16b7ae9",
+    "source_verified_by": "download_verified_content"
   },
   "osaka-d3-04": {
     "url": "./assets/photos/schedules/osaka/d3-04.jpg",
@@ -2205,15 +2166,15 @@
     "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
   },
   "osaka-d3-05": {
-    "source": "https://commons.wikimedia.org/wiki/File:%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E5%85%A8%E4%BD%93%E5%86%99%E7%9C%9F20220811.jpg",
-    "author": "Ankou1192",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)",
-    "source_verified_by": "current_catalog_for_changed_image",
     "url": "./assets/photos/schedules/osaka/d3-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kansai_International_Airport.JPG",
     "place": "関西国際空港",
-    "source_proof_blob_sha": "b93ec829f9d7dc4cc348854c2bbfd7cfd1c648f9"
+    "author": "Terence Ong",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "6432d7cd2f3062dbd9eb62a150b2c70312455c72",
+    "source_verified_by": "download_verified_content"
   },
   "tokyo-d1-01": {
     "url": "./assets/photos/schedules/tokyo/d1-01.jpg",
@@ -2419,15 +2380,14 @@
   },
   "tokyo-d3-01": {
     "url": "./assets/photos/schedules/tokyo/d3-01.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:TokyoMetro-Ueno-Station-gate2018JR.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ueno_Station.jpg",
     "place": "上野駅",
-    "match": "exact",
-    "author": "Kansai-good",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "643ab4f27270cc858ccdf00143db77e1a783afa2",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "Calton",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "268599e439e99f057ad98ab2e6201c14e92bec47",
+    "source_verified_by": "download_verified_content"
   },
   "tokyo-d3-02": {
     "url": "./assets/photos/schedules/tokyo/d3-02.jpg",
@@ -2466,27 +2426,25 @@
   },
   "tokyo-d3-05": {
     "url": "./assets/photos/schedules/tokyo/d3-05.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:TBCK_5107_new-KaNaC.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Singapore_Airlines_Boeing_777-300ER_(9V-SWJ)_at_Tokyo_Narita_International_Airport.jpg",
     "place": "成田国際空港",
-    "match": "exact",
-    "author": "Comyu  ( talk )",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "8f0f9eb0a91382b5d968e4620e549c42e1daa455",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "Masahiro TAKAGI  from Ichikawa, Chiba, Japan",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "374e83c116469a7724ba0d151da9a40a23b3daa5",
+    "source_verified_by": "download_verified_content"
   },
   "tokyo-d3-06": {
     "url": "./assets/photos/schedules/tokyo/d3-06.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:TBCK_5107_new-KaNaC.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:008_Many_airlines_together_at_Narita_Airport,_Japan_-_%E6%88%90%E7%94%B0%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF.JPG",
     "place": "成田国際空港",
-    "match": "exact",
-    "author": "Comyu  ( talk )",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "8f0f9eb0a91382b5d968e4620e549c42e1daa455",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "Marek Ślusarczyk ( Tupungato )  Photo gallery",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "142f8a4b0b955b9e9018ad73b737e513ba537ca1",
+    "source_verified_by": "download_verified_content"
   },
   "matsuyama-d1-01": {
     "source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Airport_20240709_(10).jpg",
@@ -2573,16 +2531,14 @@
   },
   "matsuyama-d1-08": {
     "url": "./assets/photos/schedules/matsuyama/d1-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dougo_Onsen,_Matsuyama.jpg",
     "place": "道後温泉",
-    "source": "https://commons.wikimedia.org/wiki/File:Taimeshi_02.jpg",
-    "author": "ノボホショコロトソ",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0",
-    "match": "related_activity_example",
-    "source_proof_blob_sha": "e9e782fcd9c21de151b16e1663e22debb135c1ee",
-    "source_proof_commit": "",
-    "source_verified_by": "same_byte_blob_from_locally_verified_activity",
-    "reused_from": "matsuyama-d3-03"
+    "author": "Urashimataro",
+    "license": "Public domain",
+    "license_url": "",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "ac908a2953af9292e37288cfb3aed69aed8089a5",
+    "source_verified_by": "download_verified_content"
   },
   "matsuyama-d1-09": {
     "url": "./assets/photos/schedules/matsuyama/d1-09.jpg",
@@ -2717,15 +2673,14 @@
   },
   "matsuyama-d3-01": {
     "url": "./assets/photos/schedules/matsuyama/d3-01.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Iyotetsu_Takashimaya_20260517.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85%E3%81%AE%E3%81%82%E3%82%8B%E4%BC%8A%E4%BA%88%E9%89%84%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E3%83%93%E3%83%AB.JPG",
     "place": "松山市駅",
-    "match": "exact",
-    "author": "CT-May",
-    "license": "CC0",
-    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "3afd592d5bcc05e798ac2cf3aeeb6dcdb84a03e6",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "R2K4",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "b077ef1530318f37968e7c38663ce11ceb0cf166",
+    "source_verified_by": "download_verified_content"
   },
   "matsuyama-d3-02": {
     "url": "./assets/photos/schedules/matsuyama/d3-02.jpg",
@@ -2740,15 +2695,15 @@
     "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
   },
   "matsuyama-d3-03": {
-    "source": "https://commons.wikimedia.org/wiki/File:Taimeshi_02.jpg",
-    "author": "ノボホショコロトソ",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0",
-    "match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)",
-    "source_verified_by": "current_catalog_for_changed_image",
     "url": "./assets/photos/schedules/matsuyama/d3-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85%E9%A7%85%E5%90%8D%E8%A1%A8%E8%A8%98.jpg",
     "place": "松山市駅",
-    "source_proof_blob_sha": "e9e782fcd9c21de151b16e1663e22debb135c1ee"
+    "author": "Van2van",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "7ee88e41963468e7394188e64d2ffb25938a0572",
+    "source_verified_by": "download_verified_content"
   },
   "matsuyama-d3-04": {
     "url": "./assets/photos/schedules/matsuyama/d3-04.jpg",
@@ -2763,15 +2718,15 @@
     "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
   },
   "matsuyama-d3-05": {
-    "source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Airport_20240709_(10).jpg",
+    "url": "./assets/photos/schedules/matsuyama/d3-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Airport_20240605.jpg",
+    "place": "松山空港",
     "author": "CT-May",
     "license": "CC0",
     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)",
-    "source_verified_by": "current_catalog_for_changed_image",
-    "url": "./assets/photos/schedules/matsuyama/d3-05.jpg",
-    "place": "松山空港",
-    "source_proof_blob_sha": "58aa93695691520901ef58a7472943737729dd8e"
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "2b20ca5e5d416b50885535d41985bfe258a1f665",
+    "source_verified_by": "download_verified_content"
   },
   "takamatsu-d1-01": {
     "url": "./assets/photos/schedules/takamatsu/d1-01.jpg",
@@ -3001,26 +2956,26 @@
     "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
   },
   "takamatsu-d3-03": {
-    "source": "https://commons.wikimedia.org/wiki/File:Kama-age_sanuki_udon_by_sekido_in_Takamatsu,_Kagawa.jpg",
-    "author": "sekido",
-    "license": "CC BY 2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)",
-    "source_verified_by": "current_catalog_for_changed_image",
     "url": "./assets/photos/schedules/takamatsu/d3-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Station_Sign_2.jpg",
     "place": "高松駅",
-    "source_proof_blob_sha": "978eb65f75f408f1346cdcf5ca5b9cbf79e2c5f5"
+    "author": "そらみみ  (Soramimi)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "22c32cd8ca6e32dcc656888d698791a67e3d4c49",
+    "source_verified_by": "download_verified_content"
   },
   "takamatsu-d3-04": {
-    "source": "https://commons.wikimedia.org/wiki/File:TakamatsuKukou01.jpg",
-    "author": "Toto-tarou",
-    "license": "CC BY-SA 3.0",
-    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)",
-    "source_verified_by": "current_catalog_for_changed_image",
     "url": "./assets/photos/schedules/takamatsu/d3-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E6%9D%BE%E7%A9%BA%E6%B8%AF_%E5%85%A8%E6%99%AF.jpg",
     "place": "高松空港",
-    "source_proof_blob_sha": "de5e349b34e9cbe8cfa9b26ebcdb1e7a5f539c2f"
+    "author": "Yutaaka0804",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "17f54fcc75587ff80ecd9b96e030f85a9c3e965c",
+    "source_verified_by": "download_verified_content"
   },
   "takamatsu-d3-05": {
     "url": "./assets/photos/schedules/takamatsu/d3-05.jpg",
@@ -3156,15 +3111,14 @@
   },
   "kumamoto-d2-02": {
     "url": "./assets/photos/schedules/kumamoto/d2-02.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Suizenji-jojuen01n4272.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Suizenji_jojuen_garden.jpg",
     "place": "水前寺成趣園",
-    "match": "exact",
-    "author": "663highland",
-    "license": "CC BY 2.5",
-    "license_url": "https://creativecommons.org/licenses/by/2.5",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "22c803818aad50bac08c55e2c860307642070f82",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "Edogang1",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "eedd5b43dcecfa01a9586117b814163cce17b16f",
+    "source_verified_by": "download_verified_content"
   },
   "kumamoto-d2-03": {
     "url": "./assets/photos/schedules/kumamoto/d2-03.jpg",
@@ -3180,16 +3134,14 @@
   },
   "kumamoto-d2-04": {
     "url": "./assets/photos/schedules/kumamoto/d2-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%8B%E6%B1%9F%E6%B4%A5%E6%B9%96.JPG",
     "place": "江津湖",
-    "source": "https://commons.wikimedia.org/wiki/File:Kumamoro-ramen.jpg",
-    "author": "皇翔",
-    "license": "CC0",
-    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "match": "related_activity_example",
-    "source_proof_blob_sha": "793f364146baade2b3dea9cdc35ed2bee9bd66f4",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f",
-    "source_verified_by": "same_byte_blob_from_locally_verified_activity",
-    "reused_from": "kumamoto-d1-03"
+    "author": "Kuzeo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "match": "place_or_activity_match",
+    "source_proof_blob_sha": "03ba3361bf41eee326b44dcc14268672b24e61fe",
+    "source_verified_by": "download_verified_content"
   },
   "kumamoto-d2-05": {
     "url": "./assets/photos/schedules/kumamoto/d2-05.jpg",

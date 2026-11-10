@@ -210,7 +210,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-fukuoka-d2-06.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "16:30",
@@ -272,7 +272,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-fukuoka-d3-01.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "09:30",
@@ -503,37 +503,11 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-fukuoka-d2-06.jpg",
-          "title": "페리·버스로 후쿠오카 복귀",
-          "place": "姪浜渡船場",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/fukuoka/d2-06.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-fukuoka-d2-08.jpg",
           "title": "가성비 현지 이자카야 저녁",
           "place": "博多駅 居酒屋",
           "kind": "명소",
           "local": "./assets/photos/schedules/fukuoka/d2-08.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-fukuoka-d3-01.jpg",
-          "title": "체크아웃·수하물 정리",
-          "place": "博多駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/fukuoka/d3-01.jpg",
           "local_verified": true,
           "source": "",
           "author": "",
@@ -670,6 +644,32 @@
           "license": "CC BY 2.0",
           "license_url": "https://creativecommons.org/licenses/by/2.0",
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+        },
+        {
+          "file": "LOCAL-fukuoka-d3-01.jpg",
+          "title": "체크아웃·수하물 정리",
+          "place": "博多駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/fukuoka/d3-01.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Fukuoka_City_Subway_Airport_Line_Hakata_Station.jpg",
+          "author": "G43",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-fukuoka-d2-06.jpg",
+          "title": "페리·버스로 후쿠오카 복귀",
+          "place": "姪浜渡船場",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/fukuoka/d2-06.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Meinohama_Ferry_Passenger_Terminal.jpg",
+          "author": "Momotarou2012",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
         }
       ]
     },
@@ -795,7 +795,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-osaka-d1-09.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ],
         [
@@ -905,7 +905,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-osaka-d2-09.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ],
         [
@@ -919,7 +919,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-osaka-d3-01.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "09:00",
@@ -943,7 +943,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-osaka-d3-03.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "12:00",
@@ -967,7 +967,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-osaka-d3-05.jpg",
-            "photo_match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ]
       ],
@@ -1057,19 +1057,6 @@
           "place": "天神橋筋商店街",
           "kind": "명소",
           "local": "./assets/photos/schedules/osaka/d1-07.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-osaka-d1-09.jpg",
-          "title": "전철 복귀·호텔 휴식",
-          "place": "なんば駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/osaka/d1-09.jpg",
           "local_verified": true,
           "source": "",
           "author": "",
@@ -1182,50 +1169,11 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-osaka-d2-09.jpg",
-          "title": "난바 간식·숙소 복귀",
-          "place": "なんば駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/osaka/d2-09.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-osaka-d3-01.jpg",
-          "title": "호텔 체크아웃",
-          "place": "なんば駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/osaka/d3-01.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-osaka-d3-02.jpg",
           "title": "구로몬 시장 구경",
           "place": "黒門市場",
           "kind": "명소",
           "local": "./assets/photos/schedules/osaka/d3-02.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-osaka-d3-03.jpg",
-          "title": "마지막 점심",
-          "place": "なんば駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/osaka/d3-03.jpg",
           "local_verified": true,
           "source": "",
           "author": "",
@@ -1260,19 +1208,6 @@
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
         },
         {
-          "file": "LOCAL-osaka-d3-05.jpg",
-          "title": "출국 수속·면세점",
-          "place": "関西国際空港",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/osaka/d3-05.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E5%85%A8%E4%BD%93%E5%86%99%E7%9C%9F20220811.jpg",
-          "author": "Ankou1192",
-          "license": "CC BY-SA 4.0",
-          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-          "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
-        },
-        {
           "file": "LOCAL-osaka-d1-08.jpg",
           "title": "나니와노유 천연온천",
           "place": "天然温泉 なにわの湯",
@@ -1284,6 +1219,71 @@
           "license": "권리 상태 미확인 · 출처 명시",
           "license_url": "",
           "scope": "실제 나니와노유 시설 사진 · 공식/사진 제공처 출처"
+        },
+        {
+          "file": "LOCAL-osaka-d3-05.jpg",
+          "title": "출국 수속·면세점",
+          "place": "関西国際空港",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/osaka/d3-05.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Kansai_International_Airport.JPG",
+          "author": "Terence Ong",
+          "license": "CC BY 2.5",
+          "license_url": "https://creativecommons.org/licenses/by/2.5",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-osaka-d1-09.jpg",
+          "title": "전철 복귀·호텔 휴식",
+          "place": "なんば駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/osaka/d1-09.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Namba_Station.JPG",
+          "author": "Own work",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-osaka-d2-09.jpg",
+          "title": "난바 간식·숙소 복귀",
+          "place": "なんば駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/osaka/d2-09.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%B5%B7%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85_-_panoramio.jpg",
+          "author": "くろふね",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-osaka-d3-01.jpg",
+          "title": "호텔 체크아웃",
+          "place": "なんば駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/osaka/d3-01.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%B5%B7%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85_-_panoramio_(1).jpg",
+          "author": "C.L. Kao (eddie5150)",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-osaka-d3-03.jpg",
+          "title": "마지막 점심",
+          "place": "なんば駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/osaka/d3-03.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Nankai_6000_series_at_Namba_Station_(Nankai)_2009-10-06.jpg",
+          "author": "船 長",
+          "license": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
         }
       ]
     },
@@ -1521,7 +1521,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-tokyo-d3-01.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "09:00",
@@ -1569,7 +1569,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-tokyo-d3-05.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "15:00",
@@ -1581,7 +1581,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-tokyo-d3-06.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ]
       ],
@@ -1803,19 +1803,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-tokyo-d3-01.jpg",
-          "title": "체크아웃·짐 보관",
-          "place": "上野駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/tokyo/d3-01.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-tokyo-d3-02.jpg",
           "title": "아사쿠사 센소지",
           "place": "浅草寺",
@@ -1834,32 +1821,6 @@
           "place": "隅田川",
           "kind": "명소",
           "local": "./assets/photos/schedules/tokyo/d3-03.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-tokyo-d3-05.jpg",
-          "title": "나리타공항 이동",
-          "place": "成田国際空港",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/tokyo/d3-05.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-tokyo-d3-06.jpg",
-          "title": "출국 수속",
-          "place": "成田国際空港",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/tokyo/d3-06.jpg",
           "local_verified": true,
           "source": "",
           "author": "",
@@ -1905,6 +1866,45 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
           "scope": "해당 장소의 실제 사진 · 일정 관련성 확인"
+        },
+        {
+          "file": "LOCAL-tokyo-d3-05.jpg",
+          "title": "나리타공항 이동",
+          "place": "成田国際空港",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/tokyo/d3-05.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Singapore_Airlines_Boeing_777-300ER_(9V-SWJ)_at_Tokyo_Narita_International_Airport.jpg",
+          "author": "Masahiro TAKAGI  from Ichikawa, Chiba, Japan",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-tokyo-d3-06.jpg",
+          "title": "출국 수속",
+          "place": "成田国際空港",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/tokyo/d3-06.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:008_Many_airlines_together_at_Narita_Airport,_Japan_-_%E6%88%90%E7%94%B0%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF.JPG",
+          "author": "Marek Ślusarczyk ( Tupungato )  Photo gallery",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-tokyo-d3-01.jpg",
+          "title": "체크아웃·짐 보관",
+          "place": "上野駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/tokyo/d3-01.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Ueno_Station.jpg",
+          "author": "Calton",
+          "license": "CC BY-SA 3.0",
+          "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
         }
       ]
     },
@@ -2018,7 +2018,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-matsuyama-d1-08.jpg",
-            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "21:00",
@@ -2166,7 +2166,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-matsuyama-d3-01.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "09:00",
@@ -2190,7 +2190,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-matsuyama-d3-03.jpg",
-            "photo_match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "12:00",
@@ -2214,7 +2214,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-matsuyama-d3-05.jpg",
-            "photo_match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ]
       ],
@@ -2423,19 +2423,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-matsuyama-d3-01.jpg",
-          "title": "체크아웃",
-          "place": "松山市駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/matsuyama/d3-01.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-matsuyama-d3-02.jpg",
           "title": "이시테지 문화·숲길",
           "place": "石手寺",
@@ -2501,32 +2488,6 @@
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
         },
         {
-          "file": "LOCAL-matsuyama-d3-03.jpg",
-          "title": "현지 점심",
-          "place": "松山市駅",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/matsuyama/d3-03.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Taimeshi_02.jpg",
-          "author": "ノボホショコロトソ",
-          "license": "CC BY 4.0",
-          "license_url": "https://creativecommons.org/licenses/by/4.0",
-          "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
-        },
-        {
-          "file": "LOCAL-matsuyama-d3-05.jpg",
-          "title": "출국 수속·탑승 준비",
-          "place": "松山空港",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/matsuyama/d3-05.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Airport_20240709_(10).jpg",
-          "author": "CT-May",
-          "license": "CC0",
-          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
-        },
-        {
           "file": "LOCAL-matsuyama-d1-05.jpg",
           "title": "도미밥 점심",
           "place": "松山市駅 鯛めし",
@@ -2540,17 +2501,56 @@
           "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
         },
         {
+          "file": "LOCAL-matsuyama-d3-05.jpg",
+          "title": "출국 수속·탑승 준비",
+          "place": "松山空港",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/matsuyama/d3-05.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Airport_20240605.jpg",
+          "author": "CT-May",
+          "license": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-matsuyama-d3-01.jpg",
+          "title": "체크아웃",
+          "place": "松山市駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/matsuyama/d3-01.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85%E3%81%AE%E3%81%82%E3%82%8B%E4%BC%8A%E4%BA%88%E9%89%84%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E3%83%93%E3%83%AB.JPG",
+          "author": "R2K4",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
           "file": "LOCAL-matsuyama-d1-08.jpg",
           "title": "에히메 향토음식 저녁",
           "place": "道後温泉",
           "kind": "일정",
           "local": "./assets/photos/schedules/matsuyama/d1-08.jpg",
           "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Taimeshi_02.jpg",
-          "author": "ノボホショコロトソ",
-          "license": "CC BY 4.0",
-          "license_url": "https://creativecommons.org/licenses/by/4.0",
-          "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+          "source": "https://commons.wikimedia.org/wiki/File:Dougo_Onsen,_Matsuyama.jpg",
+          "author": "Urashimataro",
+          "license": "Public domain",
+          "license_url": "",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-matsuyama-d3-03.jpg",
+          "title": "현지 점심",
+          "place": "松山市駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/matsuyama/d3-03.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85%E9%A7%85%E5%90%8D%E8%A1%A8%E8%A8%98.jpg",
+          "author": "Van2van",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
         }
       ]
     },
@@ -2812,7 +2812,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-takamatsu-d3-03.jpg",
-            "photo_match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "11:30",
@@ -2824,7 +2824,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-takamatsu-d3-04.jpg",
-            "photo_match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "13:00",
@@ -3097,32 +3097,6 @@
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
         },
         {
-          "file": "LOCAL-takamatsu-d3-03.jpg",
-          "title": "사누키 우동 마지막 점심",
-          "place": "高松駅",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/takamatsu/d3-03.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Kama-age_sanuki_udon_by_sekido_in_Takamatsu,_Kagawa.jpg",
-          "author": "sekido",
-          "license": "CC BY 2.0",
-          "license_url": "https://creativecommons.org/licenses/by/2.0",
-          "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
-        },
-        {
-          "file": "LOCAL-takamatsu-d3-04.jpg",
-          "title": "공항 리무진 이동",
-          "place": "高松空港",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/takamatsu/d3-04.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:TakamatsuKukou01.jpg",
-          "author": "Toto-tarou",
-          "license": "CC BY-SA 3.0",
-          "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
-        },
-        {
           "file": "LOCAL-takamatsu-d2-03.jpg",
           "title": "고토히라 점심",
           "place": "琴平",
@@ -3147,6 +3121,32 @@
           "license": "CC BY 2.5",
           "license_url": "https://creativecommons.org/licenses/by/2.5",
           "scope": "해당 장소의 실제 사진 · 일정 관련성 확인"
+        },
+        {
+          "file": "LOCAL-takamatsu-d3-04.jpg",
+          "title": "공항 리무진 이동",
+          "place": "高松空港",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/takamatsu/d3-04.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E6%9D%BE%E7%A9%BA%E6%B8%AF_%E5%85%A8%E6%99%AF.jpg",
+          "author": "Yutaaka0804",
+          "license": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-takamatsu-d3-03.jpg",
+          "title": "사누키 우동 마지막 점심",
+          "place": "高松駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/takamatsu/d3-03.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Station_Sign_2.jpg",
+          "author": "そらみみ  (Soramimi)",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
         }
       ]
     },
@@ -3298,7 +3298,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-kumamoto-d2-02.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "10:30",
@@ -3322,7 +3322,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-kumamoto-d2-04.jpg",
-            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "13:30",
@@ -3613,19 +3613,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-kumamoto-d2-02.jpg",
-          "title": "수이젠지 정원 자연 산책",
-          "place": "水前寺成趣園",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/kumamoto/d2-02.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Suizenji-jojuen01n4272.jpg",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-kumamoto-d2-03.jpg",
           "title": "에즈호 주변 조망",
           "place": "上江津湖",
@@ -3769,19 +3756,6 @@
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
         },
         {
-          "file": "LOCAL-kumamoto-d2-04.jpg",
-          "title": "호수 인근 점심",
-          "place": "江津湖",
-          "kind": "자연",
-          "local": "./assets/photos/schedules/kumamoto/d2-04.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Kumamoro-ramen.jpg",
-          "author": "皇翔",
-          "license": "CC0",
-          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
-        },
-        {
           "file": "LOCAL-kumamoto-d2-08.jpg",
           "title": "향토 음식 저녁",
           "place": "下通",
@@ -3793,6 +3767,32 @@
           "license": "CC0",
           "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+        },
+        {
+          "file": "LOCAL-kumamoto-d2-04.jpg",
+          "title": "호수 인근 점심",
+          "place": "江津湖",
+          "kind": "자연",
+          "local": "./assets/photos/schedules/kumamoto/d2-04.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%8B%E6%B1%9F%E6%B4%A5%E6%B9%96.JPG",
+          "author": "Kuzeo",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-kumamoto-d2-02.jpg",
+          "title": "수이젠지 정원 자연 산책",
+          "place": "水前寺成趣園",
+          "kind": "자연",
+          "local": "./assets/photos/schedules/kumamoto/d2-02.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Suizenji_jojuen_garden.jpg",
+          "author": "Edogang1",
+          "license": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
         }
       ]
     }

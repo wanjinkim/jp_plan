@@ -610,19 +610,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-hiroshima-d2-07.jpg",
-      "title": "페리·JR로 히로시마 복귀",
-      "place": "広島駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/hiroshima/d2-07.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:JR_Hiroshima_station_03d_(2949908323).jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-hiroshima-d2-08.jpg",
       "title": "우지나 천연온천 호노유에서 온천욕",
       "place": "宇品天然温泉 ほの湯",
@@ -656,32 +643,6 @@
       "local": "./assets/photos/schedules/hiroshima/d3-02.jpg",
       "local_verified": true,
       "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Hiroshima_bay,_from_Miyajima_(4177221419).jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-hiroshima-d3-03.jpg",
-      "title": "역으로 돌아와 기념품 쇼핑",
-      "place": "広島駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/hiroshima/d3-03.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_streetcar_at_night_beside_Hondori_Station.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-hiroshima-d3-06.jpg",
-      "title": "히로시마공항 출국수속·탑승 대기",
-      "place": "広島空港",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/hiroshima/d3-06.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Hiroden_Ujina_Line_in_Hiroshima.jpg",
       "author": "",
       "license": "previously supplied, verify original license",
       "license_url": "",
@@ -740,17 +701,56 @@
       "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
     },
     {
+      "file": "LOCAL-hiroshima-d3-06.jpg",
+      "title": "히로시마공항 출국수속·탑승 대기",
+      "place": "広島空港",
+      "kind": "공항",
+      "local": "./assets/photos/schedules/hiroshima/d3-06.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_airport_japan.jpg",
+      "author": "nattou",
+      "license": "Public domain",
+      "license_url": "",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-hiroshima-d2-07.jpg",
+      "title": "페리·JR로 히로시마 복귀",
+      "place": "広島駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/hiroshima/d2-07.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:JR_Hiroshima_station_03d_(2949908323).jpg",
+      "author": "midorisyu  from JAPAN",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-hiroshima-d3-03.jpg",
+      "title": "역으로 돌아와 기념품 쇼핑",
+      "place": "広島駅",
+      "kind": "쇼핑",
+      "local": "./assets/photos/schedules/hiroshima/d3-03.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_streetcar_at_night_beside_Hondori_Station.jpg",
+      "author": "Benlisquare",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
       "file": "LOCAL-hiroshima-d3-05.jpg",
       "title": "히로시마역 공항버스 탑승",
       "place": "広島駅",
       "kind": "교통",
       "local": "./assets/photos/schedules/hiroshima/d3-05.jpg",
       "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg",
-      "author": "ノボホショコロトソ",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0",
-      "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+      "source": "https://commons.wikimedia.org/wiki/File:Hiroshima-Airport_Inside.jpg",
+      "author": "MaedaAkihiko",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     },
     {
       "file": "LOCAL-hiroshima-d2-10.jpg",
@@ -759,11 +759,11 @@
       "kind": "휴식",
       "local": "./assets/photos/schedules/hiroshima/d2-10.jpg",
       "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Grand_Prince_Hotel_Hiroshima_Prince_Club_Floor_King_bedroom_20190614-001.jpg",
-      "author": "J o",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%BE%E9%81%93%E9%A7%85_-_Flickr_-_m-louis.jpg",
+      "author": "m-louis .®  from Osaka, Japan",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     }
   ],
   "shizuoka": [
@@ -1243,19 +1243,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-shizuoka-d2-03.jpg",
-      "title": "시미즈항 쪽으로 돌아와 점심",
-      "place": "清水魚市場 河岸の市",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/shizuoka/d2-03.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Matcha_latte.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-shizuoka-d2-04.jpg",
       "title": "시미즈항·수루가만 조망",
       "place": "清水港",
@@ -1321,19 +1308,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-shizuoka-d3-05.jpg",
-      "title": "후지산 시즈오카공항 출국 준비",
-      "place": "富士山静岡空港",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/shizuoka/d3-05.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_Concourse.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-shizuoka-d1-08.jpg",
       "title": "숙소 귀환·휴식",
       "place": "静岡駅 ホテル",
@@ -1373,19 +1347,6 @@
       "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
     },
     {
-      "file": "LOCAL-shizuoka-d3-04.jpg",
-      "title": "공항행 버스 승차",
-      "place": "静岡駅",
-      "kind": "교통",
-      "local": "./assets/photos/schedules/shizuoka/d3-04.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_201016a.jpg",
-      "author": "江戸村のとくぞう",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
-    },
-    {
       "file": "LOCAL-shizuoka-d2-07.jpg",
       "title": "JR 시즈오카역 복귀·저녁",
       "place": "静岡駅",
@@ -1399,17 +1360,56 @@
       "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
     },
     {
+      "file": "LOCAL-shizuoka-d3-05.jpg",
+      "title": "후지산 시즈오카공항 출국 준비",
+      "place": "富士山静岡空港",
+      "kind": "공항",
+      "local": "./assets/photos/schedules/shizuoka/d3-05.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Shizuoka-airport-terminal.jpg",
+      "author": "しんかわな",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-shizuoka-d3-04.jpg",
+      "title": "공항행 버스 승차",
+      "place": "静岡駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/shizuoka/d3-04.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_airport_-_panoramio.jpg",
+      "author": "Kaz Ish",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-shizuoka-d2-03.jpg",
+      "title": "시미즈항 쪽으로 돌아와 점심",
+      "place": "清水魚市場 河岸の市",
+      "kind": "식사",
+      "local": "./assets/photos/schedules/shizuoka/d2-03.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Matcha_tea_latte_with_rosetta_latte_art.jpg",
+      "author": "Irvan Ary Maulana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
       "file": "LOCAL-shizuoka-d2-08.jpg",
       "title": "도심 야경·디저트",
       "place": "静岡駅 ASTY",
       "kind": "야경",
       "local": "./assets/photos/schedules/shizuoka/d2-08.jpg",
       "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Matcha_ice_cream_001.jpg",
-      "author": "City Foodsters",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+      "source": "https://commons.wikimedia.org/wiki/File:ASTY%E9%9D%99%E5%B2%A1%E6%9D%B1%E9%A4%A8.jpg",
+      "author": "電車(新幹線)でゴー！",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     }
   ],
   "sapporo": [
@@ -1842,19 +1842,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-sapporo-d2-01.jpg",
-      "title": "조잔케이행 정기버스 대기·탑승",
-      "place": "札幌駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sapporo/d2-01.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:A_Corridor_of_Sapporo_Station_01.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-sapporo-d2-02.jpg",
       "title": "조잔케이 온천마을 도착",
       "place": "定山渓温泉",
@@ -1881,19 +1868,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-sapporo-d2-04.jpg",
-      "title": "온천마을 점심·휴식",
-      "place": "定山渓温泉",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sapporo/d2-04.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:SAKURAKO_in_the_JyoZanKei_hot_springs._(8345382759).jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-sapporo-d2-05.jpg",
       "title": "예약 가능한 당일 입욕 온천 방문",
       "place": "定山渓温泉 日帰り入浴",
@@ -1901,19 +1875,6 @@
       "local": "./assets/photos/schedules/sapporo/d2-05.jpg",
       "local_verified": true,
       "source": "https://commons.wikimedia.org/wiki/File:Former_Hokkaido_Government_Office_Building_20090112-01.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-sapporo-d2-06.jpg",
-      "title": "정기버스로 삿포로 복귀",
-      "place": "札幌駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sapporo/d2-06.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Corridor_of_Sapporo_Station_02.jpg",
       "author": "",
       "license": "previously supplied, verify original license",
       "license_url": "",
@@ -1998,32 +1959,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-sapporo-d3-05.jpg",
-      "title": "JR 신치토세공항으로 이동",
-      "place": "新千歳空港",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sapporo/d3-05.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Ramen_Alley_Sapporo_Japan.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-sapporo-d3-06.jpg",
-      "title": "공항 출국수속 및 귀국편 대기",
-      "place": "新千歳空港",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sapporo/d3-06.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Former_Hokkaido_Government_Office_202507.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-sapporo-d1-07.jpg",
       "title": "스스키노 번화가·라멘 골목",
       "place": "元祖さっぽろラーメン横丁",
@@ -2050,17 +1985,82 @@
       "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
     },
     {
+      "file": "LOCAL-sapporo-d3-05.jpg",
+      "title": "JR 신치토세공항으로 이동",
+      "place": "新千歳空港",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/sapporo/d3-05.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:New_Chitose_Airport_outside_(International).jpg",
+      "author": "欅  (Keyaki)",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-sapporo-d3-06.jpg",
+      "title": "공항 출국수속 및 귀국편 대기",
+      "place": "新千歳空港",
+      "kind": "공항",
+      "local": "./assets/photos/schedules/sapporo/d3-06.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:New_Chitose_Airport_control_tower.jpg",
+      "author": "欅  (Keyaki)",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-sapporo-d2-01.jpg",
+      "title": "조잔케이행 정기버스 대기·탑승",
+      "place": "札幌駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/sapporo/d2-01.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:A_Corridor_of_Sapporo_Station_01.jpg",
+      "author": "ノボホショコロトソ",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-sapporo-d2-06.jpg",
+      "title": "정기버스로 삿포로 복귀",
+      "place": "札幌駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/sapporo/d2-06.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Corridor_of_Sapporo_Station_02.jpg",
+      "author": "ノボホショコロトソ",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
       "file": "LOCAL-sapporo-d2-09.jpg",
       "title": "숙소 휴식",
       "place": "札幌駅 ホテル",
       "kind": "휴식",
       "local": "./assets/photos/schedules/sapporo/d2-09.jpg",
       "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:SapporoNight2004-11.jpg",
-      "author": "Kinori",
+      "source": "https://commons.wikimedia.org/wiki/File:Sapporo2005-1-9.jpg",
+      "author": "w:ja:user:Kinori",
       "license": "Public domain",
       "license_url": "",
-      "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-sapporo-d2-04.jpg",
+      "title": "온천마을 점심·휴식",
+      "place": "定山渓温泉",
+      "kind": "식사",
+      "local": "./assets/photos/schedules/sapporo/d2-04.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:SAKURAKO_in_the_JyoZanKei_hot_springs._(8345382759).jpg",
+      "author": "MIKI Yoshihito  from Sapporo City,Hokkaido., JAPAN",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     }
   ],
   "nagoya": [
@@ -2530,19 +2530,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-nagoya-d2-02.jpg",
-      "title": "아쓰타 신궁 참배·삼림 산책",
-      "place": "熱田神宮",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/nagoya/d2-02.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Atsuta_Jingu_20211226-02.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-nagoya-d2-04.jpg",
       "title": "오스 상점가 산책·간식",
       "place": "大須商店街",
@@ -2556,19 +2543,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-nagoya-d2-07.jpg",
-      "title": "오아시스21 야경 또는 도심 산책",
-      "place": "オアシス21",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/nagoya/d2-07.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Oasis_21.JPG",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-nagoya-d2-08.jpg",
       "title": "숙소 휴식",
       "place": "名古屋駅 ホテル",
@@ -2576,19 +2550,6 @@
       "local": "./assets/photos/schedules/nagoya/d2-08.jpg",
       "local_verified": true,
       "source": "https://commons.wikimedia.org/wiki/File:Nagoya_2017_(34159008173).jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-nagoya-d3-01.jpg",
-      "title": "체크아웃·짐 보관",
-      "place": "名古屋駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/nagoya/d3-01.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Christmas_decoration_at_Nagoya_Station%3B_November_2007.jpg",
       "author": "",
       "license": "previously supplied, verify original license",
       "license_url": "",
@@ -2621,19 +2582,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-nagoya-d3-05.jpg",
-      "title": "중부국제공항 출국 준비",
-      "place": "中部国際空港",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/nagoya/d3-05.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Oasis21_at_Night.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-nagoya-d2-03.jpg",
       "title": "점심: 히츠마부시 장어덮밥",
       "place": "あつた蓬莱軒 本店",
@@ -2660,19 +2608,6 @@
       "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
     },
     {
-      "file": "LOCAL-nagoya-d2-06.jpg",
-      "title": "나고야역 인근으로 이동·저녁",
-      "place": "名古屋駅",
-      "kind": "교통",
-      "local": "./assets/photos/schedules/nagoya/d2-06.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Miso_katsu,_tsukemono_and_miso_soup_by_shibainu_in_Nagoya.jpg",
-      "author": "shibainu  from Nagoya",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
-    },
-    {
       "file": "LOCAL-nagoya-d2-05.jpg",
       "title": "어반쿠아 천연온천·휴식",
       "place": "天然温泉 アーバンクア",
@@ -2684,6 +2619,71 @@
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
       "scope": "해당 장소의 실제 사진 · 일정 관련성 확인"
+    },
+    {
+      "file": "LOCAL-nagoya-d3-05.jpg",
+      "title": "중부국제공항 출국 준비",
+      "place": "中部国際空港",
+      "kind": "공항",
+      "local": "./assets/photos/schedules/nagoya/d3-05.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E9%83%A8%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF_(chubu_Intl_airport)_(2190668919).jpg",
+      "author": "Yamaguchi Yoshiaki  from Japan",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-nagoya-d3-01.jpg",
+      "title": "체크아웃·짐 보관",
+      "place": "名古屋駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/nagoya/d3-01.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Christmas_decoration_at_Nagoya_Station%3B_November_2007.jpg",
+      "author": "Shubert Ciencia",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-nagoya-d2-06.jpg",
+      "title": "나고야역 인근으로 이동·저녁",
+      "place": "名古屋駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/nagoya/d2-06.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Miso_Katsu_by_jetalone_in_Nagoya.jpg",
+      "author": "jetalone  from Nagoya",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-nagoya-d2-07.jpg",
+      "title": "오아시스21 야경 또는 도심 산책",
+      "place": "オアシス21",
+      "kind": "야경",
+      "local": "./assets/photos/schedules/nagoya/d2-07.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Oasis_21.JPG",
+      "author": "Alpsdake",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-nagoya-d2-02.jpg",
+      "title": "아쓰타 신궁 참배·삼림 산책",
+      "place": "熱田神宮",
+      "kind": "자연",
+      "local": "./assets/photos/schedules/nagoya/d2-02.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Atsuta_Jingu_20211226-02.jpg",
+      "author": "円周率３パーセント",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     }
   ],
   "sendai": [
@@ -3121,19 +3121,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-sendai-d1-06.jpg",
-      "title": "센다이역 복귀",
-      "place": "仙台駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sendai/d1-06.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Sendai_station_Senzan_Line_platforms.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-sendai-d1-07.jpg",
       "title": "조젠지도리 케야키 가로수길",
       "place": "定禅寺通",
@@ -3160,32 +3147,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-sendai-d1-09.jpg",
-      "title": "야경·숙소 귀환",
-      "place": "仙台駅 ホテル",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sendai/d1-09.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:WestinSendai_Front.JPG",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-sendai-d2-01.jpg",
-      "title": "센다이역에서 아키우행 정기버스",
-      "place": "仙台駅 西口",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sendai/d2-01.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:仙台駅の外観.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-sendai-d2-03.jpg",
       "title": "라이라이쿄 협곡·자연 산책",
       "place": "磊々峡",
@@ -3199,19 +3160,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-sendai-d2-04.jpg",
-      "title": "온천마을 점심·간식",
-      "place": "秋保温泉",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sendai/d2-04.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Akiu_Onsen,_Ryokusuitei_01.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-sendai-d2-05.jpg",
       "title": "당일 입욕 가능한 아키우 온천",
       "place": "秋保グランドホテル",
@@ -3219,19 +3167,6 @@
       "local": "./assets/photos/schedules/sendai/d2-05.jpg",
       "local_verified": true,
       "source": "https://commons.wikimedia.org/wiki/File:WestinSendaiExecutiveLounge.JPG",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-sendai-d2-06.jpg",
-      "title": "정기버스로 센다이 복귀",
-      "place": "仙台駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sendai/d2-06.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_west_entrance_2020.jpg",
       "author": "",
       "license": "previously supplied, verify original license",
       "license_url": "",
@@ -3264,19 +3199,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-sendai-d2-09.jpg",
-      "title": "센다이역 쇼핑·카페",
-      "place": "仙台駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sendai/d2-09.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_night_(30648489646).jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-sendai-d3-01.jpg",
       "title": "체크아웃·짐 보관",
       "place": "仙台駅",
@@ -3297,45 +3219,6 @@
       "local": "./assets/photos/schedules/sendai/d3-02.jpg",
       "local_verified": true,
       "source": "https://commons.wikimedia.org/wiki/File:Zuiho-den01s3872.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-sendai-d3-03.jpg",
-      "title": "역·아케이드에서 즈다모치 쇼핑",
-      "place": "仙台駅 ずんだ餅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sendai/d3-03.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_Night.JPG",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-sendai-d3-05.jpg",
-      "title": "공항철도로 센다이공항 이동",
-      "place": "仙台空港",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sendai/d3-05.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Rapid_train_to_Sendai.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-sendai-d3-06.jpg",
-      "title": "공항 출국수속 대기",
-      "place": "仙台空港",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sendai/d3-06.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:仙台駅,_Sendai_station_-_panoramio.jpg",
       "author": "",
       "license": "previously supplied, verify original license",
       "license_url": "",
@@ -3368,17 +3251,134 @@
       "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
     },
     {
+      "file": "LOCAL-sendai-d3-05.jpg",
+      "title": "공항철도로 센다이공항 이동",
+      "place": "仙台空港",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/sendai/d3-05.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Rapid_train_to_Sendai.jpg",
+      "author": "Muji Tra",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-sendai-d3-06.jpg",
+      "title": "공항 출국수속 대기",
+      "place": "仙台空港",
+      "kind": "공항",
+      "local": "./assets/photos/schedules/sendai/d3-06.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Sendai_airport_access_line_%E4%BB%99%E5%8F%B0%E7%A9%BA%E6%B8%AF%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E9%89%84%E9%81%93_(436613433).jpg",
+      "author": "Yamaguchi Yoshiaki  from Japan",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-sendai-d1-06.jpg",
+      "title": "센다이역 복귀",
+      "place": "仙台駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/sendai/d1-06.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Sendai_station_Senzan_Line_platforms.jpg",
+      "author": "Ymblanter",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-sendai-d1-09.jpg",
+      "title": "야경·숙소 귀환",
+      "place": "仙台駅 ホテル",
+      "kind": "휴식",
+      "local": "./assets/photos/schedules/sendai/d1-09.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Hotel_Metropolitan_Sendai_001.JPG",
+      "author": "neuropower",
+      "license": "Public domain",
+      "license_url": "",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-sendai-d2-01.jpg",
+      "title": "센다이역에서 아키우행 정기버스",
+      "place": "仙台駅 西口",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/sendai/d2-01.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:International-Center-STA_South1.jpg",
+      "author": "MaedaAkihiko",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-sendai-d2-06.jpg",
+      "title": "정기버스로 센다이 복귀",
+      "place": "仙台駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/sendai/d2-06.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_west_entrance_2020.jpg",
+      "author": "にほにうむ",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-sendai-d2-09.jpg",
+      "title": "센다이역 쇼핑·카페",
+      "place": "仙台駅",
+      "kind": "쇼핑",
+      "local": "./assets/photos/schedules/sendai/d2-09.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_night_(30648489646).jpg",
+      "author": "Cheng-en Cheng  from Taichung City, Taiwan",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-sendai-d3-03.jpg",
+      "title": "역·아케이드에서 즈다모치 쇼핑",
+      "place": "仙台駅 ずんだ餅",
+      "kind": "쇼핑",
+      "local": "./assets/photos/schedules/sendai/d3-03.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_Night.JPG",
+      "author": "Caveman2",
+      "license": "Public domain",
+      "license_url": "",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
       "file": "LOCAL-sendai-d3-04.jpg",
       "title": "마지막 규탄 점심",
       "place": "仙台駅 牛タン",
       "kind": "식사",
       "local": "./assets/photos/schedules/sendai/d3-04.jpg",
       "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Gyutan_teishoku.JPG",
-      "author": "Captain76",
-      "license": "Public domain",
-      "license_url": "",
-      "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+      "source": "https://commons.wikimedia.org/wiki/File:211030_Kameshima_Matsushima_Miyagi_pref_Japan01n.jpg",
+      "author": "663highland",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-sendai-d2-04.jpg",
+      "title": "온천마을 점심·간식",
+      "place": "秋保温泉",
+      "kind": "식사",
+      "local": "./assets/photos/schedules/sendai/d2-04.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Akiu_Onsen,_Ryokusuitei_01.jpg",
+      "author": "gp  from Japan.",
+      "license": "CC BY-SA 2.1 jp",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     }
   ],
   "okinawa": [
@@ -3950,32 +3950,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-okinawa-d3-04.jpg",
-      "title": "공항행 버스·유이레일 이동",
-      "place": "那覇空港",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/okinawa/d3-04.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Naha_Airport_Departure_Lobby.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-okinawa-d3-05.jpg",
-      "title": "나하공항 출국 준비",
-      "place": "那覇空港",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/okinawa/d3-05.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Inside_view_of_Naha_Airport_Domestic_Passenger_Terminal_Building.JPG",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-okinawa-d2-05.jpg",
       "title": "오카시고텐 쇼핑·간식",
       "place": "御菓子御殿 恩納店",
@@ -4002,37 +3976,11 @@
       "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
     },
     {
-      "file": "LOCAL-okinawa-d2-10.jpg",
-      "title": "국제거리 야경·호텔 귀환",
-      "place": "那覇国際通り",
-      "kind": "야경",
-      "local": "./assets/photos/schedules/okinawa/d2-10.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503182722.jpg",
-      "author": "TurnOnTheNight",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
-    },
-    {
       "file": "LOCAL-okinawa-d1-02.jpg",
       "title": "겐초마에역 이동·나하 호텔에 짐 보관",
       "place": "県庁前駅 那覇",
       "kind": "교통",
       "local": "./assets/photos/schedules/okinawa/d1-02.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Kencho-mae_Station_Okinawa.jpg",
-      "author": "Rsa",
-      "license": "CC BY-SA 3.0",
-      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "scope": "해당 장소의 실제 사진 · 일정 관련성 확인"
-    },
-    {
-      "file": "LOCAL-okinawa-d3-01.jpg",
-      "title": "호텔 체크아웃·짐 보관",
-      "place": "県庁前駅 那覇",
-      "kind": "교통",
-      "local": "./assets/photos/schedules/okinawa/d3-01.jpg",
       "local_verified": true,
       "source": "https://commons.wikimedia.org/wiki/File:Kencho-mae_Station_Okinawa.jpg",
       "author": "Rsa",
@@ -4052,6 +4000,58 @@
       "license": "CC BY-SA 3.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
       "scope": "해당 장소의 실제 사진 · 일정 관련성 확인"
+    },
+    {
+      "file": "LOCAL-okinawa-d3-04.jpg",
+      "title": "공항행 버스·유이레일 이동",
+      "place": "那覇空港",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/okinawa/d3-04.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Naha_Airport_Departure_Lobby.jpg",
+      "author": "Mk2010",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-okinawa-d3-05.jpg",
+      "title": "나하공항 출국 준비",
+      "place": "那覇空港",
+      "kind": "공항",
+      "local": "./assets/photos/schedules/okinawa/d3-05.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Inside_view_of_Naha_Airport_Domestic_Passenger_Terminal_Building.JPG",
+      "author": "そらみみ",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-okinawa-d3-01.jpg",
+      "title": "호텔 체크아웃·짐 보관",
+      "place": "県庁前駅 那覇",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/okinawa/d3-01.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Yui_Rail,_Kench%C5%8D-mae_Station_(Okinawa).jpg",
+      "author": "Mk2010",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-okinawa-d2-10.jpg",
+      "title": "국제거리 야경·호텔 귀환",
+      "place": "那覇国際通り",
+      "kind": "야경",
+      "local": "./assets/photos/schedules/okinawa/d2-10.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:202408_%E6%B2%96%E7%B9%A9%E7%B8%A3%E9%82%A3%E9%9C%B8%E5%B8%82%E7%9A%84%E9%82%A3%E9%9C%B8%E5%9C%8B%E9%9A%9B%E9%80%9A%E7%9A%84%E8%A1%97%E6%99%AF.jpg",
+      "author": "Junyu-K",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     }
   ]
 }

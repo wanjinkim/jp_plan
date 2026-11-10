@@ -259,7 +259,7 @@
             "photo_file": "LOCAL-hiroshima-d2-07.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 히로시마역 대합 구역",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "17:30",
@@ -301,7 +301,7 @@
             "photo_file": "LOCAL-hiroshima-d2-10.jpg",
             "photo_scope": "숙박 권역 참고사진 · 도심 숙박시설 사례 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ],
         [
@@ -345,7 +345,7 @@
             "photo_file": "LOCAL-hiroshima-d3-03.jpg",
             "photo_scope": "거리·야경 참고사진 · 혼도리역 야간 노면전차 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "12:00",
@@ -373,7 +373,7 @@
             "photo_file": "LOCAL-hiroshima-d3-05.jpg",
             "photo_scope": "공항 참고사진 · 히로시마 공항 터미널 내부 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "14:10",
@@ -387,7 +387,7 @@
             "photo_file": "LOCAL-hiroshima-d3-06.jpg",
             "photo_scope": "공항 참고사진 · 히로시마 시내 노면전차 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ]
       ]
@@ -579,7 +579,7 @@
             "photo_file": "LOCAL-shizuoka-d2-03.jpg",
             "photo_scope": "지역 음식 참고사진 · 말차 음료 예시 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "13:00",
@@ -649,7 +649,7 @@
             "photo_file": "LOCAL-shizuoka-d2-08.jpg",
             "photo_scope": "지역 음식 참고사진 · 시즈오카 검은 오뎅 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "22:30",
@@ -721,7 +721,7 @@
             "photo_file": "LOCAL-shizuoka-d3-04.jpg",
             "photo_scope": "공항 참고사진 · 시즈오카 공항 접근 전경 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "13:25",
@@ -735,7 +735,7 @@
             "photo_file": "LOCAL-shizuoka-d3-05.jpg",
             "photo_scope": "공항 참고사진 · 시즈오카역 실내 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ]
       ]
@@ -899,7 +899,7 @@
             "photo_file": "LOCAL-sapporo-d2-01.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 삿포로역 실내 통로",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "09:25",
@@ -941,7 +941,7 @@
             "photo_file": "LOCAL-sapporo-d2-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 조잔케이 온천 여행 사진",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "14:10",
@@ -969,7 +969,7 @@
             "photo_file": "LOCAL-sapporo-d2-06.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 삿포로역 이동 통로",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "18:10",
@@ -1011,7 +1011,7 @@
             "photo_file": "LOCAL-sapporo-d2-09.jpg",
             "photo_scope": "숙박 권역 참고사진 · 게이오 프렐리아 삿포로 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ],
         [
@@ -1083,7 +1083,7 @@
             "photo_file": "LOCAL-sapporo-d3-05.jpg",
             "photo_scope": "공항 참고사진 · 삿포로 라멘 골목 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "14:05",
@@ -1097,7 +1097,7 @@
             "photo_file": "LOCAL-sapporo-d3-06.jpg",
             "photo_scope": "공항 참고사진 · 홋카이도청 구본청사 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ]
       ]
@@ -1270,7 +1270,7 @@
             "photo_file": "LOCAL-nagoya-d2-02.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 아쓰타 신궁 숲길",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "11:00",
@@ -1326,7 +1326,7 @@
             "photo_file": "LOCAL-nagoya-d2-06.jpg",
             "photo_scope": "지역 음식 참고사진 · 나고야 미소카츠 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "19:25",
@@ -1340,7 +1340,7 @@
             "photo_file": "LOCAL-nagoya-d2-07.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 오아시스 21",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "21:30",
@@ -1370,7 +1370,7 @@
             "photo_file": "LOCAL-nagoya-d3-01.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 나고야역 연말 분위기",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "09:15",
@@ -1426,7 +1426,7 @@
             "photo_file": "LOCAL-nagoya-d3-05.jpg",
             "photo_scope": "공항 참고사진 · 오아시스21 야간 광장 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ]
       ]
@@ -1730,7 +1730,7 @@
             "photo_file": "LOCAL-okinawa-d2-10.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 국제거리 상점가",
             "flight_assumption": false,
-            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ],
         [
@@ -1746,7 +1746,7 @@
             "photo_file": "LOCAL-okinawa-d3-01.jpg",
             "photo_scope": "숙박 권역 참고사진 · 츄라우미 수족관 고래상어 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "해당 장소의 실제 사진 · 일정 관련성 확인"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "09:20",
@@ -1788,7 +1788,7 @@
             "photo_file": "LOCAL-okinawa-d3-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 나하공항 출발 로비",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "13:40",
@@ -1802,7 +1802,7 @@
             "photo_file": "LOCAL-okinawa-d3-05.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 나하공항 터미널 내부",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ]
       ]
@@ -1921,7 +1921,7 @@
             "photo_file": "LOCAL-sendai-d1-06.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이역 승강장",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "17:20",
@@ -1963,7 +1963,7 @@
             "photo_file": "LOCAL-sendai-d1-09.jpg",
             "photo_scope": "숙박 권역 참고사진 · 웨스틴 센다이 프런트 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ],
         [
@@ -1979,7 +1979,7 @@
             "photo_file": "LOCAL-sendai-d2-01.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이역 외관",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "09:30",
@@ -2021,7 +2021,7 @@
             "photo_file": "LOCAL-sendai-d2-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 아키우 료칸 사례",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "13:55",
@@ -2049,7 +2049,7 @@
             "photo_file": "LOCAL-sendai-d2-06.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이역 서쪽 출입구",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "16:15",
@@ -2091,7 +2091,7 @@
             "photo_file": "LOCAL-sendai-d2-09.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이역 야경",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "22:35",
@@ -2149,7 +2149,7 @@
             "photo_file": "LOCAL-sendai-d3-03.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이역 다른 야간사진",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "12:10",
@@ -2163,7 +2163,7 @@
             "photo_file": "LOCAL-sendai-d3-04.jpg",
             "photo_scope": "지역 음식 참고사진 · 마쓰시마의 작은 섬 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "13:20",
@@ -2177,7 +2177,7 @@
             "photo_file": "LOCAL-sendai-d3-05.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이 공항철도 차량",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           },
           {
             "start": "14:20",
@@ -2191,7 +2191,7 @@
             "photo_file": "LOCAL-sendai-d3-06.jpg",
             "photo_scope": "공항 참고사진 · 센다이역 여행 전경 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
           }
         ]
       ]

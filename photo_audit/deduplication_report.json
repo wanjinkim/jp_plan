@@ -1,0 +1,807 @@
+{
+  "total": 281,
+  "unique_images": 267,
+  "duplicate_excess": 14,
+  "duplicate_groups": [
+    [
+      "hiroshima-d1-02",
+      "hiroshima-d3-01"
+    ],
+    [
+      "shizuoka-d1-02",
+      "shizuoka-d3-01"
+    ],
+    [
+      "shizuoka-d1-08",
+      "shizuoka-d2-09"
+    ],
+    [
+      "shizuoka-d2-07",
+      "shizuoka-d3-03"
+    ],
+    [
+      "sapporo-d1-02",
+      "sapporo-d3-01",
+      "sapporo-d3-03"
+    ],
+    [
+      "okinawa-d3-02",
+      "okinawa-d3-03"
+    ],
+    [
+      "sendai-d1-02",
+      "sendai-d3-01"
+    ],
+    [
+      "sendai-d1-08",
+      "sendai-d2-08"
+    ],
+    [
+      "osaka-d1-06",
+      "osaka-d2-07"
+    ],
+    [
+      "osaka-d2-01",
+      "osaka-d2-03"
+    ],
+    [
+      "tokyo-d1-06",
+      "tokyo-d1-07"
+    ],
+    [
+      "takamatsu-d1-03",
+      "takamatsu-d2-03"
+    ],
+    [
+      "kumamoto-d1-03",
+      "kumamoto-d2-08"
+    ]
+  ],
+  "attempted": 66,
+  "replaced": 52,
+  "items": [
+    {
+      "key": "hiroshima-d3-06",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:%E5%BA%83%E5%B3%B6%E7%A9%BA%E6%B8%AF01.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Hiroshima_airport_japan.jpg",
+      "queries": [
+        "Hiroden Ujina Line in Hiroshima",
+        "広島空港"
+      ],
+      "matched_query": "広島空港",
+      "sha": "6e5a0b2a08cc8fbed0e86dc435a7005c0da19891"
+    },
+    {
+      "key": "hiroshima-d2-07",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:JR_Hiroshima_station_03d_(2949908323).jpg",
+      "queries": [
+        "JR Hiroshima station 03d (2949908323)"
+      ],
+      "matched_query": "JR Hiroshima station 03d (2949908323).jpg",
+      "sha": "857dacdf5bb6d367e40450e41b55b997330c6502"
+    },
+    {
+      "key": "hiroshima-d3-01",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg",
+      "new_source": "",
+      "queries": [
+        "A man prepares okonomiyaki in Hiroshima 2004-08-05"
+      ]
+    },
+    {
+      "key": "hiroshima-d3-03",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Hiroshima_streetcar_at_night_beside_Hondori_Station.jpg",
+      "queries": [
+        "Hiroshima streetcar at night beside Hondori Station"
+      ],
+      "matched_query": "Hiroshima streetcar at night beside Hondori Station.jpg",
+      "sha": "73d16acf1860e4e9928cd7f8102a44b077b441f9"
+    },
+    {
+      "key": "hiroshima-d3-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Hiroshima-Airport_Inside.jpg",
+      "queries": [
+        "Hiroshima-Airport Inside"
+      ],
+      "matched_query": "Hiroshima-Airport Inside.jpg",
+      "sha": "edd349d2d932deaed319cfbe25825d81cdd69f6f"
+    },
+    {
+      "key": "hiroshima-d2-10",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Grand_Prince_Hotel_Hiroshima_Prince_Club_Floor_King_bedroom_20190614-001.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:%E5%B0%BE%E9%81%93%E9%A7%85_-_Flickr_-_m-louis.jpg",
+      "queries": [
+        "Mielparque Hiroshima 2026",
+        "広島駅 ホテル"
+      ],
+      "matched_query": "広島駅 ホテル",
+      "sha": "119a26dfa3da96716248175ec8e2460902e0ea1b"
+    },
+    {
+      "key": "shizuoka-d3-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Fujisan-Shizuoka_airport,Makinohara-city,Japan.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Shizuoka-airport-terminal.jpg",
+      "queries": [
+        "Shizuoka Station Concourse",
+        "富士山静岡空港"
+      ],
+      "matched_query": "富士山静岡空港",
+      "sha": "3cfeb146475ad71fd177df4af2a176b5440f3bb3"
+    },
+    {
+      "key": "shizuoka-d3-01",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_201016a.jpg",
+      "new_source": "",
+      "queries": [
+        "Sanco Inn Shizuoka Kitaguchi"
+      ]
+    },
+    {
+      "key": "shizuoka-d3-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_201016a.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Shizuoka_airport_-_panoramio.jpg",
+      "queries": [
+        "Shizuoka airport - panoramio"
+      ],
+      "matched_query": "Shizuoka airport - panoramio.jpg",
+      "sha": "668bb7a1e91c8d20bd760d3aefa99be2f110ff44"
+    },
+    {
+      "key": "shizuoka-d2-03",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:KASHI_NO_ICHI_maguro_kan_in_shimizu_ward.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Matcha_tea_latte_with_rosetta_latte_art.jpg",
+      "queries": [
+        "Matcha latte",
+        "清水魚市場 河岸の市"
+      ],
+      "matched_query": "Matcha latte",
+      "sha": "07967d606b6643ca38366690d27bd6bf942c3c85"
+    },
+    {
+      "key": "shizuoka-d2-08",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Matcha_ice_cream_001.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:ASTY%E9%9D%99%E5%B2%A1%E6%9D%B1%E9%A4%A8.jpg",
+      "queries": [
+        "Shizoka oden 1 20151022",
+        "静岡駅 ASTY"
+      ],
+      "matched_query": "静岡駅 ASTY",
+      "sha": "b0dafe12f8d4000367b49ab2d5a82d5fe9f93e0f"
+    },
+    {
+      "key": "shizuoka-d2-09",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Hotel_Associa_Shizuoka_from_Tokaido_Shinkansen_window_view.jpg",
+      "new_source": "",
+      "queries": [
+        "Aoba Symbol Road 01",
+        "静岡駅 ホテル"
+      ]
+    },
+    {
+      "key": "shizuoka-d3-03",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Oden_street_by_Kossy%40FINEDAYS_in_Shizuoka.jpg",
+      "new_source": "",
+      "queries": [
+        "Shizoka oden 2 20151022",
+        "静岡駅 静岡おでん"
+      ]
+    },
+    {
+      "key": "sapporo-d3-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:New_Chitose_Airport.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:New_Chitose_Airport_outside_(International).jpg",
+      "queries": [
+        "Ramen Alley Sapporo Japan",
+        "新千歳空港"
+      ],
+      "matched_query": "新千歳空港",
+      "sha": "4bc0d3b814ef8fc6aa28cea61087fa2cf8aef02d"
+    },
+    {
+      "key": "sapporo-d3-06",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:New_Chitose_Airport.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:New_Chitose_Airport_control_tower.jpg",
+      "queries": [
+        "Former Hokkaido Government Office 202507",
+        "新千歳空港"
+      ],
+      "matched_query": "新千歳空港",
+      "sha": "98c4222f26deddb6efa65afcb6672bc5f24ebff7"
+    },
+    {
+      "key": "sapporo-d2-01",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:JR_Sapporo_Sta03n3200.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:A_Corridor_of_Sapporo_Station_01.jpg",
+      "queries": [
+        "A Corridor of Sapporo Station 01"
+      ],
+      "matched_query": "A Corridor of Sapporo Station 01.jpg",
+      "sha": "85bc3b9eea27cd013e0857376ec10f66f22e8a8a"
+    },
+    {
+      "key": "sapporo-d2-06",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:JR_Sapporo_Sta03n3200.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Corridor_of_Sapporo_Station_02.jpg",
+      "queries": [
+        "Corridor of Sapporo Station 02"
+      ],
+      "matched_query": "Corridor of Sapporo Station 02.jpg",
+      "sha": "a224e5beac625930a5ad6b6906ec4d713a3b9a8c"
+    },
+    {
+      "key": "sapporo-d3-01",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:JR_Sapporo_Sta03n3200.jpg",
+      "new_source": "",
+      "queries": [
+        "The snack bar district in Sapporo's Susukino in winter"
+      ]
+    },
+    {
+      "key": "sapporo-d3-03",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:JR_Sapporo_Sta03n3200.jpg",
+      "new_source": "",
+      "queries": [
+        "Susukino-night from TV Tower"
+      ]
+    },
+    {
+      "key": "sapporo-d2-09",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:SapporoNight2004-11.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Sapporo2005-1-9.jpg",
+      "queries": [
+        "KEIO-PRELIA.Sapporo",
+        "札幌駅 ホテル"
+      ],
+      "matched_query": "札幌駅 ホテル",
+      "sha": "b11bf8163e76eff79901e5f8fdc1ffac5ad99da0"
+    },
+    {
+      "key": "sapporo-d2-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:TsukimiBashi2004-12.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:SAKURAKO_in_the_JyoZanKei_hot_springs._(8345382759).jpg",
+      "queries": [
+        "SAKURAKO in the JyoZanKei hot springs. (8345382759)",
+        "定山渓温泉"
+      ],
+      "matched_query": "SAKURAKO in the JyoZanKei hot springs. (8345382759).jpg",
+      "sha": "43e71b764c7485146f2a31188d4a05a7a1a63dd6"
+    },
+    {
+      "key": "nagoya-d3-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Centrair_Terminal1-20220514-1.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E9%83%A8%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF_(chubu_Intl_airport)_(2190668919).jpg",
+      "queries": [
+        "Oasis21 at Night",
+        "中部国際空港"
+      ],
+      "matched_query": "中部国際空港",
+      "sha": "3ef4eb0f129174435e517014b669699bcf2f8668"
+    },
+    {
+      "key": "nagoya-d3-01",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:View_of_Nagoya_Station,_Tsubaki-cho_Nakamura_Ward_Nagoya_2022.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Christmas_decoration_at_Nagoya_Station%3B_November_2007.jpg",
+      "queries": [
+        "Christmas decoration at Nagoya Station; November 2007",
+        "名古屋駅"
+      ],
+      "matched_query": "Christmas decoration at Nagoya Station; November 2007.jpg",
+      "sha": "dadd7864c662f2530d9a5d5f59994e4f72dc0911"
+    },
+    {
+      "key": "nagoya-d2-06",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Miso_katsu,_tsukemono_and_miso_soup_by_shibainu_in_Nagoya.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Miso_Katsu_by_jetalone_in_Nagoya.jpg",
+      "queries": [
+        "Miso Katsu by jetalone in Nagoya",
+        "名古屋駅"
+      ],
+      "matched_query": "Miso Katsu by jetalone in Nagoya.jpg",
+      "sha": "cb7dbb7bf3c701eb513e89284f891cd507547ba5"
+    },
+    {
+      "key": "nagoya-d2-07",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Nagoya_TV_Tower_%26_Spaceship-Aqua,_Higashisakura_Higashi_Ward_Nagoya_2020.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Oasis_21.JPG",
+      "queries": [
+        "Oasis 21",
+        "オアシス21"
+      ],
+      "matched_query": "Oasis 21.JPG",
+      "sha": "4cb1b8cf945d59bfe22a76b6d50c7a789d323681"
+    },
+    {
+      "key": "nagoya-d2-02",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Atsuta-jingu_Shrine_Haiden,_Jingu_Atsuta_Ward_Nagoya_2023.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Atsuta_Jingu_20211226-02.jpg",
+      "queries": [
+        "Atsuta Jingu 20211226-02",
+        "熱田神宮"
+      ],
+      "matched_query": "Atsuta Jingu 20211226-02.jpg",
+      "sha": "40bc92f411a9c99b4ccb5f24e241822fa639d0bf"
+    },
+    {
+      "key": "okinawa-d3-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Naha_Airport13s3s4410.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Naha_Airport_Departure_Lobby.jpg",
+      "queries": [
+        "Naha Airport Departure Lobby",
+        "那覇空港"
+      ],
+      "matched_query": "Naha Airport Departure Lobby.jpg",
+      "sha": "7cae1651d70c25e940247fa27751c644ff0a64f5"
+    },
+    {
+      "key": "okinawa-d3-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Naha_Airport13s3s4410.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Inside_view_of_Naha_Airport_Domestic_Passenger_Terminal_Building.JPG",
+      "queries": [
+        "Inside view of Naha Airport Domestic Passenger Terminal Building",
+        "那覇空港"
+      ],
+      "matched_query": "Inside view of Naha Airport Domestic Passenger Terminal Building.JPG",
+      "sha": "bac66ddab306f8a9e9e8d5297b3ed474c9c300d0"
+    },
+    {
+      "key": "okinawa-d3-01",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Kencho-mae_Station_Okinawa.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Yui_Rail,_Kench%C5%8D-mae_Station_(Okinawa).jpg",
+      "queries": [
+        "Okinawa Churaumi Aquarium",
+        "県庁前駅 那覇"
+      ],
+      "matched_query": "県庁前駅 那覇",
+      "sha": "a2b29e1c72e24ad4938dbf234db43b323b86504d"
+    },
+    {
+      "key": "okinawa-d2-10",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503182722.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:202408_%E6%B2%96%E7%B9%A9%E7%B8%A3%E9%82%A3%E9%9C%B8%E5%B8%82%E7%9A%84%E9%82%A3%E9%9C%B8%E5%9C%8B%E9%9A%9B%E9%80%9A%E7%9A%84%E8%A1%97%E6%99%AF.jpg",
+      "queries": [
+        "202408 沖繩縣那霸市的那霸國際通的街景",
+        "那覇国際通り"
+      ],
+      "matched_query": "202408 沖繩縣那霸市的那霸國際通的街景.jpg",
+      "sha": "78f71e5e3dcb7b29efcbdee9ad2b7f4b863f940c"
+    },
+    {
+      "key": "okinawa-d3-03",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Umikaji_Terrace_Senagajima.jpg",
+      "new_source": "",
+      "queries": [
+        "Shuri soba by kazuh",
+        "瀬長島ウミカジテラス"
+      ]
+    },
+    {
+      "key": "sendai-d3-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sendai_Airport_Building_front.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Rapid_train_to_Sendai.jpg",
+      "queries": [
+        "Rapid train to Sendai",
+        "仙台空港"
+      ],
+      "matched_query": "Rapid train to Sendai.jpg",
+      "sha": "bdfdf497180a3a937ec6a9455629da5a57459e31"
+    },
+    {
+      "key": "sendai-d3-06",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sendai_Airport_Building_front.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Sendai_airport_access_line_%E4%BB%99%E5%8F%B0%E7%A9%BA%E6%B8%AF%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E9%89%84%E9%81%93_(436613433).jpg",
+      "queries": [
+        "仙台駅, Sendai station - panoramio",
+        "仙台空港"
+      ],
+      "matched_query": "仙台空港",
+      "sha": "22d9a78fd35ca97ec79475f4b5c985b1dedb77db"
+    },
+    {
+      "key": "sendai-d1-06",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Sendai_station_Senzan_Line_platforms.jpg",
+      "queries": [
+        "Sendai station Senzan Line platforms"
+      ],
+      "matched_query": "Sendai station Senzan Line platforms.jpg",
+      "sha": "e44d7ef8669b3accefef9a1ee6fa756c5c75e0d5"
+    },
+    {
+      "key": "sendai-d1-09",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Hotel_Metropolitan_Sendai_001.JPG",
+      "queries": [
+        "WestinSendai Front",
+        "仙台駅 ホテル"
+      ],
+      "matched_query": "仙台駅 ホテル",
+      "sha": "cd6da513a1e54cae7efecef41474b5292546745e"
+    },
+    {
+      "key": "sendai-d2-01",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:International-Center-STA_South1.jpg",
+      "queries": [
+        "仙台駅の外観",
+        "仙台駅 西口"
+      ],
+      "matched_query": "仙台駅の外観",
+      "sha": "80df232bee3551a51db6d9338d40c62eeabee0d9"
+    },
+    {
+      "key": "sendai-d2-06",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_west_entrance_2020.jpg",
+      "queries": [
+        "Sendai Station west entrance 2020"
+      ],
+      "matched_query": "Sendai Station west entrance 2020.jpg",
+      "sha": "f5839341d5eb0e8caf5cd631493c97f33bb20da1"
+    },
+    {
+      "key": "sendai-d2-09",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_night_(30648489646).jpg",
+      "queries": [
+        "Sendai Station at night (30648489646)"
+      ],
+      "matched_query": "Sendai Station at night (30648489646).jpg",
+      "sha": "04ff0271787bcb36c10be2221231cb07f0d2d6e6"
+    },
+    {
+      "key": "sendai-d3-01",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+      "new_source": "",
+      "queries": [
+        "Zuiho-den02s3200"
+      ]
+    },
+    {
+      "key": "sendai-d3-03",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_Night.JPG",
+      "queries": [
+        "Sendai Station at Night",
+        "仙台駅 ずんだ餅"
+      ],
+      "matched_query": "Sendai Station at Night.JPG",
+      "sha": "ae2fe07367eeb235ec3dfd5de9d71b0fde7448d1"
+    },
+    {
+      "key": "sendai-d3-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Gyutan_teishoku.JPG",
+      "new_source": "https://commons.wikimedia.org/wiki/File:211030_Kameshima_Matsushima_Miyagi_pref_Japan01n.jpg",
+      "queries": [
+        "211030 Kameshima Matsushima Miyagi pref Japan01n",
+        "仙台駅 牛タン"
+      ],
+      "matched_query": "211030 Kameshima Matsushima Miyagi pref Japan01n.jpg",
+      "sha": "a58eae90607251380b1dc3fdcd64121a0eb7d2f7"
+    },
+    {
+      "key": "sendai-d2-08",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sendai_gyutan.JPG",
+      "new_source": "",
+      "queries": [
+        "牛タン定食（牛タン焼専門店司西口名掛丁店・仙台）20220312-P1330639",
+        "仙台 牛タン"
+      ]
+    },
+    {
+      "key": "sendai-d2-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:211029_Akiu_Onsen_Sendai_Miyagi_pref_Japan01s3.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Akiu_Onsen,_Ryokusuitei_01.jpg",
+      "queries": [
+        "Akiu Onsen, Ryokusuitei 01",
+        "秋保温泉"
+      ],
+      "matched_query": "Akiu Onsen, Ryokusuitei 01.jpg",
+      "sha": "7df2a9ce7941357bcd03458f1dac5ec64ccc61e4"
+    },
+    {
+      "key": "fukuoka-d3-01",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Hakata_Station_Sign_(Fukuoka_Municipal_Subway).jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Fukuoka_City_Subway_Airport_Line_Hakata_Station.jpg",
+      "queries": [
+        "Hakata Station Fukuoka 博多駅 日本"
+      ],
+      "matched_query": "Fukuoka City Subway Airport Line Hakata Station.jpg",
+      "sha": "0c5103e969d0560b2d59312e4649524683232244"
+    },
+    {
+      "key": "fukuoka-d2-06",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Meinohama_Ferry_Passenger_Terminal-2.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Meinohama_Ferry_Passenger_Terminal.jpg",
+      "queries": [
+        "姪浜渡船場",
+        "Meinohama ferry terminal 姪浜渡船場 日本"
+      ],
+      "matched_query": "姪浜渡船場",
+      "sha": "4156a82a8a99fa5716e44090ccb682c7648dd292"
+    },
+    {
+      "key": "osaka-d3-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E5%85%A8%E4%BD%93%E5%86%99%E7%9C%9F20220811.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Kansai_International_Airport.JPG",
+      "queries": [
+        "関西国際空港",
+        "Kansai International Airport Osaka 関西国際空港 日本"
+      ],
+      "matched_query": "Kansai International Airport.JPG",
+      "sha": "6432d7cd2f3062dbd9eb62a150b2c70312455c72"
+    },
+    {
+      "key": "osaka-d1-09",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Osaka-namba-L1.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Namba_Station.JPG",
+      "queries": [
+        "なんば駅",
+        "Namba Station Osaka なんば駅 日本"
+      ],
+      "matched_query": "なんば駅",
+      "sha": "50b7b4b049d51e5691ff466880dc3f2c4b34df3e"
+    },
+    {
+      "key": "osaka-d2-09",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Osaka-namba-L1.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%B5%B7%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85_-_panoramio.jpg",
+      "queries": [
+        "なんば駅",
+        "Namba Station Osaka なんば駅 日本"
+      ],
+      "matched_query": "なんば駅",
+      "sha": "b60124b153abc732acbb0ad180263478f32939ae"
+    },
+    {
+      "key": "osaka-d3-01",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Osaka-namba-L1.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%B5%B7%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85_-_panoramio_(1).jpg",
+      "queries": [
+        "なんば駅",
+        "Namba Station Osaka なんば駅 日本"
+      ],
+      "matched_query": "なんば駅",
+      "sha": "281bc042a7ec469d04f0f40173d5c43a96035b8e"
+    },
+    {
+      "key": "osaka-d3-03",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Osaka-namba-L1.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Nankai_6000_series_at_Namba_Station_(Nankai)_2009-10-06.jpg",
+      "queries": [
+        "なんば駅",
+        "Namba Station Osaka なんば駅 日本"
+      ],
+      "matched_query": "なんば駅",
+      "sha": "3fa0d47f4e60384e48cd6391e237f015f16b7ae9"
+    },
+    {
+      "key": "osaka-d2-07",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Osaka_Umeda_Sky_Building_Panoramablick_05.jpg",
+      "new_source": "",
+      "queries": [
+        "Umeda Osaka 梅田 日本"
+      ]
+    },
+    {
+      "key": "osaka-d2-03",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:%E9%98%AA%E6%80%A5%E7%AE%95%E9%9D%A2%E9%A7%85%E5%85%A8%E6%99%AF.jpg",
+      "new_source": "",
+      "queries": [
+        "Minoh Station Osaka 箕面駅 日本"
+      ]
+    },
+    {
+      "key": "tokyo-d3-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:TBCK_5107_new-KaNaC.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Singapore_Airlines_Boeing_777-300ER_(9V-SWJ)_at_Tokyo_Narita_International_Airport.jpg",
+      "queries": [
+        "成田国際空港",
+        "Narita International Airport Tokyo terminal 成田国際空港 日本"
+      ],
+      "matched_query": "成田国際空港",
+      "sha": "374e83c116469a7724ba0d151da9a40a23b3daa5"
+    },
+    {
+      "key": "tokyo-d3-06",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:TBCK_5107_new-KaNaC.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:008_Many_airlines_together_at_Narita_Airport,_Japan_-_%E6%88%90%E7%94%B0%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF.JPG",
+      "queries": [
+        "成田国際空港",
+        "Narita International Airport Tokyo terminal 成田国際空港 日本"
+      ],
+      "matched_query": "成田国際空港",
+      "sha": "142f8a4b0b955b9e9018ad73b737e513ba537ca1"
+    },
+    {
+      "key": "tokyo-d3-01",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:TokyoMetro-Ueno-Station-gate2018JR.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Ueno_Station.jpg",
+      "queries": [
+        "Ueno Station Tokyo 上野駅 日本"
+      ],
+      "matched_query": "Ueno Station.jpg",
+      "sha": "268599e439e99f057ad98ab2e6201c14e92bec47"
+    },
+    {
+      "key": "tokyo-d1-07",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Tokyo_Dome_City_LaQua.JPG",
+      "new_source": "",
+      "queries": [
+        "東京ドーム天然温泉 Spa LaQua",
+        "Tokyo Dome City Spa LaQua 東京ドーム天然温泉 Spa LaQua 日本"
+      ]
+    },
+    {
+      "key": "matsuyama-d3-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Airport_20240709_(10).jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Airport_20240605.jpg",
+      "queries": [
+        "松山空港",
+        "Matsuyama Airport Ehime 松山空港 日本"
+      ],
+      "matched_query": "Matsuyama Airport 20240605.jpg",
+      "sha": "2b20ca5e5d416b50885535d41985bfe258a1f665"
+    },
+    {
+      "key": "matsuyama-d3-01",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Iyotetsu_Takashimaya_20260517.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85%E3%81%AE%E3%81%82%E3%82%8B%E4%BC%8A%E4%BA%88%E9%89%84%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E3%83%93%E3%83%AB.JPG",
+      "queries": [
+        "松山市駅",
+        "Matsuyamashi Station Ehime 松山市駅 日本"
+      ],
+      "matched_query": "松山市駅",
+      "sha": "b077ef1530318f37968e7c38663ce11ceb0cf166"
+    },
+    {
+      "key": "matsuyama-d1-08",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Taimeshi_02.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Dougo_Onsen,_Matsuyama.jpg",
+      "queries": [
+        "道後温泉",
+        "Dogo Onsen Matsuyama 道後温泉 日本"
+      ],
+      "matched_query": "Dougo Onsen, Matsuyama.jpg",
+      "sha": "ac908a2953af9292e37288cfb3aed69aed8089a5"
+    },
+    {
+      "key": "matsuyama-d3-03",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Taimeshi_02.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85%E9%A7%85%E5%90%8D%E8%A1%A8%E8%A8%98.jpg",
+      "queries": [
+        "松山市駅",
+        "Matsuyamashi Station Ehime 松山市駅 日本"
+      ],
+      "matched_query": "松山市駅",
+      "sha": "7ee88e41963468e7394188e64d2ffb25938a0572"
+    },
+    {
+      "key": "takamatsu-d3-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:TakamatsuKukou01.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E6%9D%BE%E7%A9%BA%E6%B8%AF_%E5%85%A8%E6%99%AF.jpg",
+      "queries": [
+        "高松空港",
+        "Takamatsu Airport Kagawa 高松空港 日本"
+      ],
+      "matched_query": "高松空港 全景.jpg",
+      "sha": "17f54fcc75587ff80ecd9b96e030f85a9c3e965c"
+    },
+    {
+      "key": "takamatsu-d2-03",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Kama-age_sanuki_udon_by_sekido_in_Takamatsu,_Kagawa.jpg",
+      "new_source": "",
+      "queries": [
+        "Kotohira Kagawa 琴平 日本"
+      ]
+    },
+    {
+      "key": "takamatsu-d3-03",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Kama-age_sanuki_udon_by_sekido_in_Takamatsu,_Kagawa.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Station_Sign_2.jpg",
+      "queries": [
+        "Takamatsu Station Kagawa 高松駅 日本"
+      ],
+      "matched_query": "Takamatsu Station Kagawa 高松駅 日本",
+      "sha": "22c32cd8ca6e32dcc656888d698791a67e3d4c49"
+    },
+    {
+      "key": "kumamoto-d2-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Kumamoro-ramen.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:%E4%B8%8B%E6%B1%9F%E6%B4%A5%E6%B9%96.JPG",
+      "queries": [
+        "Ezu Lake Kumamoto 江津湖 日本"
+      ],
+      "matched_query": "Ezu Lake Kumamoto 江津湖 日本",
+      "sha": "03ba3361bf41eee326b44dcc14268672b24e61fe"
+    },
+    {
+      "key": "kumamoto-d2-08",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Kumamoro-ramen.jpg",
+      "new_source": "",
+      "queries": [
+        "Shimotori shopping street Kumamoto 下通 日本"
+      ]
+    },
+    {
+      "key": "kumamoto-d2-02",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Suizenji-jojuen01n4272.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Suizenji_jojuen_garden.jpg",
+      "queries": [
+        "Kumamoto Suizenji-jojuen01n4272",
+        "水前寺成趣園",
+        "Suizenji Jojuen garden Kumamoto 水前寺成趣園 日本"
+      ],
+      "matched_query": "Suizenji jojuen garden.jpg",
+      "sha": "eedd5b43dcecfa01a9586117b814163cce17b16f"
+    }
+  ]
+}
