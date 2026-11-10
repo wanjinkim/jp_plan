@@ -26,7 +26,7 @@ function photoBox(photo,search,alt='',classes=''){
   const src=gPhoto(photo),dest=googleImg(search),caption=esc(alt||photo?.title||search);
   const placeholder='<span class="photo-placeholder"><span>이미지 자료 확인 중</span><b>'+esc(search)+'</b></span>';
   const shown=src?'<img loading="lazy" decoding="async" src="'+esc(src)+'" alt="'+caption+'" onerror="this.hidden=true;this.nextElementSibling.hidden=false;this.closest(&#39;button&#39;).disabled=true"><span class="photo-placeholder" hidden><span>사진을 불러오지 못했습니다</span><b>'+esc(search)+'</b></span><span class="zoom-hint" aria-hidden="true">크게 보기 ⤢</span>':placeholder;
-  return '<div class="photo-link '+esc(classes)+'"><button type="button" class="photo-open" '+(src?'':'disabled')+' data-photo-src="'+esc(src||'')+'" data-photo-alt="'+caption+'" aria-label="'+caption+' 사진 크게 보기">'+shown+'</button><a class="photo-search-btn" href="'+esc(dest)+'" data-safe-url="'+esc(dest)+'" target="_blank" rel="noopener noreferrer" aria-label="'+caption+' 이미지 검색">이미지 검색 ↗</a></div>';
+  return '<div class="photo-link '+esc(classes)+'"><button type="button" class="photo-open" '+(src?'':'disabled')+' data-photo-src="'+esc(src||'')+'" data-photo-alt="'+caption+'" aria-label="'+caption+' 사진 크게 보기">'+shown+'</button><a class="photo-search-btn" href="'+esc(dest)+'" target="_blank" rel="noopener noreferrer" aria-label="'+caption+' 이미지 검색">이미지 검색 ↗</a></div>';
 }
 function tag(text){return `<span class="tag">${esc(text)}</span>`}
 function title(k,head,desc){return `<div class="heading"><div><p class="eyebrow">${esc(k)}</p><h2>${esc(head)}</h2><p>${esc(desc)}</p></div></div>`}
