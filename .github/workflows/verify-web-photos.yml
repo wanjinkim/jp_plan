@@ -1,0 +1,43 @@
+name: Verify every itinerary photo in Chromium
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'assets/app.js'
+      - 'assets/local_schedule_photos.json'
+      - 'assets/photos/schedules/**'
+      - 'assets/recommended.json'
+      - 'assets/new_routes.json'
+      - 'assets/gallery.json'
+      - 'index.html'
+      - 'scripts/verify_web_photos.mjs'
+      - '.github/workflows/verify-web-photos.yml'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install browser testing runtime
+        run: |
+          npm install --no-save playwright@1.58.2
+          npx playwright install --with-deps chromium
+      - name: Run actual page and all itinerary image checks
+        run: |
+          python -m http.server 8765 --bind 127.0.0.1 > /tmp/japan-atlas-server.log 2>&1 &
+          node scripts/verify_web_photos.mjs
+      - name: Publish detailed browser photo audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: itinerary-browser-image-test
+          path: |
+            browser-photo-audit.json
+            /tmp/japan-atlas-server.log
+          if-no-files-found: ignore
