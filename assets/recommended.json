@@ -44,9 +44,10 @@
             "walk": 5,
             "verified": false,
             "note": "착륙 09:00은 가정이며 실제 항공편이 아직 확인되지 않았습니다.",
-            "photo_file": "A runway and a Sunset - panoramio.jpg",
+            "photo_file": "LOCAL-hiroshima-d1-01.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 공항 활주로",
-            "flight_assumption": true
+            "flight_assumption": true,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "10:10",
@@ -57,9 +58,10 @@
             "walk": 7,
             "verified": false,
             "note": "공항버스 탑승편과 호텔 위치에 따라 조정 필요",
-            "photo_file": "JR and Hiroden Hiroshima Station.JPG",
+            "photo_file": "LOCAL-hiroshima-d1-02.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 히로시마역과 노면전차",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "11:10",
@@ -70,9 +72,10 @@
             "walk": 8,
             "verified": false,
             "note": "도심 전차 하차 후 공원 산책. 공원 내부 산책은 이동 도보 제한에 포함하지 않음",
-            "photo_file": "Hiroshima Shukkeien hdsr Garden S5 20.jpg",
+            "photo_file": "LOCAL-hiroshima-d1-03.jpg",
             "photo_scope": "자연 참고사진 · 슈케이엔 정원 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "12:40",
@@ -83,9 +86,10 @@
             "walk": 6,
             "verified": false,
             "note": "특정 업소의 대기시간이 달라 음식 종류 중심으로 추천",
-            "photo_file": "Okonomiyaki in Hiroshima 02.jpg",
+            "photo_file": "LOCAL-hiroshima-d1-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 히로시마식 오코노미야키",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "13:55",
@@ -96,9 +100,10 @@
             "walk": 8,
             "verified": false,
             "note": "전차 또는 버스 이동, 도보는 정류장 접근 구간만 기준",
-            "photo_file": "Hiroshima Castle 2025.jpg",
+            "photo_file": "LOCAL-hiroshima-d1-05.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 히로시마성",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "15:40",
@@ -109,9 +114,10 @@
             "walk": 5,
             "verified": false,
             "note": "상점별 영업시간 확인",
-            "photo_file": "Hiroshima hondori.jpg",
+            "photo_file": "LOCAL-hiroshima-d1-06.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 혼도리 상점가",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "17:50",
@@ -122,9 +128,10 @@
             "walk": 6,
             "verified": false,
             "note": "굴 전문점은 현장 예약 여부 확인",
-            "photo_file": "Kakihune Kanawa 20140302.JPG",
+            "photo_file": "LOCAL-hiroshima-d1-07.jpg",
             "photo_scope": "지역 음식 참고사진 · 히로시마 굴 전문 음식점 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "19:30",
@@ -135,9 +142,10 @@
             "walk": 7,
             "verified": false,
             "note": "야간에는 운행 간격과 영업시간 확인",
-            "photo_file": "A bomb dome hiroshima sunset.jpg",
+            "photo_file": "LOCAL-hiroshima-d1-08.jpg",
             "photo_scope": "거리·야경 참고사진 · 해질 무렵 원폭 돔 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "21:30",
@@ -148,9 +156,10 @@
             "walk": 8,
             "verified": false,
             "note": "숙소 미확정 · 실제 객실 이미지가 아니라 권역 참고",
-            "photo_file": "2013-09-01 a hotel room in Hiroshima 01.jpg",
+            "photo_file": "LOCAL-hiroshima-d1-09.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 히로시마 호텔 객실 사례",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ],
         [
@@ -163,9 +172,10 @@
             "walk": 7,
             "verified": false,
             "note": "환승 연결시간은 일정 배분값",
-            "photo_file": "JR Miyajima Ferry-344.jpg",
+            "photo_file": "LOCAL-hiroshima-d2-01.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 미야지마로 가는 페리에서",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "09:20",
@@ -176,9 +186,10 @@
             "walk": 12,
             "verified": false,
             "note": "조수 간만에 따라 도리이 모습이 달라질 수 있습니다.",
-            "photo_file": "Itsukushima Gate.jpg",
+            "photo_file": "LOCAL-hiroshima-d2-02.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 이쓰쿠시마 신사 도리이",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "10:40",
@@ -189,9 +200,10 @@
             "walk": 8,
             "verified": false,
             "note": "섬 상점가에서 간식 구입",
-            "photo_file": "Momiji Manju Hiroshima.JPG",
+            "photo_file": "LOCAL-hiroshima-d2-03.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 히로시마 모미지 만주",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "11:30",
@@ -202,9 +214,10 @@
             "walk": 8,
             "verified": false,
             "note": "우에노 본점(육지)은 이 구간에 포함하지 않음",
-            "photo_file": "Anagoju in Miyajima 01.jpg",
+            "photo_file": "LOCAL-hiroshima-d2-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 미야지마 장어덮밥",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "12:35",
@@ -215,9 +228,10 @@
             "walk": 10,
             "verified": false,
             "note": "공원 내부 트레킹은 별도 관람 시간",
-            "photo_file": "Autumn colours on Miyajima Island Japan.jpg",
+            "photo_file": "LOCAL-hiroshima-d2-05.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 미야지마 가을 단풍",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "13:20",
@@ -228,9 +242,10 @@
             "walk": 10,
             "verified": true,
             "note": "11월28일 사전 예약 필수. 기상에 따라 운휴 가능",
-            "photo_file": "Miyajima Ropeway Shishiiwa Line 2010.jpg",
+            "photo_file": "LOCAL-hiroshima-d2-06.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 미야지마 로프웨이",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "15:50",
@@ -241,9 +256,10 @@
             "walk": 7,
             "verified": false,
             "note": "시간표·대기 포함 편성. 정확한 승차시각 미확정",
-            "photo_file": "JR Hiroshima station 03d (2949908323).jpg",
+            "photo_file": "LOCAL-hiroshima-d2-07.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 히로시마역 대합 구역",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "17:30",
@@ -254,9 +270,10 @@
             "walk": 10,
             "verified": true,
             "note": "전차 이동+온천 체류를 포함. 개별 탕 사진은 미확보",
-            "photo_file": "Hiroshima Washington Hotel.JPG",
+            "photo_file": "LOCAL-hiroshima-d2-08.jpg",
             "photo_scope": "온천 권역 참고사진 · 히로시마 워싱턴 호텔 외관 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "20:35",
@@ -267,9 +284,10 @@
             "walk": 5,
             "verified": false,
             "note": "늦은 시간 영업 매장 확인 필요",
-            "photo_file": "Okonomiyaki in Hiroshima 03.jpg",
+            "photo_file": "LOCAL-hiroshima-d2-09.jpg",
             "photo_scope": "지역 음식 참고사진 · 오코노미야키 접사 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "22:20",
@@ -280,9 +298,10 @@
             "walk": 5,
             "verified": false,
             "note": "숙소 미정 · 호텔 외관 예시",
-            "photo_file": "Mielparque Hiroshima 2026.JPG",
+            "photo_file": "LOCAL-hiroshima-d2-10.jpg",
             "photo_scope": "숙박 권역 참고사진 · 도심 숙박시설 사례 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ],
         [
@@ -295,9 +314,10 @@
             "walk": 6,
             "verified": false,
             "note": "보관함 공실·호텔 위치 확인",
-            "photo_file": "A man prepares okonomiyaki in Hiroshima 2004-08-05.jpg",
+            "photo_file": "LOCAL-hiroshima-d3-01.jpg",
             "photo_scope": "숙박 권역 참고사진 · 철판 요리 현장 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "09:10",
@@ -308,9 +328,10 @@
             "walk": 12,
             "verified": false,
             "note": "정원 내 산책은 트레킹·관람으로 분리",
-            "photo_file": "Sunset over Hiroshima bay, from Miyajima (4177221419).jpg",
+            "photo_file": "LOCAL-hiroshima-d3-02.jpg",
             "photo_scope": "자연 참고사진 · 미야지마에서 보는 저녁 바다 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "11:00",
@@ -321,9 +342,10 @@
             "walk": 6,
             "verified": false,
             "note": "수하물 회수 후 공항 이동 준비",
-            "photo_file": "Hiroshima streetcar at night beside Hondori Station.jpg",
+            "photo_file": "LOCAL-hiroshima-d3-03.jpg",
             "photo_scope": "거리·야경 참고사진 · 혼도리역 야간 노면전차 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "12:00",
@@ -334,9 +356,10 @@
             "walk": 5,
             "verified": false,
             "note": "식당명 미확정. 메뉴 사진 참고",
-            "photo_file": "Matcha Soft Serve in Miyajima 01.jpg",
+            "photo_file": "LOCAL-hiroshima-d3-04.jpg",
             "photo_scope": "지역 음식 참고사진 · 미야지마 디저트 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "13:00",
@@ -347,9 +370,10 @@
             "walk": 4,
             "verified": false,
             "note": "귀국 항공편에 맞춰 앞당기거나 조정",
-            "photo_file": "Hiroshima-Airport Inside.jpg",
+            "photo_file": "LOCAL-hiroshima-d3-05.jpg",
             "photo_scope": "공항 참고사진 · 히로시마 공항 터미널 내부 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "14:10",
@@ -360,9 +384,10 @@
             "walk": 5,
             "verified": false,
             "note": "귀국편 시간이 확정되지 않아 16시 이후는 자유 일정이 아님",
-            "photo_file": "Hiroden Ujina Line in Hiroshima.jpg",
+            "photo_file": "LOCAL-hiroshima-d3-06.jpg",
             "photo_scope": "공항 참고사진 · 히로시마 시내 노면전차 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ]
       ]
@@ -409,9 +434,10 @@
             "walk": 5,
             "verified": false,
             "note": "09:00 착륙은 가정",
-            "photo_file": "Shizuoka-airport-terminal.jpg",
+            "photo_file": "LOCAL-shizuoka-d1-01.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 후지산 시즈오카 공항 청사",
-            "flight_assumption": true
+            "flight_assumption": true,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "10:15",
@@ -422,9 +448,10 @@
             "walk": 7,
             "verified": false,
             "note": "공항 리무진 실제 출발시각 확인",
-            "photo_file": "Kuretake Inn Premium Shizuoka Ekimae.JPG",
+            "photo_file": "LOCAL-shizuoka-d1-02.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 역 앞 비즈니스호텔",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "11:25",
@@ -435,9 +462,10 @@
             "walk": 7,
             "verified": false,
             "note": "특정 식당에 고정하지 않고 역 주변 메뉴로 구성",
-            "photo_file": "KASHI NO ICHI maguro kan in shimizu ward.jpg",
+            "photo_file": "LOCAL-shizuoka-d1-03.jpg",
             "photo_scope": "지역 음식 참고사진 · 시미즈 어시장 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "13:00",
@@ -448,9 +476,10 @@
             "walk": 9,
             "verified": false,
             "note": "공원 내부 트레킹은 제한시간 제외",
-            "photo_file": "Sunpu castle park.JPG",
+            "photo_file": "LOCAL-shizuoka-d1-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 슨푸성 공원",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "15:15",
@@ -461,9 +490,10 @@
             "walk": 7,
             "verified": false,
             "note": "나나야 등 영업 확인 후 선택",
-            "photo_file": "Matcha ice cream 001.jpg",
+            "photo_file": "LOCAL-shizuoka-d1-05.jpg",
             "photo_scope": "지역 음식 참고사진 · 말차 아이스크림 예시 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "16:45",
@@ -474,9 +504,10 @@
             "walk": 8,
             "verified": false,
             "note": "매장별 개점시각 확인 필요",
-            "photo_file": "Sumpu-jou park Oden shop.jpg",
+            "photo_file": "LOCAL-shizuoka-d1-06.jpg",
             "photo_scope": "지역 음식 참고사진 · 슨푸성 공원 음식점 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "19:05",
@@ -487,9 +518,10 @@
             "walk": 6,
             "verified": false,
             "note": "상점 마감은 실제 영업시간 확인",
-            "photo_file": "ASTY Shizuoka 01.jpg",
+            "photo_file": "LOCAL-shizuoka-d1-07.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 아스티 상점가",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "21:20",
@@ -500,9 +532,10 @@
             "walk": 5,
             "verified": false,
             "note": "호텔 사진은 숙박 권역 참고",
-            "photo_file": "Hotel Associa Shizuoka.JPG",
+            "photo_file": "LOCAL-shizuoka-d1-08.jpg",
             "photo_scope": "숙박 권역 참고사진 · 호텔 아소시아 시즈오카 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ],
         [
@@ -515,9 +548,10 @@
             "walk": 8,
             "verified": false,
             "note": "버스 실제 편명·주말 운행 재확인",
-            "photo_file": "Miho no Matsubara and Mount Fuji.JPG",
+            "photo_file": "LOCAL-shizuoka-d2-01.jpg",
             "photo_scope": "자연 참고사진 · 미호노마쓰바라·후지산 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "09:25",
@@ -528,9 +562,10 @@
             "walk": 10,
             "verified": true,
             "note": "버스 종점부터 해변 가까운 정류장을 우선 사용. 관람 산책 별도",
-            "photo_file": "231027 Shimizu Port Shizuoka Japan01s3.jpg",
+            "photo_file": "LOCAL-shizuoka-d2-02.jpg",
             "photo_scope": "자연 참고사진 · 시미즈항 전경 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "11:40",
@@ -541,9 +576,10 @@
             "walk": 8,
             "verified": false,
             "note": "도시 간 버스 환승 시간은 계획값",
-            "photo_file": "Matcha latte.jpg",
+            "photo_file": "LOCAL-shizuoka-d2-03.jpg",
             "photo_scope": "지역 음식 참고사진 · 말차 음료 예시 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "13:00",
@@ -554,9 +590,10 @@
             "walk": 5,
             "verified": false,
             "note": "물가 주변 산책, 실시간 기상 확인",
-            "photo_file": "231027 Shimizu Port Shizuoka Japan03s3.jpg",
+            "photo_file": "LOCAL-shizuoka-d2-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 시미즈항 바다 풍경",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "15:00",
@@ -567,9 +604,10 @@
             "walk": 8,
             "verified": false,
             "note": "실제 열차 시각 확인",
-            "photo_file": "Shizuoka station 01.jpg",
+            "photo_file": "LOCAL-shizuoka-d2-05.jpg",
             "photo_scope": "교통 참고사진 · 시즈오카역 통로 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "16:05",
@@ -580,9 +618,10 @@
             "walk": 10,
             "verified": true,
             "note": "시설 09:00~23:00, 최종 접수 22:30 확인. 사진은 지역 음료 참고",
-            "photo_file": "Aoba Ryokuchi 01.jpg",
+            "photo_file": "LOCAL-shizuoka-d2-06.jpg",
             "photo_scope": "온천 권역 참고사진 · 시즈오카 아오바 녹지 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "19:00",
@@ -593,9 +632,10 @@
             "walk": 6,
             "verified": false,
             "note": "열차 간격과 식당 영업 확인",
-            "photo_file": "Shizuoka Oden matsuri.jpg",
+            "photo_file": "LOCAL-shizuoka-d2-07.jpg",
             "photo_scope": "지역 음식 참고사진 · 오뎅 행사 현장 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "20:30",
@@ -606,9 +646,10 @@
             "walk": 5,
             "verified": false,
             "note": "역 건물 운영시간 확인",
-            "photo_file": "Shizoka oden 1 20151022.jpg",
+            "photo_file": "LOCAL-shizuoka-d2-08.jpg",
             "photo_scope": "지역 음식 참고사진 · 시즈오카 검은 오뎅 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "22:30",
@@ -619,9 +660,10 @@
             "walk": 5,
             "verified": false,
             "note": "선택 호텔 미정",
-            "photo_file": "Aoba Symbol Road 01.jpg",
+            "photo_file": "LOCAL-shizuoka-d2-09.jpg",
             "photo_scope": "숙박 권역 참고사진 · 아오바 상징거리 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ],
         [
@@ -634,9 +676,10 @@
             "walk": 5,
             "verified": false,
             "note": "호텔 프런트 서비스 확인",
-            "photo_file": "Sanco Inn Shizuoka Kitaguchi.JPG",
+            "photo_file": "LOCAL-shizuoka-d3-01.jpg",
             "photo_scope": "숙박 권역 참고사진 · 역 앞 숙소 예시 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "09:20",
@@ -647,9 +690,10 @@
             "walk": 4,
             "verified": false,
             "note": "상점 영업시각 확인",
-            "photo_file": "Aoba Oden Street 01.jpg",
+            "photo_file": "LOCAL-shizuoka-d3-02.jpg",
             "photo_scope": "거리·야경 참고사진 · 아오바 오뎅거리 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "10:50",
@@ -660,9 +704,10 @@
             "walk": 5,
             "verified": false,
             "note": "역 주변 상호는 현장 선택",
-            "photo_file": "Shizoka oden 2 20151022.jpg",
+            "photo_file": "LOCAL-shizuoka-d3-03.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 오뎅 조리 모습",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "12:15",
@@ -673,9 +718,10 @@
             "walk": 5,
             "verified": false,
             "note": "실제 공항버스 시간표와 탑승권 확인",
-            "photo_file": "Shizuoka airport - panoramio.jpg",
+            "photo_file": "LOCAL-shizuoka-d3-04.jpg",
             "photo_scope": "공항 참고사진 · 시즈오카 공항 접근 전경 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "13:25",
@@ -686,9 +732,10 @@
             "walk": 5,
             "verified": false,
             "note": "귀국편 출발시각에 맞춰 조정",
-            "photo_file": "Shizuoka Station Concourse.jpg",
+            "photo_file": "LOCAL-shizuoka-d3-05.jpg",
             "photo_scope": "공항 참고사진 · 시즈오카역 실내 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ]
       ]
@@ -735,9 +782,10 @@
             "walk": 6,
             "verified": false,
             "note": "09:00 도착 가정, 실제 편 도착은 더 늦을 수 있음",
-            "photo_file": "New CHITOSE Airport terminal.jpg",
+            "photo_file": "LOCAL-sapporo-d1-01.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 신치토세 공항 터미널 전경",
-            "flight_assumption": true
+            "flight_assumption": true,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "10:00",
@@ -748,9 +796,10 @@
             "walk": 7,
             "verified": false,
             "note": "쾌속 약 40분, 열차 대기 포함",
-            "photo_file": "Hotel Route Inn Sapporo-Ekimae-Kitaguchi.JPG",
+            "photo_file": "LOCAL-sapporo-d1-02.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 삿포로역 인근 호텔",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "11:00",
@@ -761,9 +810,10 @@
             "walk": 8,
             "verified": false,
             "note": "식당 대기시간 변동",
-            "photo_file": "A soup curry dish in Sapporo - Flickr - odako1.jpg",
+            "photo_file": "LOCAL-sapporo-d1-03.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 삿포로 수프카레",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "12:35",
@@ -774,9 +824,10 @@
             "walk": 8,
             "verified": false,
             "note": "전망대는 예약·입장시간 확인",
-            "photo_file": "Hokkaido Sapporo Odori Park.jpg",
+            "photo_file": "LOCAL-sapporo-d1-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 오도리공원",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "14:35",
@@ -787,9 +838,10 @@
             "walk": 8,
             "verified": false,
             "note": "실내 입장 여부는 별도 확인",
-            "photo_file": "New Chitose Airport at departure 01.jpg",
+            "photo_file": "LOCAL-sapporo-d1-05.jpg",
             "photo_scope": "교통 참고사진 · 신치토세 공항 출발 풍경 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "16:20",
@@ -800,9 +852,10 @@
             "walk": 7,
             "verified": false,
             "note": "다루마 업소 영업·대기 확인",
-            "photo_file": "Yakiniku on braziers at 成吉思汗 だるま in Sapporo, Japan (244).jpg",
+            "photo_file": "LOCAL-sapporo-d1-06.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 다루마 양고기 구이",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "18:45",
@@ -813,9 +866,10 @@
             "walk": 5,
             "verified": false,
             "note": "심야 영업 식당별 확인",
-            "photo_file": "Curry dish at Rojiura Curry SAMURAI in Sapporo, Japan (242).jpg",
+            "photo_file": "LOCAL-sapporo-d1-07.jpg",
             "photo_scope": "지역 음식 참고사진 · 스프카레 식당 실제 메뉴 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "21:05",
@@ -826,9 +880,10 @@
             "walk": 8,
             "verified": false,
             "note": "숙박 권역 참고",
-            "photo_file": "定山渓ビューホテル - panoramio.jpg",
+            "photo_file": "LOCAL-sapporo-d1-08.jpg",
             "photo_scope": "숙박 권역 참고사진 · 조잔케이 호텔 실제 모습 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ],
         [
@@ -841,9 +896,10 @@
             "walk": 7,
             "verified": false,
             "note": "정기버스 실제 탑승시각 미확정; 예약제 버스 별도",
-            "photo_file": "A Corridor of Sapporo Station 01.jpg",
+            "photo_file": "LOCAL-sapporo-d2-01.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 삿포로역 실내 통로",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "09:25",
@@ -854,9 +910,10 @@
             "walk": 8,
             "verified": false,
             "note": "고속도로·버스 배차에 따라 지연 가능",
-            "photo_file": "JozankeiOnsen.jpg",
+            "photo_file": "LOCAL-sapporo-d2-02.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 조잔케이 온천마을",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "11:00",
@@ -867,9 +924,10 @@
             "walk": 12,
             "verified": false,
             "note": "관광 목적 계곡 산책은 15분 이동 도보와 구별",
-            "photo_file": "20240923 Sapporo Odori Park.jpg",
+            "photo_file": "LOCAL-sapporo-d2-03.jpg",
             "photo_scope": "자연 참고사진 · 오도리공원 산책로 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "12:35",
@@ -880,9 +938,10 @@
             "walk": 7,
             "verified": false,
             "note": "특정 식당 미정, 음식 이미지는 메뉴 참고",
-            "photo_file": "SAKURAKO in the JyoZanKei hot springs. (8345382759).jpg",
+            "photo_file": "LOCAL-sapporo-d2-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 조잔케이 온천 여행 사진",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "14:10",
@@ -893,9 +952,10 @@
             "walk": 8,
             "verified": false,
             "note": "당일 입욕 가능한 료칸을 예약 전에 확인",
-            "photo_file": "Former Hokkaido Government Office Building 20090112-01.jpg",
+            "photo_file": "LOCAL-sapporo-d2-05.jpg",
             "photo_scope": "온천 권역 참고사진 · 홋카이도청 설경 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "16:30",
@@ -906,9 +966,10 @@
             "walk": 8,
             "verified": false,
             "note": "막차와 배차 중요: 방문 전 확인 필수",
-            "photo_file": "Corridor of Sapporo Station 02.jpg",
+            "photo_file": "LOCAL-sapporo-d2-06.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 삿포로역 이동 통로",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "18:10",
@@ -919,9 +980,10 @@
             "walk": 7,
             "verified": false,
             "note": "역·스스키노 일대 선택",
-            "photo_file": "Soup-Curry ： PICANTE, Sapporo, Japan - panoramio.jpg",
+            "photo_file": "LOCAL-sapporo-d2-07.jpg",
             "photo_scope": "지역 음식 참고사진 · 삿포로 수프카레 맛집 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "20:15",
@@ -932,9 +994,10 @@
             "walk": 8,
             "verified": false,
             "note": "눈·빙판길 상태에 따라 도보시간 변화",
-            "photo_file": "Nakajima Park Sapporo01n3200.jpg",
+            "photo_file": "LOCAL-sapporo-d2-08.jpg",
             "photo_scope": "자연 참고사진 · 나카지마 공원 풍경 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "22:30",
@@ -945,9 +1008,10 @@
             "walk": 8,
             "verified": false,
             "note": "숙소 미정",
-            "photo_file": "KEIO-PRELIA.Sapporo.JPG",
+            "photo_file": "LOCAL-sapporo-d2-09.jpg",
             "photo_scope": "숙박 권역 참고사진 · 게이오 프렐리아 삿포로 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ],
         [
@@ -960,9 +1024,10 @@
             "walk": 5,
             "verified": false,
             "note": "귀국편과 공항 이동시각 확인",
-            "photo_file": "The snack bar district in Sapporo's Susukino in winter.jpg",
+            "photo_file": "LOCAL-sapporo-d3-01.jpg",
             "photo_scope": "숙박 권역 참고사진 · 스스키노 겨울 골목 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "09:15",
@@ -973,9 +1038,10 @@
             "walk": 7,
             "verified": false,
             "note": "공원 산책 별도",
-            "photo_file": "Nakajima Park Sapporo02n4272.jpg",
+            "photo_file": "LOCAL-sapporo-d3-02.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 나카지마 공원 연못",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "10:40",
@@ -986,9 +1052,10 @@
             "walk": 5,
             "verified": false,
             "note": "매장 개점 확인",
-            "photo_file": "Susukino-night from TV Tower.JPG",
+            "photo_file": "LOCAL-sapporo-d3-03.jpg",
             "photo_scope": "거리·야경 참고사진 · TV타워에서 내려다본 스스키노 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "11:50",
@@ -999,9 +1066,10 @@
             "walk": 6,
             "verified": false,
             "note": "대표 메뉴 참고",
-            "photo_file": "Genghis Khan dish.jpg",
+            "photo_file": "LOCAL-sapporo-d3-04.jpg",
             "photo_scope": "지역 음식 참고사진 · 홋카이도 징기스칸 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "12:55",
@@ -1012,9 +1080,10 @@
             "walk": 6,
             "verified": false,
             "note": "열차 시간표 확인",
-            "photo_file": "Ramen Alley Sapporo Japan.jpg",
+            "photo_file": "LOCAL-sapporo-d3-05.jpg",
             "photo_scope": "공항 참고사진 · 삿포로 라멘 골목 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "14:05",
@@ -1025,9 +1094,10 @@
             "walk": 5,
             "verified": false,
             "note": "귀국편 미확정: 실제 항공편 우선",
-            "photo_file": "Former Hokkaido Government Office 202507.jpg",
+            "photo_file": "LOCAL-sapporo-d3-06.jpg",
             "photo_scope": "공항 참고사진 · 홋카이도청 구본청사 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ]
       ]
@@ -1069,9 +1139,10 @@
             "walk": 5,
             "verified": false,
             "note": "09:00 도착 가정",
-            "photo_file": "Central Japan International Airport Station from departure lobby of Chubu Centrair International Airport.JPG",
+            "photo_file": "LOCAL-nagoya-d1-01.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센트레아 공항역",
-            "flight_assumption": true
+            "flight_assumption": true,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "10:10",
@@ -1082,9 +1153,10 @@
             "walk": 6,
             "verified": false,
             "note": "숙소 나고야역 인근 가정",
-            "photo_file": "名古屋プリンスホテル スカイタワー (50523581076).jpg",
+            "photo_file": "LOCAL-nagoya-d1-02.jpg",
             "photo_scope": "숙박 권역 참고사진 · 나고야 프린스호텔 내부 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "11:10",
@@ -1095,9 +1167,10 @@
             "walk": 6,
             "verified": false,
             "note": "점포별 대기 확인",
-            "photo_file": "Yabaton's misokatsu （Nagoya soul food）.jpg",
+            "photo_file": "LOCAL-nagoya-d1-03.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 야바톤 미소카츠 정식",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "12:40",
@@ -1108,9 +1181,10 @@
             "walk": 10,
             "verified": false,
             "note": "전시·개방 구역 현장 확인",
-            "photo_file": "Nagoya Castle2026.jpg",
+            "photo_file": "LOCAL-nagoya-d1-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 나고야성",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "15:10",
@@ -1121,9 +1195,10 @@
             "walk": 7,
             "verified": false,
             "note": "공원 내부 관광 산책은 별도",
-            "photo_file": "Hisayaodori Park, Marunouchi Naka Ward Nagoya 2022.jpg",
+            "photo_file": "LOCAL-nagoya-d1-05.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 히사야 오도리 공원",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "17:05",
@@ -1134,9 +1209,10 @@
             "walk": 7,
             "verified": false,
             "note": "식당 후보 미정",
-            "photo_file": "Miso katsu, tsukemono and miso soup by shibainu in Nagoya.jpg",
+            "photo_file": "LOCAL-nagoya-d1-06.jpg",
             "photo_scope": "지역 음식 참고사진 · 나고야 미소카츠 한 상 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "19:20",
@@ -1147,9 +1223,10 @@
             "walk": 4,
             "verified": false,
             "note": "시설의 야간 입장 가능 범위 확인",
-            "photo_file": "View of Oasis 21 from Nagoya TV Tower at night.jpg",
+            "photo_file": "LOCAL-nagoya-d1-07.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 오아시스 21 야경",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "21:20",
@@ -1160,9 +1237,10 @@
             "walk": 7,
             "verified": false,
             "note": "호텔 예시 사진",
-            "photo_file": "Nagoya Castle 6.jpg",
+            "photo_file": "LOCAL-nagoya-d1-08.jpg",
             "photo_scope": "숙박 권역 참고사진 · 나고야성 실내 건축 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ],
         [
@@ -1175,9 +1253,10 @@
             "walk": 7,
             "verified": false,
             "note": "도심 호텔 기준",
-            "photo_file": "Atsuta Shrine.jpg",
+            "photo_file": "LOCAL-nagoya-d2-01.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 아쓰타 신궁",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "09:15",
@@ -1188,9 +1267,10 @@
             "walk": 6,
             "verified": false,
             "note": "경내 관광 산책은 15분 제한 제외",
-            "photo_file": "Atsuta Jingu 20211226-02.jpg",
+            "photo_file": "LOCAL-nagoya-d2-02.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 아쓰타 신궁 숲길",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "11:00",
@@ -1201,9 +1281,10 @@
             "walk": 9,
             "verified": false,
             "note": "인기 식당은 대기시간이 길어 예약·대기 현장 확인",
-            "photo_file": "Hitsumabushi by Tomotaka in Nagoya.jpg",
+            "photo_file": "LOCAL-nagoya-d2-03.jpg",
             "photo_scope": "지역 음식 참고사진 · 나고야 히츠마부시 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "13:00",
@@ -1214,9 +1295,10 @@
             "walk": 6,
             "verified": false,
             "note": "대중교통으로 이동",
-            "photo_file": "Main shopping street (Osu in Nagoya, Japan).jpg",
+            "photo_file": "LOCAL-nagoya-d2-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 오스 상점가",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "15:10",
@@ -1227,9 +1309,10 @@
             "walk": 7,
             "verified": true,
             "note": "지하철 히가시베쓰인역 도보 7분은 공식 확인. 온천 자체의 실내 사진은 미확보",
-            "photo_file": "Lawn field of RAYARD Hisaya-odori Park.jpg",
+            "photo_file": "LOCAL-nagoya-d2-05.jpg",
             "photo_scope": "온천 권역 참고사진 · 레이야드 잔디공원 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "17:30",
@@ -1240,9 +1323,10 @@
             "walk": 6,
             "verified": false,
             "note": "실제 식당 선택",
-            "photo_file": "Miso Katsu by jetalone in Nagoya.jpg",
+            "photo_file": "LOCAL-nagoya-d2-06.jpg",
             "photo_scope": "지역 음식 참고사진 · 나고야 미소카츠 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "19:25",
@@ -1253,9 +1337,10 @@
             "walk": 6,
             "verified": false,
             "note": "반드시 영업시간을 확인하고 시설 내부가 아닌 외부 경관 중심",
-            "photo_file": "Oasis 21.JPG",
+            "photo_file": "LOCAL-nagoya-d2-07.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 오아시스 21",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "21:30",
@@ -1266,9 +1351,10 @@
             "walk": 7,
             "verified": false,
             "note": "숙소 미정",
-            "photo_file": "Nagoya 2017 (34159008173).jpg",
+            "photo_file": "LOCAL-nagoya-d2-08.jpg",
             "photo_scope": "숙박 권역 참고사진 · 나고야 사카에 시가지 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ],
         [
@@ -1281,9 +1367,10 @@
             "walk": 5,
             "verified": false,
             "note": "숙소 위치 미정",
-            "photo_file": "Christmas decoration at Nagoya Station; November 2007.jpg",
+            "photo_file": "LOCAL-nagoya-d3-01.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 나고야역 연말 분위기",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "09:15",
@@ -1294,9 +1381,10 @@
             "walk": 8,
             "verified": false,
             "note": "녹지 산책",
-            "photo_file": "Autumn Leaves in Noritake Garden - 1.jpg",
+            "photo_file": "LOCAL-nagoya-d3-02.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 노리타케 숲 단풍",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "10:45",
@@ -1307,9 +1395,10 @@
             "walk": 5,
             "verified": false,
             "note": "기시멘 실제 사진 미확보, 이미지 일치하지 않으면 빈 카드 처리",
-            "photo_file": "Warajikatsu Yabaton.jpg",
+            "photo_file": "LOCAL-nagoya-d3-03.jpg",
             "photo_scope": "지역 음식 참고사진 · 야바톤 미소카츠 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "12:10",
@@ -1320,9 +1409,10 @@
             "walk": 7,
             "verified": false,
             "note": "열차 실제 출발시각 확인",
-            "photo_file": "Central Japan International Airport Station interior 01.JPG",
+            "photo_file": "LOCAL-nagoya-d3-04.jpg",
             "photo_scope": "공항 참고사진 · 센트레아 공항철도 실내 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "13:20",
@@ -1333,9 +1423,10 @@
             "walk": 5,
             "verified": false,
             "note": "귀국편에 맞춰 앞당기기",
-            "photo_file": "Oasis21 at Night.jpg",
+            "photo_file": "LOCAL-nagoya-d3-05.jpg",
             "photo_scope": "공항 참고사진 · 오아시스21 야간 광장 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ]
       ]
@@ -1382,9 +1473,10 @@
             "walk": 5,
             "verified": false,
             "note": "09:00 착륙 가정",
-            "photo_file": "140902 Naha Airport Naha Okinawa pref Japan01bs50.jpg",
+            "photo_file": "LOCAL-okinawa-d1-01.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 나하공항 전경",
-            "flight_assumption": true
+            "flight_assumption": true,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "10:00",
@@ -1395,9 +1487,10 @@
             "walk": 7,
             "verified": false,
             "note": "호텔명 미정",
-            "photo_file": "Hotel JALCITY Naha.JPG",
+            "photo_file": "LOCAL-okinawa-d1-02.jpg",
             "photo_scope": "숙박 권역 참고사진 · 호텔 JAL 시티 나하 외관 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "11:00",
@@ -1408,9 +1501,10 @@
             "walk": 10,
             "verified": false,
             "note": "유이레일+버스 필요 가능. 슈리성 공사 구역 확인",
-            "photo_file": "Ryutan and Shuri Castle 01.JPG",
+            "photo_file": "LOCAL-okinawa-d1-03.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 슈리성 주변 류탄 연못",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "13:20",
@@ -1421,9 +1515,10 @@
             "walk": 7,
             "verified": false,
             "note": "늦은 점심 운영 확인",
-            "photo_file": "Okinawan Restaurant Kokusaidori.jpg",
+            "photo_file": "LOCAL-okinawa-d1-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 국제거리 음식점",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "15:10",
@@ -1434,9 +1529,10 @@
             "walk": 6,
             "verified": false,
             "note": "현지 버스 실시간 배차 확인",
-            "photo_file": "Naha Airport Station (17173992728).jpg",
+            "photo_file": "LOCAL-okinawa-d1-05.jpg",
             "photo_scope": "교통 참고사진 · 나하공항 유이레일역 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "16:25",
@@ -1447,9 +1543,10 @@
             "walk": 7,
             "verified": false,
             "note": "당일 입욕 운영·막차 필수 확인, 실제 온천탕 내부 사진 미확보",
-            "photo_file": "JP 日本 Japan 沖繩 OKINAWA 那霸 Naha 九州酒店 Kyushu Hotel Blossom Naha January 2025 R12S 128.jpg",
+            "photo_file": "LOCAL-okinawa-d1-06.jpg",
             "photo_scope": "온천 권역 참고사진 · JR 규슈 호텔 나하 객실 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "19:10",
@@ -1460,9 +1557,10 @@
             "walk": 7,
             "verified": false,
             "note": "버스 막차 확인. 막차가 맞지 않으면 온천을 이른 시간으로 이동",
-            "photo_file": "Tacos in Okinawa.jpg",
+            "photo_file": "LOCAL-okinawa-d1-07.jpg",
             "photo_scope": "지역 음식 참고사진 · 오키나와 타코라이스 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "20:30",
@@ -1473,9 +1571,10 @@
             "walk": 5,
             "verified": false,
             "note": "영업시간 확인",
-            "photo_file": "Kokusaidori at night.jpg",
+            "photo_file": "LOCAL-okinawa-d1-08.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 국제거리 야경",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "22:30",
@@ -1486,9 +1585,10 @@
             "walk": 6,
             "verified": false,
             "note": "호텔은 예시",
-            "photo_file": "Hotel Rocore Naha.JPG",
+            "photo_file": "LOCAL-okinawa-d1-09.jpg",
             "photo_scope": "숙박 권역 참고사진 · 나하 로코어 호텔 외관 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ],
         [
@@ -1501,9 +1601,10 @@
             "walk": 7,
             "verified": false,
             "note": "예약제 북부 투어 상품에 따라 08:45/09:15 출발",
-            "photo_file": "Monoriel en okinawa.jpg",
+            "photo_file": "LOCAL-okinawa-d2-01.jpg",
             "photo_scope": "교통 참고사진 · 오키나와 도시 모노레일 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "08:45",
@@ -1514,9 +1615,10 @@
             "walk": 5,
             "verified": false,
             "note": "08:45 출발 C코스 예시 일정",
-            "photo_file": "Okinawa Churaumi Aquarium main entrance far view 20170408.jpg",
+            "photo_file": "LOCAL-okinawa-d2-02.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 츄라우미 수족관 입구",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "11:30",
@@ -1527,9 +1629,10 @@
             "walk": 5,
             "verified": false,
             "note": "관광버스 자유관람 시간 약 2시간 20분",
-            "photo_file": "Kouri Bridge (15130568259).jpg",
+            "photo_file": "LOCAL-okinawa-d2-03.jpg",
             "photo_scope": "자연 참고사진 · 코우리 대교 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "13:50",
@@ -1540,9 +1643,10 @@
             "walk": 5,
             "verified": false,
             "note": "투어 공식 일정 도착 13:50~14:30대 상품별 차이",
-            "photo_file": "Kouri 01.jpg",
+            "photo_file": "LOCAL-okinawa-d2-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 코우리섬 전망",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "14:30",
@@ -1553,9 +1657,10 @@
             "walk": 4,
             "verified": false,
             "note": "상품 일정에 맞춰 변경 가능",
-            "photo_file": "Night at Kokusai-dori 20250503183151.jpg",
+            "photo_file": "LOCAL-okinawa-d2-05.jpg",
             "photo_scope": "거리·야경 참고사진 · 국제거리 저녁 산책 장면 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "15:45",
@@ -1566,9 +1671,10 @@
             "walk": 5,
             "verified": false,
             "note": "이 이미지의 장소는 코우리대교 참고: 만자모 사진 미확보",
-            "photo_file": "JP 日本 Japan 沖繩 OKINAWA Outlet Mall Ashibinaa 豐見城市 Tomigusuku taxi tour view to 瀨長島 Senagajima Umikaji Terrace January 2025 R12S 01.jpg",
+            "photo_file": "LOCAL-okinawa-d2-06.jpg",
             "photo_scope": "자연 참고사진 · 우미카지 테라스 전망 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "16:55",
@@ -1579,9 +1685,10 @@
             "walk": 5,
             "verified": false,
             "note": "투어 체류시간 단축; 자율 하차는 예약 조건 확인",
-            "photo_file": "American Village in Okinawa.jpg",
+            "photo_file": "LOCAL-okinawa-d2-07.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 아메리칸빌리지",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "18:25",
@@ -1592,9 +1699,10 @@
             "walk": 5,
             "verified": false,
             "note": "공식 투어 예정 도착시간 예시, 교통 지연 가능",
-            "photo_file": "Okinawa Churaumi Aquarium 20131009.jpg",
+            "photo_file": "LOCAL-okinawa-d2-08.jpg",
             "photo_scope": "명소 참고사진 · 츄라우미 수족관 전경 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "19:25",
@@ -1605,9 +1713,10 @@
             "walk": 5,
             "verified": false,
             "note": "실제 야간 운영 식당 확인",
-            "photo_file": "Ryukyu Sweets with Sanpin-cha in Shuri Castle.JPG",
+            "photo_file": "LOCAL-okinawa-d2-09.jpg",
             "photo_scope": "지역 음식 참고사진 · 류큐 전통 디저트 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "21:15",
@@ -1618,9 +1727,10 @@
             "walk": 5,
             "verified": false,
             "note": "숙소 미정",
-            "photo_file": "202408 沖繩縣那霸市的那霸國際通的街景.jpg",
+            "photo_file": "LOCAL-okinawa-d2-10.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 국제거리 상점가",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ],
         [
@@ -1633,9 +1743,10 @@
             "walk": 5,
             "verified": false,
             "note": "호텔 예시",
-            "photo_file": "Okinawa Churaumi Aquarium.jpg",
+            "photo_file": "LOCAL-okinawa-d3-01.jpg",
             "photo_scope": "숙박 권역 참고사진 · 츄라우미 수족관 고래상어 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "09:20",
@@ -1646,9 +1757,10 @@
             "walk": 7,
             "verified": false,
             "note": "아카미네역 경유 대중교통 이동",
-            "photo_file": "Umikaji Terrace Senagajima.jpg",
+            "photo_file": "LOCAL-okinawa-d3-02.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 우미카지 테라스",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "11:20",
@@ -1659,9 +1771,10 @@
             "walk": 5,
             "verified": false,
             "note": "특정 음식점 미정, 사진은 일반 음식점 사례",
-            "photo_file": "Shuri soba by kazuh.jpg",
+            "photo_file": "LOCAL-okinawa-d3-03.jpg",
             "photo_scope": "지역 음식 참고사진 · 오키나와 소바 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "12:30",
@@ -1672,9 +1785,10 @@
             "walk": 7,
             "verified": false,
             "note": "항공편 출발에 맞춰 앞당기기",
-            "photo_file": "Naha Airport Departure Lobby.jpg",
+            "photo_file": "LOCAL-okinawa-d3-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 나하공항 출발 로비",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "13:40",
@@ -1685,9 +1799,10 @@
             "walk": 5,
             "verified": false,
             "note": "귀국편 확정 필요",
-            "photo_file": "Inside view of Naha Airport Domestic Passenger Terminal Building.JPG",
+            "photo_file": "LOCAL-okinawa-d3-05.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 나하공항 터미널 내부",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           }
         ]
       ]
@@ -1733,9 +1848,10 @@
             "walk": 5,
             "verified": false,
             "note": "09:00 착륙 가정",
-            "photo_file": "211028 Sendai Airport Station Miyagi prefecture Japan01s.jpg",
+            "photo_file": "LOCAL-sendai-d1-01.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이공항역",
-            "flight_assumption": true
+            "flight_assumption": true,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "10:00",
@@ -1746,9 +1862,10 @@
             "walk": 7,
             "verified": false,
             "note": "공항철도 25~30분 + 대기",
-            "photo_file": "Sendai Station west entrance 2021.jpg",
+            "photo_file": "LOCAL-sendai-d1-02.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이역 서쪽광장",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "10:50",
@@ -1759,9 +1876,10 @@
             "walk": 5,
             "verified": false,
             "note": "정식 가게별 대기 확인",
-            "photo_file": "Gyutan teishoku.JPG",
+            "photo_file": "LOCAL-sendai-d1-03.jpg",
             "photo_scope": "지역 음식 참고사진 · 센다이 우설정식 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "12:10",
@@ -1772,9 +1890,10 @@
             "walk": 7,
             "verified": false,
             "note": "JR 이동 약 40분",
-            "photo_file": "Sendai citybus in Jozenji-dori ave. 2023.jpg",
+            "photo_file": "LOCAL-sendai-d1-04.jpg",
             "photo_scope": "교통 참고사진 · 센다이 시내버스 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "13:25",
@@ -1785,9 +1904,10 @@
             "walk": 10,
             "verified": false,
             "note": "유람선 운항·마감시간 확인. 관광 산책 별도",
-            "photo_file": "Matsushima Bay - Matsushima6238.jpg",
+            "photo_file": "LOCAL-sendai-d1-05.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 마쓰시마만 다도해",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "16:05",
@@ -1798,9 +1918,10 @@
             "walk": 7,
             "verified": false,
             "note": "열차 실제 출발시각 확인",
-            "photo_file": "Sendai station Senzan Line platforms.jpg",
+            "photo_file": "LOCAL-sendai-d1-06.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이역 승강장",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "17:20",
@@ -1811,9 +1932,10 @@
             "walk": 8,
             "verified": false,
             "note": "현지 단풍 상태 변동",
-            "photo_file": "Exterior view of Sendai Mediatheque from Jozenji Street 20220910a.jpg",
+            "photo_file": "LOCAL-sendai-d1-07.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 조젠지 거리 근처 문화시설",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "동일 장소 검색 사진"
           },
           {
             "start": "19:05",
@@ -1824,9 +1946,10 @@
             "walk": 5,
             "verified": false,
             "note": "음식 사진 참고",
-            "photo_file": "Sendai gyutan.JPG",
+            "photo_file": "LOCAL-sendai-d1-08.jpg",
             "photo_scope": "지역 음식 참고사진 · 센다이 숯불 우설 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "21:15",
@@ -1837,9 +1960,10 @@
             "walk": 7,
             "verified": false,
             "note": "호텔 사진은 권역 참고",
-            "photo_file": "WestinSendai Front.JPG",
+            "photo_file": "LOCAL-sendai-d1-09.jpg",
             "photo_scope": "숙박 권역 참고사진 · 웨스틴 센다이 프런트 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           }
         ],
         [
@@ -1852,9 +1976,10 @@
             "walk": 7,
             "verified": false,
             "note": "버스 실제 정기편 09:30 승차 확인 후 이용",
-            "photo_file": "仙台駅の外観.jpg",
+            "photo_file": "LOCAL-sendai-d2-01.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이역 외관",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "09:30",
@@ -1865,9 +1990,10 @@
             "walk": 6,
             "verified": false,
             "note": "정기버스 하차 정류장 확인",
-            "photo_file": "211028 Akiu Onsen Sendai Miyagi pref Japan01s3.jpg",
+            "photo_file": "LOCAL-sendai-d2-02.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 아키우 온천 지역",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "10:20",
@@ -1917,9 +2043,10 @@
             "walk": 7,
             "verified": false,
             "note": "15:18 출발편 등 공식 시간표 확인 필요; 구간 종료시각 탄력 운영",
-            "photo_file": "Sendai Station west entrance 2020.jpg",
+            "photo_file": "LOCAL-sendai-d2-06.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이역 서쪽 출입구",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "16:15",
@@ -1943,9 +2070,10 @@
             "walk": 7,
             "verified": false,
             "note": "영업 매장 확인",
-            "photo_file": "牛タン定食（牛タン焼専門店司西口名掛丁店・仙台）20220312-P1330639.jpg",
+            "photo_file": "LOCAL-sendai-d2-08.jpg",
             "photo_scope": "지역 음식 참고사진 · 우설 전문점 실제 정식 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "20:45",
@@ -1956,9 +2084,10 @@
             "walk": 5,
             "verified": false,
             "note": "매장 영업시간 확인. 사진은 다른 시설",
-            "photo_file": "Sendai Station at night (30648489646).jpg",
+            "photo_file": "LOCAL-sendai-d2-09.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이역 야경",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "22:35",
@@ -1969,9 +2098,10 @@
             "walk": 6,
             "verified": false,
             "note": "호텔 미지정",
-            "photo_file": "Akiu spa Hotel zuiho 2008.jpg",
+            "photo_file": "LOCAL-sendai-d2-10.jpg",
             "photo_scope": "숙박 권역 참고사진 · 아키우 호텔 사례 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           }
         ],
         [
@@ -1984,9 +2114,10 @@
             "walk": 5,
             "verified": false,
             "note": "숙소 위치 미정",
-            "photo_file": "Zuiho-den02s3200.jpg",
+            "photo_file": "LOCAL-sendai-d3-01.jpg",
             "photo_scope": "숙박 권역 참고사진 · 즈이호덴 내부 장식 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "09:10",
@@ -2010,9 +2141,10 @@
             "walk": 7,
             "verified": false,
             "note": "실제 식품관 오픈시간 확인",
-            "photo_file": "Sendai Station at Night.JPG",
+            "photo_file": "LOCAL-sendai-d3-03.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이역 다른 야간사진",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "12:10",
@@ -2023,9 +2155,10 @@
             "walk": 5,
             "verified": false,
             "note": "식당 대기 여유 필수",
-            "photo_file": "211030 Kameshima Matsushima Miyagi pref Japan01n.jpg",
+            "photo_file": "LOCAL-sendai-d3-04.jpg",
             "photo_scope": "지역 음식 참고사진 · 마쓰시마의 작은 섬 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "13:20",
@@ -2036,9 +2169,10 @@
             "walk": 6,
             "verified": false,
             "note": "귀국 출발시각에 따라 조정",
-            "photo_file": "Rapid train to Sendai.jpg",
+            "photo_file": "LOCAL-sendai-d3-05.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이 공항철도 차량",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           },
           {
             "start": "14:20",
@@ -2049,9 +2183,10 @@
             "walk": 5,
             "verified": false,
             "note": "귀국편 확정 전 임시 일정",
-            "photo_file": "仙台駅, Sendai station - panoramio.jpg",
+            "photo_file": "LOCAL-sendai-d3-06.jpg",
             "photo_scope": "공항 참고사진 · 센다이역 여행 전경 (실제 시설·메뉴와 다를 수 있음)",
-            "flight_assumption": false
+            "flight_assumption": false,
+            "photo_match": "관련 지역 참고사진"
           }
         ]
       ]
