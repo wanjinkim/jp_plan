@@ -70,6 +70,7 @@ jobs:
           git add -A -- assets/local_schedule_photos.json assets/recommended.json assets/new_routes.json assets/gallery.json assets/photos/schedules PHOTO_REPAIR_REPORT.json PHOTO_REPAIR_STATUS.csv PHOTO_CREDITS.md
           if ! git diff --cached --quiet; then
             git commit -m 'Fix locally stored itinerary photos and licensed credits'
+            git pull --rebase origin main
             git push origin HEAD:main
           else
             echo 'No image files were downloaded; inspect SOURCE ERROR and PHOTO_REPAIR_REPORT.json'
