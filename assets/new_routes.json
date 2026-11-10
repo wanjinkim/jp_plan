@@ -234,7 +234,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-fukuoka-d2-08.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "후쿠오카 하카타 이자카야에서 촬영된 실제 음식"
           },
           {
             "start": "20:00",
@@ -503,19 +503,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-fukuoka-d2-08.jpg",
-          "title": "가성비 현지 이자카야 저녁",
-          "place": "博多駅 居酒屋",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/fukuoka/d2-08.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-fukuoka-d3-04.jpg",
           "title": "지하철로 공항 이동",
           "place": "福岡空港",
@@ -670,6 +657,19 @@
           "license": "CC BY-SA 3.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
           "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-fukuoka-d2-08.jpg",
+          "title": "가성비 현지 이자카야 저녁",
+          "place": "博多駅 居酒屋",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/fukuoka/d2-08.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Goma_buri,_yakitori,_and_sour_at_yamachan,_hakata,_nakasu_(54203630960).jpg",
+          "author": "nakashi  from Chofu, Tokyo, JAPAN",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "scope": "후쿠오카 하카타 이자카야에서 촬영된 실제 음식"
         }
       ]
     },
@@ -771,7 +771,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-osaka-d1-07.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "오사카식 쿠시카츠 음식 예시, 텐진바시 특정 가게는 아님"
           },
           {
             "start": "20:00",
@@ -943,7 +943,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-osaka-d3-03.jpg",
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "오사카 난바 인근 구로몬시장에서 촬영된 타코야키 실제 음식"
           },
           {
             "start": "12:00",
@@ -1044,19 +1044,6 @@
           "place": "梅田",
           "kind": "명소",
           "local": "./assets/photos/schedules/osaka/d1-06.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-osaka-d1-07.jpg",
-          "title": "쿠시카츠 저녁",
-          "place": "天神橋筋商店街",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/osaka/d1-07.jpg",
           "local_verified": true,
           "source": "",
           "author": "",
@@ -1247,19 +1234,6 @@
           "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
         },
         {
-          "file": "LOCAL-osaka-d3-03.jpg",
-          "title": "마지막 점심",
-          "place": "なんば駅",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/osaka/d3-03.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Nankai_6000_series_at_Namba_Station_(Nankai)_2009-10-06.jpg",
-          "author": "船 長",
-          "license": "CC0",
-          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-        },
-        {
           "file": "LOCAL-osaka-d2-07.jpg",
           "title": "현지 이자카야 저녁",
           "place": "梅田",
@@ -1284,6 +1258,32 @@
           "license": "CC BY 4.0",
           "license_url": "https://creativecommons.org/licenses/by/4.0",
           "scope": "오사카 우동 점심 메뉴 참고사진, 미노오 식당 현장 사진은 아님"
+        },
+        {
+          "file": "LOCAL-osaka-d1-07.jpg",
+          "title": "쿠시카츠 저녁",
+          "place": "天神橋筋商店街",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/osaka/d1-07.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Kushikatsu_-_Shinsekai_(28289215848).jpg",
+          "author": "Ajay Suresh  from New York, NY, USA",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "scope": "오사카식 쿠시카츠 음식 예시, 텐진바시 특정 가게는 아님"
+        },
+        {
+          "file": "LOCAL-osaka-d3-03.jpg",
+          "title": "마지막 점심",
+          "place": "なんば駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/osaka/d3-03.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:A_plate_of_assorted_Takoyaki_in_Kuromon_Market_in_Osaka,_Japan.jpg",
+          "author": "Gatorfan252525",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "scope": "오사카 난바 인근 구로몬시장에서 촬영된 타코야키 실제 음식"
         }
       ]
     },
@@ -1373,7 +1373,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-tokyo-d1-06.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "도쿄돔시티 안에 있는 실제 라멘 식당 사진"
           },
           {
             "start": "19:30",
@@ -1435,7 +1435,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-tokyo-d2-03.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "도쿄 신주쿠의 라멘 실제 음식 사진"
           },
           {
             "start": "13:30",
@@ -1483,7 +1483,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-tokyo-d2-07.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "도쿄 시부야 실제 야키니쿠 식당 사진"
           },
           {
             "start": "20:00",
@@ -1660,19 +1660,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-tokyo-d1-06.jpg",
-          "title": "도쿄 돔시티 저녁",
-          "place": "東京ドームシティ",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/tokyo/d1-06.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-tokyo-d1-08.jpg",
           "title": "전철로 우에노 복귀·휴식",
           "place": "上野駅",
@@ -1691,19 +1678,6 @@
           "place": "新宿駅",
           "kind": "명소",
           "local": "./assets/photos/schedules/tokyo/d2-01.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-tokyo-d2-03.jpg",
-          "title": "신주쿠 점심",
-          "place": "新宿三丁目",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/tokyo/d2-03.jpg",
           "local_verified": true,
           "source": "",
           "author": "",
@@ -1743,19 +1717,6 @@
           "place": "渋谷",
           "kind": "명소",
           "local": "./assets/photos/schedules/tokyo/d2-06.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-tokyo-d2-07.jpg",
-          "title": "야키니쿠 저녁",
-          "place": "渋谷 焼肉",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/tokyo/d2-07.jpg",
           "local_verified": true,
           "source": "",
           "author": "",
@@ -1905,6 +1866,45 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
           "scope": "스파 라쿠아 실제 시설 외관, 욕탕 실내 사진은 아님"
+        },
+        {
+          "file": "LOCAL-tokyo-d2-07.jpg",
+          "title": "야키니쿠 저녁",
+          "place": "渋谷 焼肉",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/tokyo/d2-07.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Yakiniku_restaurant_in_Shibuya.jpg",
+          "author": "Syced",
+          "license": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "scope": "도쿄 시부야 실제 야키니쿠 식당 사진"
+        },
+        {
+          "file": "LOCAL-tokyo-d1-06.jpg",
+          "title": "도쿄 돔시티 저녁",
+          "place": "東京ドームシティ",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/tokyo/d1-06.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Hakata_ramen_shop_by_cathykid_in_Tokyo_Dome_City.jpg",
+          "author": "cathykid  from Hakata ramen shop  Ichiran  in  Tokyo Dome City   LaQua , Kasuga, Bunkyo, Tokyo",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "scope": "도쿄돔시티 안에 있는 실제 라멘 식당 사진"
+        },
+        {
+          "file": "LOCAL-tokyo-d2-03.jpg",
+          "title": "신주쿠 점심",
+          "place": "新宿三丁目",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/tokyo/d2-03.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:KEIKA_ramen_at_Shinjuku_%E6%A1%82%E8%8A%B1%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3_%E6%96%B0%E5%AE%BF_20210909.jpg",
+          "author": "ウィキ太郎(WikiTaro)",
+          "license": "Public domain",
+          "license_url": "",
+          "scope": "도쿄 신주쿠의 라멘 실제 음식 사진"
         }
       ]
     },
@@ -2080,7 +2080,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-matsuyama-d2-03.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "에히메현 지역 향토음식 점심 참고사진, 특정 식당 아님"
           },
           {
             "start": "13:00",
@@ -2190,7 +2190,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-matsuyama-d3-03.jpg",
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "에히메 마쓰야마 실제 도미밥 식사 사진"
           },
           {
             "start": "12:00",
@@ -2337,19 +2337,6 @@
           "place": "下灘駅",
           "kind": "명소",
           "local": "./assets/photos/schedules/matsuyama/d2-02.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-matsuyama-d2-03.jpg",
-          "title": "철도 시각에 맞춰 귀환·점심",
-          "place": "伊予市駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/matsuyama/d2-03.jpg",
           "local_verified": true,
           "source": "",
           "author": "",
@@ -2546,11 +2533,24 @@
           "kind": "일정",
           "local": "./assets/photos/schedules/matsuyama/d3-03.jpg",
           "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85%E9%A7%85%E5%90%8D%E8%A1%A8%E8%A8%98.jpg",
-          "author": "Van2van",
-          "license": "CC BY-SA 3.0",
-          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+          "source": "https://commons.wikimedia.org/wiki/File:Uwajima_Taimeshi.jpg",
+          "author": "Fred Cherrygarden",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "scope": "에히메 마쓰야마 실제 도미밥 식사 사진"
+        },
+        {
+          "file": "LOCAL-matsuyama-d2-03.jpg",
+          "title": "철도 시각에 맞춰 귀환·점심",
+          "place": "伊予市駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/matsuyama/d2-03.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%BC%8A%E4%BA%88%E3%81%95%E3%81%A4%E3%81%BE%E6%B1%81%E5%AE%9A%E9%A3%9F_(2350296306).jpg",
+          "author": "Yamaguchi Yoshiaki  from Japan",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "scope": "에히메현 지역 향토음식 점심 참고사진, 특정 식당 아님"
         }
       ]
     },
@@ -2812,7 +2812,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-takamatsu-d3-03.jpg",
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "카가와현 지역 명물 사누키 우동 실제 요리 사진"
           },
           {
             "start": "11:30",
@@ -3123,19 +3123,6 @@
           "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
         },
         {
-          "file": "LOCAL-takamatsu-d3-03.jpg",
-          "title": "사누키 우동 마지막 점심",
-          "place": "高松駅",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/takamatsu/d3-03.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Station_Sign_2.jpg",
-          "author": "そらみみ  (Soramimi)",
-          "license": "CC BY-SA 4.0",
-          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-        },
-        {
           "file": "LOCAL-takamatsu-d2-03.jpg",
           "title": "고토히라 점심",
           "place": "琴平",
@@ -3147,6 +3134,19 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
           "scope": "카가와현 사누키 우동 참고사진, 고토히라 식당은 미정"
+        },
+        {
+          "file": "LOCAL-takamatsu-d3-03.jpg",
+          "title": "사누키 우동 마지막 점심",
+          "place": "高松駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/takamatsu/d3-03.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Japanese_Sanuki_Udon.jpg",
+          "author": "Shene81",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0",
+          "scope": "카가와현 지역 명물 사누키 우동 실제 요리 사진"
         }
       ]
     },
@@ -3248,7 +3248,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-kumamoto-d1-07.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "구마모토 향토음식 말고기회 실제 음식"
           },
           {
             "start": "20:00",
@@ -3561,19 +3561,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-kumamoto-d1-07.jpg",
-          "title": "말고기·향토 음식 저녁",
-          "place": "辛島町",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/kumamoto/d1-07.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-kumamoto-d1-08.jpg",
           "title": "JR 헤이세이역 인근 유락쿠스 온천",
           "place": "湯らっくす",
@@ -3793,6 +3780,19 @@
           "license": "CC BY 4.0",
           "license_url": "https://creativecommons.org/licenses/by/4.0",
           "scope": "구마모토 향토음식 말고기회 예시"
+        },
+        {
+          "file": "LOCAL-kumamoto-d1-07.jpg",
+          "title": "말고기·향토 음식 저녁",
+          "place": "辛島町",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/kumamoto/d1-07.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:%E7%86%8A%E6%9C%AC%E9%A6%AC%E8%82%89%E6%96%99%E7%90%86%EF%BC%88%E7%94%9F%E9%A6%AC%E8%82%89%E5%88%BA%E8%BA%AB%EF%BC%89.jpg",
+          "author": "Rick888chen",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "scope": "구마모토 향토음식 말고기회 실제 음식"
         }
       ]
     }

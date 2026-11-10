@@ -1347,19 +1347,6 @@
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     },
     {
-      "file": "LOCAL-shizuoka-d2-03.jpg",
-      "title": "시미즈항 쪽으로 돌아와 점심",
-      "place": "清水魚市場 河岸の市",
-      "kind": "식사",
-      "local": "./assets/photos/schedules/shizuoka/d2-03.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Matcha_tea_latte_with_rosetta_latte_art.jpg",
-      "author": "Irvan Ary Maulana",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-    },
-    {
       "file": "LOCAL-shizuoka-d2-08.jpg",
       "title": "도심 야경·디저트",
       "place": "静岡駅 ASTY",
@@ -1410,6 +1397,19 @@
       "license": "CC BY 4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0",
       "scope": "시즈오카 오뎅 실제 음식사진"
+    },
+    {
+      "file": "LOCAL-shizuoka-d2-03.jpg",
+      "title": "시미즈항 쪽으로 돌아와 점심",
+      "place": "清水魚市場 河岸の市",
+      "kind": "식사",
+      "local": "./assets/photos/schedules/shizuoka/d2-03.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Maguro_don.jpg",
+      "author": "Misei sen",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "scope": "시즈오카 시미즈항에서 촬영한 실제 참치덮밥 (점심 식당 미정)"
     }
   ],
   "sapporo": [
@@ -1868,19 +1868,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-sapporo-d2-05.jpg",
-      "title": "예약 가능한 당일 입욕 온천 방문",
-      "place": "定山渓温泉 日帰り入浴",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sapporo/d2-05.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Former_Hokkaido_Government_Office_Building_20090112-01.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-sapporo-d2-07.jpg",
       "title": "저녁: 라멘·해산물",
       "place": "札幌 味噌ラーメン",
@@ -2061,6 +2048,19 @@
       "license": "CC BY 2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0",
       "scope": "홋카이도 실제 기념품 시로이코이비토"
+    },
+    {
+      "file": "LOCAL-sapporo-d2-05.jpg",
+      "title": "예약 가능한 당일 입욕 온천 방문",
+      "place": "定山渓温泉 日帰り入浴",
+      "kind": "온천",
+      "local": "./assets/photos/schedules/sapporo/d2-05.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:JozankeiOnsen.jpg",
+      "author": "Selixshiraii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "삿포로 조잔케이 온천마을 실제 사진 (입욕 시설 내부는 아님)"
     }
   ],
   "nagoya": [
@@ -3768,19 +3768,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-okinawa-d1-04.jpg",
-      "title": "국제거리·오키나와 소바 점심",
-      "place": "那覇国際通り",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/okinawa/d1-04.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Okinawan_Restaurant_Kokusaidori.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-okinawa-d1-05.jpg",
       "title": "아카미네역 경유 세나가시마 버스",
       "place": "赤嶺駅",
@@ -4052,6 +4039,19 @@
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
       "scope": "오키나와 점심·현지음식 예시, 특정 가게 사진은 아님"
+    },
+    {
+      "file": "LOCAL-okinawa-d1-04.jpg",
+      "title": "국제거리·오키나와 소바 점심",
+      "place": "那覇国際通り",
+      "kind": "식사",
+      "local": "./assets/photos/schedules/okinawa/d1-04.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Okinawa_soba_and_goya_chanpuru.jpg",
+      "author": "Blue Lotus",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "scope": "오키나와 전통 소바·고야참푸루 음식 사진 (국제거리 가게는 미정)"
     }
   ]
 }

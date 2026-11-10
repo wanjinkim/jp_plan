@@ -1,0 +1,127 @@
+{
+  "checked": 14,
+  "replaced": 13,
+  "remaining_duplicates": 0,
+  "unique": 281,
+  "rows": [
+    {
+      "key": "shizuoka-d2-03",
+      "status": "REPLACED",
+      "attempts": [],
+      "note": "시즈오카 시미즈항에서 촬영한 실제 참치덮밥 (점심 식당 미정)",
+      "source": "https://commons.wikimedia.org/wiki/File:Maguro_don.jpg",
+      "blob_sha": "7e055d46d1c45f75747834910a1a2f2fee18a1fe"
+    },
+    {
+      "key": "sapporo-d2-05",
+      "status": "REPLACED",
+      "attempts": [],
+      "note": "삿포로 조잔케이 온천마을 실제 사진 (입욕 시설 내부는 아님)",
+      "source": "https://commons.wikimedia.org/wiki/File:JozankeiOnsen.jpg",
+      "blob_sha": "b3f3aa8a899bd468d9595b2bd672ed38b08ddc3f"
+    },
+    {
+      "key": "fukuoka-d2-08",
+      "status": "REPLACED",
+      "attempts": [],
+      "note": "후쿠오카 하카타 이자카야에서 촬영된 실제 음식",
+      "source": "https://commons.wikimedia.org/wiki/File:Goma_buri,_yakitori,_and_sour_at_yamachan,_hakata,_nakasu_(54203630960).jpg",
+      "blob_sha": "784c5f59210128c04a066b402668d39a82c00734"
+    },
+    {
+      "key": "osaka-d1-07",
+      "status": "REPLACED",
+      "attempts": [],
+      "note": "오사카식 쿠시카츠 음식 예시, 텐진바시 특정 가게는 아님",
+      "source": "https://commons.wikimedia.org/wiki/File:Kushikatsu_-_Shinsekai_(28289215848).jpg",
+      "blob_sha": "89ae5ebfc1a692af27a3a37d30db2800614841e0"
+    },
+    {
+      "key": "osaka-d3-03",
+      "status": "REPLACED",
+      "attempts": [],
+      "note": "오사카 난바 인근 구로몬시장에서 촬영된 타코야키 실제 음식",
+      "source": "https://commons.wikimedia.org/wiki/File:A_plate_of_assorted_Takoyaki_in_Kuromon_Market_in_Osaka,_Japan.jpg",
+      "blob_sha": "2a48172684154ccfa5ccafc065cd5d4b059cadaf"
+    },
+    {
+      "key": "matsuyama-d3-03",
+      "status": "REPLACED",
+      "attempts": [],
+      "note": "에히메 마쓰야마 실제 도미밥 식사 사진",
+      "source": "https://commons.wikimedia.org/wiki/File:Uwajima_Taimeshi.jpg",
+      "blob_sha": "c424bec8a6f5770cc8eaeed2ec67970ee94b1cb7"
+    },
+    {
+      "key": "takamatsu-d3-03",
+      "status": "REPLACED",
+      "attempts": [],
+      "note": "카가와현 지역 명물 사누키 우동 실제 요리 사진",
+      "source": "https://commons.wikimedia.org/wiki/File:Japanese_Sanuki_Udon.jpg",
+      "blob_sha": "f35cbc261bc4e59808b2bcbc79f6cad3715b6bde"
+    },
+    {
+      "key": "kumamoto-d1-07",
+      "status": "REPLACED",
+      "attempts": [],
+      "note": "구마모토 향토음식 말고기회 실제 음식",
+      "source": "https://commons.wikimedia.org/wiki/File:%E7%86%8A%E6%9C%AC%E9%A6%AC%E8%82%89%E6%96%99%E7%90%86%EF%BC%88%E7%94%9F%E9%A6%AC%E8%82%89%E5%88%BA%E8%BA%AB%EF%BC%89.jpg",
+      "blob_sha": "e24ab05b0b26899d7248e09d2429d9f71e8313b6"
+    },
+    {
+      "key": "tokyo-d2-07",
+      "status": "REPLACED",
+      "attempts": [],
+      "note": "도쿄 시부야 실제 야키니쿠 식당 사진",
+      "source": "https://commons.wikimedia.org/wiki/File:Yakiniku_restaurant_in_Shibuya.jpg",
+      "blob_sha": "56cde31b5a0668e70cf6ec5c2a582e10926cbf75"
+    },
+    {
+      "key": "tokyo-d1-06",
+      "status": "REPLACED",
+      "attempts": [],
+      "note": "도쿄돔시티 안에 있는 실제 라멘 식당 사진",
+      "source": "https://commons.wikimedia.org/wiki/File:Hakata_ramen_shop_by_cathykid_in_Tokyo_Dome_City.jpg",
+      "blob_sha": "5680f34225038bc2810efe2449c608f722307029"
+    },
+    {
+      "key": "tokyo-d2-03",
+      "status": "REPLACED",
+      "attempts": [],
+      "note": "도쿄 신주쿠의 라멘 실제 음식 사진",
+      "source": "https://commons.wikimedia.org/wiki/File:KEIKA_ramen_at_Shinjuku_%E6%A1%82%E8%8A%B1%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3_%E6%96%B0%E5%AE%BF_20210909.jpg",
+      "blob_sha": "10a6e69f89beece30bbac4b6ab88d4d185eccd09"
+    },
+    {
+      "key": "okinawa-d1-04",
+      "status": "REPLACED",
+      "attempts": [],
+      "note": "오키나와 전통 소바·고야참푸루 음식 사진 (국제거리 가게는 미정)",
+      "source": "https://commons.wikimedia.org/wiki/File:Okinawa_soba_and_goya_chanpuru.jpg",
+      "blob_sha": "173c84cc379320442351769ef4e91c8e61349016"
+    },
+    {
+      "key": "matsuyama-d2-03",
+      "status": "REPLACED",
+      "attempts": [],
+      "note": "에히메현 지역 향토음식 점심 참고사진, 특정 식당 아님",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%BC%8A%E4%BA%88%E3%81%95%E3%81%A4%E3%81%BE%E6%B1%81%E5%AE%9A%E9%A3%9F_(2350296306).jpg",
+      "blob_sha": "4d45b6ae6b6cbb7ca5c717f71385a17f91e8bc93"
+    },
+    {
+      "key": "shizuoka-d2-08",
+      "status": "UNRESOLVED",
+      "attempts": [
+        {
+          "filename": "Matcha ice cream 002.jpg",
+          "error": "File unavailable or no Commons metadata"
+        },
+        {
+          "filename": "Shizuoka Matcha Soft Serve.jpg",
+          "error": "File unavailable or no Commons metadata"
+        }
+      ],
+      "note": "시즈오카 녹차 디저트 참고사진, 정확한 디저트점 미정"
+    }
+  ]
+}

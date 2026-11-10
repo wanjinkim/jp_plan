@@ -410,14 +410,14 @@
   },
   "shizuoka-d2-03": {
     "url": "./assets/photos/schedules/shizuoka/d2-03.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Matcha_tea_latte_with_rosetta_latte_art.jpg",
     "place": "清水魚市場 河岸の市",
-    "author": "Irvan Ary Maulana",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "07967d606b6643ca38366690d27bd6bf942c3c85",
-    "source_verified_by": "download_verified_content"
+    "source": "https://commons.wikimedia.org/wiki/File:Maguro_don.jpg",
+    "author": "Misei sen",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "match": "curated_unique_subject",
+    "source_proof_blob_sha": "7e055d46d1c45f75747834910a1a2f2fee18a1fe",
+    "description_scope": "시즈오카 시미즈항에서 촬영한 실제 참치덮밥 (점심 식당 미정)"
   },
   "shizuoka-d2-04": {
     "url": "./assets/photos/schedules/shizuoka/d2-04.jpg",
@@ -687,15 +687,14 @@
   },
   "sapporo-d2-05": {
     "url": "./assets/photos/schedules/sapporo/d2-05.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Former_Hokkaido_Government_Office_Building_20090112-01.jpg",
     "place": "定山渓温泉 日帰り入浴",
-    "match": "reference",
-    "author": "MiNe",
-    "license": "CC BY 2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "f720ef477df4c9965d0324b502dacd0fb6859edd",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "source": "https://commons.wikimedia.org/wiki/File:JozankeiOnsen.jpg",
+    "author": "Selixshiraii",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "curated_unique_subject",
+    "source_proof_blob_sha": "b3f3aa8a899bd468d9595b2bd672ed38b08ddc3f",
+    "description_scope": "삿포로 조잔케이 온천마을 실제 사진 (입욕 시설 내부는 아님)"
   },
   "sapporo-d2-06": {
     "url": "./assets/photos/schedules/sapporo/d2-06.jpg",
@@ -1092,15 +1091,14 @@
   },
   "okinawa-d1-04": {
     "url": "./assets/photos/schedules/okinawa/d1-04.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Kokusaidori_Naha_Okinawa_Japan_%E6%B2%96%E7%B8%84_%E9%82%A3%E8%A6%87_%E5%9B%BD%E9%9A%9B%E9%80%9A%E3%82%8A_-_panoramio.jpg",
     "place": "那覇国際通り",
-    "match": "exact",
-    "author": "Hiroki Ogawa",
-    "license": "CC BY 3.0",
-    "license_url": "https://creativecommons.org/licenses/by/3.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "e6cd463698b8b2a30b90be89bf32f591ebd3e1c0",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "source": "https://commons.wikimedia.org/wiki/File:Okinawa_soba_and_goya_chanpuru.jpg",
+    "author": "Blue Lotus",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "match": "curated_unique_subject",
+    "source_proof_blob_sha": "173c84cc379320442351769ef4e91c8e61349016",
+    "description_scope": "오키나와 전통 소바·고야참푸루 음식 사진 (국제거리 가게는 미정)"
   },
   "okinawa-d1-05": {
     "url": "./assets/photos/schedules/okinawa/d1-05.jpg",
@@ -1821,15 +1819,14 @@
   },
   "fukuoka-d2-08": {
     "url": "./assets/photos/schedules/fukuoka/d2-08.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Local_train_bounding_for_Nishitetsu-Fukuoka_Station_stopping_at_Nishitetsu-Futsukaichi_Station.jpg",
     "place": "博多駅 居酒屋",
-    "match": "reference",
-    "author": "そらみみ",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "d8d7a8ace4ebea2f9587f428b36692153755bcfd",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source": "https://commons.wikimedia.org/wiki/File:Goma_buri,_yakitori,_and_sour_at_yamachan,_hakata,_nakasu_(54203630960).jpg",
+    "author": "nakashi  from Chofu, Tokyo, JAPAN",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "match": "curated_unique_subject",
+    "source_proof_blob_sha": "784c5f59210128c04a066b402668d39a82c00734",
+    "description_scope": "후쿠오카 하카타 이자카야에서 촬영된 실제 음식"
   },
   "fukuoka-d2-09": {
     "source": "https://commons.wikimedia.org/wiki/File:JP_Fukuoka-shi_Nakasu.jpg",
@@ -1983,15 +1980,14 @@
   },
   "osaka-d1-07": {
     "url": "./assets/photos/schedules/osaka/d1-07.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Tenjinbashisuji_Shopping_Street_2024_Dec_31_various.jpeg",
     "place": "天神橋筋商店街",
-    "match": "exact",
-    "author": "Nesnad",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "d123c8bda1b93e141338ba250c8524ac5647f939",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source": "https://commons.wikimedia.org/wiki/File:Kushikatsu_-_Shinsekai_(28289215848).jpg",
+    "author": "Ajay Suresh  from New York, NY, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "match": "curated_unique_subject",
+    "source_proof_blob_sha": "89ae5ebfc1a692af27a3a37d30db2800614841e0",
+    "description_scope": "오사카식 쿠시카츠 음식 예시, 텐진바시 특정 가게는 아님"
   },
   "osaka-d1-09": {
     "url": "./assets/photos/schedules/osaka/d1-09.jpg",
@@ -2134,14 +2130,14 @@
   },
   "osaka-d3-03": {
     "url": "./assets/photos/schedules/osaka/d3-03.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Nankai_6000_series_at_Namba_Station_(Nankai)_2009-10-06.jpg",
     "place": "なんば駅",
-    "author": "船 長",
-    "license": "CC0",
-    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "3fa0d47f4e60384e48cd6391e237f015f16b7ae9",
-    "source_verified_by": "download_verified_content"
+    "source": "https://commons.wikimedia.org/wiki/File:A_plate_of_assorted_Takoyaki_in_Kuromon_Market_in_Osaka,_Japan.jpg",
+    "author": "Gatorfan252525",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "curated_unique_subject",
+    "source_proof_blob_sha": "2a48172684154ccfa5ccafc065cd5d4b059cadaf",
+    "description_scope": "오사카 난바 인근 구로몬시장에서 촬영된 타코야키 실제 음식"
   },
   "osaka-d3-04": {
     "url": "./assets/photos/schedules/osaka/d3-04.jpg",
@@ -2227,15 +2223,14 @@
   },
   "tokyo-d1-06": {
     "url": "./assets/photos/schedules/tokyo/d1-06.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Dome_City_LaQua.JPG",
     "place": "東京ドームシティ",
-    "match": "exact",
-    "author": "ITA-ATU",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "6083830f55346f0c78e936141a65a8c0d5e8ddf5",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source": "https://commons.wikimedia.org/wiki/File:Hakata_ramen_shop_by_cathykid_in_Tokyo_Dome_City.jpg",
+    "author": "cathykid  from Hakata ramen shop  Ichiran  in  Tokyo Dome City   LaQua , Kasuga, Bunkyo, Tokyo",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "match": "curated_unique_subject",
+    "source_proof_blob_sha": "5680f34225038bc2810efe2449c608f722307029",
+    "description_scope": "도쿄돔시티 안에 있는 실제 라멘 식당 사진"
   },
   "tokyo-d1-07": {
     "url": "./assets/photos/schedules/tokyo/d1-07.jpg",
@@ -2285,15 +2280,14 @@
   },
   "tokyo-d2-03": {
     "url": "./assets/photos/schedules/tokyo/d2-03.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Shinjuku-sanchome_Station_exit_C6_-_April_12_2021.jpeg",
     "place": "新宿三丁目",
-    "match": "exact",
-    "author": "Nesnad",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "6914daaaf63ab598d89f67088dec3017d9f4fecb",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source": "https://commons.wikimedia.org/wiki/File:KEIKA_ramen_at_Shinjuku_%E6%A1%82%E8%8A%B1%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3_%E6%96%B0%E5%AE%BF_20210909.jpg",
+    "author": "ウィキ太郎(WikiTaro)",
+    "license": "Public domain",
+    "license_url": "",
+    "match": "curated_unique_subject",
+    "source_proof_blob_sha": "10a6e69f89beece30bbac4b6ab88d4d185eccd09",
+    "description_scope": "도쿄 신주쿠의 라멘 실제 음식 사진"
   },
   "tokyo-d2-04": {
     "url": "./assets/photos/schedules/tokyo/d2-04.jpg",
@@ -2333,15 +2327,14 @@
   },
   "tokyo-d2-07": {
     "url": "./assets/photos/schedules/tokyo/d2-07.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Korean.cuisine-Yukhoe-01.jpg",
     "place": "渋谷 焼肉",
-    "match": "exact",
-    "author": "by titanium22",
-    "license": "CC BY-SA 2.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "4191a05db1904369300e9062c381004992fadd67",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source": "https://commons.wikimedia.org/wiki/File:Yakiniku_restaurant_in_Shibuya.jpg",
+    "author": "Syced",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "match": "curated_unique_subject",
+    "source_proof_blob_sha": "56cde31b5a0668e70cf6ec5c2a582e10926cbf75",
+    "description_scope": "도쿄 시부야 실제 야키니쿠 식당 사진"
   },
   "tokyo-d2-08": {
     "url": "./assets/photos/schedules/tokyo/d2-08.jpg",
@@ -2579,15 +2572,14 @@
   },
   "matsuyama-d2-03": {
     "url": "./assets/photos/schedules/matsuyama/d2-03.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Iyoshi_Station_201507-1.JPG",
     "place": "伊予市駅",
-    "match": "exact",
-    "author": "Sunport1216",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "a5a16ed50970bcaa50be3892fa50b55d251e30dd",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source": "https://commons.wikimedia.org/wiki/File:%E4%BC%8A%E4%BA%88%E3%81%95%E3%81%A4%E3%81%BE%E6%B1%81%E5%AE%9A%E9%A3%9F_(2350296306).jpg",
+    "author": "Yamaguchi Yoshiaki  from Japan",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "match": "curated_unique_subject",
+    "source_proof_blob_sha": "4d45b6ae6b6cbb7ca5c717f71385a17f91e8bc93",
+    "description_scope": "에히메현 지역 향토음식 점심 참고사진, 특정 식당 아님"
   },
   "matsuyama-d2-04": {
     "url": "./assets/photos/schedules/matsuyama/d2-04.jpg",
@@ -2685,14 +2677,14 @@
   },
   "matsuyama-d3-03": {
     "url": "./assets/photos/schedules/matsuyama/d3-03.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85%E9%A7%85%E5%90%8D%E8%A1%A8%E8%A8%98.jpg",
     "place": "松山市駅",
-    "author": "Van2van",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "7ee88e41963468e7394188e64d2ffb25938a0572",
-    "source_verified_by": "download_verified_content"
+    "source": "https://commons.wikimedia.org/wiki/File:Uwajima_Taimeshi.jpg",
+    "author": "Fred Cherrygarden",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "curated_unique_subject",
+    "source_proof_blob_sha": "c424bec8a6f5770cc8eaeed2ec67970ee94b1cb7",
+    "description_scope": "에히메 마쓰야마 실제 도미밥 식사 사진"
   },
   "matsuyama-d3-04": {
     "url": "./assets/photos/schedules/matsuyama/d3-04.jpg",
@@ -2944,14 +2936,14 @@
   },
   "takamatsu-d3-03": {
     "url": "./assets/photos/schedules/takamatsu/d3-03.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Station_Sign_2.jpg",
     "place": "高松駅",
-    "author": "そらみみ  (Soramimi)",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "22c32cd8ca6e32dcc656888d698791a67e3d4c49",
-    "source_verified_by": "download_verified_content"
+    "source": "https://commons.wikimedia.org/wiki/File:Japanese_Sanuki_Udon.jpg",
+    "author": "Shene81",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "match": "curated_unique_subject",
+    "source_proof_blob_sha": "f35cbc261bc4e59808b2bcbc79f6cad3715b6bde",
+    "description_scope": "카가와현 지역 명물 사누키 우동 실제 요리 사진"
   },
   "takamatsu-d3-04": {
     "url": "./assets/photos/schedules/takamatsu/d3-04.jpg",
@@ -3050,15 +3042,14 @@
   },
   "kumamoto-d1-07": {
     "url": "./assets/photos/schedules/kumamoto/d1-07.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Nishi-Karashima-cho_sta02n4272.jpg",
     "place": "辛島町",
-    "match": "exact",
-    "author": "663highland",
-    "license": "CC BY 2.5",
-    "license_url": "https://creativecommons.org/licenses/by/2.5",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "0880820ca761d4fd6852f55ca1cc148db7525e3a",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source": "https://commons.wikimedia.org/wiki/File:%E7%86%8A%E6%9C%AC%E9%A6%AC%E8%82%89%E6%96%99%E7%90%86%EF%BC%88%E7%94%9F%E9%A6%AC%E8%82%89%E5%88%BA%E8%BA%AB%EF%BC%89.jpg",
+    "author": "Rick888chen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "curated_unique_subject",
+    "source_proof_blob_sha": "e24ab05b0b26899d7248e09d2429d9f71e8313b6",
+    "description_scope": "구마모토 향토음식 말고기회 실제 음식"
   },
   "kumamoto-d1-08": {
     "url": "./assets/photos/schedules/kumamoto/d1-08.jpg",

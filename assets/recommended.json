@@ -579,7 +579,7 @@
             "photo_file": "LOCAL-shizuoka-d2-03.jpg",
             "photo_scope": "지역 음식 참고사진 · 말차 음료 예시 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "시즈오카 시미즈항에서 촬영한 실제 참치덮밥 (점심 식당 미정)"
           },
           {
             "start": "13:00",
@@ -955,7 +955,7 @@
             "photo_file": "LOCAL-sapporo-d2-05.jpg",
             "photo_scope": "온천 권역 참고사진 · 홋카이도청 설경 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "삿포로 조잔케이 온천마을 실제 사진 (입욕 시설 내부는 아님)"
           },
           {
             "start": "16:30",
@@ -1518,7 +1518,7 @@
             "photo_file": "LOCAL-okinawa-d1-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 국제거리 음식점",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "오키나와 전통 소바·고야참푸루 음식 사진 (국제거리 가게는 미정)"
           },
           {
             "start": "15:10",
