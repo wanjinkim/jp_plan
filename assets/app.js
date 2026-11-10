@@ -23,8 +23,11 @@ function photoCatalog(id){const arr=INDEX.get(id)?.group==='원래 후보'?(PHOT
 function cardPhoto(id,place='',exact=null){let pool=photoCatalog(id);if(exact){let p=pool.find(v=>v.file===exact);if(p)return p;}if(place){let p=pool.find(v=>(v.place||'')===place);if(p)return p;}return null;}
 function bannerPhoto(id){let pool=photoCatalog(id);return pool.find(p=>['자연','명소','거리'].includes(p.kind))||pool[0]||null;}
 function photoBox(photo,search,alt='',classes=''){
-  let dest=googleImg(search);return `<a class="photo-link ${classes}" data-safe-url="${esc(dest)}" href="${esc(dest)}" target="_blank" rel="noopener noreferrer" aria-label="${esc(alt||search)} 사진 검색">
-  ${photo?`<img loading="lazy" src="${esc(gPhoto(photo))}" alt="${esc(alt||photo.title)}" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><span class="photo-placeholder" hidden><span>사진 검색</span><b>${esc(search)}</b></span>`:`<span class="photo-placeholder"><span>이미지 자료 확인</span><b>${esc(search)}</b><small>구글 이미지에서 살펴보기 ↗</small></span>`}
+  const src=gPhoto(photo);
+  const dest=googleImg(search);
+  const placeholder='<span class="photo-placeholder"><span>이미지 자료 확인</span><b>'+esc(search)+'</b><small>구글 이미지에서 살펴보기 ↗</small></span>';
+  return `<a class="photo-link ${classes}" data-safe-url="${esc(dest)}" href="${esc(dest)}" target="_blank" rel="noopener noreferrer" aria-label="${esc(alt||search)} 사진 검색">
+  ${src?`<img loading="lazy" decoding="async" src="${esc(src)}" alt="${esc(alt||photo?.title||search)}" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><span class="photo-placeholder" hidden><span>사진을 불러오지 못했습니다</span><b>${esc(search)}</b><small>구글 이미지에서 살펴보기 ↗</small></span>`:placeholder}
   <span class="view-hint">이미지 검색 ↗</span></a>`;
 }
 function tag(text){return `<span class="tag">${esc(text)}</span>`}
