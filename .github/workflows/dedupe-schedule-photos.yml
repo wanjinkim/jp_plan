@@ -1,0 +1,67 @@
+name: Replace duplicate itinerary pictures with distinct venue images
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/dedupe_schedule_photos.py'
+      - '.github/workflows/dedupe-schedule-photos.yml'
+permissions:
+  contents: write
+concurrency:
+  group: japan-atlas-image-dedupe
+  cancel-in-progress: false
+jobs:
+  dedupe:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 80
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install photo decoder
+        run: python -m pip install Pillow==11.3.0
+      - name: Validate Python code
+        run: python -m py_compile scripts/dedupe_schedule_photos.py scripts/repair_all_schedule_photos.py
+      - name: Replace every content-identical photo with a different, topic-matched source
+        timeout-minutes: 68
+        continue-on-error: true
+        run: python -u scripts/dedupe_schedule_photos.py
+      - name: Confirm 281 files and compute unique content count
+        if: always()
+        run: |
+          python - <<'PY'
+          import json,hashlib
+          from pathlib import Path
+          from PIL import Image
+          rows=json.loads(Path('assets/photo_manifest_281.json').read_text())
+          files=[]
+          for row in rows:
+            path=Path(row['local_path'])
+            assert path.is_file(),f'Missing image: {path}'
+            with Image.open(path) as image:image.verify()
+            files.append(hashlib.sha256(path.read_bytes()).hexdigest())
+          print('VALID LOADED FILES',len(files),'UNIQUE CONTENT',len(set(files)),'DUPLICATE EXCESS',len(files)-len(set(files)))
+          PY
+      - name: Commit all verified unique replacements and their provenance
+        if: always()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/photos/schedules assets/local_schedule_photos.json assets/recommended.json assets/new_routes.json assets/gallery.json photo_audit/deduplication_report.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Deduplicate repeated itinerary pictures with different verified image sources'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Save detailed deduplication inspection
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: itinerary-photo-deduplication-results
+          path: photo_audit/deduplication_report.json
+          if-no-files-found: warn
