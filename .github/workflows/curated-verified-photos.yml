@@ -1,0 +1,59 @@
+name: Replace two inaccurate photos with CC-licensed venue images
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/curated_verified_photo_fix.py'
+      - '.github/workflows/curated-verified-photos.yml'
+permissions:
+  contents: write
+concurrency:
+  group: japan-atlas-verified-curated-photos
+  cancel-in-progress: false
+jobs:
+  correct:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install Pillow==11.3.0
+      - name: Validate collector syntax
+        run: |
+          python -m py_compile scripts/curated_verified_photo_fix.py scripts/repair_all_schedule_photos.py scripts/build_local_photo_index.py
+      - name: Fetch licensed venue-specific photos and verify bytes
+        id: repair
+        continue-on-error: true
+        run: python -u scripts/curated_verified_photo_fix.py
+      - name: Rebuild index retaining provenance for all photos
+        if: always()
+        run: python scripts/build_local_photo_index.py
+      - name: Commit newly verified images and original credits
+        if: always()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/recommended.json assets/new_routes.json assets/gallery.json assets/local_schedule_photos.json assets/photos/schedules photo_audit/curated_photo_corrections.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Correct Ueno autumn and Nagoya spa images with verified licensed files'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Require both corrections
+        if: always()
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path('photo_audit/curated_photo_corrections.json')
+          assert p.exists(),'Correction script did not produce a report'
+          j=json.loads(p.read_text())
+          print(j)
+          assert j['corrected']==2,'Both curated photos must be verified'
+          PY
