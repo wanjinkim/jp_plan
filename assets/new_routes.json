@@ -1967,7 +1967,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-matsuyama-d1-05.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
           },
           {
             "start": "15:30",
@@ -2003,7 +2003,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-matsuyama-d1-08.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
           },
           {
             "start": "21:00",
@@ -2252,19 +2252,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-matsuyama-d1-05.jpg",
-          "title": "도미밥 점심",
-          "place": "松山市駅 鯛めし",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/matsuyama/d1-05.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-matsuyama-d1-06.jpg",
           "title": "도고온천 본관 입욕",
           "place": "道後温泉本館",
@@ -2283,19 +2270,6 @@
           "place": "道後商店街",
           "kind": "명소",
           "local": "./assets/photos/schedules/matsuyama/d1-07.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-matsuyama-d1-08.jpg",
-          "title": "에히메 향토음식 저녁",
-          "place": "道後温泉",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/matsuyama/d1-08.jpg",
           "local_verified": true,
           "source": "",
           "author": "",
@@ -2536,6 +2510,32 @@
           "license": "CC0",
           "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+        },
+        {
+          "file": "LOCAL-matsuyama-d1-05.jpg",
+          "title": "도미밥 점심",
+          "place": "松山市駅 鯛めし",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/matsuyama/d1-05.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Taimeshi_02.jpg",
+          "author": "ノボホショコロトソ",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+        },
+        {
+          "file": "LOCAL-matsuyama-d1-08.jpg",
+          "title": "에히메 향토음식 저녁",
+          "place": "道後温泉",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/matsuyama/d1-08.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Taimeshi_02.jpg",
+          "author": "ノボホショコロトソ",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
         }
       ]
     },
@@ -2687,7 +2687,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-takamatsu-d2-03.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
           },
           {
             "start": "13:30",
@@ -2965,19 +2965,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-takamatsu-d2-03.jpg",
-          "title": "고토히라 점심",
-          "place": "琴平",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/takamatsu/d2-03.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-takamatsu-d2-04.jpg",
           "title": "고토덴 열차로 다카마쓰 복귀",
           "place": "高松築港駅",
@@ -3132,6 +3119,19 @@
           "license": "CC BY-SA 3.0",
           "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+        },
+        {
+          "file": "LOCAL-takamatsu-d2-03.jpg",
+          "title": "고토히라 점심",
+          "place": "琴平",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/takamatsu/d2-03.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Kama-age_sanuki_udon_by_sekido_in_Takamatsu,_Kagawa.jpg",
+          "author": "sekido",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
         }
       ]
     },
@@ -3307,7 +3307,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-kumamoto-d2-04.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
           },
           {
             "start": "13:30",
@@ -3355,7 +3355,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-kumamoto-d2-08.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
           },
           {
             "start": "20:00",
@@ -3624,19 +3624,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-kumamoto-d2-04.jpg",
-          "title": "호수 인근 점심",
-          "place": "江津湖",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/kumamoto/d2-04.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-kumamoto-d2-05.jpg",
           "title": "전차로 도심 복귀",
           "place": "通町筋",
@@ -3670,19 +3657,6 @@
           "local": "./assets/photos/schedules/kumamoto/d2-07.jpg",
           "local_verified": true,
           "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Castle.JPG",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-kumamoto-d2-08.jpg",
-          "title": "향토 음식 저녁",
-          "place": "下通",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/kumamoto/d2-08.jpg",
-          "local_verified": true,
-          "source": "",
           "author": "",
           "license": "previously supplied, verify original license",
           "license_url": "",
@@ -3778,6 +3752,32 @@
           "license": "CC BY-SA 3.0",
           "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+        },
+        {
+          "file": "LOCAL-kumamoto-d2-04.jpg",
+          "title": "호수 인근 점심",
+          "place": "江津湖",
+          "kind": "자연",
+          "local": "./assets/photos/schedules/kumamoto/d2-04.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Kumamoro-ramen.jpg",
+          "author": "皇翔",
+          "license": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+        },
+        {
+          "file": "LOCAL-kumamoto-d2-08.jpg",
+          "title": "향토 음식 저녁",
+          "place": "下通",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/kumamoto/d2-08.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Kumamoro-ramen.jpg",
+          "author": "皇翔",
+          "license": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
         }
       ]
     }

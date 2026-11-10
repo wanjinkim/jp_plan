@@ -301,7 +301,7 @@
             "photo_file": "LOCAL-hiroshima-d2-10.jpg",
             "photo_scope": "숙박 권역 참고사진 · 도심 숙박시설 사례 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
           }
         ],
         [
@@ -635,7 +635,7 @@
             "photo_file": "LOCAL-shizuoka-d2-07.jpg",
             "photo_scope": "지역 음식 참고사진 · 오뎅 행사 현장 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
           },
           {
             "start": "20:30",
@@ -649,7 +649,7 @@
             "photo_file": "LOCAL-shizuoka-d2-08.jpg",
             "photo_scope": "지역 음식 참고사진 · 시즈오카 검은 오뎅 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
           },
           {
             "start": "22:30",
@@ -1326,7 +1326,7 @@
             "photo_file": "LOCAL-nagoya-d2-06.jpg",
             "photo_scope": "지역 음식 참고사진 · 나고야 미소카츠 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
           },
           {
             "start": "19:25",
@@ -1730,7 +1730,7 @@
             "photo_file": "LOCAL-okinawa-d2-10.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 국제거리 상점가",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
           }
         ],
         [

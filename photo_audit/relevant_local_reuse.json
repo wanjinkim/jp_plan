@@ -1,0 +1,75 @@
+{
+  "count": 10,
+  "items": [
+    {
+      "target": "hiroshima-d2-10",
+      "source": "hiroshima-d1-09",
+      "original_source": "https://commons.wikimedia.org/wiki/File:Grand_Prince_Hotel_Hiroshima_Prince_Club_Floor_King_bedroom_20190614-001.jpg",
+      "identical_blob_sha": "ad218f2e5d881ee2195061ecf5855da4556fd95a",
+      "scope": "related activity example, not exact named venue"
+    },
+    {
+      "target": "shizuoka-d2-07",
+      "source": "shizuoka-d3-03",
+      "original_source": "https://commons.wikimedia.org/wiki/File:Oden_street_by_Kossy%40FINEDAYS_in_Shizuoka.jpg",
+      "identical_blob_sha": "76158d5035c514c45d0ce6205d3f7fd9b9cb5590",
+      "scope": "related activity example, not exact named venue"
+    },
+    {
+      "target": "shizuoka-d2-08",
+      "source": "shizuoka-d1-05",
+      "original_source": "https://commons.wikimedia.org/wiki/File:Matcha_ice_cream_001.jpg",
+      "identical_blob_sha": "62b15418809cbf7321d518424a0f0a84638dda9c",
+      "scope": "related activity example, not exact named venue"
+    },
+    {
+      "target": "nagoya-d2-06",
+      "source": "nagoya-d1-06",
+      "original_source": "https://commons.wikimedia.org/wiki/File:Miso_katsu,_tsukemono_and_miso_soup_by_shibainu_in_Nagoya.jpg",
+      "identical_blob_sha": "0e2fbfe01273669191861d8cccfc1a779297dd22",
+      "scope": "related activity example, not exact named venue"
+    },
+    {
+      "target": "okinawa-d2-10",
+      "source": "okinawa-d1-08",
+      "original_source": "https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503182722.jpg",
+      "identical_blob_sha": "254e1f47fcac9c69134256074bfd2f1c5bd1a723",
+      "scope": "related activity example, not exact named venue"
+    },
+    {
+      "target": "matsuyama-d1-05",
+      "source": "matsuyama-d3-03",
+      "original_source": "https://commons.wikimedia.org/wiki/File:Taimeshi_02.jpg",
+      "identical_blob_sha": "e9e782fcd9c21de151b16e1663e22debb135c1ee",
+      "scope": "related activity example, not exact named venue"
+    },
+    {
+      "target": "matsuyama-d1-08",
+      "source": "matsuyama-d3-03",
+      "original_source": "https://commons.wikimedia.org/wiki/File:Taimeshi_02.jpg",
+      "identical_blob_sha": "e9e782fcd9c21de151b16e1663e22debb135c1ee",
+      "scope": "related activity example, not exact named venue"
+    },
+    {
+      "target": "takamatsu-d2-03",
+      "source": "takamatsu-d1-03",
+      "original_source": "https://commons.wikimedia.org/wiki/File:Kama-age_sanuki_udon_by_sekido_in_Takamatsu,_Kagawa.jpg",
+      "identical_blob_sha": "978eb65f75f408f1346cdcf5ca5b9cbf79e2c5f5",
+      "scope": "related activity example, not exact named venue"
+    },
+    {
+      "target": "kumamoto-d2-04",
+      "source": "kumamoto-d1-03",
+      "original_source": "https://commons.wikimedia.org/wiki/File:Kumamoro-ramen.jpg",
+      "identical_blob_sha": "793f364146baade2b3dea9cdc35ed2bee9bd66f4",
+      "scope": "related activity example, not exact named venue"
+    },
+    {
+      "target": "kumamoto-d2-08",
+      "source": "kumamoto-d1-03",
+      "original_source": "https://commons.wikimedia.org/wiki/File:Kumamoro-ramen.jpg",
+      "identical_blob_sha": "793f364146baade2b3dea9cdc35ed2bee9bd66f4",
+      "scope": "related activity example, not exact named venue"
+    }
+  ]
+}

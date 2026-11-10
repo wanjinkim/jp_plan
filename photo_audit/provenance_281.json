@@ -227,15 +227,16 @@
     },
     "hiroshima-d2-10": {
       "url": "./assets/photos/schedules/hiroshima/d2-10.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%BE%E9%81%93%E9%A7%85_-_Flickr_-_m-louis.jpg",
       "place": "広島駅 ホテル",
-      "match": "exact",
-      "author": "m-louis .®  from Osaka, Japan",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "provider": "Wikimedia Commons",
-      "source_proof_blob_sha": "bf0349e635282558f0f6524a27b547f468e0606b",
-      "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+      "source": "https://commons.wikimedia.org/wiki/File:Grand_Prince_Hotel_Hiroshima_Prince_Club_Floor_King_bedroom_20190614-001.jpg",
+      "author": "J o",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "match": "related_activity_example",
+      "source_proof_blob_sha": "ad218f2e5d881ee2195061ecf5855da4556fd95a",
+      "source_proof_commit": "",
+      "source_verified_by": "same_byte_blob_from_locally_verified_activity",
+      "reused_from": "hiroshima-d1-09"
     },
     "hiroshima-d3-01": {
       "url": "./assets/photos/schedules/hiroshima/d3-01.jpg",
@@ -479,27 +480,29 @@
     },
     "shizuoka-d2-07": {
       "url": "./assets/photos/schedules/shizuoka/d2-07.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_201016a.jpg",
       "place": "静岡駅",
-      "match": "exact",
-      "author": "江戸村のとくぞう",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "provider": "Wikimedia Commons",
-      "source_proof_blob_sha": "86efc031cd2d8c2e8af77c8cdadad16e0881875c",
-      "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+      "source": "https://commons.wikimedia.org/wiki/File:Oden_street_by_Kossy%40FINEDAYS_in_Shizuoka.jpg",
+      "author": "Kossy@FINEDAYS  from Oden street  Aoba Oden-Gai  (Aoba Oden Street) in Tokiwa, Aoi, Shizuoka",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "match": "related_activity_example",
+      "source_proof_blob_sha": "76158d5035c514c45d0ce6205d3f7fd9b9cb5590",
+      "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
+      "source_verified_by": "same_byte_blob_from_locally_verified_activity",
+      "reused_from": "shizuoka-d3-03"
     },
     "shizuoka-d2-08": {
       "url": "./assets/photos/schedules/shizuoka/d2-08.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:ASTY%E9%9D%99%E5%B2%A1%E6%9D%B1%E9%A4%A8.jpg",
       "place": "静岡駅 ASTY",
-      "match": "exact",
-      "author": "電車(新幹線)でゴー！",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "provider": "Wikimedia Commons",
-      "source_proof_blob_sha": "b0dafe12f8d4000367b49ab2d5a82d5fe9f93e0f",
-      "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+      "source": "https://commons.wikimedia.org/wiki/File:Matcha_ice_cream_001.jpg",
+      "author": "City Foodsters",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "match": "related_activity_example",
+      "source_proof_blob_sha": "62b15418809cbf7321d518424a0f0a84638dda9c",
+      "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
+      "source_verified_by": "same_byte_blob_from_locally_verified_activity",
+      "reused_from": "shizuoka-d1-05"
     },
     "shizuoka-d2-09": {
       "url": "./assets/photos/schedules/shizuoka/d2-09.jpg",
@@ -1007,15 +1010,16 @@
     },
     "nagoya-d2-06": {
       "url": "./assets/photos/schedules/nagoya/d2-06.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:View_of_Nagoya_Station,_Tsubaki-cho_Nakamura_Ward_Nagoya_2022.jpg",
       "place": "名古屋駅",
-      "match": "exact",
-      "author": "Tomio344456",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "provider": "Wikimedia Commons",
-      "source_proof_blob_sha": "97fc12802db5032d6c354d121d5d810a0dd68bdb",
-      "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+      "source": "https://commons.wikimedia.org/wiki/File:Miso_katsu,_tsukemono_and_miso_soup_by_shibainu_in_Nagoya.jpg",
+      "author": "shibainu  from Nagoya",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "match": "related_activity_example",
+      "source_proof_blob_sha": "0e2fbfe01273669191861d8cccfc1a779297dd22",
+      "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
+      "source_verified_by": "same_byte_blob_from_locally_verified_activity",
+      "reused_from": "nagoya-d1-06"
     },
     "nagoya-d2-07": {
       "url": "./assets/photos/schedules/nagoya/d2-07.jpg",
@@ -1319,15 +1323,16 @@
     },
     "okinawa-d2-10": {
       "url": "./assets/photos/schedules/okinawa/d2-10.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503182742.jpg",
       "place": "那覇国際通り",
-      "match": "exact",
+      "source": "https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503182722.jpg",
       "author": "TurnOnTheNight",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "provider": "Wikimedia Commons",
-      "source_proof_blob_sha": "9df3c121e07db3905db816b2eb194cb055a19bd4",
-      "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+      "match": "related_activity_example",
+      "source_proof_blob_sha": "254e1f47fcac9c69134256074bfd2f1c5bd1a723",
+      "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
+      "source_verified_by": "same_byte_blob_from_locally_verified_activity",
+      "reused_from": "okinawa-d1-08"
     },
     "okinawa-d3-01": {
       "url": "./assets/photos/schedules/okinawa/d3-01.jpg",
@@ -2579,15 +2584,16 @@
     },
     "matsuyama-d1-05": {
       "url": "./assets/photos/schedules/matsuyama/d1-05.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Iyo_Railway_Matsuyama_station_platform_-_panoramio.jpg",
       "place": "松山市駅 鯛めし",
-      "match": "reference",
-      "author": "DVMG",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0",
-      "provider": "Wikimedia Commons",
-      "source_proof_blob_sha": "3554d19bda0450660f94979f4811606d33065be6",
-      "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+      "source": "https://commons.wikimedia.org/wiki/File:Taimeshi_02.jpg",
+      "author": "ノボホショコロトソ",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "match": "related_activity_example",
+      "source_proof_blob_sha": "e9e782fcd9c21de151b16e1663e22debb135c1ee",
+      "source_proof_commit": "",
+      "source_verified_by": "same_byte_blob_from_locally_verified_activity",
+      "reused_from": "matsuyama-d3-03"
     },
     "matsuyama-d1-06": {
       "url": "./assets/photos/schedules/matsuyama/d1-06.jpg",
@@ -2615,15 +2621,16 @@
     },
     "matsuyama-d1-08": {
       "url": "./assets/photos/schedules/matsuyama/d1-08.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Dogo_Onsen_Honkan_(Main_building),_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_(1).jpg",
       "place": "道後温泉",
-      "match": "exact",
-      "author": "z tanuki",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0",
-      "provider": "Wikimedia Commons",
-      "source_proof_blob_sha": "9effe8152530947c63dbe507c7a4968107160616",
-      "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+      "source": "https://commons.wikimedia.org/wiki/File:Taimeshi_02.jpg",
+      "author": "ノボホショコロトソ",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "match": "related_activity_example",
+      "source_proof_blob_sha": "e9e782fcd9c21de151b16e1663e22debb135c1ee",
+      "source_proof_commit": "",
+      "source_verified_by": "same_byte_blob_from_locally_verified_activity",
+      "reused_from": "matsuyama-d3-03"
     },
     "matsuyama-d1-09": {
       "url": "./assets/photos/schedules/matsuyama/d1-09.jpg",
@@ -2939,15 +2946,16 @@
     },
     "takamatsu-d2-03": {
       "url": "./assets/photos/schedules/takamatsu/d2-03.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Saya-bridge_Kotohira_Kagawa_pref01s3s4500.jpg",
       "place": "琴平",
-      "match": "exact",
-      "author": "663highland",
-      "license": "CC BY 2.5",
-      "license_url": "https://creativecommons.org/licenses/by/2.5",
-      "provider": "Wikimedia Commons",
-      "source_proof_blob_sha": "5945ad3d58ecafcf6e4169a32bdf3df3878f6471",
-      "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+      "source": "https://commons.wikimedia.org/wiki/File:Kama-age_sanuki_udon_by_sekido_in_Takamatsu,_Kagawa.jpg",
+      "author": "sekido",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "match": "related_activity_example",
+      "source_proof_blob_sha": "978eb65f75f408f1346cdcf5ca5b9cbf79e2c5f5",
+      "source_proof_commit": "",
+      "source_verified_by": "same_byte_blob_from_locally_verified_activity",
+      "reused_from": "takamatsu-d1-03"
     },
     "takamatsu-d2-04": {
       "url": "./assets/photos/schedules/takamatsu/d2-04.jpg",
@@ -3227,15 +3235,16 @@
     },
     "kumamoto-d2-04": {
       "url": "./assets/photos/schedules/kumamoto/d2-04.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%8B%E6%B1%9F%E6%B4%A5%E6%B9%96.JPG",
       "place": "江津湖",
-      "match": "exact",
-      "author": "Kuzeo",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "provider": "Wikimedia Commons",
-      "source_proof_blob_sha": "03ba3361bf41eee326b44dcc14268672b24e61fe",
-      "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+      "source": "https://commons.wikimedia.org/wiki/File:Kumamoro-ramen.jpg",
+      "author": "皇翔",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "match": "related_activity_example",
+      "source_proof_blob_sha": "793f364146baade2b3dea9cdc35ed2bee9bd66f4",
+      "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f",
+      "source_verified_by": "same_byte_blob_from_locally_verified_activity",
+      "reused_from": "kumamoto-d1-03"
     },
     "kumamoto-d2-05": {
       "url": "./assets/photos/schedules/kumamoto/d2-05.jpg",
@@ -3275,15 +3284,16 @@
     },
     "kumamoto-d2-08": {
       "url": "./assets/photos/schedules/kumamoto/d2-08.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Shimotori_shop_street_Shintengai_1.jpg",
       "place": "下通",
-      "match": "exact",
-      "author": "MK Products",
-      "license": "CC BY-SA 3.0",
-      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "provider": "Wikimedia Commons",
-      "source_proof_blob_sha": "3c8ffb69d5f9b8f728504ab50ad24392f91e0fd1",
-      "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+      "source": "https://commons.wikimedia.org/wiki/File:Kumamoro-ramen.jpg",
+      "author": "皇翔",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "match": "related_activity_example",
+      "source_proof_blob_sha": "793f364146baade2b3dea9cdc35ed2bee9bd66f4",
+      "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f",
+      "source_verified_by": "same_byte_blob_from_locally_verified_activity",
+      "reused_from": "kumamoto-d1-03"
     },
     "kumamoto-d2-09": {
       "url": "./assets/photos/schedules/kumamoto/d2-09.jpg",

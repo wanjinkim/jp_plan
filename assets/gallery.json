@@ -636,19 +636,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-hiroshima-d2-10.jpg",
-      "title": "숙소 복귀·휴식",
-      "place": "広島駅 ホテル",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/hiroshima/d2-10.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Mielparque_Hiroshima_2026.JPG",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-hiroshima-d3-01.jpg",
       "title": "체크아웃·히로시마역 짐 보관",
       "place": "広島駅",
@@ -764,6 +751,19 @@
       "license": "CC BY 4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0",
       "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+    },
+    {
+      "file": "LOCAL-hiroshima-d2-10.jpg",
+      "title": "숙소 복귀·휴식",
+      "place": "広島駅 ホテル",
+      "kind": "휴식",
+      "local": "./assets/photos/schedules/hiroshima/d2-10.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Grand_Prince_Hotel_Hiroshima_Prince_Club_Floor_King_bedroom_20190614-001.jpg",
+      "author": "J o",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
     }
   ],
   "shizuoka": [
@@ -1282,32 +1282,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-shizuoka-d2-07.jpg",
-      "title": "JR 시즈오카역 복귀·저녁",
-      "place": "静岡駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/shizuoka/d2-07.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Oden_matsuri.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-shizuoka-d2-08.jpg",
-      "title": "도심 야경·디저트",
-      "place": "静岡駅 ASTY",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/shizuoka/d2-08.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Shizoka_oden_1_20151022.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-shizuoka-d3-01.jpg",
       "title": "체크아웃·짐 보관",
       "place": "静岡駅",
@@ -1410,6 +1384,32 @@
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
       "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+    },
+    {
+      "file": "LOCAL-shizuoka-d2-07.jpg",
+      "title": "JR 시즈오카역 복귀·저녁",
+      "place": "静岡駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/shizuoka/d2-07.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Oden_street_by_Kossy%40FINEDAYS_in_Shizuoka.jpg",
+      "author": "Kossy@FINEDAYS  from Oden street  Aoba Oden-Gai  (Aoba Oden Street) in Tokiwa, Aoi, Shizuoka",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+    },
+    {
+      "file": "LOCAL-shizuoka-d2-08.jpg",
+      "title": "도심 야경·디저트",
+      "place": "静岡駅 ASTY",
+      "kind": "야경",
+      "local": "./assets/photos/schedules/shizuoka/d2-08.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Matcha_ice_cream_001.jpg",
+      "author": "City Foodsters",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
     }
   ],
   "sapporo": [
@@ -2569,19 +2569,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-nagoya-d2-06.jpg",
-      "title": "나고야역 인근으로 이동·저녁",
-      "place": "名古屋駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/nagoya/d2-06.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Miso_Katsu_by_jetalone_in_Nagoya.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-nagoya-d2-07.jpg",
       "title": "오아시스21 야경 또는 도심 산책",
       "place": "オアシス21",
@@ -2684,6 +2671,19 @@
       "license": "CC BY-SA 3.0",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
       "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+    },
+    {
+      "file": "LOCAL-nagoya-d2-06.jpg",
+      "title": "나고야역 인근으로 이동·저녁",
+      "place": "名古屋駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/nagoya/d2-06.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Miso_katsu,_tsukemono_and_miso_soup_by_shibainu_in_Nagoya.jpg",
+      "author": "shibainu  from Nagoya",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
     }
   ],
   "sendai": [
@@ -3950,19 +3950,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-okinawa-d2-10.jpg",
-      "title": "국제거리 야경·호텔 귀환",
-      "place": "那覇国際通り",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/okinawa/d2-10.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:202408_%E6%B2%96%E7%B9%A9%E7%B8%A3%E9%82%A3%E9%9C%B8%E5%B8%82%E7%9A%84%E9%82%A3%E9%9C%B8%E5%9C%8B%E9%9A%9B%E9%80%9A%E7%9A%84%E8%A1%97%E6%99%AF.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-okinawa-d3-01.jpg",
       "title": "호텔 체크아웃·짐 보관",
       "place": "県庁前駅 那覇",
@@ -4052,6 +4039,19 @@
       "license": "CC BY 2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0",
       "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+    },
+    {
+      "file": "LOCAL-okinawa-d2-10.jpg",
+      "title": "국제거리 야경·호텔 귀환",
+      "place": "那覇国際通り",
+      "kind": "야경",
+      "local": "./assets/photos/schedules/okinawa/d2-10.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503182722.jpg",
+      "author": "TurnOnTheNight",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
     }
   ]
 }
