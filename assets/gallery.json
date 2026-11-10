@@ -623,19 +623,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-hiroshima-d3-01.jpg",
-      "title": "체크아웃·히로시마역 짐 보관",
-      "place": "広島駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/hiroshima/d3-01.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:A_man_prepares_okonomiyaki_in_Hiroshima_2004-08-05.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-hiroshima-d3-02.jpg",
       "title": "슈케이엔 정원 아침 산책",
       "place": "縮景園",
@@ -764,6 +751,19 @@
       "license": "CC BY-SA 2.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-hiroshima-d3-01.jpg",
+      "title": "체크아웃·히로시마역 짐 보관",
+      "place": "広島駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/hiroshima/d3-01.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_north_entrance_of_Hiroshima_Station.jpg",
+      "author": "そらみみ",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "히로시마역 북쪽 출입구 실제 사진"
     }
   ],
   "shizuoka": [
@@ -1269,19 +1269,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-shizuoka-d3-01.jpg",
-      "title": "체크아웃·짐 보관",
-      "place": "静岡駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/shizuoka/d3-01.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Sanco_Inn_Shizuoka_Kitaguchi.JPG",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-shizuoka-d3-02.jpg",
       "title": "아스티·시즈오카 차 기념품",
       "place": "静岡駅 ASTY",
@@ -1289,19 +1276,6 @@
       "local": "./assets/photos/schedules/shizuoka/d3-02.jpg",
       "local_verified": true,
       "source": "https://commons.wikimedia.org/wiki/File:Aoba_Oden_Street_01.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-shizuoka-d3-03.jpg",
-      "title": "점심: 시즈오카 오뎅·면 요리",
-      "place": "静岡駅 静岡おでん",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/shizuoka/d3-03.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Shizoka_oden_2_20151022.jpg",
       "author": "",
       "license": "previously supplied, verify original license",
       "license_url": "",
@@ -1331,19 +1305,6 @@
       "author": "Lets Enjoy Life",
       "license": "CC BY-SA 3.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
-    },
-    {
-      "file": "LOCAL-shizuoka-d2-09.jpg",
-      "title": "숙소 복귀",
-      "place": "静岡駅 ホテル",
-      "kind": "휴식",
-      "local": "./assets/photos/schedules/shizuoka/d2-09.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Hotel_Associa_Shizuoka_from_Tokaido_Shinkansen_window_view.jpg",
-      "author": "Indiana jo",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
       "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
     },
     {
@@ -1410,6 +1371,45 @@
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-shizuoka-d3-01.jpg",
+      "title": "체크아웃·짐 보관",
+      "place": "静岡駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/shizuoka/d3-01.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_Shinkansen_Ticket_Gate.jpg",
+      "author": "Tnk3a",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "scope": "시즈오카역 신칸센 개찰구 실제 사진"
+    },
+    {
+      "file": "LOCAL-shizuoka-d2-09.jpg",
+      "title": "숙소 복귀",
+      "place": "静岡駅 ホテル",
+      "kind": "휴식",
+      "local": "./assets/photos/schedules/shizuoka/d2-09.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Hotel_Associa_Shizuoka.JPG",
+      "author": "Abasaa",
+      "license": "Public domain",
+      "license_url": "",
+      "scope": "시즈오카역 근처 호텔 예시, 실제 선택 호텔은 미정"
+    },
+    {
+      "file": "LOCAL-shizuoka-d3-03.jpg",
+      "title": "점심: 시즈오카 오뎅·면 요리",
+      "place": "静岡駅 静岡おでん",
+      "kind": "식사",
+      "local": "./assets/photos/schedules/shizuoka/d3-03.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Shizoka_oden_2_20151022.jpg",
+      "author": "広報課",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "scope": "시즈오카 오뎅 실제 음식사진"
     }
   ],
   "sapporo": [
@@ -1907,19 +1907,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-sapporo-d3-01.jpg",
-      "title": "체크아웃·수하물 보관",
-      "place": "札幌駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sapporo/d3-01.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:The_snack_bar_district_in_Sapporo's_Susukino_in_winter.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-sapporo-d3-02.jpg",
       "title": "나카지마공원 산책",
       "place": "中島公園",
@@ -1927,19 +1914,6 @@
       "local": "./assets/photos/schedules/sapporo/d3-02.jpg",
       "local_verified": true,
       "source": "https://commons.wikimedia.org/wiki/File:Nakajima_Park_Sapporo02n4272.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-sapporo-d3-03.jpg",
-      "title": "기념품·과자 쇼핑",
-      "place": "札幌駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sapporo/d3-03.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Susukino-night_from_TV_Tower.JPG",
       "author": "",
       "license": "previously supplied, verify original license",
       "license_url": "",
@@ -2061,6 +2035,32 @@
       "license": "CC BY 2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0",
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-sapporo-d3-01.jpg",
+      "title": "체크아웃·수하물 보관",
+      "place": "札幌駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/sapporo/d3-01.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Inside_the_Sapporo_Station_2026-02-12.jpg",
+      "author": "Avalokiteshvara01",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "scope": "삿포로역 실내 실제 사진"
+    },
+    {
+      "file": "LOCAL-sapporo-d3-03.jpg",
+      "title": "기념품·과자 쇼핑",
+      "place": "札幌駅",
+      "kind": "쇼핑",
+      "local": "./assets/photos/schedules/sapporo/d3-03.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Shiroi_Koibito_(1).jpg",
+      "author": "François Nguyen",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "scope": "홋카이도 실제 기념품 시로이코이비토"
     }
   ],
   "nagoya": [
@@ -3186,32 +3186,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-sendai-d2-08.jpg",
-      "title": "저녁: 규탄과 도호쿠 로컬 요리",
-      "place": "仙台 牛タン",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sendai/d2-08.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:牛タン定食（牛タン焼専門店司西口名掛丁店・仙台）20220312-P1330639.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
-      "file": "LOCAL-sendai-d3-01.jpg",
-      "title": "체크아웃·짐 보관",
-      "place": "仙台駅",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/sendai/d3-01.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Zuiho-den02s3200.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-sendai-d3-02.jpg",
       "title": "즈이호덴 숲길·영묘",
       "place": "瑞鳳殿",
@@ -3379,6 +3353,32 @@
       "license": "CC BY-SA 2.1 jp",
       "license_url": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-sendai-d3-01.jpg",
+      "title": "체크아웃·짐 보관",
+      "place": "仙台駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/sendai/d3-01.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:JRE-Sendai-STA_West.jpg",
+      "author": "MaedaAkihiko",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "센다이역 실제 외관"
+    },
+    {
+      "file": "LOCAL-sendai-d2-08.jpg",
+      "title": "저녁: 규탄과 도호쿠 로컬 요리",
+      "place": "仙台 牛タン",
+      "kind": "식사",
+      "local": "./assets/photos/schedules/sendai/d2-08.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:%E7%89%9B%E3%82%BF%E3%83%B3%E5%AE%9A%E9%A3%9F%EF%BC%88%E7%89%9B%E3%82%BF%E3%83%B3%E7%84%BC%E5%B0%82%E9%96%80%E5%BA%97%E5%8F%B8%E8%A5%BF%E5%8F%A3%E5%90%8D%E6%8E%9B%E4%B8%81%E5%BA%97%E3%83%BB%E4%BB%99%E5%8F%B0%EF%BC%8920220312-P1330639.jpg",
+      "author": "くろふね",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "scope": "센다이 규탄 정식 실제 음식사진"
     }
   ],
   "okinawa": [
@@ -3937,19 +3937,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-okinawa-d3-03.jpg",
-      "title": "바닷가 점심·기념품",
-      "place": "瀬長島ウミカジテラス",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/okinawa/d3-03.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Shuri_soba_by_kazuh.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-okinawa-d2-05.jpg",
       "title": "오카시고텐 쇼핑·간식",
       "place": "御菓子御殿 恩納店",
@@ -4052,6 +4039,19 @@
       "license": "CC BY 4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0",
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-okinawa-d3-03.jpg",
+      "title": "바닷가 점심·기념품",
+      "place": "瀬長島ウミカジテラス",
+      "kind": "식사",
+      "local": "./assets/photos/schedules/okinawa/d3-03.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Okinawan_cuisine_set.jpg",
+      "author": "Yuet Man Lee",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "오키나와 점심·현지음식 예시, 특정 가게 사진은 아님"
     }
   ]
 }

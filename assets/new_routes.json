@@ -833,7 +833,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-osaka-d2-03.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "오사카 우동 점심 메뉴 참고사진, 미노오 식당 현장 사진은 아님"
           },
           {
             "start": "13:30",
@@ -881,7 +881,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-osaka-d2-07.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "오사카 이자카야 저녁 메뉴 쿠시카츠 예시"
           },
           {
             "start": "20:00",
@@ -1091,19 +1091,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-osaka-d2-03.jpg",
-          "title": "미노오역 인근 점심",
-          "place": "箕面駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/osaka/d2-03.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-osaka-d2-04.jpg",
           "title": "한큐로 오사카 도심 복귀",
           "place": "大阪梅田駅",
@@ -1135,19 +1122,6 @@
           "place": "梅田スカイビル",
           "kind": "명소",
           "local": "./assets/photos/schedules/osaka/d2-06.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-osaka-d2-07.jpg",
-          "title": "현지 이자카야 저녁",
-          "place": "梅田",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/osaka/d2-07.jpg",
           "local_verified": true,
           "source": "",
           "author": "",
@@ -1284,6 +1258,32 @@
           "license": "CC0",
           "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-osaka-d2-07.jpg",
+          "title": "현지 이자카야 저녁",
+          "place": "梅田",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/osaka/d2-07.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:MATSUBA_Shrimp_KUSHI_KATSU_120yen_(3064112314).jpg",
+          "author": "kimishowota",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "scope": "오사카 이자카야 저녁 메뉴 쿠시카츠 예시"
+        },
+        {
+          "file": "LOCAL-osaka-d2-03.jpg",
+          "title": "미노오역 인근 점심",
+          "place": "箕面駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/osaka/d2-03.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Kitsune_udon_at_Tenn%C5%8Dji.jpg",
+          "author": "ノボホショコロトソ",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "scope": "오사카 우동 점심 메뉴 참고사진, 미노오 식당 현장 사진은 아님"
         }
       ]
     },
@@ -1385,7 +1385,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-tokyo-d1-07.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "스파 라쿠아 실제 시설 외관, 욕탕 실내 사진은 아님"
           },
           {
             "start": "22:15",
@@ -1673,19 +1673,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-tokyo-d1-07.jpg",
-          "title": "스파 라쿠아 천연온천",
-          "place": "東京ドーム天然温泉 Spa LaQua",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/tokyo/d1-07.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-tokyo-d1-08.jpg",
           "title": "전철로 우에노 복귀·휴식",
           "place": "上野駅",
@@ -1905,6 +1892,19 @@
           "license": "CC BY-SA 3.0",
           "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
           "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-tokyo-d1-07.jpg",
+          "title": "스파 라쿠아 천연온천",
+          "place": "東京ドーム天然温泉 Spa LaQua",
+          "kind": "온천",
+          "local": "./assets/photos/schedules/tokyo/d1-07.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:LaQua_at_night_20141213,_002.jpg",
+          "author": "掬茶",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "scope": "스파 라쿠아 실제 시설 외관, 욕탕 실내 사진은 아님"
         }
       ]
     },
@@ -2702,7 +2702,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-takamatsu-d2-03.jpg",
-            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+            "photo_match": "카가와현 사누키 우동 참고사진, 고토히라 식당은 미정"
           },
           {
             "start": "13:30",
@@ -3097,19 +3097,6 @@
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
         },
         {
-          "file": "LOCAL-takamatsu-d2-03.jpg",
-          "title": "고토히라 점심",
-          "place": "琴平",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/takamatsu/d2-03.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Kama-age_sanuki_udon_by_sekido_in_Takamatsu,_Kagawa.jpg",
-          "author": "sekido",
-          "license": "CC BY 2.0",
-          "license_url": "https://creativecommons.org/licenses/by/2.0",
-          "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
-        },
-        {
           "file": "LOCAL-takamatsu-d2-05.jpg",
           "title": "선포트 항구 조망",
           "place": "サンポート高松",
@@ -3147,6 +3134,19 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
           "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-takamatsu-d2-03.jpg",
+          "title": "고토히라 점심",
+          "place": "琴平",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/takamatsu/d2-03.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Kamatama-Udon_of_Gaina-seimenjo_Mar_2026.jpg",
+          "author": "Chacmool",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "scope": "카가와현 사누키 우동 참고사진, 고토히라 식당은 미정"
         }
       ]
     },
@@ -3370,7 +3370,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-kumamoto-d2-08.jpg",
-            "photo_match": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+            "photo_match": "구마모토 향토음식 말고기회 예시"
           },
           {
             "start": "20:00",
@@ -3756,19 +3756,6 @@
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
         },
         {
-          "file": "LOCAL-kumamoto-d2-08.jpg",
-          "title": "향토 음식 저녁",
-          "place": "下通",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/kumamoto/d2-08.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Kumamoro-ramen.jpg",
-          "author": "皇翔",
-          "license": "CC0",
-          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
-        },
-        {
           "file": "LOCAL-kumamoto-d2-04.jpg",
           "title": "호수 인근 점심",
           "place": "江津湖",
@@ -3793,6 +3780,19 @@
           "license": "CC0",
           "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+        },
+        {
+          "file": "LOCAL-kumamoto-d2-08.jpg",
+          "title": "향토 음식 저녁",
+          "place": "下通",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/kumamoto/d2-08.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:%E9%A6%AC%E5%88%BA%E3%81%97%EF%BC%88%E5%B1%85%E9%85%92%E5%B1%8B%E3%81%A8%E3%82%8A%E3%81%8B%E3%82%8F%E7%AB%B9%E4%B9%83%E5%B1%8B%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%9E%E3%83%81%E7%86%8A%E6%9C%AC%E5%BA%97%EF%BC%8920210924-P1240605.jpg",
+          "author": "くろふね",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "scope": "구마모토 향토음식 말고기회 예시"
         }
       ]
     }
