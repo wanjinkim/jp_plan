@@ -1,0 +1,174 @@
+{
+  "as_of": "2026-11-11",
+  "policy": "최근 1년 게시·2박 3일 실방문 기록 우선. 브런치 연재와 일부 블로그는 검색으로 확인한 정보이며 글 내용을 복제하지 않음.",
+  "cities": {
+    "hiroshima": [
+      {
+        "date": "2026-01-29",
+        "source": "티스토리 · MATTO_P",
+        "title": "히로시마 2박 3일, 오노미치 실방문 기록",
+        "summary": "첫날 오노미치 골목과 전망대, 로프웨이까지 직접 걸으며 남긴 사진 여행기.",
+        "url": "https://mattop-sidem.tistory.com/16",
+        "tags": [
+          "오노미치",
+          "로프웨이",
+          "현장 사진"
+        ]
+      }
+    ],
+    "shizuoka": [
+      {
+        "date": "2026-05-11",
+        "source": "티스토리 · 리해",
+        "title": "후지산을 품은 시즈오카 2박 3일",
+        "summary": "시즈오카의 후지산 풍경과 녹차·항구 음식을 중심으로 살펴보는 여행 기록.",
+        "url": "https://r-h0124.tistory.com/entry/%ED%9B%84%EC%A7%80%EC%82%B0-%ED%92%88%EC%9D%80-%EB%8F%84%EC%8B%9C-%EC%8B%9C%EC%A6%88%EC%98%A4%EC%B9%B4%EC%97%90%EC%84%9C-%EB%B3%B4%EB%82%B8-2%EB%B0%95-3%EC%9D%BC?category=1285324",
+        "tags": [
+          "후지산",
+          "녹차",
+          "사진"
+        ]
+      }
+    ],
+    "sapporo": [
+      {
+        "date": "2026-10-03",
+        "source": "브런치 · 맹꽁",
+        "title": "시누이와 함께 떠난 삿포로 2박 3일",
+        "summary": "출발 며칠 전 예약해서 떠난 짧은 삿포로 여행을 에세이로 기록한 연재.",
+        "url": "https://brunch.co.kr/@1306de3a29f7439/210",
+        "tags": [
+          "실제 여행",
+          "짧은 일정",
+          "여행 에세이"
+        ]
+      }
+    ],
+    "nagoya": [
+      {
+        "date": "2026-03-03",
+        "source": "티스토리 · 비어벨",
+        "title": "아이와 함께한 나고야 2박 3일 탐방기",
+        "summary": "가족이 다녀온 지브리파크·히츠마부시·나고야메시의 3일차 동선과 후기.",
+        "url": "https://wirbel.tistory.com/1235",
+        "tags": [
+          "가족 여행",
+          "히츠마부시",
+          "3일 동선"
+        ]
+      }
+    ],
+    "okinawa": [
+      {
+        "date": "2026-05-14",
+        "source": "티스토리 · trip0114",
+        "title": "렌터카 없이 다녀온 오키나와 2박 3일",
+        "summary": "국제거리·아메리칸빌리지·슈리성을 대중교통으로 둘러본 실방문 후기.",
+        "url": "https://diary47735.tistory.com/entry/%EC%98%A4%ED%82%A4%EB%82%98%EC%99%80-2%EB%B0%953%EC%9D%BC-%EC%9E%90%EC%9C%A0%EC%97%AC%ED%96%89-%ED%9B%84%EA%B8%B0%EF%BD%9C%EB%A0%8C%ED%84%B0%EC%B9%B4-%EC%97%86%EC%9D%B4-%EB%8B%A4%EB%85%80%EC%98%A8-%EA%B5%AD%EC%A0%9C%EA%B1%B0%EB%A6%AC%C2%B7%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8%EB%B9%8C%EB%A6%AC%EC%A7%80%C2%B7%EC%8A%88%EB%A6%AC%EC%84%B1-%EC%97%AC%ED%96%89",
+        "tags": [
+          "렌터카 없이",
+          "국제거리",
+          "슈리성"
+        ]
+      }
+    ],
+    "sendai": [
+      {
+        "date": "2026-06-09",
+        "source": "티스토리 · TechnoMBA",
+        "title": "센다이·긴잔온천 2박 3일 여행후기",
+        "summary": "겨울 긴잔온천의 실제 사진과 센다이역 주변·음식·귀국 동선까지 기록.",
+        "url": "https://makeiteasy-trends.tistory.com/1023",
+        "tags": [
+          "긴잔온천",
+          "시내 이동",
+          "현장 사진"
+        ]
+      }
+    ],
+    "fukuoka": [
+      {
+        "date": "2026-07-18",
+        "source": "티스토리 · 나초냥냥",
+        "title": "후쿠오카 2박 3일, 실제 여행 시간표",
+        "summary": "6월 방문 때 사용한 하카타·텐진 동선과 식당 예약·경비 메모를 공유.",
+        "url": "https://nacho0720.tistory.com/m/38",
+        "tags": [
+          "하카타",
+          "모츠나베",
+          "시간대별 일정"
+        ]
+      }
+    ],
+    "osaka": [
+      {
+        "date": "2026-07-08",
+        "source": "티스토리 · 아재트래블러",
+        "title": "오사카 2박 3일, 핵심만 다녀온 후기",
+        "summary": "도톤보리·오사카성·신사이바시에 집중한 짧은 실방문 기록과 사진.",
+        "url": "https://az-traveler.tistory.com/226?category=1366477",
+        "tags": [
+          "도톤보리",
+          "오사카성",
+          "실제 경비"
+        ]
+      }
+    ],
+    "tokyo": [
+      {
+        "date": "2026-06-14",
+        "source": "브런치 · 곽재혁",
+        "title": "가족과 다녀온 도쿄 도심 2박 3일",
+        "summary": "신주쿠·긴자·아자부다이힐스 중심으로 실제 다녀온 여정을 영상과 함께 기록.",
+        "url": "https://brunch.co.kr/@jhkwahk/204",
+        "tags": [
+          "가족 여행",
+          "긴자",
+          "영상 기록"
+        ]
+      }
+    ],
+    "matsuyama": [
+      {
+        "date": "2026-09-14",
+        "source": "티스토리 · 여행하는백수",
+        "title": "도고온천과 마쓰야마성, 2박 3일",
+        "summary": "도고온천·봇짱열차·도미밥까지 직접 방문했다고 소개하는 여행기.",
+        "url": "https://leejioh.tistory.com/entry/%EC%9D%BC%EB%B3%B8-%EB%A7%88%EC%93%B0%EC%95%BC%EB%A7%88-%EC%97%AC%ED%96%89-%EB%8F%84%EA%B3%A0%EC%98%A8%EC%B2%9C%C2%B7%EB%A7%88%EC%93%B0%EC%95%BC%EB%A7%88%EC%84%B1%C2%B7%EB%B4%87%EC%A7%B1%EC%97%B4%EC%B0%A8-%EB%8F%84%EB%AF%B8%EB%B0%A5%EA%B9%8C%EC%A7%80-2%EB%B0%95-3%EC%9D%BC-%EC%BD%94%EC%8A%A4",
+        "tags": [
+          "도고온천",
+          "마쓰야마성",
+          "도미밥"
+        ]
+      }
+    ],
+    "takamatsu": [
+      {
+        "date": "2026-03-18",
+        "source": "브런치 · 여행 연재",
+        "title": "다카마쓰 2박 3일 직접 여행 연재",
+        "summary": "시코쿠 다카마쓰 여행 전후를 날짜별 에세이와 사진으로 기록한 브런치북.",
+        "url": "https://brunch.co.kr/brunchbook/takamatsu23",
+        "tags": [
+          "시코쿠",
+          "여행 에세이",
+          "3일 기록"
+        ]
+      }
+    ],
+    "kumamoto": [
+      {
+        "date": "2025-11-11",
+        "source": "브런치 · 얼음안경",
+        "title": "구마모토 2박 3일, 나홀로 여행 기록",
+        "summary": "공항·시내 노면전차·숙소·야경까지 직접 촬영한 사진으로 읽는 여행기.",
+        "url": "https://brunch.co.kr/@beemququ1027/24",
+        "tags": [
+          "노면전차",
+          "숙소",
+          "실제 촬영"
+        ]
+      }
+    ]
+  }
+}
