@@ -1,0 +1,1694 @@
+{
+  "updated": "2026-11-10",
+  "scope": "제안 일정이며 날짜별 실제 대중교통 편성·식당 영업을 전부 확인한 것은 아님",
+  "cities": {
+    "fukuoka": {
+      "intro": "일본 국내선급 공항 접근성과 시내버스 온천을 연결하는 해안·공원 중심 코스.",
+      "onsen": "みなと温泉 波葉の湯",
+      "nature": "大濠公園 · 能古島",
+      "sources": [
+        [
+          "나미하노유 공식 교통",
+          "https://namiha.jp/access/"
+        ],
+        [
+          "후쿠오카현 오호리공원 정원",
+          "https://www.crossroadfukuoka.jp/en/spot/12303"
+        ]
+      ],
+      "days": [
+        [
+          {
+            "start": "09:00",
+            "end": "10:15",
+            "title": "공항 입국·시내 이동 준비",
+            "place": "福岡空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "10:15",
+            "end": "11:15",
+            "title": "지하철로 하카타역 이동·수하물 보관",
+            "place": "博多駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "11:15",
+            "end": "12:30",
+            "title": "캐널시티 주변 탐방",
+            "place": "キャナルシティ博多",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:30",
+            "end": "14:00",
+            "title": "하카타 라멘 점심",
+            "place": "博多ラーメン",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "14:00",
+            "end": "15:30",
+            "title": "오호리공원 호수 풍경 산책",
+            "place": "大濠公園",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false,
+            "photo_file": "Ohori Park 20170505-4.jpg"
+          },
+          {
+            "start": "15:30",
+            "end": "17:00",
+            "title": "후쿠오카 성터와 마이즈루 공원",
+            "place": "舞鶴公園",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "17:00",
+            "end": "18:30",
+            "title": "텐진 쇼핑거리·휴식",
+            "place": "天神",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "18:30",
+            "end": "20:15",
+            "title": "모츠나베 저녁 식사",
+            "place": "天神 もつ鍋",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "20:15",
+            "end": "22:30",
+            "title": "나미하노유 천연온천",
+            "place": "みなと温泉 波葉の湯",
+            "kind": "온천",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "22:30",
+            "end": "24:00",
+            "title": "버스로 복귀·야식·호텔",
+            "place": "博多駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:00",
+            "title": "하카타 출발, 메이노하마 이동",
+            "place": "姪浜駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "09:00",
+            "end": "10:15",
+            "title": "버스·페리로 노코노시마",
+            "place": "能古島渡船場",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "10:15",
+            "end": "12:00",
+            "title": "섬 자연 경관·전망대",
+            "place": "のこのしまアイランドパーク",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:00",
+            "end": "13:30",
+            "title": "섬 레스토랑 점심",
+            "place": "のこのしまアイランドパーク",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:30",
+            "end": "15:00",
+            "title": "세토내해가 아닌 하카타만 경관 감상",
+            "place": "能古島",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "15:00",
+            "end": "16:30",
+            "title": "페리·버스로 후쿠오카 복귀",
+            "place": "姪浜渡船場",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "16:30",
+            "end": "18:00",
+            "title": "하카타역 일대 카페",
+            "place": "博多駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "title": "가성비 현지 이자카야 저녁",
+            "place": "博多駅 居酒屋",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "20:00",
+            "end": "22:00",
+            "title": "나카스 강변 야경",
+            "place": "中洲",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "22:00",
+            "end": "24:00",
+            "title": "야식·호텔 복귀",
+            "place": "博多駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ],
+        [
+          {
+            "start": "08:30",
+            "end": "09:30",
+            "title": "체크아웃·수하물 정리",
+            "place": "博多駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "09:30",
+            "end": "11:00",
+            "title": "스미요시 신사 산책",
+            "place": "住吉神社 福岡",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "11:00",
+            "end": "12:30",
+            "title": "마지막 점심·기념품",
+            "place": "博多駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:30",
+            "end": "14:00",
+            "title": "지하철로 공항 이동",
+            "place": "福岡空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "title": "출국 수속·탑승 대기",
+            "place": "福岡空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ]
+      ],
+      "photos": [
+        {
+          "file": "Ohori Park 20170505-4.jpg",
+          "title": "오호리 공원",
+          "place": "大濠公園",
+          "source": "https://commons.wikimedia.org/wiki/File:Ohori_Park_20170505-4.jpg",
+          "kind": "명소"
+        },
+        {
+          "file": "Ohori Park at dusk 20170930-8.jpg",
+          "title": "오호리 공원 황혼",
+          "place": "大濠公園",
+          "source": "https://commons.wikimedia.org/wiki/File:Ohori_Park_at_dusk_20170930-8.jpg",
+          "kind": "명소"
+        },
+        {
+          "file": "Ohori Park 2011-11 01.jpg",
+          "title": "공원 정원",
+          "place": "大濠公園",
+          "source": "https://commons.wikimedia.org/wiki/File:Ohori_Park_2011-11_01.jpg",
+          "kind": "명소"
+        }
+      ]
+    },
+    "osaka": {
+      "intro": "오사카 공원과 도심 천연온천, 미노오 자연 트레킹을 대중교통으로 결합한 구성.",
+      "onsen": "天然温泉 なにわの湯",
+      "nature": "大阪城公園 · 箕面大滝",
+      "sources": [
+        [
+          "나니와노유 공식",
+          "https://naniwanoyu.com/"
+        ],
+        [
+          "오사카 관광 공식",
+          "https://osaka-info.jp/"
+        ]
+      ],
+      "days": [
+        [
+          {
+            "start": "08:50",
+            "end": "10:45",
+            "title": "간사이공항 입국·난카이 전철",
+            "place": "関西国際空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "10:45",
+            "end": "11:45",
+            "title": "난바 호텔 짐 보관",
+            "place": "なんば駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "11:45",
+            "end": "13:15",
+            "title": "오코노미야키 점심",
+            "place": "難波 お好み焼き",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:15",
+            "end": "15:15",
+            "title": "오사카성 공원 산책",
+            "place": "大阪城公園",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false,
+            "photo_file": "Osaka Castle June 2019.jpg"
+          },
+          {
+            "start": "15:15",
+            "end": "17:00",
+            "title": "천수각 외관·정원 전망",
+            "place": "大阪城天守閣",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false,
+            "photo_file": "Exterior of Osaka Castle (I).jpg"
+          },
+          {
+            "start": "17:00",
+            "end": "18:30",
+            "title": "우메다 주변 카페",
+            "place": "梅田",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "18:30",
+            "end": "20:00",
+            "title": "쿠시카츠 저녁",
+            "place": "天神橋筋商店街",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "20:00",
+            "end": "22:15",
+            "title": "나니와노유 천연온천",
+            "place": "天然温泉 なにわの湯",
+            "kind": "온천",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "22:15",
+            "end": "24:00",
+            "title": "전철 복귀·호텔 휴식",
+            "place": "なんば駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:30",
+            "title": "한큐 전철로 미노오 이동",
+            "place": "箕面駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "09:30",
+            "end": "12:00",
+            "title": "미노오 폭포까지 숲길 트레킹(관광 도보)",
+            "place": "箕面大滝",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:00",
+            "end": "13:30",
+            "title": "미노오역 인근 점심",
+            "place": "箕面駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:30",
+            "end": "15:00",
+            "title": "한큐로 오사카 도심 복귀",
+            "place": "大阪梅田駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "15:00",
+            "end": "16:30",
+            "title": "나카노시마 강변 산책",
+            "place": "中之島公園",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "16:30",
+            "end": "18:00",
+            "title": "우메다 전망대 선택 방문",
+            "place": "梅田スカイビル",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "title": "현지 이자카야 저녁",
+            "place": "梅田",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "20:00",
+            "end": "22:00",
+            "title": "도톤보리 운하 야경",
+            "place": "道頓堀",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "22:00",
+            "end": "24:00",
+            "title": "난바 간식·숙소 복귀",
+            "place": "なんば駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:00",
+            "title": "호텔 체크아웃",
+            "place": "なんば駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "09:00",
+            "end": "10:30",
+            "title": "구로몬 시장 구경",
+            "place": "黒門市場",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "10:30",
+            "end": "12:00",
+            "title": "마지막 점심",
+            "place": "なんば駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:00",
+            "end": "13:30",
+            "title": "공항 전철 이동",
+            "place": "関西国際空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:30",
+            "end": "16:00",
+            "title": "출국 수속·면세점",
+            "place": "関西国際空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ]
+      ],
+      "photos": [
+        {
+          "file": "Exterior of Osaka Castle (I).jpg",
+          "title": "오사카성",
+          "place": "大阪城天守閣",
+          "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Osaka_Castle_(I).jpg",
+          "kind": "명소"
+        },
+        {
+          "file": "Osaka Castle June 2019.jpg",
+          "title": "오사카성 외관",
+          "place": "大阪城公園",
+          "source": "https://commons.wikimedia.org/wiki/File:Osaka_Castle_June_2019.jpg",
+          "kind": "명소"
+        }
+      ]
+    },
+    "tokyo": {
+      "intro": "도쿄의 대규모 공원과 천연온천을 중심으로 긴 환승 도보를 줄인 도심 동선.",
+      "onsen": "東京ドーム天然温泉 Spa LaQua",
+      "nature": "上野恩賜公園 · 新宿御苑",
+      "sources": [
+        [
+          "스파 라쿠아 공식",
+          "https://en.www.laqua.jp/spa/information/"
+        ],
+        [
+          "도쿄 관광 공식",
+          "https://www.gotokyo.org/en/"
+        ]
+      ],
+      "days": [
+        [
+          {
+            "start": "09:40",
+            "end": "12:00",
+            "title": "나리타공항 입국·공항철도·도심 이동",
+            "place": "成田国際空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:00",
+            "end": "13:00",
+            "title": "우에노역 호텔 짐 보관",
+            "place": "上野駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:00",
+            "end": "14:30",
+            "title": "우에노 지역 점심",
+            "place": "アメ横",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "14:30",
+            "end": "16:30",
+            "title": "우에노 공원 가을 산책",
+            "place": "上野恩賜公園",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "16:30",
+            "end": "18:00",
+            "title": "시노바즈 연못과 거리",
+            "place": "不忍池",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "18:00",
+            "end": "19:30",
+            "title": "도쿄 돔시티 저녁",
+            "place": "東京ドームシティ",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "19:30",
+            "end": "22:15",
+            "title": "스파 라쿠아 천연온천",
+            "place": "東京ドーム天然温泉 Spa LaQua",
+            "kind": "온천",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "22:15",
+            "end": "24:00",
+            "title": "전철로 우에노 복귀·휴식",
+            "place": "上野駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:30",
+            "title": "전철로 신주쿠 이동·아침",
+            "place": "新宿駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "09:30",
+            "end": "12:00",
+            "title": "신주쿠교엔 자연 산책",
+            "place": "新宿御苑",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:00",
+            "end": "13:30",
+            "title": "신주쿠 점심",
+            "place": "新宿三丁目",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:30",
+            "end": "15:00",
+            "title": "메이지 신궁 숲길",
+            "place": "明治神宮",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "15:00",
+            "end": "16:30",
+            "title": "요요기공원 산책",
+            "place": "代々木公園",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "16:30",
+            "end": "18:00",
+            "title": "시부야 전망·휴식",
+            "place": "渋谷",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "title": "야키니쿠 저녁",
+            "place": "渋谷 焼肉",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "20:00",
+            "end": "22:00",
+            "title": "시부야 야경·쇼핑",
+            "place": "渋谷スクランブル交差点",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "22:00",
+            "end": "24:00",
+            "title": "숙소 복귀·야식",
+            "place": "上野駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:00",
+            "title": "체크아웃·짐 보관",
+            "place": "上野駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "09:00",
+            "end": "10:30",
+            "title": "아사쿠사 센소지",
+            "place": "浅草寺",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "10:30",
+            "end": "12:00",
+            "title": "스미다강 조망",
+            "place": "隅田川",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:00",
+            "end": "13:00",
+            "title": "마지막 식사",
+            "place": "浅草",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:00",
+            "end": "15:00",
+            "title": "나리타공항 이동",
+            "place": "成田国際空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "15:00",
+            "end": "17:00",
+            "title": "출국 수속",
+            "place": "成田国際空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ]
+      ],
+      "photos": [
+        {
+          "file": "Shinjuku Gyoen (Park).jpg",
+          "title": "신주쿠교엔",
+          "place": "新宿御苑",
+          "source": "https://commons.wikimedia.org/wiki/File:Shinjuku_Gyoen_(Park).jpg",
+          "kind": "명소"
+        },
+        {
+          "file": "Shinjuku Gyoen.jpg",
+          "title": "신주쿠교엔 정원",
+          "place": "新宿御苑",
+          "source": "https://commons.wikimedia.org/wiki/File:Shinjuku_Gyoen.jpg",
+          "kind": "명소"
+        },
+        {
+          "file": "Impression of Shinjuku Gyoen, Tokyo (4).jpg",
+          "title": "신주쿠교엔 풍경",
+          "place": "新宿御苑",
+          "source": "https://commons.wikimedia.org/wiki/File:Impression_of_Shinjuku_Gyoen,_Tokyo_(4).jpg",
+          "kind": "명소"
+        }
+      ]
+    },
+    "matsuyama": {
+      "intro": "도고온천과 성곽·해안 전망을 묶어 전차·JR로 이동하는 에히메 힐링 코스.",
+      "onsen": "道後温泉本館",
+      "nature": "城山公園 · 下灘駅",
+      "sources": [
+        [
+          "도고온천 공식",
+          "https://dogo.jp/en/honkan.php"
+        ],
+        [
+          "마쓰야마 공식 관광",
+          "https://matsuyama-sightseeing.com/"
+        ]
+      ],
+      "days": [
+        [
+          {
+            "start": "08:35",
+            "end": "10:00",
+            "title": "마쓰야마공항 입국·시내 리무진",
+            "place": "松山空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "10:00",
+            "end": "11:00",
+            "title": "시내 호텔 짐 보관",
+            "place": "松山市駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "11:00",
+            "end": "12:30",
+            "title": "마쓰야마 성 로프웨이",
+            "place": "松山城ロープウェイ",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:30",
+            "end": "14:00",
+            "title": "성곽·도시 조망(관광 산책)",
+            "place": "松山城",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false,
+            "photo_file": "Matsuyama Castle.jpg"
+          },
+          {
+            "start": "14:00",
+            "end": "15:30",
+            "title": "도미밥 점심",
+            "place": "松山市駅 鯛めし",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "15:30",
+            "end": "17:30",
+            "title": "도고온천 본관 입욕",
+            "place": "道後温泉本館",
+            "kind": "온천",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false,
+            "photo_file": "Dogo-onsen Honkan.jpg"
+          },
+          {
+            "start": "17:30",
+            "end": "19:00",
+            "title": "도고 상점가·족욕 주변",
+            "place": "道後商店街",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "19:00",
+            "end": "21:00",
+            "title": "에히메 향토음식 저녁",
+            "place": "道後温泉",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "21:00",
+            "end": "22:30",
+            "title": "도고 공원 산책",
+            "place": "道後公園",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "22:30",
+            "end": "24:00",
+            "title": "노면전차 복귀·야식",
+            "place": "松山市駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:30",
+            "title": "JR 요산선으로 해안 이동",
+            "place": "松山駅",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "09:30",
+            "end": "11:30",
+            "title": "시모나다역 바다 풍경",
+            "place": "下灘駅",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "11:30",
+            "end": "13:00",
+            "title": "철도 시각에 맞춰 귀환·점심",
+            "place": "伊予市駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:00",
+            "end": "14:30",
+            "title": "마쓰야마 시내 복귀",
+            "place": "松山駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "14:30",
+            "end": "16:30",
+            "title": "반스이소·역사 산책",
+            "place": "萬翠荘",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "16:30",
+            "end": "18:00",
+            "title": "대가도 상점가 휴식",
+            "place": "大街道",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "title": "저녁 식사",
+            "place": "大街道",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "20:00",
+            "end": "22:00",
+            "title": "도고온천 주변 야경",
+            "place": "道後温泉駅",
+            "kind": "온천",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "22:00",
+            "end": "24:00",
+            "title": "숙소 복귀",
+            "place": "松山市駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:00",
+            "title": "체크아웃",
+            "place": "松山市駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "09:00",
+            "end": "10:30",
+            "title": "이시테지 문화·숲길",
+            "place": "石手寺",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "10:30",
+            "end": "12:00",
+            "title": "현지 점심",
+            "place": "松山市駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:00",
+            "end": "13:30",
+            "title": "공항 리무진 이동",
+            "place": "松山空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:30",
+            "end": "16:00",
+            "title": "출국 수속·탑승 준비",
+            "place": "松山空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ]
+      ],
+      "photos": [
+        {
+          "file": "Dogo-onsen Honkan.jpg",
+          "title": "도고온천 본관",
+          "place": "道後温泉本館",
+          "source": "https://commons.wikimedia.org/wiki/File:Dogo-onsen_Honkan.jpg",
+          "kind": "명소"
+        },
+        {
+          "file": "Matsuyama Castle.jpg",
+          "title": "마쓰야마성",
+          "place": "松山城",
+          "source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Castle.jpg",
+          "kind": "명소"
+        },
+        {
+          "file": "Matsuyama Castle (Iyo).jpg",
+          "title": "마쓰야마성 풍경",
+          "place": "松山城",
+          "source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Castle_(Iyo).jpg",
+          "kind": "명소"
+        }
+      ]
+    },
+    "takamatsu": {
+      "intro": "리쓰린 정원·사누키 우동·고토히라 자연을 보고 붓쇼잔 천연온천에서 쉬는 코스.",
+      "onsen": "仏生山温泉 天平湯",
+      "nature": "栗林公園 · 金刀比羅宮",
+      "sources": [
+        [
+          "붓쇼잔 온천 공식",
+          "https://busshozan.com/"
+        ],
+        [
+          "다카마쓰 관광 공식",
+          "https://www.art-takamatsu.com/"
+        ]
+      ],
+      "days": [
+        [
+          {
+            "start": "10:30",
+            "end": "12:00",
+            "title": "다카마쓰공항 입국·리무진버스",
+            "place": "高松空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:00",
+            "end": "13:00",
+            "title": "호텔 짐 보관·점심 준비",
+            "place": "高松駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:00",
+            "end": "14:30",
+            "title": "사누키 우동 점심",
+            "place": "高松 さぬきうどん",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "14:30",
+            "end": "17:00",
+            "title": "리쓰린공원 일본정원 산책",
+            "place": "栗林公園",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false,
+            "photo_file": "Ritsurin Garden - Takamatsu.jpg"
+          },
+          {
+            "start": "17:00",
+            "end": "18:30",
+            "title": "고토덴으로 붓쇼잔 이동",
+            "place": "仏生山駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "18:30",
+            "end": "20:45",
+            "title": "붓쇼잔온천 천연노천탕",
+            "place": "仏生山温泉 天平湯",
+            "kind": "온천",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "20:45",
+            "end": "22:15",
+            "title": "고토덴으로 중심지 복귀",
+            "place": "瓦町駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "22:15",
+            "end": "24:00",
+            "title": "야식·호텔 휴식",
+            "place": "高松駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:30",
+            "title": "고토덴으로 고토히라 이동",
+            "place": "琴平駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "09:30",
+            "end": "12:00",
+            "title": "고토히라 신궁 계단길(관광 트레킹)",
+            "place": "金刀比羅宮",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:00",
+            "end": "13:30",
+            "title": "고토히라 점심",
+            "place": "琴平",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:30",
+            "end": "15:00",
+            "title": "고토덴 열차로 다카마쓰 복귀",
+            "place": "高松築港駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "15:00",
+            "end": "16:30",
+            "title": "선포트 항구 조망",
+            "place": "サンポート高松",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "16:30",
+            "end": "18:00",
+            "title": "다카마쓰 성터 공원",
+            "place": "玉藻公園",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "title": "해산물 저녁",
+            "place": "高松港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "20:00",
+            "end": "22:00",
+            "title": "야경과 상점가",
+            "place": "丸亀町商店街",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "22:00",
+            "end": "24:00",
+            "title": "숙소 복귀·휴식",
+            "place": "高松駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:00",
+            "title": "체크아웃",
+            "place": "高松駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "09:00",
+            "end": "10:30",
+            "title": "다카마쓰 중앙 상점가",
+            "place": "兵庫町商店街",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "10:30",
+            "end": "11:30",
+            "title": "사누키 우동 마지막 점심",
+            "place": "高松駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "11:30",
+            "end": "13:00",
+            "title": "공항 리무진 이동",
+            "place": "高松空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:00",
+            "end": "16:00",
+            "title": "출국 수속·탑승",
+            "place": "高松空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ]
+      ],
+      "photos": [
+        {
+          "file": "Ritsurin Garden - Takamatsu.jpg",
+          "title": "리쓰린 정원",
+          "place": "栗林公園",
+          "source": "https://commons.wikimedia.org/wiki/File:Ritsurin_Garden_-_Takamatsu.jpg",
+          "kind": "명소"
+        },
+        {
+          "file": "Ritsurin Garden.jpg",
+          "title": "리쓰린 공원",
+          "place": "栗林公園",
+          "source": "https://commons.wikimedia.org/wiki/File:Ritsurin_Garden.jpg",
+          "kind": "명소"
+        },
+        {
+          "file": "Ritsurin-Garden-M3566.jpg",
+          "title": "리쓰린 연못",
+          "place": "栗林公園",
+          "source": "https://commons.wikimedia.org/wiki/File:Ritsurin-Garden-M3566.jpg",
+          "kind": "명소"
+        }
+      ]
+    },
+    "kumamoto": {
+      "intro": "성곽과 호수 자연·시내 가까운 천연온천을 전차와 JR로 연결한 이동 부담 완화 코스.",
+      "onsen": "湯らっくす",
+      "nature": "水前寺成趣園 · 上江津湖",
+      "sources": [
+        [
+          "구마모토 관광 공식 온천 교통",
+          "https://www.kumamoto-guide.mom/en/access/mainspots.html"
+        ],
+        [
+          "구마모토시 관광 공식",
+          "https://kumamoto-guide.jp/en/"
+        ]
+      ],
+      "days": [
+        [
+          {
+            "start": "09:25",
+            "end": "11:00",
+            "title": "구마모토공항 입국·시내버스",
+            "place": "熊本空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "11:00",
+            "end": "12:00",
+            "title": "시내 짐 보관",
+            "place": "桜町バスターミナル",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:00",
+            "end": "13:30",
+            "title": "구마모토 라멘 점심",
+            "place": "熊本ラーメン",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:30",
+            "end": "15:30",
+            "title": "구마모토성 및 공원 산책",
+            "place": "熊本城",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false,
+            "photo_file": "Kumamoto Castle.JPG"
+          },
+          {
+            "start": "15:30",
+            "end": "17:00",
+            "title": "사쿠라마치 카페·쇼핑",
+            "place": "桜町バスターミナル",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "17:00",
+            "end": "18:30",
+            "title": "도심 전차로 자연 명소 이동",
+            "place": "水前寺成趣園",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "18:30",
+            "end": "20:00",
+            "title": "말고기·향토 음식 저녁",
+            "place": "辛島町",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "20:00",
+            "end": "22:30",
+            "title": "JR 헤이세이역 인근 유락쿠스 온천",
+            "place": "湯らっくす",
+            "kind": "온천",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "22:30",
+            "end": "24:00",
+            "title": "전철·버스 복귀·숙소",
+            "place": "熊本駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:00",
+            "title": "아침 식사·노면전차 이동",
+            "place": "新水前寺駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "09:00",
+            "end": "10:30",
+            "title": "수이젠지 정원 자연 산책",
+            "place": "水前寺成趣園",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false,
+            "photo_file": "Kumamoto Suizenji-jojuen01n4272.jpg"
+          },
+          {
+            "start": "10:30",
+            "end": "12:00",
+            "title": "에즈호 주변 조망",
+            "place": "上江津湖",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:00",
+            "end": "13:30",
+            "title": "호수 인근 점심",
+            "place": "江津湖",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:30",
+            "end": "15:00",
+            "title": "전차로 도심 복귀",
+            "place": "通町筋",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "15:00",
+            "end": "16:30",
+            "title": "시모토리 아케이드",
+            "place": "下通アーケード",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "16:30",
+            "end": "18:00",
+            "title": "구마모토 성터 전망",
+            "place": "熊本城",
+            "kind": "자연",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false,
+            "photo_file": "Kumamoto Castle.JPG"
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "title": "향토 음식 저녁",
+            "place": "下通",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "20:00",
+            "end": "22:00",
+            "title": "도심 카페·야경",
+            "place": "花畑広場",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "22:00",
+            "end": "24:00",
+            "title": "숙소 복귀",
+            "place": "熊本駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:00",
+            "title": "체크아웃",
+            "place": "熊本駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "09:00",
+            "end": "10:30",
+            "title": "구마모토역 쇼핑",
+            "place": "アミュプラザくまもと",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "10:30",
+            "end": "12:00",
+            "title": "마지막 점심",
+            "place": "熊本駅",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "12:00",
+            "end": "13:30",
+            "title": "공항 리무진버스",
+            "place": "熊本空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          },
+          {
+            "start": "13:30",
+            "end": "16:00",
+            "title": "출국 수속·탑승",
+            "place": "熊本空港",
+            "kind": "일정",
+            "note": "교통·식사·대기를 포함한 계획 배분. 환승 도보 15분 이내 및 정확한 출발 시각은 여행 전 지도에서 재확인 필요.",
+            "walk": null,
+            "verified": false
+          }
+        ]
+      ],
+      "photos": [
+        {
+          "file": "Kumamoto Castle.JPG",
+          "title": "구마모토 성",
+          "place": "熊本城",
+          "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Castle.JPG",
+          "kind": "명소"
+        },
+        {
+          "file": "Kumamoto Suizenji-jojuen01n4272.jpg",
+          "title": "수이젠지 정원",
+          "place": "水前寺成趣園",
+          "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Suizenji-jojuen01n4272.jpg",
+          "kind": "명소"
+        },
+        {
+          "file": "Suizenji Garden (31227046980).jpg",
+          "title": "수이젠지 정원 풍경",
+          "place": "水前寺成趣園",
+          "source": "https://commons.wikimedia.org/wiki/File:Suizenji_Garden_(31227046980).jpg",
+          "kind": "명소"
+        }
+      ]
+    }
+  }
+}

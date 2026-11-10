@@ -1,0 +1,310 @@
+{
+  "date": "2026-11-10",
+  "party_size": 4,
+  "stay_nights": 2,
+  "currency_unit": "만원 (KRW 10,000)",
+  "base": "비예약·비실시간 예산 모델, 모든 금액 계획 가정",
+  "scope": "왕복 항공·2박 숙소·3일 현지 식사·대중교통·온천/관광·예비비 / 쇼핑 제외",
+  "cities": [
+    {
+      "id": "hiroshima",
+      "name": "히로시마",
+      "group": "원래 후보",
+      "airport": "HIJ",
+      "arrival": "09:00 가정",
+      "landscape": "미야지마·세토내해·우지나 호노유",
+      "flight": 32,
+      "ground": 7,
+      "meals": 14,
+      "activities": 7,
+      "buffer": 3,
+      "twin": 17,
+      "quad": 31,
+      "total2x2": 320,
+      "total4": 314,
+      "range2x2": [
+        272,
+        405
+      ],
+      "range4": [
+        267,
+        397
+      ]
+    },
+    {
+      "id": "shizuoka",
+      "name": "시즈오카",
+      "group": "원래 후보",
+      "airport": "FSZ",
+      "arrival": "09:00 가정",
+      "landscape": "후지산·미호노마쓰바라·쿠사나기노유",
+      "flight": 29,
+      "ground": 8,
+      "meals": 13,
+      "activities": 5,
+      "buffer": 3,
+      "twin": 15,
+      "quad": 29,
+      "total2x2": 292,
+      "total4": 290,
+      "range2x2": [
+        246,
+        374
+      ],
+      "range4": [
+        244,
+        371
+      ]
+    },
+    {
+      "id": "sapporo",
+      "name": "삿포로",
+      "group": "원래 후보",
+      "airport": "CTS",
+      "arrival": "09:00 가정",
+      "landscape": "조잔케이 계곡·노천온천·도심공원",
+      "flight": 35,
+      "ground": 10,
+      "meals": 15,
+      "activities": 8,
+      "buffer": 3,
+      "twin": 19,
+      "quad": 36,
+      "total2x2": 360,
+      "total4": 356,
+      "range2x2": [
+        310,
+        448
+      ],
+      "range4": [
+        307,
+        443
+      ]
+    },
+    {
+      "id": "nagoya",
+      "name": "나고야",
+      "group": "원래 후보",
+      "airport": "NGO",
+      "arrival": "09:00 가정",
+      "landscape": "나고야 성·아쓰타 신궁·도심 온천",
+      "flight": 28,
+      "ground": 7,
+      "meals": 14,
+      "activities": 5,
+      "buffer": 3,
+      "twin": 18,
+      "quad": 35,
+      "total2x2": 300,
+      "total4": 298,
+      "range2x2": [
+        251,
+        387
+      ],
+      "range4": [
+        249,
+        384
+      ]
+    },
+    {
+      "id": "okinawa",
+      "name": "오키나와",
+      "group": "원래 후보",
+      "airport": "OKA",
+      "arrival": "09:00 가정",
+      "landscape": "에메랄드빛 바다·우미카지·해수온천",
+      "flight": 36,
+      "ground": 13,
+      "meals": 14,
+      "activities": 7,
+      "buffer": 3,
+      "twin": 20,
+      "quad": 41,
+      "total2x2": 372,
+      "total4": 374,
+      "range2x2": [
+        321,
+        462
+      ],
+      "range4": [
+        322,
+        464
+      ]
+    },
+    {
+      "id": "sendai",
+      "name": "센다이",
+      "group": "원래 후보",
+      "airport": "SDJ",
+      "arrival": "09:00 가정",
+      "landscape": "마쓰시마·아키우 온천·녹지",
+      "flight": 32,
+      "ground": 8,
+      "meals": 13,
+      "activities": 6,
+      "buffer": 3,
+      "twin": 16,
+      "quad": 31,
+      "total2x2": 312,
+      "total4": 310,
+      "range2x2": [
+        265,
+        396
+      ],
+      "range4": [
+        263,
+        393
+      ]
+    },
+    {
+      "id": "fukuoka",
+      "name": "후쿠오카",
+      "group": "신규 후보",
+      "airport": "FUK",
+      "arrival": "오전 07:35 사례",
+      "landscape": "오호리 공원·노코노시마·나미하노유",
+      "flight": 25,
+      "ground": 6,
+      "meals": 13,
+      "activities": 6,
+      "buffer": 3,
+      "twin": 18,
+      "quad": 34,
+      "total2x2": 284,
+      "total4": 280,
+      "range2x2": [
+        235,
+        371
+      ],
+      "range4": [
+        232,
+        365
+      ]
+    },
+    {
+      "id": "osaka",
+      "name": "오사카",
+      "group": "신규 후보",
+      "airport": "KIX",
+      "arrival": "오전 08:50 사례",
+      "landscape": "오사카성 공원·미노오 폭포·나니와노유",
+      "flight": 27,
+      "ground": 8,
+      "meals": 14,
+      "activities": 7,
+      "buffer": 3,
+      "twin": 21,
+      "quad": 44,
+      "total2x2": 320,
+      "total4": 324,
+      "range2x2": [
+        268,
+        411
+      ],
+      "range4": [
+        271,
+        417
+      ]
+    },
+    {
+      "id": "tokyo",
+      "name": "도쿄",
+      "group": "신규 후보",
+      "airport": "NRT",
+      "arrival": "오전 09:40 사례",
+      "landscape": "신주쿠교엔·우에노 공원·스파 라쿠아",
+      "flight": 36,
+      "ground": 11,
+      "meals": 16,
+      "activities": 8,
+      "buffer": 3,
+      "twin": 26,
+      "quad": 57,
+      "total2x2": 400,
+      "total4": 410,
+      "range2x2": [
+        343,
+        498
+      ],
+      "range4": [
+        351,
+        512
+      ]
+    },
+    {
+      "id": "matsuyama",
+      "name": "마쓰야마",
+      "group": "신규 후보",
+      "airport": "MYJ",
+      "arrival": "오전 08:35 사례",
+      "landscape": "도고온천·마쓰야마성·세토내해",
+      "flight": 31,
+      "ground": 7,
+      "meals": 12,
+      "activities": 6,
+      "buffer": 3,
+      "twin": 15,
+      "quad": 29,
+      "total2x2": 296,
+      "total4": 294,
+      "range2x2": [
+        250,
+        378
+      ],
+      "range4": [
+        248,
+        375
+      ]
+    },
+    {
+      "id": "takamatsu",
+      "name": "다카마쓰",
+      "group": "신규 후보",
+      "airport": "TAK",
+      "arrival": "오전 10:30 사례",
+      "landscape": "리쓰린 공원·고토히라·붓쇼잔온천",
+      "flight": 29,
+      "ground": 7,
+      "meals": 12,
+      "activities": 6,
+      "buffer": 3,
+      "twin": 16,
+      "quad": 31,
+      "total2x2": 292,
+      "total4": 290,
+      "range2x2": [
+        245,
+        376
+      ],
+      "range4": [
+        243,
+        373
+      ]
+    },
+    {
+      "id": "kumamoto",
+      "name": "구마모토",
+      "group": "신규 후보",
+      "airport": "KMJ",
+      "arrival": "오전 09:25 사례",
+      "landscape": "수이젠지 정원·에즈호·천연온천",
+      "flight": 31,
+      "ground": 9,
+      "meals": 13,
+      "activities": 7,
+      "buffer": 3,
+      "twin": 16,
+      "quad": 32,
+      "total2x2": 316,
+      "total4": 316,
+      "range2x2": [
+        269,
+        400
+      ],
+      "range4": [
+        269,
+        400
+      ]
+    }
+  ]
+}
