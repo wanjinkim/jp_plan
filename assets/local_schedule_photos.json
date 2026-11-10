@@ -755,10 +755,34 @@
     "place": "秋保温泉",
     "match": "candidate_only"
   },
+  "sendai-d2-03": {
+    "url": "./assets/photos/schedules/sendai/d2-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:211029_Rairaikyo_Sendai_Miyagi_pref_Japan13s3.jpg",
+    "place": "磊々峡",
+    "match": "candidate_only"
+  },
+  "sendai-d2-04": {
+    "url": "./assets/photos/schedules/sendai/d2-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Akiu_Onsen,_Ryokusuitei_01.jpg",
+    "place": "秋保温泉",
+    "match": "candidate_only"
+  },
+  "sendai-d2-05": {
+    "url": "./assets/photos/schedules/sendai/d2-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:WestinSendaiExecutiveLounge.JPG",
+    "place": "秋保グランドホテル",
+    "match": "candidate_only"
+  },
   "sendai-d2-06": {
     "url": "./assets/photos/schedules/sendai/d2-06.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_west_entrance_2020.jpg",
     "place": "仙台駅",
+    "match": "candidate_only"
+  },
+  "sendai-d2-07": {
+    "url": "./assets/photos/schedules/sendai/d2-07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Clis_Road_(Sendai)_at_night_202512.jpg",
+    "place": "仙台城跡",
     "match": "candidate_only"
   },
   "sendai-d2-08": {
@@ -785,6 +809,12 @@
     "place": "仙台駅",
     "match": "candidate_only"
   },
+  "sendai-d3-02": {
+    "url": "./assets/photos/schedules/sendai/d3-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Zuiho-den01s3872.jpg",
+    "place": "瑞鳳殿",
+    "match": "candidate_only"
+  },
   "sendai-d3-03": {
     "url": "./assets/photos/schedules/sendai/d3-03.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_Night.JPG",
@@ -808,5 +838,833 @@
     "source": "https://commons.wikimedia.org/wiki/File:仙台駅,_Sendai_station_-_panoramio.jpg",
     "place": "仙台空港",
     "match": "candidate_only"
+  },
+  "fukuoka-d1-01": {
+    "url": "./assets/photos/schedules/fukuoka/d1-01.jpg",
+    "source": "",
+    "place": "福岡空港",
+    "match": "search_required"
+  },
+  "fukuoka-d1-02": {
+    "url": "./assets/photos/schedules/fukuoka/d1-02.jpg",
+    "source": "",
+    "place": "博多駅",
+    "match": "search_required"
+  },
+  "fukuoka-d1-03": {
+    "url": "./assets/photos/schedules/fukuoka/d1-03.jpg",
+    "source": "",
+    "place": "キャナルシティ博多",
+    "match": "search_required"
+  },
+  "fukuoka-d1-04": {
+    "url": "./assets/photos/schedules/fukuoka/d1-04.jpg",
+    "source": "",
+    "place": "博多ラーメン",
+    "match": "search_required"
+  },
+  "fukuoka-d1-05": {
+    "url": "./assets/photos/schedules/fukuoka/d1-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ohori_Park_20170505-4.jpg",
+    "place": "大濠公園",
+    "match": "candidate_only"
+  },
+  "fukuoka-d1-06": {
+    "url": "./assets/photos/schedules/fukuoka/d1-06.jpg",
+    "source": "",
+    "place": "舞鶴公園",
+    "match": "search_required"
+  },
+  "fukuoka-d1-07": {
+    "url": "./assets/photos/schedules/fukuoka/d1-07.jpg",
+    "source": "",
+    "place": "天神",
+    "match": "search_required"
+  },
+  "fukuoka-d1-08": {
+    "url": "./assets/photos/schedules/fukuoka/d1-08.jpg",
+    "source": "",
+    "place": "天神 もつ鍋",
+    "match": "search_required"
+  },
+  "fukuoka-d1-10": {
+    "url": "./assets/photos/schedules/fukuoka/d1-10.jpg",
+    "source": "",
+    "place": "博多駅",
+    "match": "search_required"
+  },
+  "fukuoka-d2-01": {
+    "url": "./assets/photos/schedules/fukuoka/d2-01.jpg",
+    "source": "",
+    "place": "姪浜駅",
+    "match": "search_required"
+  },
+  "fukuoka-d2-02": {
+    "url": "./assets/photos/schedules/fukuoka/d2-02.jpg",
+    "source": "",
+    "place": "能古島渡船場",
+    "match": "search_required"
+  },
+  "fukuoka-d2-03": {
+    "url": "./assets/photos/schedules/fukuoka/d2-03.jpg",
+    "source": "",
+    "place": "のこのしまアイランドパーク",
+    "match": "search_required"
+  },
+  "fukuoka-d2-04": {
+    "url": "./assets/photos/schedules/fukuoka/d2-04.jpg",
+    "source": "",
+    "place": "のこのしまアイランドパーク",
+    "match": "search_required"
+  },
+  "fukuoka-d2-05": {
+    "url": "./assets/photos/schedules/fukuoka/d2-05.jpg",
+    "source": "",
+    "place": "能古島",
+    "match": "search_required"
+  },
+  "fukuoka-d2-06": {
+    "url": "./assets/photos/schedules/fukuoka/d2-06.jpg",
+    "source": "",
+    "place": "姪浜渡船場",
+    "match": "search_required"
+  },
+  "fukuoka-d2-07": {
+    "url": "./assets/photos/schedules/fukuoka/d2-07.jpg",
+    "source": "",
+    "place": "博多駅",
+    "match": "search_required"
+  },
+  "fukuoka-d2-08": {
+    "url": "./assets/photos/schedules/fukuoka/d2-08.jpg",
+    "source": "",
+    "place": "博多駅 居酒屋",
+    "match": "search_required"
+  },
+  "fukuoka-d2-09": {
+    "url": "./assets/photos/schedules/fukuoka/d2-09.jpg",
+    "source": "",
+    "place": "中洲",
+    "match": "search_required"
+  },
+  "fukuoka-d2-10": {
+    "url": "./assets/photos/schedules/fukuoka/d2-10.jpg",
+    "source": "",
+    "place": "博多駅",
+    "match": "search_required"
+  },
+  "fukuoka-d3-01": {
+    "url": "./assets/photos/schedules/fukuoka/d3-01.jpg",
+    "source": "",
+    "place": "博多駅",
+    "match": "search_required"
+  },
+  "fukuoka-d3-02": {
+    "url": "./assets/photos/schedules/fukuoka/d3-02.jpg",
+    "source": "",
+    "place": "住吉神社 福岡",
+    "match": "search_required"
+  },
+  "fukuoka-d3-03": {
+    "url": "./assets/photos/schedules/fukuoka/d3-03.jpg",
+    "source": "",
+    "place": "博多駅",
+    "match": "search_required"
+  },
+  "fukuoka-d3-04": {
+    "url": "./assets/photos/schedules/fukuoka/d3-04.jpg",
+    "source": "",
+    "place": "福岡空港",
+    "match": "search_required"
+  },
+  "fukuoka-d3-05": {
+    "url": "./assets/photos/schedules/fukuoka/d3-05.jpg",
+    "source": "",
+    "place": "福岡空港",
+    "match": "search_required"
+  },
+  "osaka-d1-01": {
+    "url": "./assets/photos/schedules/osaka/d1-01.jpg",
+    "source": "",
+    "place": "関西国際空港",
+    "match": "search_required"
+  },
+  "osaka-d1-02": {
+    "url": "./assets/photos/schedules/osaka/d1-02.jpg",
+    "source": "",
+    "place": "なんば駅",
+    "match": "search_required"
+  },
+  "osaka-d1-03": {
+    "url": "./assets/photos/schedules/osaka/d1-03.jpg",
+    "source": "",
+    "place": "難波 お好み焼き",
+    "match": "search_required"
+  },
+  "osaka-d1-04": {
+    "url": "./assets/photos/schedules/osaka/d1-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Osaka_Castle_June_2019.jpg",
+    "place": "大阪城公園",
+    "match": "candidate_only"
+  },
+  "osaka-d1-05": {
+    "url": "./assets/photos/schedules/osaka/d1-05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Osaka_Castle_(I).jpg",
+    "place": "大阪城天守閣",
+    "match": "candidate_only"
+  },
+  "osaka-d1-06": {
+    "url": "./assets/photos/schedules/osaka/d1-06.jpg",
+    "source": "",
+    "place": "梅田",
+    "match": "search_required"
+  },
+  "osaka-d1-07": {
+    "url": "./assets/photos/schedules/osaka/d1-07.jpg",
+    "source": "",
+    "place": "天神橋筋商店街",
+    "match": "search_required"
+  },
+  "osaka-d1-09": {
+    "url": "./assets/photos/schedules/osaka/d1-09.jpg",
+    "source": "",
+    "place": "なんば駅",
+    "match": "search_required"
+  },
+  "osaka-d2-01": {
+    "url": "./assets/photos/schedules/osaka/d2-01.jpg",
+    "source": "",
+    "place": "箕面駅",
+    "match": "search_required"
+  },
+  "osaka-d2-02": {
+    "url": "./assets/photos/schedules/osaka/d2-02.jpg",
+    "source": "",
+    "place": "箕面大滝",
+    "match": "search_required"
+  },
+  "osaka-d2-03": {
+    "url": "./assets/photos/schedules/osaka/d2-03.jpg",
+    "source": "",
+    "place": "箕面駅",
+    "match": "search_required"
+  },
+  "osaka-d2-04": {
+    "url": "./assets/photos/schedules/osaka/d2-04.jpg",
+    "source": "",
+    "place": "大阪梅田駅",
+    "match": "search_required"
+  },
+  "osaka-d2-05": {
+    "url": "./assets/photos/schedules/osaka/d2-05.jpg",
+    "source": "",
+    "place": "中之島公園",
+    "match": "search_required"
+  },
+  "osaka-d2-06": {
+    "url": "./assets/photos/schedules/osaka/d2-06.jpg",
+    "source": "",
+    "place": "梅田スカイビル",
+    "match": "search_required"
+  },
+  "osaka-d2-07": {
+    "url": "./assets/photos/schedules/osaka/d2-07.jpg",
+    "source": "",
+    "place": "梅田",
+    "match": "search_required"
+  },
+  "osaka-d2-08": {
+    "url": "./assets/photos/schedules/osaka/d2-08.jpg",
+    "source": "",
+    "place": "道頓堀",
+    "match": "search_required"
+  },
+  "osaka-d2-09": {
+    "url": "./assets/photos/schedules/osaka/d2-09.jpg",
+    "source": "",
+    "place": "なんば駅",
+    "match": "search_required"
+  },
+  "osaka-d3-01": {
+    "url": "./assets/photos/schedules/osaka/d3-01.jpg",
+    "source": "",
+    "place": "なんば駅",
+    "match": "search_required"
+  },
+  "osaka-d3-02": {
+    "url": "./assets/photos/schedules/osaka/d3-02.jpg",
+    "source": "",
+    "place": "黒門市場",
+    "match": "search_required"
+  },
+  "osaka-d3-03": {
+    "url": "./assets/photos/schedules/osaka/d3-03.jpg",
+    "source": "",
+    "place": "なんば駅",
+    "match": "search_required"
+  },
+  "osaka-d3-04": {
+    "url": "./assets/photos/schedules/osaka/d3-04.jpg",
+    "source": "",
+    "place": "関西国際空港",
+    "match": "search_required"
+  },
+  "osaka-d3-05": {
+    "url": "./assets/photos/schedules/osaka/d3-05.jpg",
+    "source": "",
+    "place": "関西国際空港",
+    "match": "search_required"
+  },
+  "tokyo-d1-01": {
+    "url": "./assets/photos/schedules/tokyo/d1-01.jpg",
+    "source": "",
+    "place": "成田国際空港",
+    "match": "search_required"
+  },
+  "tokyo-d1-02": {
+    "url": "./assets/photos/schedules/tokyo/d1-02.jpg",
+    "source": "",
+    "place": "上野駅",
+    "match": "search_required"
+  },
+  "tokyo-d1-03": {
+    "url": "./assets/photos/schedules/tokyo/d1-03.jpg",
+    "source": "",
+    "place": "アメ横",
+    "match": "search_required"
+  },
+  "tokyo-d1-04": {
+    "url": "./assets/photos/schedules/tokyo/d1-04.jpg",
+    "source": "",
+    "place": "上野恩賜公園",
+    "match": "search_required"
+  },
+  "tokyo-d1-05": {
+    "url": "./assets/photos/schedules/tokyo/d1-05.jpg",
+    "source": "",
+    "place": "不忍池",
+    "match": "search_required"
+  },
+  "tokyo-d1-06": {
+    "url": "./assets/photos/schedules/tokyo/d1-06.jpg",
+    "source": "",
+    "place": "東京ドームシティ",
+    "match": "search_required"
+  },
+  "tokyo-d1-07": {
+    "url": "./assets/photos/schedules/tokyo/d1-07.jpg",
+    "source": "",
+    "place": "東京ドーム天然温泉 Spa LaQua",
+    "match": "search_required"
+  },
+  "tokyo-d1-08": {
+    "url": "./assets/photos/schedules/tokyo/d1-08.jpg",
+    "source": "",
+    "place": "上野駅",
+    "match": "search_required"
+  },
+  "tokyo-d2-01": {
+    "url": "./assets/photos/schedules/tokyo/d2-01.jpg",
+    "source": "",
+    "place": "新宿駅",
+    "match": "search_required"
+  },
+  "tokyo-d2-02": {
+    "url": "./assets/photos/schedules/tokyo/d2-02.jpg",
+    "source": "",
+    "place": "新宿御苑",
+    "match": "search_required"
+  },
+  "tokyo-d2-03": {
+    "url": "./assets/photos/schedules/tokyo/d2-03.jpg",
+    "source": "",
+    "place": "新宿三丁目",
+    "match": "search_required"
+  },
+  "tokyo-d2-04": {
+    "url": "./assets/photos/schedules/tokyo/d2-04.jpg",
+    "source": "",
+    "place": "明治神宮",
+    "match": "search_required"
+  },
+  "tokyo-d2-05": {
+    "url": "./assets/photos/schedules/tokyo/d2-05.jpg",
+    "source": "",
+    "place": "代々木公園",
+    "match": "search_required"
+  },
+  "tokyo-d2-06": {
+    "url": "./assets/photos/schedules/tokyo/d2-06.jpg",
+    "source": "",
+    "place": "渋谷",
+    "match": "search_required"
+  },
+  "tokyo-d2-07": {
+    "url": "./assets/photos/schedules/tokyo/d2-07.jpg",
+    "source": "",
+    "place": "渋谷 焼肉",
+    "match": "search_required"
+  },
+  "tokyo-d2-08": {
+    "url": "./assets/photos/schedules/tokyo/d2-08.jpg",
+    "source": "",
+    "place": "渋谷スクランブル交差点",
+    "match": "search_required"
+  },
+  "tokyo-d2-09": {
+    "url": "./assets/photos/schedules/tokyo/d2-09.jpg",
+    "source": "",
+    "place": "上野駅",
+    "match": "search_required"
+  },
+  "tokyo-d3-01": {
+    "url": "./assets/photos/schedules/tokyo/d3-01.jpg",
+    "source": "",
+    "place": "上野駅",
+    "match": "search_required"
+  },
+  "tokyo-d3-02": {
+    "url": "./assets/photos/schedules/tokyo/d3-02.jpg",
+    "source": "",
+    "place": "浅草寺",
+    "match": "search_required"
+  },
+  "tokyo-d3-03": {
+    "url": "./assets/photos/schedules/tokyo/d3-03.jpg",
+    "source": "",
+    "place": "隅田川",
+    "match": "search_required"
+  },
+  "tokyo-d3-04": {
+    "url": "./assets/photos/schedules/tokyo/d3-04.jpg",
+    "source": "",
+    "place": "浅草",
+    "match": "search_required"
+  },
+  "tokyo-d3-05": {
+    "url": "./assets/photos/schedules/tokyo/d3-05.jpg",
+    "source": "",
+    "place": "成田国際空港",
+    "match": "search_required"
+  },
+  "tokyo-d3-06": {
+    "url": "./assets/photos/schedules/tokyo/d3-06.jpg",
+    "source": "",
+    "place": "成田国際空港",
+    "match": "search_required"
+  },
+  "matsuyama-d1-01": {
+    "url": "./assets/photos/schedules/matsuyama/d1-01.jpg",
+    "source": "",
+    "place": "松山空港",
+    "match": "search_required"
+  },
+  "matsuyama-d1-02": {
+    "url": "./assets/photos/schedules/matsuyama/d1-02.jpg",
+    "source": "",
+    "place": "松山市駅",
+    "match": "search_required"
+  },
+  "matsuyama-d1-03": {
+    "url": "./assets/photos/schedules/matsuyama/d1-03.jpg",
+    "source": "",
+    "place": "松山城ロープウェイ",
+    "match": "search_required"
+  },
+  "matsuyama-d1-04": {
+    "url": "./assets/photos/schedules/matsuyama/d1-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Castle.jpg",
+    "place": "松山城",
+    "match": "candidate_only"
+  },
+  "matsuyama-d1-05": {
+    "url": "./assets/photos/schedules/matsuyama/d1-05.jpg",
+    "source": "",
+    "place": "松山市駅 鯛めし",
+    "match": "search_required"
+  },
+  "matsuyama-d1-06": {
+    "url": "./assets/photos/schedules/matsuyama/d1-06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dogo-onsen_Honkan.jpg",
+    "place": "道後温泉本館",
+    "match": "candidate_only"
+  },
+  "matsuyama-d1-07": {
+    "url": "./assets/photos/schedules/matsuyama/d1-07.jpg",
+    "source": "",
+    "place": "道後商店街",
+    "match": "search_required"
+  },
+  "matsuyama-d1-08": {
+    "url": "./assets/photos/schedules/matsuyama/d1-08.jpg",
+    "source": "",
+    "place": "道後温泉",
+    "match": "search_required"
+  },
+  "matsuyama-d1-09": {
+    "url": "./assets/photos/schedules/matsuyama/d1-09.jpg",
+    "source": "",
+    "place": "道後公園",
+    "match": "search_required"
+  },
+  "matsuyama-d1-10": {
+    "url": "./assets/photos/schedules/matsuyama/d1-10.jpg",
+    "source": "",
+    "place": "松山市駅",
+    "match": "search_required"
+  },
+  "matsuyama-d2-01": {
+    "url": "./assets/photos/schedules/matsuyama/d2-01.jpg",
+    "source": "",
+    "place": "松山駅",
+    "match": "search_required"
+  },
+  "matsuyama-d2-02": {
+    "url": "./assets/photos/schedules/matsuyama/d2-02.jpg",
+    "source": "",
+    "place": "下灘駅",
+    "match": "search_required"
+  },
+  "matsuyama-d2-03": {
+    "url": "./assets/photos/schedules/matsuyama/d2-03.jpg",
+    "source": "",
+    "place": "伊予市駅",
+    "match": "search_required"
+  },
+  "matsuyama-d2-04": {
+    "url": "./assets/photos/schedules/matsuyama/d2-04.jpg",
+    "source": "",
+    "place": "松山駅",
+    "match": "search_required"
+  },
+  "matsuyama-d2-05": {
+    "url": "./assets/photos/schedules/matsuyama/d2-05.jpg",
+    "source": "",
+    "place": "萬翠荘",
+    "match": "search_required"
+  },
+  "matsuyama-d2-06": {
+    "url": "./assets/photos/schedules/matsuyama/d2-06.jpg",
+    "source": "",
+    "place": "大街道",
+    "match": "search_required"
+  },
+  "matsuyama-d2-07": {
+    "url": "./assets/photos/schedules/matsuyama/d2-07.jpg",
+    "source": "",
+    "place": "大街道",
+    "match": "search_required"
+  },
+  "matsuyama-d2-08": {
+    "url": "./assets/photos/schedules/matsuyama/d2-08.jpg",
+    "source": "",
+    "place": "道後温泉駅",
+    "match": "search_required"
+  },
+  "matsuyama-d2-09": {
+    "url": "./assets/photos/schedules/matsuyama/d2-09.jpg",
+    "source": "",
+    "place": "松山市駅",
+    "match": "search_required"
+  },
+  "matsuyama-d3-01": {
+    "url": "./assets/photos/schedules/matsuyama/d3-01.jpg",
+    "source": "",
+    "place": "松山市駅",
+    "match": "search_required"
+  },
+  "matsuyama-d3-02": {
+    "url": "./assets/photos/schedules/matsuyama/d3-02.jpg",
+    "source": "",
+    "place": "石手寺",
+    "match": "search_required"
+  },
+  "matsuyama-d3-03": {
+    "url": "./assets/photos/schedules/matsuyama/d3-03.jpg",
+    "source": "",
+    "place": "松山市駅",
+    "match": "search_required"
+  },
+  "matsuyama-d3-04": {
+    "url": "./assets/photos/schedules/matsuyama/d3-04.jpg",
+    "source": "",
+    "place": "松山空港",
+    "match": "search_required"
+  },
+  "matsuyama-d3-05": {
+    "url": "./assets/photos/schedules/matsuyama/d3-05.jpg",
+    "source": "",
+    "place": "松山空港",
+    "match": "search_required"
+  },
+  "takamatsu-d1-01": {
+    "url": "./assets/photos/schedules/takamatsu/d1-01.jpg",
+    "source": "",
+    "place": "高松空港",
+    "match": "search_required"
+  },
+  "takamatsu-d1-02": {
+    "url": "./assets/photos/schedules/takamatsu/d1-02.jpg",
+    "source": "",
+    "place": "高松駅",
+    "match": "search_required"
+  },
+  "takamatsu-d1-03": {
+    "url": "./assets/photos/schedules/takamatsu/d1-03.jpg",
+    "source": "",
+    "place": "高松 さぬきうどん",
+    "match": "search_required"
+  },
+  "takamatsu-d1-04": {
+    "url": "./assets/photos/schedules/takamatsu/d1-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ritsurin_Garden_-_Takamatsu.jpg",
+    "place": "栗林公園",
+    "match": "candidate_only"
+  },
+  "takamatsu-d1-05": {
+    "url": "./assets/photos/schedules/takamatsu/d1-05.jpg",
+    "source": "",
+    "place": "仏生山駅",
+    "match": "search_required"
+  },
+  "takamatsu-d1-07": {
+    "url": "./assets/photos/schedules/takamatsu/d1-07.jpg",
+    "source": "",
+    "place": "瓦町駅",
+    "match": "search_required"
+  },
+  "takamatsu-d1-08": {
+    "url": "./assets/photos/schedules/takamatsu/d1-08.jpg",
+    "source": "",
+    "place": "高松駅",
+    "match": "search_required"
+  },
+  "takamatsu-d2-01": {
+    "url": "./assets/photos/schedules/takamatsu/d2-01.jpg",
+    "source": "",
+    "place": "琴平駅",
+    "match": "search_required"
+  },
+  "takamatsu-d2-02": {
+    "url": "./assets/photos/schedules/takamatsu/d2-02.jpg",
+    "source": "",
+    "place": "金刀比羅宮",
+    "match": "search_required"
+  },
+  "takamatsu-d2-03": {
+    "url": "./assets/photos/schedules/takamatsu/d2-03.jpg",
+    "source": "",
+    "place": "琴平",
+    "match": "search_required"
+  },
+  "takamatsu-d2-04": {
+    "url": "./assets/photos/schedules/takamatsu/d2-04.jpg",
+    "source": "",
+    "place": "高松築港駅",
+    "match": "search_required"
+  },
+  "takamatsu-d2-05": {
+    "url": "./assets/photos/schedules/takamatsu/d2-05.jpg",
+    "source": "",
+    "place": "サンポート高松",
+    "match": "search_required"
+  },
+  "takamatsu-d2-06": {
+    "url": "./assets/photos/schedules/takamatsu/d2-06.jpg",
+    "source": "",
+    "place": "玉藻公園",
+    "match": "search_required"
+  },
+  "takamatsu-d2-07": {
+    "url": "./assets/photos/schedules/takamatsu/d2-07.jpg",
+    "source": "",
+    "place": "高松港",
+    "match": "search_required"
+  },
+  "takamatsu-d2-08": {
+    "url": "./assets/photos/schedules/takamatsu/d2-08.jpg",
+    "source": "",
+    "place": "丸亀町商店街",
+    "match": "search_required"
+  },
+  "takamatsu-d2-09": {
+    "url": "./assets/photos/schedules/takamatsu/d2-09.jpg",
+    "source": "",
+    "place": "高松駅",
+    "match": "search_required"
+  },
+  "takamatsu-d3-01": {
+    "url": "./assets/photos/schedules/takamatsu/d3-01.jpg",
+    "source": "",
+    "place": "高松駅",
+    "match": "search_required"
+  },
+  "takamatsu-d3-02": {
+    "url": "./assets/photos/schedules/takamatsu/d3-02.jpg",
+    "source": "",
+    "place": "兵庫町商店街",
+    "match": "search_required"
+  },
+  "takamatsu-d3-03": {
+    "url": "./assets/photos/schedules/takamatsu/d3-03.jpg",
+    "source": "",
+    "place": "高松駅",
+    "match": "search_required"
+  },
+  "takamatsu-d3-04": {
+    "url": "./assets/photos/schedules/takamatsu/d3-04.jpg",
+    "source": "",
+    "place": "高松空港",
+    "match": "search_required"
+  },
+  "takamatsu-d3-05": {
+    "url": "./assets/photos/schedules/takamatsu/d3-05.jpg",
+    "source": "",
+    "place": "高松空港",
+    "match": "search_required"
+  },
+  "kumamoto-d1-01": {
+    "url": "./assets/photos/schedules/kumamoto/d1-01.jpg",
+    "source": "",
+    "place": "熊本空港",
+    "match": "search_required"
+  },
+  "kumamoto-d1-02": {
+    "url": "./assets/photos/schedules/kumamoto/d1-02.jpg",
+    "source": "",
+    "place": "桜町バスターミナル",
+    "match": "search_required"
+  },
+  "kumamoto-d1-03": {
+    "url": "./assets/photos/schedules/kumamoto/d1-03.jpg",
+    "source": "",
+    "place": "熊本ラーメン",
+    "match": "search_required"
+  },
+  "kumamoto-d1-04": {
+    "url": "./assets/photos/schedules/kumamoto/d1-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Castle.JPG",
+    "place": "熊本城",
+    "match": "candidate_only"
+  },
+  "kumamoto-d1-05": {
+    "url": "./assets/photos/schedules/kumamoto/d1-05.jpg",
+    "source": "",
+    "place": "桜町バスターミナル",
+    "match": "search_required"
+  },
+  "kumamoto-d1-06": {
+    "url": "./assets/photos/schedules/kumamoto/d1-06.jpg",
+    "source": "",
+    "place": "水前寺成趣園",
+    "match": "search_required"
+  },
+  "kumamoto-d1-07": {
+    "url": "./assets/photos/schedules/kumamoto/d1-07.jpg",
+    "source": "",
+    "place": "辛島町",
+    "match": "search_required"
+  },
+  "kumamoto-d1-08": {
+    "url": "./assets/photos/schedules/kumamoto/d1-08.jpg",
+    "source": "",
+    "place": "湯らっくす",
+    "match": "search_required"
+  },
+  "kumamoto-d1-09": {
+    "url": "./assets/photos/schedules/kumamoto/d1-09.jpg",
+    "source": "",
+    "place": "熊本駅",
+    "match": "search_required"
+  },
+  "kumamoto-d2-01": {
+    "url": "./assets/photos/schedules/kumamoto/d2-01.jpg",
+    "source": "",
+    "place": "新水前寺駅",
+    "match": "search_required"
+  },
+  "kumamoto-d2-02": {
+    "url": "./assets/photos/schedules/kumamoto/d2-02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Suizenji-jojuen01n4272.jpg",
+    "place": "水前寺成趣園",
+    "match": "candidate_only"
+  },
+  "kumamoto-d2-03": {
+    "url": "./assets/photos/schedules/kumamoto/d2-03.jpg",
+    "source": "",
+    "place": "上江津湖",
+    "match": "search_required"
+  },
+  "kumamoto-d2-04": {
+    "url": "./assets/photos/schedules/kumamoto/d2-04.jpg",
+    "source": "",
+    "place": "江津湖",
+    "match": "search_required"
+  },
+  "kumamoto-d2-05": {
+    "url": "./assets/photos/schedules/kumamoto/d2-05.jpg",
+    "source": "",
+    "place": "通町筋",
+    "match": "search_required"
+  },
+  "kumamoto-d2-06": {
+    "url": "./assets/photos/schedules/kumamoto/d2-06.jpg",
+    "source": "",
+    "place": "下通アーケード",
+    "match": "search_required"
+  },
+  "kumamoto-d2-07": {
+    "url": "./assets/photos/schedules/kumamoto/d2-07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Castle.JPG",
+    "place": "熊本城",
+    "match": "candidate_only"
+  },
+  "kumamoto-d2-08": {
+    "url": "./assets/photos/schedules/kumamoto/d2-08.jpg",
+    "source": "",
+    "place": "下通",
+    "match": "search_required"
+  },
+  "kumamoto-d2-09": {
+    "url": "./assets/photos/schedules/kumamoto/d2-09.jpg",
+    "source": "",
+    "place": "花畑広場",
+    "match": "search_required"
+  },
+  "kumamoto-d2-10": {
+    "url": "./assets/photos/schedules/kumamoto/d2-10.jpg",
+    "source": "",
+    "place": "熊本駅",
+    "match": "search_required"
+  },
+  "kumamoto-d3-01": {
+    "url": "./assets/photos/schedules/kumamoto/d3-01.jpg",
+    "source": "",
+    "place": "熊本駅",
+    "match": "search_required"
+  },
+  "kumamoto-d3-02": {
+    "url": "./assets/photos/schedules/kumamoto/d3-02.jpg",
+    "source": "",
+    "place": "アミュプラザくまもと",
+    "match": "search_required"
+  },
+  "kumamoto-d3-03": {
+    "url": "./assets/photos/schedules/kumamoto/d3-03.jpg",
+    "source": "",
+    "place": "熊本駅",
+    "match": "search_required"
+  },
+  "kumamoto-d3-04": {
+    "url": "./assets/photos/schedules/kumamoto/d3-04.jpg",
+    "source": "",
+    "place": "熊本空港",
+    "match": "search_required"
+  },
+  "kumamoto-d3-05": {
+    "url": "./assets/photos/schedules/kumamoto/d3-05.jpg",
+    "source": "",
+    "place": "熊本空港",
+    "match": "search_required"
   }
 }

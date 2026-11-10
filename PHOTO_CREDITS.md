@@ -2,138 +2,281 @@
 
 실제 원본 사진의 저작자, 라이선스, 링크를 확인하세요. 다운로드한 이미지는 용량에 맞춰 크기를 줄였습니다.
 
-- **hiroshima-d1-01** / 広島空港 / exact / Taisyo / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:%E5%BA%83%E5%B3%B6%E7%A9%BA%E6%B8%AF01.jpg
-- **hiroshima-d1-02** / 広島駅 / exact / ノボホショコロトソ / CC BY 4.0 / https://creativecommons.org/licenses/by/4.0 / https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg
-- **hiroshima-d1-03** / 広島平和記念公園 / exact / Motokoka / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_Museum_1.jpg
-- **hiroshima-d1-04** / 広島 お好み焼き / exact / Naocchi / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:%E5%BA%83%E5%B3%B6%E9%A2%A8%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D.jpg
-- **hiroshima-d1-05** / 広島城 / exact /  / Public domain /  / https://commons.wikimedia.org/wiki/File:HiroshimaCastle.jpg
-- **hiroshima-d1-06** / 本通商店街 広島 / exact / Aude / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Hondori.jpg
-- **hiroshima-d1-07** / 広島 牡蠣料理 / exact / Lombroso / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Kaki-no-dotenabe,_at_The_Meshiya_(2014-10-18)_1.JPG
-- **hiroshima-d1-08** / 流川 広島 / exact / Taisyo / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:Hiroshima-Nagarekawa_church_130414.JPG
-- **hiroshima-d1-09** / 広島駅 ホテル / exact / m-louis .®  from Osaka, Japan / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:%E5%B0%BE%E9%81%93%E9%A7%85_-_Flickr_-_m-louis.jpg
-- **hiroshima-d2-01** / 宮島口 / exact / z tanuki / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:Hiroden_Miyajima-guchi_sta._,_%E5%BA%83%E9%9B%BB_%E5%AE%AE%E5%B3%B6%E5%8F%A3%E9%A7%85_-_panoramio.jpg
-- **hiroshima-d2-02** / 厳島神社 / exact / redlegsfan21 / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:Itsukushima_Shrine_Torii_Gate_(13890465459).jpg
-- **hiroshima-d2-03** / 宮島表参道商店街 / exact / OS6 / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:%E5%AE%AE%E5%B3%B6%E8%A1%A8%E5%8F%82%E9%81%93%E5%95%86%E5%BA%97%E8%A1%97_Shopping_street_-_panoramio.jpg
-- **hiroshima-d2-04** / 宮島 あなご飯 / exact / User:Clapon / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Japanese_anagomeshi.jpg
-- **hiroshima-d2-05** / 紅葉谷公園 / exact / Steven Perez / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:%E7%B4%85%E8%91%89%E8%B0%B7%E5%85%AC%E5%9C%92_%E5%AE%AE%E5%B3%B6.jpg
-- **hiroshima-d2-06** / 宮島ロープウエー / exact / PekePON / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Miyajima_Ropeway_Momijidani_Line_2010.jpg
-- **hiroshima-d2-07** / 広島駅 / exact / ノボホショコロトソ / CC BY 4.0 / https://creativecommons.org/licenses/by/4.0 / https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg
-- **hiroshima-d2-08** / 宇品天然温泉 ほの湯 / reference / Abasaa / Public domain /  / https://commons.wikimedia.org/wiki/File:Hiroshima_Washington_Hotel.JPG
-- **hiroshima-d2-09** / 広島駅 / exact / ノボホショコロトソ / CC BY 4.0 / https://creativecommons.org/licenses/by/4.0 / https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg
-- **hiroshima-d2-10** / 広島駅 ホテル / exact / m-louis .®  from Osaka, Japan / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:%E5%B0%BE%E9%81%93%E9%A7%85_-_Flickr_-_m-louis.jpg
-- **hiroshima-d3-01** / 広島駅 / exact / ノボホショコロトソ / CC BY 4.0 / https://creativecommons.org/licenses/by/4.0 / https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg
-- **hiroshima-d3-02** / 縮景園 / exact / そらみみ / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Takueichi_Pond_in_Shukkei_Garden_19.jpg
-- **hiroshima-d3-03** / 広島駅 / exact / ノボホショコロトソ / CC BY 4.0 / https://creativecommons.org/licenses/by/4.0 / https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg
-- **hiroshima-d3-04** / 広島駅 お好み焼き / reference / ノボホショコロトソ / CC BY 4.0 / https://creativecommons.org/licenses/by/4.0 / https://commons.wikimedia.org/wiki/File:Matcha_Soft_Serve_in_Miyajima_01.jpg
-- **hiroshima-d3-05** / 広島駅 / exact / ノボホショコロトソ / CC BY 4.0 / https://creativecommons.org/licenses/by/4.0 / https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg
-- **hiroshima-d3-06** / 広島空港 / exact / Taisyo / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:%E5%BA%83%E5%B3%B6%E7%A9%BA%E6%B8%AF01.jpg
-- **shizuoka-d1-01** / 富士山静岡空港 / exact / katorisi / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Fujisan-Shizuoka_airport,Makinohara-city,Japan.jpg
-- **shizuoka-d1-02** / 静岡駅 / exact / 江戸村のとくぞう / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Shizuoka_Station_201016a.jpg
-- **shizuoka-d1-03** / 静岡駅 まぐろ丼 / reference / Halowand / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:KASHI_NO_ICHI_maguro_kan_in_shimizu_ward.jpg
-- **shizuoka-d1-04** / 駿府城公園 / exact / 江戸村のとくぞう / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sunpu_Castle_Park_201015g.jpg
-- **shizuoka-d1-05** / 静岡 抹茶ジェラート / reference / City Foodsters / CC BY 2.0 / https://creativecommons.org/licenses/by/2.0 / https://commons.wikimedia.org/wiki/File:Matcha_ice_cream_001.jpg
-- **shizuoka-d1-06** / 青葉おでん街 / exact / Akahito Yamabe / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Aoba_Oden_Street_01.jpg
-- **shizuoka-d1-07** / 静岡駅 ASTY / exact / 電車(新幹線)でゴー！ / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:ASTY%E9%9D%99%E5%B2%A1%E3%83%93%E3%83%AB.jpg
-- **shizuoka-d1-08** / 静岡駅 ホテル / exact / SLTc / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:%E3%81%97%E3%81%9A%E3%81%A6%E3%81%A4%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3_%E6%96%B0%E6%B8%85%E6%B0%B4_%E3%83%90%E3%82%B9%E5%81%9C_2015_(16681556472).jpg
-- **shizuoka-d2-01** / 清水駅 / exact / SLTc / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:%E6%B8%85%E6%B0%B4%E9%A7%85_%E6%9D%B1%E5%8F%A3%EF%BC%88%E3%81%BF%E3%81%AA%E3%81%A8%E5%8F%A3%EF%BC%89_2015_(16062527603).jpg
-- **shizuoka-d2-02** / 三保松原 / exact / xe zna / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:%E4%B8%89%E4%BF%9D%E3%81%AE%E6%9D%BE%E5%8E%9F,_Miho_no_matsubara_-_panoramio.jpg
-- **shizuoka-d2-03** / 清水魚市場 河岸の市 / exact / Halowand / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:KASHI_NO_ICHI_maguro_kan_in_shimizu_ward.jpg
-- **shizuoka-d2-04** / 清水港 / exact / Alpsdake / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Mount_Fuji_and_Port_of_Shimizu_from_Nihondaira.jpg
-- **shizuoka-d2-05** / 草薙駅 / exact / Akahito Yamabe / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Kusanagi_Station_02.jpg
-- **shizuoka-d2-06** / あおい温泉 草薙の湯 / reference / Akahito Yamabe / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Aoba_Ryokuchi_01.jpg
-- **shizuoka-d2-07** / 静岡駅 / exact / 江戸村のとくぞう / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Shizuoka_Station_201016a.jpg
-- **shizuoka-d2-08** / 静岡駅 ASTY / exact / 電車(新幹線)でゴー！ / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:ASTY%E9%9D%99%E5%B2%A1%E6%9D%B1%E9%A4%A8.jpg
-- **shizuoka-d2-09** / 静岡駅 ホテル / exact / Akahito Yamabe / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Fujieda_Station_04.jpg
-- **shizuoka-d3-01** / 静岡駅 / exact / 江戸村のとくぞう / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Shizuoka_Station_201016a.jpg
-- **shizuoka-d3-02** / 静岡駅 ASTY / exact / 電車(新幹線)でゴー！ / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:ASTY%E9%9D%99%E5%B2%A1.jpg
-- **shizuoka-d3-03** / 静岡駅 静岡おでん / exact / Kossy@FINEDAYS  from Oden street  Aoba Oden-Gai  (Aoba Oden Street) in Tokiwa, Aoi, Shizuoka / CC BY 2.0 / https://creativecommons.org/licenses/by/2.0 / https://commons.wikimedia.org/wiki/File:Oden_street_by_Kossy%40FINEDAYS_in_Shizuoka.jpg
-- **shizuoka-d3-04** / 静岡駅 / exact / 江戸村のとくぞう / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Shizuoka_Station_201016a.jpg
-- **shizuoka-d3-05** / 富士山静岡空港 / exact / katorisi / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Fujisan-Shizuoka_airport,Makinohara-city,Japan.jpg
-- **sapporo-d1-01** / 新千歳空港 / exact / ja:user:Hykw-a4 / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:New_Chitose_Airport.jpg
-- **sapporo-d1-02** / 札幌駅 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:JR_Sapporo_Sta03n3200.jpg
-- **sapporo-d1-03** / 札幌 スープカレー / exact / 運転太郎 / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:%E6%9C%AD%E5%B9%8C%E3%82%B9%E3%83%BC%E3%83%97%E3%82%AB%E3%83%AC%E3%83%BC_CARAKU_-_panoramio.jpg
-- **sapporo-d1-04** / 大通公園 / exact / redlegsfan21 / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:Odori_Park_(15982613668).jpg
-- **sapporo-d1-05** / 北海道庁旧本庁舎 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:Hokkaido_Prefectural_Office02s5s4272.jpg
-- **sapporo-d1-06** / 成吉思汗 だるま 札幌 / reference / Savannah Rivka / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Yakiniku_on_braziers_at_%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97_%E3%81%A0%E3%82%8B%E3%81%BE_in_Sapporo,_Japan_(244).jpg
-- **sapporo-d1-07** / 元祖さっぽろラーメン横丁 / reference / Savannah Rivka / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Curry_dish_at_Rojiura_Curry_SAMURAI_in_Sapporo,_Japan_(242).jpg
-- **sapporo-d1-08** / 札幌駅 ホテル / exact / Kinori / Public domain /  / https://commons.wikimedia.org/wiki/File:SapporoNight2004-11.jpg
-- **sapporo-d2-01** / 札幌駅 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:JR_Sapporo_Sta03n3200.jpg
-- **sapporo-d2-02** / 定山渓温泉 / exact /  / Public domain /  / https://commons.wikimedia.org/wiki/File:TsukimiBashi2004-12.jpg
-- **sapporo-d2-03** / 定山渓二見吊橋 / exact / t-konno / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:%E5%AE%9A%E5%B1%B1%E6%B8%93%E4%BA%8C%E8%A6%8B%E5%90%8A%E6%A9%8B_(Jozankei_Futami_suspension_bridge)_-_panoramio.jpg
-- **sapporo-d2-04** / 定山渓温泉 / exact /  / Public domain /  / https://commons.wikimedia.org/wiki/File:TsukimiBashi2004-12.jpg
-- **sapporo-d2-05** / 定山渓温泉 日帰り入浴 / reference / MiNe / CC BY 2.0 / https://creativecommons.org/licenses/by/2.0 / https://commons.wikimedia.org/wiki/File:Former_Hokkaido_Government_Office_Building_20090112-01.jpg
-- **sapporo-d2-06** / 札幌駅 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:JR_Sapporo_Sta03n3200.jpg
-- **sapporo-d2-07** / 札幌 味噌ラーメン / exact / 経済特区 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:%E3%81%91%E3%82%84%E3%81%8D_%E6%9C%AD%E5%B9%8C%E5%91%B3%E5%99%8C%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B32752_02.jpg
-- **sapporo-d2-08** / すすきの / exact / Chatama / Public domain /  / https://commons.wikimedia.org/wiki/File:Spectaculars_of_Susukino-Sapporo.jpg
-- **sapporo-d2-09** / 札幌駅 ホテル / exact / w:ja:user:Kinori / Public domain /  / https://commons.wikimedia.org/wiki/File:Sapporo2005-1-9.jpg
-- **sapporo-d3-01** / 札幌駅 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:JR_Sapporo_Sta03n3200.jpg
-- **sapporo-d3-02** / 中島公園 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:Nakajima_Park_Sapporo04n4272.jpg
-- **sapporo-d3-03** / 札幌駅 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:JR_Sapporo_Sta03n3200.jpg
-- **sapporo-d3-04** / 札幌 味噌ラーメン / exact / 経済特区 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:%E3%81%91%E3%82%84%E3%81%8D_%E6%9C%AD%E5%B9%8C%E5%91%B3%E5%99%8C%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B32752_01.jpg
-- **sapporo-d3-05** / 新千歳空港 / exact / ja:user:Hykw-a4 / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:New_Chitose_Airport.jpg
-- **sapporo-d3-06** / 新千歳空港 / exact / ja:user:Hykw-a4 / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:New_Chitose_Airport.jpg
-- **nagoya-d1-01** / 中部国際空港 / exact / Nryate / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Centrair_Terminal1-20220514-1.jpg
-- **nagoya-d1-02** / 名古屋駅 / exact / Tomio344456 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:View_of_Nagoya_Station,_Tsubaki-cho_Nakamura_Ward_Nagoya_2022.jpg
-- **nagoya-d1-03** / 矢場とん 名古屋 / exact / Tennen-Gas / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Yabaton_headquauters_001.JPG
-- **nagoya-d1-04** / 名古屋城 / exact / Bariston / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Nagoya_Castle_7.jpg
-- **nagoya-d1-05** / 久屋大通公園 / exact / Bariston / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Hisayaodoripark.jpg
-- **nagoya-d1-06** / 栄 名古屋 名古屋めし / reference / shibainu  from Nagoya / CC BY 2.0 / https://creativecommons.org/licenses/by/2.0 / https://commons.wikimedia.org/wiki/File:Miso_katsu,_tsukemono_and_miso_soup_by_shibainu_in_Nagoya.jpg
-- **nagoya-d1-07** / オアシス21 / exact / Tomio344456 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Nagoya_TV_Tower_%26_Spaceship-Aqua,_Higashisakura_Higashi_Ward_Nagoya_2020.jpg
-- **nagoya-d1-08** / 名古屋駅 ホテル / exact / Abasaa / Public domain /  / https://commons.wikimedia.org/wiki/File:Meitetsu_Inn_Nagoyaeki_Shinkansenguchi.JPG
-- **nagoya-d2-01** / 熱田神宮 / exact / Tomio344456 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Atsuta-jingu_Shrine_Haiden,_Jingu_Atsuta_Ward_Nagoya_2023.jpg
-- **nagoya-d2-02** / 熱田神宮 / exact / Tomio344456 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Atsuta-jingu_Shrine_Haiden,_Jingu_Atsuta_Ward_Nagoya_2023.jpg
-- **nagoya-d2-03** / あつた蓬莱軒 本店 / exact / 円周率３パーセント / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Godo-cho_20170731.jpg
-- **nagoya-d2-04** / 大須商店街 / exact / Tomio344456 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:View_of_Osu_Intersection_%26_Monzen-cho-Dori_St.,_Monzen-cho_Naka_Ward_Nagoya_2022.jpg
-- **nagoya-d2-05** / 天然温泉 アーバンクア / reference / KKPCW（Kyu3） / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Lawn_field_of_RAYARD_Hisaya-odori_Park.jpg
-- **nagoya-d2-06** / 名古屋駅 / exact / Tomio344456 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:View_of_Nagoya_Station,_Tsubaki-cho_Nakamura_Ward_Nagoya_2022.jpg
-- **nagoya-d2-07** / オアシス21 / exact / Tomio344456 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Nagoya_TV_Tower_%26_Spaceship-Aqua,_Higashisakura_Higashi_Ward_Nagoya_2020.jpg
-- **nagoya-d2-08** / 名古屋駅 ホテル / exact / 妖精書士 / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:Bellevue_Office_NAGOYA.jpg
-- **nagoya-d3-01** / 名古屋駅 / exact / Tomio344456 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:View_of_Nagoya_Station,_Tsubaki-cho_Nakamura_Ward_Nagoya_2022.jpg
-- **nagoya-d3-02** / ノリタケの森 / exact / Tomio344456 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Noritake_Garden02,_Nishi_Ward_Nagoya_2014.jpg
-- **nagoya-d3-03** / 名古屋駅 きしめん / exact / A_CUVE / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:%E3%81%8D%E3%81%97%E3%82%81%E3%82%93%EF%BC%A0%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%A7%85.jpg
-- **nagoya-d3-04** / 名鉄名古屋駅 / exact / JKT-c / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:MEITETSU_Department_Store_-_Head_Store_-_01.JPG
-- **nagoya-d3-05** / 中部国際空港 / exact / Nryate / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Centrair_Terminal1-20220514-1.jpg
-- **okinawa-d1-01** / 那覇空港 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:Naha_Airport13s3s4410.jpg
-- **okinawa-d1-02** / 県庁前駅 那覇 / exact / 掬茶 / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Kench%C5%8D-mae_Station,_Chiba1.jpg
-- **okinawa-d1-03** / 首里城公園 / exact / CEphoto, Uwe Aranas / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Naha_Okinawa_Japan_Shuri-Castle-01.jpg
-- **okinawa-d1-04** / 那覇国際通り / exact / Hiroki Ogawa / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:Kokusaidori_Naha_Okinawa_Japan_%E6%B2%96%E7%B8%84_%E9%82%A3%E8%A6%87_%E5%9B%BD%E9%9A%9B%E9%80%9A%E3%82%8A_-_panoramio.jpg
-- **okinawa-d1-05** / 赤嶺駅 / exact / Tokyo-Good / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Akamine-station-building-202002.jpg
-- **okinawa-d1-06** / 琉球温泉 龍神の湯 / reference / Naha Mama Pavilionz / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E9%82%A3%E9%9C%B8_Naha_%E4%B9%9D%E5%B7%9E%E9%85%92%E5%BA%97_Kyushu_Hotel_Blossom_Naha_January_2025_R12S_128.jpg
-- **okinawa-d1-07** / 那覇国際通り / exact / TurnOnTheNight / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503183151.jpg
-- **okinawa-d1-08** / 那覇国際通り / exact / TurnOnTheNight / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503182722.jpg
-- **okinawa-d1-09** / 那覇 ホテル / exact / Abasaa / Public domain /  / https://commons.wikimedia.org/wiki/File:Hotel_JALCITY_Naha.JPG
-- **okinawa-d2-01** / 県庁前 パレットくもじ / exact / N / Public domain /  / https://commons.wikimedia.org/wiki/File:Okinawa_Kencho-mae_Intersection.jpg
-- **okinawa-d2-02** / 沖縄美ら海水族館 / exact / Shinnosuke Uchida / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:%E6%B2%96%E7%B8%84%E7%BE%8E%E3%82%89%E6%B5%B7%E6%B0%B4%E6%97%8F%E9%A4%A8.jpg
-- **okinawa-d2-03** / 沖縄美ら海水族館 / exact / 内田真之介 / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:%E6%B2%96%E7%B8%84%E7%BE%8E%E3%82%89%E6%B5%B7%E6%B0%B4%E6%97%8F%E9%A4%A8300.jpg
-- **okinawa-d2-04** / 古宇利島 / exact / Kugel~commonswiki / Public domain /  / https://commons.wikimedia.org/wiki/File:Kouri_Island.JPG
-- **okinawa-d2-05** / 御菓子御殿 恩納店 / exact / 画像サイト「沖縄発！役に立たない写真集」 [3] より転載。 / Public domain /  / https://commons.wikimedia.org/wiki/File:Okashigoten.jpg
-- **okinawa-d2-06** / 万座毛 / exact / CEphoto, Uwe Aranas / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Onna_Okinawa_Japan_Cape-Manzamo-01.jpg
-- **okinawa-d2-07** / アメリカンビレッジ / exact / Amoriver Information / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Mihama_AV_D_Japan.jpg
-- **okinawa-d2-08** / 県庁前 パレットくもじ / exact / 地図帳  at  Japanese Wikipedia / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Okinawa_kenchomae_intersection_01.JPG
-- **okinawa-d2-09** / 那覇国際通り タコライス / reference / ja:User:Sanjo / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Ryukyu_Sweets_with_Sanpin-cha_in_Shuri_Castle.JPG
-- **okinawa-d2-10** / 那覇国際通り / exact / TurnOnTheNight / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503182742.jpg
-- **okinawa-d3-01** / 県庁前駅 那覇 / exact / 掬茶 / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Kench%C5%8D-mae_Station,_Chiba2.jpg
-- **okinawa-d3-02** / 瀬長島ウミカジテラス / exact / Kugel~commonswiki / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Umikaji_Terrace_Senagajima.jpg
-- **okinawa-d3-03** / 瀬長島ウミカジテラス / exact / Kugel~commonswiki / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Umikaji_Terrace_Senagajima.jpg
-- **okinawa-d3-04** / 那覇空港 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:Naha_Airport13s3s4410.jpg
-- **okinawa-d3-05** / 那覇空港 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:Naha_Airport13s3s4410.jpg
-- **sendai-d1-01** / 仙台空港 / exact / ブルーノ・プラス / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sendai_Airport_Building_front.jpg
-- **sendai-d1-02** / 仙台駅 / exact / 掬茶 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg
-- **sendai-d1-03** / 仙台駅 牛タン / reference / Captain76 / Public domain /  / https://commons.wikimedia.org/wiki/File:Gyutan_teishoku.JPG
-- **sendai-d1-04** / 松島海岸駅 / exact / Star train / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%B3%B6%E6%B5%B7%E5%B2%B8%E9%A7%85_%E9%A7%85%E8%88%8E%EF%BC%882023%E5%B9%B43%E6%9C%88%EF%BC%89.jpg
-- **sendai-d1-05** / 松島湾 / exact / Chensiyuan / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Matsushima_miyagi_z.JPG
-- **sendai-d1-06** / 仙台駅 / exact / 掬茶 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg
-- **sendai-d1-07** / 定禅寺通 / exact / 佐藤智史 / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:%E5%AE%9A%E7%A6%85%E5%AF%BA%E9%80%9A_Jozenji-dori_Avenue,_Sendai_City_Centre_-_panoramio.jpg
-- **sendai-d1-08** / 国分町 仙台 / reference / Sakurai Midori / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Sendai_gyutan.JPG
-- **sendai-d1-09** / 仙台駅 ホテル / reference / 掬茶 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg
-- **sendai-d2-01** / 仙台駅 西口 / reference / 掬茶 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg
-- **sendai-d2-02** / 秋保温泉 / reference / 掬茶 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg
-- **sendai-d2-06** / 仙台駅 / reference / 掬茶 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg
-- **sendai-d2-08** / 仙台 牛タン / reference / Sakurai Midori / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Sendai_gyutan.JPG
-- **sendai-d2-09** / 仙台駅 / reference / 掬茶 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg
-- **sendai-d2-10** / 仙台駅 ホテル / reference / 掬茶 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg
-- **sendai-d3-01** / 仙台駅 / reference / 掬茶 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg
-- **sendai-d3-03** / 仙台駅 ずんだ餅 / reference / 掬茶 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg
-- **sendai-d3-04** / 仙台駅 牛タン / reference / 掬茶 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg
-- **sendai-d3-05** / 仙台空港 / reference / ブルーノ・プラス / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sendai_Airport_Building_front.jpg
-- **sendai-d3-06** / 仙台空港 / reference / ブルーノ・プラス / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sendai_Airport_Building_front.jpg
+- **hiroshima-d1-01** / 広島空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:A_runway_and_a_Sunset_-_panoramio.jpg
+- **hiroshima-d1-02** / 広島駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:JR_and_Hiroden_Hiroshima_Station.JPG
+- **hiroshima-d1-03** / 広島平和記念公園 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Hiroshima_Shukkeien_hdsr_Garden_S5_20.jpg
+- **hiroshima-d1-04** / 広島 お好み焼き / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Okonomiyaki_in_Hiroshima_02.jpg
+- **hiroshima-d1-05** / 広島城 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Hiroshima_Castle_2025.jpg
+- **hiroshima-d1-06** / 本通商店街 広島 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Hiroshima_hondori.jpg
+- **hiroshima-d1-07** / 広島 牡蠣料理 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Kakihune_Kanawa_20140302.JPG
+- **hiroshima-d1-08** / 流川 広島 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:A_bomb_dome_hiroshima_sunset.jpg
+- **hiroshima-d1-09** / 広島駅 ホテル / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:2013-09-01_a_hotel_room_in_Hiroshima_01.jpg
+- **hiroshima-d2-01** / 宮島口 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:JR_Miyajima_Ferry-344.jpg
+- **hiroshima-d2-02** / 厳島神社 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Itsukushima_Gate.jpg
+- **hiroshima-d2-03** / 宮島表参道商店街 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Momiji_Manju_Hiroshima.JPG
+- **hiroshima-d2-04** / 宮島 あなご飯 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Anagoju_in_Miyajima_01.jpg
+- **hiroshima-d2-05** / 紅葉谷公園 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Autumn_colours_on_Miyajima_Island_Japan.jpg
+- **hiroshima-d2-06** / 宮島ロープウエー / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Miyajima_Ropeway_Shishiiwa_Line_2010.jpg
+- **hiroshima-d2-07** / 広島駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:JR_Hiroshima_station_03d_(2949908323).jpg
+- **hiroshima-d2-08** / 宇品天然温泉 ほの湯 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Hiroshima_Washington_Hotel.JPG
+- **hiroshima-d2-09** / 広島駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Okonomiyaki_in_Hiroshima_03.jpg
+- **hiroshima-d2-10** / 広島駅 ホテル / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Mielparque_Hiroshima_2026.JPG
+- **hiroshima-d3-01** / 広島駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:A_man_prepares_okonomiyaki_in_Hiroshima_2004-08-05.jpg
+- **hiroshima-d3-02** / 縮景園 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Sunset_over_Hiroshima_bay,_from_Miyajima_(4177221419).jpg
+- **hiroshima-d3-03** / 広島駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Hiroshima_streetcar_at_night_beside_Hondori_Station.jpg
+- **hiroshima-d3-04** / 広島駅 お好み焼き / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Matcha_Soft_Serve_in_Miyajima_01.jpg
+- **hiroshima-d3-05** / 広島駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Hiroshima-Airport_Inside.jpg
+- **hiroshima-d3-06** / 広島空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Hiroden_Ujina_Line_in_Hiroshima.jpg
+- **shizuoka-d1-01** / 富士山静岡空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Shizuoka-airport-terminal.jpg
+- **shizuoka-d1-02** / 静岡駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Kuretake_Inn_Premium_Shizuoka_Ekimae.JPG
+- **shizuoka-d1-03** / 静岡駅 まぐろ丼 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:KASHI_NO_ICHI_maguro_kan_in_shimizu_ward.jpg
+- **shizuoka-d1-04** / 駿府城公園 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Sunpu_castle_park.JPG
+- **shizuoka-d1-05** / 静岡 抹茶ジェラート / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Matcha_ice_cream_001.jpg
+- **shizuoka-d1-06** / 青葉おでん街 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Sumpu-jou_park_Oden_shop.jpg
+- **shizuoka-d1-07** / 静岡駅 ASTY / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:ASTY_Shizuoka_01.jpg
+- **shizuoka-d1-08** / 静岡駅 ホテル / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Hotel_Associa_Shizuoka.JPG
+- **shizuoka-d2-01** / 清水駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Miho_no_Matsubara_and_Mount_Fuji.JPG
+- **shizuoka-d2-02** / 三保松原 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:231027_Shimizu_Port_Shizuoka_Japan01s3.jpg
+- **shizuoka-d2-03** / 清水魚市場 河岸の市 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Matcha_latte.jpg
+- **shizuoka-d2-04** / 清水港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:231027_Shimizu_Port_Shizuoka_Japan03s3.jpg
+- **shizuoka-d2-05** / 草薙駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Shizuoka_station_01.jpg
+- **shizuoka-d2-06** / あおい温泉 草薙の湯 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Aoba_Ryokuchi_01.jpg
+- **shizuoka-d2-07** / 静岡駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Shizuoka_Oden_matsuri.jpg
+- **shizuoka-d2-08** / 静岡駅 ASTY / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Shizoka_oden_1_20151022.jpg
+- **shizuoka-d2-09** / 静岡駅 ホテル / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Aoba_Symbol_Road_01.jpg
+- **shizuoka-d3-01** / 静岡駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Sanco_Inn_Shizuoka_Kitaguchi.JPG
+- **shizuoka-d3-02** / 静岡駅 ASTY / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Aoba_Oden_Street_01.jpg
+- **shizuoka-d3-03** / 静岡駅 静岡おでん / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Shizoka_oden_2_20151022.jpg
+- **shizuoka-d3-04** / 静岡駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Shizuoka_airport_-_panoramio.jpg
+- **shizuoka-d3-05** / 富士山静岡空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Shizuoka_Station_Concourse.jpg
+- **sapporo-d1-01** / 新千歳空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:New_CHITOSE_Airport_terminal.jpg
+- **sapporo-d1-02** / 札幌駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Hotel_Route_Inn_Sapporo-Ekimae-Kitaguchi.JPG
+- **sapporo-d1-03** / 札幌 スープカレー / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:A_soup_curry_dish_in_Sapporo_-_Flickr_-_odako1.jpg
+- **sapporo-d1-04** / 大通公園 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Hokkaido_Sapporo_Odori_Park.jpg
+- **sapporo-d1-05** / 北海道庁旧本庁舎 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:New_Chitose_Airport_at_departure_01.jpg
+- **sapporo-d1-06** / 成吉思汗 だるま 札幌 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Yakiniku_on_braziers_at_%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97_%E3%81%A0%E3%82%8B%E3%81%BE_in_Sapporo%2C_Japan_(244).jpg
+- **sapporo-d1-07** / 元祖さっぽろラーメン横丁 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Curry_dish_at_Rojiura_Curry_SAMURAI_in_Sapporo,_Japan_(242).jpg
+- **sapporo-d1-08** / 札幌駅 ホテル / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:定山渓ビューホテル_-_panoramio.jpg
+- **sapporo-d2-01** / 札幌駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:A_Corridor_of_Sapporo_Station_01.jpg
+- **sapporo-d2-02** / 定山渓温泉 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:JozankeiOnsen.jpg
+- **sapporo-d2-03** / 定山渓二見吊橋 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:20240923_Sapporo_Odori_Park.jpg
+- **sapporo-d2-04** / 定山渓温泉 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:SAKURAKO_in_the_JyoZanKei_hot_springs._(8345382759).jpg
+- **sapporo-d2-05** / 定山渓温泉 日帰り入浴 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Former_Hokkaido_Government_Office_Building_20090112-01.jpg
+- **sapporo-d2-06** / 札幌駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Corridor_of_Sapporo_Station_02.jpg
+- **sapporo-d2-07** / 札幌 味噌ラーメン / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Soup-Curry_：_PICANTE,_Sapporo,_Japan_-_panoramio.jpg
+- **sapporo-d2-08** / すすきの / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Nakajima_Park_Sapporo01n3200.jpg
+- **sapporo-d2-09** / 札幌駅 ホテル / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:KEIO-PRELIA.Sapporo.JPG
+- **sapporo-d3-01** / 札幌駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:The_snack_bar_district_in_Sapporo's_Susukino_in_winter.jpg
+- **sapporo-d3-02** / 中島公園 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Nakajima_Park_Sapporo02n4272.jpg
+- **sapporo-d3-03** / 札幌駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Susukino-night_from_TV_Tower.JPG
+- **sapporo-d3-04** / 札幌 味噌ラーメン / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Genghis_Khan_dish.jpg
+- **sapporo-d3-05** / 新千歳空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Ramen_Alley_Sapporo_Japan.jpg
+- **sapporo-d3-06** / 新千歳空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Former_Hokkaido_Government_Office_202507.jpg
+- **nagoya-d1-01** / 中部国際空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Central_Japan_International_Airport_Station_from_departure_lobby_of_Chubu_Centrair_International_Airport.JPG
+- **nagoya-d1-02** / 名古屋駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:名古屋プリンスホテル_スカイタワー_(50523581076).jpg
+- **nagoya-d1-03** / 矢場とん 名古屋 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Yabaton's_misokatsu_（Nagoya_soul_food）.jpg
+- **nagoya-d1-04** / 名古屋城 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Nagoya_Castle2026.jpg
+- **nagoya-d1-05** / 久屋大通公園 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Hisayaodori_Park%2C_Marunouchi_Naka_Ward_Nagoya_2022.jpg
+- **nagoya-d1-06** / 栄 名古屋 名古屋めし / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Miso_katsu,_tsukemono_and_miso_soup_by_shibainu_in_Nagoya.jpg
+- **nagoya-d1-07** / オアシス21 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:View_of_Oasis_21_from_Nagoya_TV_Tower_at_night.jpg
+- **nagoya-d1-08** / 名古屋駅 ホテル / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Nagoya_Castle_6.jpg
+- **nagoya-d2-01** / 熱田神宮 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Atsuta_Shrine.jpg
+- **nagoya-d2-02** / 熱田神宮 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Atsuta_Jingu_20211226-02.jpg
+- **nagoya-d2-03** / あつた蓬莱軒 本店 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Hitsumabushi_by_Tomotaka_in_Nagoya.jpg
+- **nagoya-d2-04** / 大須商店街 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Main_shopping_street_(Osu_in_Nagoya,_Japan).jpg
+- **nagoya-d2-05** / 天然温泉 アーバンクア / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Lawn_field_of_RAYARD_Hisaya-odori_Park.jpg
+- **nagoya-d2-06** / 名古屋駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Miso_Katsu_by_jetalone_in_Nagoya.jpg
+- **nagoya-d2-07** / オアシス21 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Oasis_21.JPG
+- **nagoya-d2-08** / 名古屋駅 ホテル / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Nagoya_2017_(34159008173).jpg
+- **nagoya-d3-01** / 名古屋駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Christmas_decoration_at_Nagoya_Station%3B_November_2007.jpg
+- **nagoya-d3-02** / ノリタケの森 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Autumn_Leaves_in_Noritake_Garden_-_1.jpg
+- **nagoya-d3-03** / 名古屋駅 きしめん / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Warajikatsu_Yabaton.jpg
+- **nagoya-d3-04** / 名鉄名古屋駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Central_Japan_International_Airport_Station_interior_01.JPG
+- **nagoya-d3-05** / 中部国際空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Oasis21_at_Night.jpg
+- **okinawa-d1-01** / 那覇空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:140902_Naha_Airport_Naha_Okinawa_pref_Japan01bs50.jpg
+- **okinawa-d1-02** / 県庁前駅 那覇 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Hotel_JALCITY_Naha.JPG
+- **okinawa-d1-03** / 首里城公園 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Ryutan_and_Shuri_Castle_01.JPG
+- **okinawa-d1-04** / 那覇国際通り / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Okinawan_Restaurant_Kokusaidori.jpg
+- **okinawa-d1-05** / 赤嶺駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Naha_Airport_Station_(17173992728).jpg
+- **okinawa-d1-06** / 琉球温泉 龍神の湯 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:JP_日本_Japan_沖繩_OKINAWA_那霸_Naha_九州酒店_Kyushu_Hotel_Blossom_Naha_January_2025_R12S_128.jpg
+- **okinawa-d1-07** / 那覇国際通り / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Tacos_in_Okinawa.jpg
+- **okinawa-d1-08** / 那覇国際通り / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Kokusaidori_at_night.jpg
+- **okinawa-d1-09** / 那覇 ホテル / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Hotel_Rocore_Naha.JPG
+- **okinawa-d2-01** / 県庁前 パレットくもじ / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Monoriel_en_okinawa.jpg
+- **okinawa-d2-02** / 沖縄美ら海水族館 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Okinawa_Churaumi_Aquarium_main_entrance_far_view_20170408.jpg
+- **okinawa-d2-03** / 沖縄美ら海水族館 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Kouri_Bridge_(15130568259).jpg
+- **okinawa-d2-04** / 古宇利島 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Kouri_01.jpg
+- **okinawa-d2-05** / 御菓子御殿 恩納店 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503183151.jpg
+- **okinawa-d2-06** / 万座毛 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Outlet_Mall_Ashibinaa_%E8%B1%90%E8%A6%8B%E5%9F%8E%E5%B8%82_Tomigusuku_taxi_tour_view_to_%E7%80%A8%E9%95%B7%E5%B3%B6_Senagajima_Umikaji_Terrace_January_2025_R12S_01.jpg
+- **okinawa-d2-07** / アメリカンビレッジ / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:American_Village_in_Okinawa.jpg
+- **okinawa-d2-08** / 県庁前 パレットくもじ / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Okinawa_Churaumi_Aquarium_20131009.jpg
+- **okinawa-d2-09** / 那覇国際通り タコライス / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Ryukyu_Sweets_with_Sanpin-cha_in_Shuri_Castle.JPG
+- **okinawa-d2-10** / 那覇国際通り / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:202408_%E6%B2%96%E7%B9%A9%E7%B8%A3%E9%82%A3%E9%9C%B8%E5%B8%82%E7%9A%84%E9%82%A3%E9%9C%B8%E5%9C%8B%E9%9A%9B%E9%80%9A%E7%9A%84%E8%A1%97%E6%99%AF.jpg
+- **okinawa-d3-01** / 県庁前駅 那覇 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Okinawa_Churaumi_Aquarium.jpg
+- **okinawa-d3-02** / 瀬長島ウミカジテラス / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Umikaji_Terrace_Senagajima.jpg
+- **okinawa-d3-03** / 瀬長島ウミカジテラス / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Shuri_soba_by_kazuh.jpg
+- **okinawa-d3-04** / 那覇空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Naha_Airport_Departure_Lobby.jpg
+- **okinawa-d3-05** / 那覇空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Inside_view_of_Naha_Airport_Domestic_Passenger_Terminal_Building.JPG
+- **sendai-d1-01** / 仙台空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:211028_Sendai_Airport_Station_Miyagi_prefecture_Japan01s.jpg
+- **sendai-d1-02** / 仙台駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Sendai_Station_west_entrance_2021.jpg
+- **sendai-d1-03** / 仙台駅 牛タン / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Gyutan_teishoku.JPG
+- **sendai-d1-04** / 松島海岸駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Sendai_citybus_in_Jozenji-dori_ave._2023.jpg
+- **sendai-d1-05** / 松島湾 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Matsushima_Bay_-_Matsushima6238.jpg
+- **sendai-d1-06** / 仙台駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Sendai_station_Senzan_Line_platforms.jpg
+- **sendai-d1-07** / 定禅寺通 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Exterior_view_of_Sendai_Mediatheque_from_Jozenji_Street_20220910a.jpg
+- **sendai-d1-08** / 国分町 仙台 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Sendai_gyutan.JPG
+- **sendai-d1-09** / 仙台駅 ホテル / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:WestinSendai_Front.JPG
+- **sendai-d2-01** / 仙台駅 西口 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:仙台駅の外観.jpg
+- **sendai-d2-02** / 秋保温泉 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:211028_Akiu_Onsen_Sendai_Miyagi_pref_Japan01s3.jpg
+- **sendai-d2-03** / 磊々峡 / exact / 663highland / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:211028_Rairaikyo_Sendai_Miyagi_pref_Japan01s3.jpg
+- **sendai-d2-04** / 秋保温泉 / exact / 663highland / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:211029_Akiu_Onsen_Sendai_Miyagi_pref_Japan01s3.jpg
+- **sendai-d2-05** / 秋保グランドホテル / reference / moore / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:WestinSendaiExecutiveLounge.JPG
+- **sendai-d2-06** / 仙台駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Sendai_Station_west_entrance_2020.jpg
+- **sendai-d2-07** / 仙台城跡 / exact / Kinori / Public domain /  / https://commons.wikimedia.org/wiki/File:SendaiJoOtemonSumiYagura2003-11.jpg
+- **sendai-d2-08** / 仙台 牛タン / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:牛タン定食（牛タン焼専門店司西口名掛丁店・仙台）20220312-P1330639.jpg
+- **sendai-d2-09** / 仙台駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Sendai_Station_at_night_(30648489646).jpg
+- **sendai-d2-10** / 仙台駅 ホテル / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Akiu_spa_Hotel_zuiho_2008.jpg
+- **sendai-d3-01** / 仙台駅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Zuiho-den02s3200.jpg
+- **sendai-d3-02** / 瑞鳳殿 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:Zuiho-den06s3200.jpg
+- **sendai-d3-03** / 仙台駅 ずんだ餅 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Sendai_Station_at_Night.JPG
+- **sendai-d3-04** / 仙台駅 牛タン / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:211030_Kameshima_Matsushima_Miyagi_pref_Japan01n.jpg
+- **sendai-d3-05** / 仙台空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:Rapid_train_to_Sendai.jpg
+- **sendai-d3-06** / 仙台空港 / previously saved /  / previously supplied, verify original license /  / https://commons.wikimedia.org/wiki/File:仙台駅,_Sendai_station_-_panoramio.jpg
+- **fukuoka-d1-01** / 福岡空港 / exact / Chihaya Sta / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Fukuoka_Airport_International_Terminal_Departure_Floor.jpg
+- **fukuoka-d1-02** / 博多駅 / exact / そらみみ / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Hakata_Station_Sign_(Fukuoka_Municipal_Subway).jpg
+- **fukuoka-d1-03** / キャナルシティ博多 / exact / ぱちょぴ（pacyopi） / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Canal_City_Hakata_2011.jpg
+- **fukuoka-d1-04** / 博多ラーメン / exact / Hykw-a4 / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Hakataramen222.jpg
+- **fukuoka-d1-05** / 大濠公園 / exact / そらみみ / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Ohori_Park_20170505-4.jpg
+- **fukuoka-d1-06** / 舞鶴公園 / exact / ぱちょぴ（投稿者）撮影 / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Maiduru_Park_2010A.jpg
+- **fukuoka-d1-07** / 天神 / exact / Hactar / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Fukuoka-tenjin.jpg
+- **fukuoka-d1-08** / 天神 もつ鍋 / exact / himucl / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:%E3%82%82%E3%81%A4%E9%8D%8B%E3%83%BB%E3%81%A1%E3%82%8A%E3%81%A8%E3%82%8A%E5%A4%A9%E7%A5%9E_-_panoramio.jpg
+- **fukuoka-d1-10** / 博多駅 / exact / ktanaka / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:Hakata_station_building_,Fukuoka%E5%8D%9A%E5%A4%9A%E9%A7%85%E3%83%93%E3%83%AB_-_panoramio.jpg
+- **fukuoka-d2-01** / 姪浜駅 / exact / MaedaAkihiko / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Meinohama-STA_South.jpg
+- **fukuoka-d2-02** / 能古島渡船場 / reference / JKT-c / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:Hakata_Station_Transportation_Center.JPG
+- **fukuoka-d2-03** / のこのしまアイランドパーク / exact / そらみみ / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Canola_field_in_Nokonoshima_Island_Park_1.jpg
+- **fukuoka-d2-04** / のこのしまアイランドパーク / exact / そらみみ / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Trees_in_Nokonoshima_Island_Park_1.jpg
+- **fukuoka-d2-05** / 能古島 / exact / そらみみ / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Roads_on_Nokonoshima_Island_20140506.JPG
+- **fukuoka-d2-06** / 姪浜渡船場 / exact / Momotarou2012 / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Meinohama_Ferry_Passenger_Terminal-2.jpg
+- **fukuoka-d2-07** / 博多駅 / exact / そらみみ / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Hakata_Station_Sign_(Fukuoka_Municipal_Subway).jpg
+- **fukuoka-d2-08** / 博多駅 居酒屋 / reference / そらみみ / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Local_train_bounding_for_Nishitetsu-Fukuoka_Station_stopping_at_Nishitetsu-Futsukaichi_Station.jpg
+- **fukuoka-d2-09** / 中洲 / exact / STA3816 / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Nakasu02.jpg
+- **fukuoka-d2-10** / 博多駅 / exact / そらみみ / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Hakata_Station_Sign_(Fukuoka_Municipal_Subway).jpg
+- **fukuoka-d3-01** / 博多駅 / exact / そらみみ / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Hakata_Station_Sign_(Fukuoka_Municipal_Subway).jpg
+- **fukuoka-d3-02** / 住吉神社 福岡 / exact / Hirho / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Sumiyoshi-jinja_the_information_board_Sumiyoshi_3-ch%C5%8Dme_Hakata-ku_Fukuoka_20241010_153045.jpg
+- **fukuoka-d3-03** / 博多駅 / exact / そらみみ / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Hakata_Station_Sign_(Fukuoka_Municipal_Subway).jpg
+- **fukuoka-d3-04** / 福岡空港 / exact / そらみみ / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Fukuoka_Airport_International_Terminal_20140421.jpg
+- **fukuoka-d3-05** / 福岡空港 / exact / そらみみ / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Inner_view_of_Fukuoka_Airport_International_Terminal_20140421.JPG
+- **osaka-d1-01** / 関西国際空港 / exact / Nankou Oronain (as36… / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:%E5%92%8C%E6%B3%89%E8%91%9B%E5%9F%8E%E5%B1%B1%E5%B1%95%E6%9C%9B%E5%8F%B0%E3%81%8B%E3%82%89%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E3%82%92%E8%A6%8B%E3%82%8B_Towarad_Kansai_International_Airport_2013.11.23_-_panoramio.jpg
+- **osaka-d1-02** / なんば駅 / exact / Electroliner / Public domain /  / https://commons.wikimedia.org/wiki/File:Osaka-namba-L1.jpg
+- **osaka-d1-03** / 難波 お好み焼き / exact / MASA / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Botejyu1.jpg
+- **osaka-d1-04** / 大阪城公園 / exact / Kanchi1979 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:JP-Osaka-Osaka-Castle-Park-Morinomiya-Side-Entrance.JPG
+- **osaka-d1-05** / 大阪城天守閣 / exact / lienyuan lee / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:The_Main_Tower_of_Osaka_Castle_%E5%A4%A7%E9%98%AA%E5%9F%8E%E5%A4%A9%E5%AE%88%E9%96%A3_-_panoramio.jpg
+- **osaka-d1-06** / 梅田 / exact / Zairon / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Osaka_Umeda_Sky_Building_Panoramablick_05.jpg
+- **osaka-d1-07** / 天神橋筋商店街 / exact / Nesnad / CC BY 4.0 / https://creativecommons.org/licenses/by/4.0 / https://commons.wikimedia.org/wiki/File:Tenjinbashisuji_Shopping_Street_2024_Dec_31_various.jpeg
+- **osaka-d1-09** / なんば駅 / exact / Electroliner / Public domain /  / https://commons.wikimedia.org/wiki/File:Osaka-namba-L1.jpg
+- **osaka-d2-01** / 箕面駅 / exact / NatsuTV / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:%E9%98%AA%E6%80%A5%E7%AE%95%E9%9D%A2%E9%A7%85%E5%85%A8%E6%99%AF.jpg
+- **osaka-d2-02** / 箕面大滝 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:Minoh_Falls_Minoh_Osaka_pref_Japan01s5.jpg
+- **osaka-d2-03** / 箕面駅 / exact / NatsuTV / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:%E9%98%AA%E6%80%A5%E7%AE%95%E9%9D%A2%E9%A7%85%E5%85%A8%E6%99%AF.jpg
+- **osaka-d2-04** / 大阪梅田駅 / exact / Tokumeigakarinoaoshima / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Hankyu_Osaka_Umeda_Station.jpg
+- **osaka-d2-05** / 中之島公園 / exact / Kousuke Sekidou / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:Rosa_%27Princess_Michiko%27_at_Rose_Garden,_Nakanoshima_Park,_Osaka_-_May_12,_2024.jpg
+- **osaka-d2-06** / 梅田スカイビル / exact / Tokumeigakarinoaoshima / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:UMEDA_SKY_BUILDING.jpg
+- **osaka-d2-07** / 梅田 / exact / Zairon / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Osaka_Umeda_Sky_Building_Panoramablick_05.jpg
+- **osaka-d2-08** / 道頓堀 / exact / Tokumeigakarinoaoshima / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:Neon_signs_in_Dotonbori_at_night,16th_August_2014_(2).JPG
+- **osaka-d2-09** / なんば駅 / exact / Electroliner / Public domain /  / https://commons.wikimedia.org/wiki/File:Osaka-namba-L1.jpg
+- **osaka-d3-01** / なんば駅 / exact / Electroliner / Public domain /  / https://commons.wikimedia.org/wiki/File:Osaka-namba-L1.jpg
+- **osaka-d3-02** / 黒門市場 / exact / ほっきー / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:%E9%BB%92%E9%96%80%E5%B8%82%E5%A0%B4_2024(1).jpg
+- **osaka-d3-03** / なんば駅 / exact / Electroliner / Public domain /  / https://commons.wikimedia.org/wiki/File:Osaka-namba-L1.jpg
+- **osaka-d3-04** / 関西国際空港 / exact / Nankou Oronain (as36… / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:%E5%92%8C%E6%B3%89%E8%91%9B%E5%9F%8E%E5%B1%B1%E5%B1%95%E6%9C%9B%E5%8F%B0%E3%81%8B%E3%82%89%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E3%82%92%E8%A6%8B%E3%82%8B_Towarad_Kansai_International_Airport_2013.11.23_-_panoramio.jpg
+- **osaka-d3-05** / 関西国際空港 / exact / Nankou Oronain (as36… / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:%E5%92%8C%E6%B3%89%E8%91%9B%E5%9F%8E%E5%B1%B1%E5%B1%95%E6%9C%9B%E5%8F%B0%E3%81%8B%E3%82%89%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E3%82%92%E8%A6%8B%E3%82%8B_Towarad_Kansai_International_Airport_2013.11.23_-_panoramio.jpg
+- **tokyo-d1-01** / 成田国際空港 / exact / Comyu  ( talk ) / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:TBCK_5107_new-KaNaC.jpg
+- **tokyo-d1-02** / 上野駅 / exact / Kansai-good / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:TokyoMetro-Ueno-Station-gate2018JR.jpg
+- **tokyo-d1-03** / アメ横 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:Ameya-yokocho01s5s3200.jpg
+- **tokyo-d1-04** / 上野恩賜公園 / exact / Volfgang  ( talk ) / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Sakura_in_Ueno_Park.jpg
+- **tokyo-d1-05** / 不忍池 / exact / kolshica  from Ueno Park in Taito, Tokyo / CC BY 2.0 / https://creativecommons.org/licenses/by/2.0 / https://commons.wikimedia.org/wiki/File:Shinobazu_no_ike_by_kolshica_in_Ueno_Park,_Tokyo.jpg
+- **tokyo-d1-06** / 東京ドームシティ / exact / ITA-ATU / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Tokyo_Dome_City_LaQua.JPG
+- **tokyo-d1-07** / 東京ドーム天然温泉 Spa LaQua / exact / ITA-ATU / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Tokyo_Dome_City_LaQua.JPG
+- **tokyo-d1-08** / 上野駅 / exact / Kansai-good / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Tokyo-metro-Ueno-Station-platform1.jpg
+- **tokyo-d2-01** / 新宿駅 / exact / MaedaAkihiko / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:JRE_Shinjuku-STA_South.jpg
+- **tokyo-d2-02** / 新宿御苑 / exact / Kakidai / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Shinjuku_Gyoen_National_Garden_-_sakura_3.JPG
+- **tokyo-d2-03** / 新宿三丁目 / exact / Nesnad / CC BY 4.0 / https://creativecommons.org/licenses/by/4.0 / https://commons.wikimedia.org/wiki/File:Shinjuku-sanchome_Station_exit_C6_-_April_12_2021.jpeg
+- **tokyo-d2-04** / 明治神宮 / exact / Carbonium / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:Meiji_Jingu_Grand_Shrine_-_%E6%98%8E%E6%B2%BB%E7%A5%9E%E5%AE%AE_-_panoramio.jpg
+- **tokyo-d2-05** / 代々木公園 / exact / Kakidai / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Yoyogipark_in_Autumn_1.jpg
+- **tokyo-d2-06** / 渋谷 / exact / Kakidai / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:2018_Shibuya_Crossing.jpg
+- **tokyo-d2-07** / 渋谷 焼肉 / exact / by titanium22 / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:Korean.cuisine-Yukhoe-01.jpg
+- **tokyo-d2-08** / 渋谷スクランブル交差点 / exact / しんぎんぐきゃっと / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2021-04-27.jpg
+- **tokyo-d2-09** / 上野駅 / exact / Unknown author Unknown author / Public domain /  / https://commons.wikimedia.org/wiki/File:Opening_day_of_Ueno_Station_of_Tokyo_Metro_Ginza_Line.jpg
+- **tokyo-d3-01** / 上野駅 / exact / Kansai-good / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:TokyoMetro-Ueno-Station-gate2018JR.jpg
+- **tokyo-d3-02** / 浅草寺 / exact / そらみみ / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Tokyo_Sky_Tree_from_Sensoji_Temple.jpg
+- **tokyo-d3-03** / 隅田川 / exact / Shinichi Sugiyama  from tokyo, japan / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:Yurikamome_%40_Sumida_River,_Tokyo.jpg
+- **tokyo-d3-04** / 浅草 / exact / Nesnad / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:Kaminarimon_-_Asakusa_-_2022_July_15_from_a_distance.jpeg
+- **tokyo-d3-05** / 成田国際空港 / exact / Comyu  ( talk ) / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:TBCK_5107_new-KaNaC.jpg
+- **tokyo-d3-06** / 成田国際空港 / exact / Comyu  ( talk ) / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:TBCK_5107_new-KaNaC.jpg
+- **matsuyama-d1-01** / 松山空港 / exact / woinary  from Matsuyama Airport, Minami-Yoshida, Matsuyama, Ehime / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:Bukkake_udon_by_woinary_at_Matsuyama_Airport,_Ehime.jpg
+- **matsuyama-d1-02** / 松山市駅 / exact / CT-May / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:Iyotetsu_Takashimaya_20260517.jpg
+- **matsuyama-d1-03** / 松山城ロープウェイ / exact / z tanuki / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:Matsuyama_Castle_Ropeway,_%E6%9D%BE%E5%B1%B1%E5%9F%8E_%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4_-_panoramio.jpg
+- **matsuyama-d1-04** / 松山城 / exact / Jyo81  at  Japanese Wikipedia / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Matsuyama_castle(Iyo)5.jpg
+- **matsuyama-d1-05** / 松山市駅 鯛めし / reference / DVMG / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:Iyo_Railway_Matsuyama_station_platform_-_panoramio.jpg
+- **matsuyama-d1-06** / 道後温泉本館 / exact / z tanuki / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:Dogo_Onsen_Honkan_(Main_building),_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio.jpg
+- **matsuyama-d1-07** / 道後商店街 / exact / Jyo81 / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Dogo_Shopping_Street(Matsuyama_City).JPG
+- **matsuyama-d1-08** / 道後温泉 / exact / z tanuki / CC BY 3.0 / https://creativecommons.org/licenses/by/3.0 / https://commons.wikimedia.org/wiki/File:Dogo_Onsen_Honkan_(Main_building),_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_(1).jpg
+- **matsuyama-d1-09** / 道後公園 / exact / Jyo81 / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Yuzuki_Castle_Ruins1(Matsuyama_City).JPG
+- **matsuyama-d1-10** / 松山市駅 / exact / Mti / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Matsuyamashi_Station_in_2010-9-7_No,2.JPG
+- **matsuyama-d2-01** / 松山駅 / exact / Amayagan / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:Matsuyama_Station_(Ehime)_20131116.jpg
+- **matsuyama-d2-02** / 下灘駅 / exact / Sunport1216 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Shimonada_Station_201507(1).JPG
+- **matsuyama-d2-03** / 伊予市駅 / exact / Sunport1216 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Iyoshi_Station_201507-1.JPG
+- **matsuyama-d2-04** / 松山駅 / exact / CT-May / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:Matsuyama_Station_(Ehime)_20240831_(15).jpg
+- **matsuyama-d2-05** / 萬翠荘 / exact / Rekishi-JAPAN / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:Bansui-so_2016-04-30.jpg
+- **matsuyama-d2-06** / 大街道 / exact / Asturio Cantabrio / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Matsuyama_Okaido_2021-08_ac_(1).jpg
+- **matsuyama-d2-07** / 大街道 / exact / Asturio Cantabrio / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Matsuyama_Okaido_2021-08_ac_(2).jpg
+- **matsuyama-d2-08** / 道後温泉駅 / exact / Hideyuki KAMON / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:Dogo_Onsen_Station_(Iyo_Railway).jpg
+- **matsuyama-d2-09** / 松山市駅 / exact / MaedaAkihiko / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Iyotetsu-Matsuyamashi-STA_Gate.jpg
+- **matsuyama-d3-01** / 松山市駅 / exact / CT-May / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:Iyotetsu_Takashimaya_20260517.jpg
+- **matsuyama-d3-02** / 石手寺 / exact / Dokudami / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Isiteji20220325_1.jpg
+- **matsuyama-d3-03** / 松山市駅 / exact / CT-May / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:Iyotetsu_Takashimaya_20260517.jpg
+- **matsuyama-d3-04** / 松山空港 / exact / Si-take. / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Matsuyama_Airport_(Is_seen_from_the_sky)_Ehime,JAPAN.jpg
+- **matsuyama-d3-05** / 松山空港 / exact / woinary  from Matsuyama Airport, Minami-Yoshida, Matsuyama, Ehime / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:Bukkake_udon_by_woinary_at_Matsuyama_Airport,_Ehime.jpg
+- **takamatsu-d1-01** / 高松空港 / exact / Toto-tarou / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:TakamatsuKukou01.jpg
+- **takamatsu-d1-02** / 高松駅 / exact / Sunport1216 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Takamatsu_Station_(Kagawa)_201508.JPG
+- **takamatsu-d1-03** / 高松 さぬきうどん / exact / Spaceaero2 / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Name_of_the_station_mark_takamatsu_sanuki_takamatsu_udon.jpg
+- **takamatsu-d1-04** / 栗林公園 / exact / Mason tang photography / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Ritsurin_Garden.jpg
+- **takamatsu-d1-05** / 仏生山駅 / exact / ButuCC / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:KD-Bussh%C5%8Dzan_Station-Building.jpg
+- **takamatsu-d1-07** / 瓦町駅 / exact / ラハール / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Takamatsu%E2%80%90Kotohira_Electric_Railroad_Kawaramachi_Station_platform_2.jpg
+- **takamatsu-d1-08** / 高松駅 / exact / Sunport1216 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Takamatsu_Station_(Kagawa)_201508(2).JPG
+- **takamatsu-d2-01** / 琴平駅 / exact / Kansai-good / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Kotohira-station-building.jpg
+- **takamatsu-d2-02** / 金刀比羅宮 / exact / 京浜にけ / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Kotohira_Kotohira-gu_Izutama_Shrine_1.JPG
+- **takamatsu-d2-03** / 琴平 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:Saya-bridge_Kotohira_Kagawa_pref01s3s4500.jpg
+- **takamatsu-d2-04** / 高松築港駅 / exact / Toto-tarou / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Takamatsu-chikko_station2005.jpg
+- **takamatsu-d2-05** / サンポート高松 / exact / Pagemoral / Public domain /  / https://commons.wikimedia.org/wiki/File:Sunport-takamatsu.jpg
+- **takamatsu-d2-06** / 玉藻公園 / exact / 先従隗始 / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:Takamatsu_Castle_-_Tamamo_Park_20211125_08.jpg
+- **takamatsu-d2-07** / 高松港 / exact / Nesnad / CC BY 4.0 / https://creativecommons.org/licenses/by/4.0 / https://commons.wikimedia.org/wiki/File:Port_of_Takamatsu_panorama_Apr_01_2021_05-43PM.jpeg
+- **takamatsu-d2-08** / 丸亀町商店街 / exact / tayorinai eye / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:Takamatsu_Marugamemachi_Shopping_Street_-_Mar_8,_2008.jpg
+- **takamatsu-d2-09** / 高松駅 / exact / Sunport1216 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Takamatsu_Station_(Kagawa)_201508(5).JPG
+- **takamatsu-d3-01** / 高松駅 / exact / Sunport1216 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Takamatsu_Station_(Kagawa)_201508(4).JPG
+- **takamatsu-d3-02** / 兵庫町商店街 / exact / John Seb Barber / CC BY 2.0 / https://creativecommons.org/licenses/by/2.0 / https://commons.wikimedia.org/wiki/File:Takamatsu_Hyogomachi_Shopping_Street_seen_from_Takamatsu_Tokyu_REI_Hotel_-_May_7,_2019.jpg
+- **takamatsu-d3-03** / 高松駅 / exact / Sunport1216 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Takamatsu_Station_(Kagawa)_201508(6).JPG
+- **takamatsu-d3-04** / 高松空港 / exact / Rsa / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Takamatsu_Airport_Baggage_Claim_belt_conveyor_Reputation.JPG
+- **takamatsu-d3-05** / 高松空港 / exact / Rsa / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Takamatsu_Airport_Baggage_Claim_belt_conveyor_Sanuki_Udon_menu.JPG
+- **kumamoto-d1-01** / 熊本空港 / exact / ブルーノ・プラス / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Kumamoto_Airport_Terminal_inside1.jpg
+- **kumamoto-d1-02** / 桜町バスターミナル / exact / hyolee2 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Kumamoto_Sakuramachi_Bus_terminal.JPG
+- **kumamoto-d1-03** / 熊本ラーメン / exact / 皇翔 / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:Kumamoro-ramen.jpg
+- **kumamoto-d1-04** / 熊本城 / exact / Yamaguchi Yoshiaki  from Japan / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:Kumamoto_castle_%E7%86%8A%E6%9C%AC%E5%9F%8E_(458769525).jpg
+- **kumamoto-d1-05** / 桜町バスターミナル / exact / hyolee2 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Kumamoto_Sakuramachi_Bus_terminal_002.JPG
+- **kumamoto-d1-06** / 水前寺成趣園 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:Kumamoto_Suizenji-jojuen01n4272.jpg
+- **kumamoto-d1-07** / 辛島町 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:Nishi-Karashima-cho_sta02n4272.jpg
+- **kumamoto-d1-08** / 湯らっくす / exact / Kotaria0311 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:%E6%B9%AF%E3%82%89%E3%81%A3%E3%81%8F%E3%81%99.jpg
+- **kumamoto-d1-09** / 熊本駅 / exact / Yamaguchi Yoshiaki  from Japan / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:JR_Kyushu_Type_815_EC_%40Kumamoto_(4208828858).jpg
+- **kumamoto-d2-01** / 新水前寺駅 / exact / Tokyo-Good / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:JR-Shin-Suizenji-station-building2020.jpg
+- **kumamoto-d2-02** / 水前寺成趣園 / exact / 663highland / CC BY 2.5 / https://creativecommons.org/licenses/by/2.5 / https://commons.wikimedia.org/wiki/File:Kumamoto_Suizenji-jojuen01n4272.jpg
+- **kumamoto-d2-03** / 上江津湖 / exact / MK Products / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Kamiezuko-lake_kuwamizuhonmachi_1.jpg
+- **kumamoto-d2-04** / 江津湖 / exact / Kuzeo / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:%E4%B8%8B%E6%B1%9F%E6%B4%A5%E6%B9%96.JPG
+- **kumamoto-d2-05** / 通町筋 / exact / Memphis19 / Public domain /  / https://commons.wikimedia.org/wiki/File:Toricyosuji.JPG
+- **kumamoto-d2-06** / 下通アーケード / exact / Asturio Cantabrio / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Shimotori_ac_(2).jpg
+- **kumamoto-d2-07** / 熊本城 / exact / Yamaguchi Yoshiaki  from Japan / CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0 / https://commons.wikimedia.org/wiki/File:Kumamoto_castle_%E7%86%8A%E6%9C%AC%E5%9F%8E_(458770177).jpg
+- **kumamoto-d2-08** / 下通 / exact / MK Products / CC BY-SA 3.0 / http://creativecommons.org/licenses/by-sa/3.0/ / https://commons.wikimedia.org/wiki/File:Shimotori_shop_street_Shintengai_1.jpg
+- **kumamoto-d2-09** / 花畑広場 / exact / MaedaAkihiko / CC0 / http://creativecommons.org/publicdomain/zero/1.0/deed.en / https://commons.wikimedia.org/wiki/File:SAKURA-MACHI-Kumamoto.jpg
+- **kumamoto-d2-10** / 熊本駅 / exact / そらみみ / CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0 / https://commons.wikimedia.org/wiki/File:Kumamoto_Station_Sign_(Kyushu_Shinkansen).jpg
+- **kumamoto-d3-01** / 熊本駅 / exact / そらみみ / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Kumamoto_Station_Sign_(Kyushu_Shinkansen)_2.jpg
+- **kumamoto-d3-02** / アミュプラザくまもと / exact / hyolee2 / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Amu_Plaza_Kumamoto.JPG
+- **kumamoto-d3-03** / 熊本駅 / exact / そらみみ / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Electronic_signage_of_Kumamoto_Station_(Kyushu_Shinkansen).jpg
+- **kumamoto-d3-04** / 熊本空港 / exact / ブルーノ・プラス / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:Kumamoto_Airport_Terminal_inside2.jpg
+- **kumamoto-d3-05** / 熊本空港 / exact / KUPS39M / CC BY-SA 4.0 / https://creativecommons.org/licenses/by-sa/4.0 / https://commons.wikimedia.org/wiki/File:In_front_of_the_baggage_inspection_area_at_Kumamoto_Airport.jpg
