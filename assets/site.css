@@ -66,90 +66,146 @@
 @media(max-width:680px){.fresh-intro{grid-template-columns:1fr;padding:23px}.route-hero{grid-template-columns:1fr}.route-hero-copy{padding:23px}.route-hero-image{height:195px;min-height:195px}.route-themes{grid-template-columns:1fr}.route-theme p{min-height:unset}.route-city-tabs{grid-template-columns:repeat(3,1fr)}.mini-section{align-items:flex-start;flex-direction:column}.route-facts{grid-template-columns:1fr}.flight-check-grid{grid-template-columns:1fr}}
 
 
-/* v7 — Calm, chronological single-column itinerary.
-   Applies to both original city schedules and the researched route category. */
+
+/* v8 — One chronological column, compact picture on the RIGHT.
+   The complete source image is preserved with object-fit:contain. */
 .timeline {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr);
-  gap: 15px;
-  max-width: 860px;
-  margin-inline: auto;
-  align-items: start;
+  display:grid;
+  grid-template-columns:minmax(0, 1fr);
+  width:100%;
+  max-width:1060px;
+  margin-inline:auto;
+  gap:14px;
+  align-items:stretch;
 }
 .timeline-row {
-  display: flex;
-  flex-direction: column;
-  gap: 0;
-  width: 100%;
-  min-width: 0;
-  border-radius: 20px;
-  overflow: hidden;
+  display:grid;
+  grid-template-columns:minmax(0, 1fr) 320px;
+  align-items:stretch;
+  padding:0;
+  gap:0;
+  border:1px solid #edf1f2;
+  background:#fff;
+  border-radius:23px;
+  overflow:hidden;
+  min-width:0;
+  box-shadow:0 12px 35px #58717d10;
 }
 .timeline-copy {
-  flex: 0 0 auto;
-  padding: 19px 23px 14px;
-  gap: 10px;
+  min-width:0;
+  display:flex;
+  flex-direction:column;
+  align-items:stretch;
+  gap:10px;
+  padding:22px 24px;
 }
-.timeline-row .it-body h4 {
-  margin-bottom: 8px;
-  line-height: 1.45;
+.timeline-row .time {
+  align-self:flex-start;
+  display:flex;
+  gap:13px;
+  align-items:center;
+  padding:8px 13px;
+  border-radius:13px;
+  text-align:left;
+  font-size:13px;
 }
-.timeline-row .it-body .it-links {
-  margin-top: 10px;
-}
+.timeline-row .time small { display:inline; margin:0; font-size:10px; }
+.timeline-row .it-body h4 { margin:3px 0 10px; font-size:17px; }
+.timeline-row .it-body p { line-height:1.75; }
+.timeline-row .it-body .it-links { margin-top:14px; gap:7px; }
 .timeline-image {
-  display: block;
-  width: 100%;
-  height: auto;
-  min-height: 0;
-  margin-top: 0;
+  display:flex;
+  flex-direction:column;
+  min-width:0;
+  height:auto;
+  min-height:210px;
+  margin:0;
+  padding:0;
+  background:linear-gradient(135deg,#f1f7f8,#fbf4ef);
+  border-left:1px solid #eef2f3;
+  border-radius:0;
+  overflow:hidden;
 }
 .timeline-photo-link {
-  display: block;
-  width: 100%;
-  height: 214px;
-  min-height: 0;
-  aspect-ratio: auto;
-  overflow: hidden;
+  width:100%;
+  height:210px;
+  min-height:210px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex:1 0 auto;
+  aspect-ratio:auto;
+  padding:10px;
+  position:relative;
+  overflow:hidden;
+  border-radius:0;
+  background:linear-gradient(135deg,#eff6f8,#faf6f2);
 }
-.timeline-photo-link img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+.timeline-photo-link img,
+.timeline-image.has-photo .timeline-photo-link img {
+  display:block;
+  width:100%;
+  height:100%;
+  max-height:220px;
+  object-fit:contain;
+  object-position:center;
+  transform:none;
 }
-.timeline-image.no-photo .visual-empty {
-  min-height: 0;
-  height: 100%;
-  padding: 16px;
-}
+.timeline-row:hover .timeline-image.has-photo img,
+.timeline-photo-link:hover img,
+.timeline-photo-link:focus-visible img { transform:none; }
 .timeline-caption {
-  min-height: 0;
-  padding: 9px 19px 11px;
-  gap: 2px;
+  width:100%;
+  flex:0 0 auto;
+  min-height:46px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  gap:4px;
+  padding:9px 13px 11px;
+  text-align:left;
+  background:#f5f9f9;
+  border-top:1px solid #edf1f2;
 }
-.timeline-caption strong { font-size: 11px; }
-.timeline-caption span { font-size: 10px; }
-/* Compact missing-photo placeholders as well, so a text-only stop does not consume a huge area. */
-.timeline-image.no-photo .timeline-photo-link { height: 126px; min-height: 0; aspect-ratio: auto; }
-/* Keep day context aligned with the cards for an easy top-to-bottom scan. */
-.day-overview {
-  max-width: 860px;
-  margin-inline: auto;
+.timeline-caption strong { font-size:11px; color:#536e79; }
+.timeline-caption span { font-size:10px; line-height:1.4; color:#83979e; }
+.timeline-image.no-photo .timeline-photo-link { height:210px; min-height:210px; }
+.timeline-image.no-photo .visual-empty { min-height:0; height:100%; padding:12px; }
+.photo-hover { left:10px; right:10px; bottom:8px; padding:11px; border-radius:10px; }
+.day-overview { max-width:1060px; margin-inline:auto; }
+@media(max-width:780px) {
+  .timeline-row { grid-template-columns:minmax(0,1fr) 250px; }
+  .timeline-copy { padding:18px; }
+  .timeline-image { min-height:190px; }
+  .timeline-photo-link, .timeline-image.no-photo .timeline-photo-link { height:190px; min-height:190px; }
+  .timeline-photo-link img, .timeline-image.has-photo .timeline-photo-link img { max-height:190px; }
 }
-@media (max-width: 950px) {
-  .timeline { grid-template-columns: minmax(0, 1fr); }
-  .timeline-photo-link { height: 205px; min-height: 0; aspect-ratio: auto; }
+@media(max-width:600px) {
+  .timeline { gap:12px; }
+  .timeline-row { grid-template-columns:minmax(0,1fr); border-radius:19px; }
+  .timeline-copy { padding:17px 17px 14px; gap:8px; }
+  .timeline-row .it-body h4 { font-size:16px; }
+  .timeline-image { border-left:0; border-top:1px solid #eef2f3; min-height:0; }
+  .timeline-photo-link, .timeline-image.no-photo .timeline-photo-link { height:185px; min-height:185px; padding:10px; flex:0 0 auto; }
+  .timeline-photo-link img, .timeline-image.has-photo .timeline-photo-link img { max-height:170px; }
+  .timeline-caption { padding:9px 14px 11px; }
+  .day-overview { padding:16px; }
 }
-@media (max-width: 680px) {
-  .timeline { grid-template-columns: minmax(0, 1fr); gap: 12px; }
-  .timeline-row { border-radius: 18px; }
-  .timeline-copy { padding: 16px 16px 12px; gap: 8px; }
-  .timeline-photo-link { height: 170px; min-height: 0; aspect-ratio: auto; }
-  .timeline-caption { padding: 9px 14px 10px; }
-  .timeline-image.no-photo .timeline-photo-link { height: 108px; }
-  .day-overview { padding: 16px; }
-}
-@media (max-width: 380px) {
-  .timeline-photo-link { height: 155px; min-height: 0; aspect-ratio: auto; }
+
+/* Curated photos: preserve the complete image and keep right-side thumbnails balanced */
+.timeline-image { align-self:stretch; }
+.timeline-row .timeline-photo-link img { object-fit:contain !important; object-position:center center !important; }
+.timeline-caption { min-height:52px; }
+@media (min-width:781px) { .timeline-row { grid-template-columns:minmax(0,1fr) minmax(265px,320px); } }
+@media (max-width:600px) { .timeline-image .timeline-photo-link { height:180px; min-height:180px; } }
+
+/* Layout integrity fix after inspecting actual desktop/mobile render boxes. */
+.timeline-row { align-items:stretch !important; grid-auto-rows:auto; }
+.timeline-copy { margin:0 !important; min-height:0; flex:none; align-self:stretch; }
+.timeline-image { margin:0 !important; align-self:stretch; min-height:0; }
+.timeline-photo-link { flex:0 0 auto; }
+@media(max-width:600px) {
+  .timeline-row { display:flex !important; flex-direction:column; align-items:stretch; }
+  .timeline-copy { order:1; flex:none; width:100%; }
+  .timeline-image { order:2; width:100%; flex:none; }
 }

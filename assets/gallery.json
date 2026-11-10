@@ -344,6 +344,116 @@
       "scope": "실제 장소 사진 · 촬영 시점 상이 가능",
       "local": "",
       "verified_listing": true
+    },
+    {
+      "file": "Hiroshima-Airport Inside.jpg",
+      "title": "히로시마 공항 터미널 내부",
+      "kind": "교통",
+      "place": "広島空港",
+      "subtitle": "실제 공항 내부 · 2024 촬영",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Hiroshima-Airport_Inside.jpg",
+      "scope": "실제 공항 내부 · 2024 촬영",
+      "downloaded": false
+    },
+    {
+      "file": "A bomb dome hiroshima sunset.jpg",
+      "title": "해질 무렵 원폭 돔",
+      "kind": "야경",
+      "place": "原爆ドーム",
+      "subtitle": "실제 장소·일몰 참고",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:A_bomb_dome_hiroshima_sunset.jpg",
+      "scope": "실제 장소·일몰 참고",
+      "downloaded": false
+    },
+    {
+      "file": "Hiroshima-beautiful view to the city and Inland sea - panoramio.jpg",
+      "title": "히로시마 시가지와 세토내해",
+      "kind": "전망",
+      "place": "広島市",
+      "subtitle": "히로시마 도시 전망 참고",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Hiroshima-beautiful_view_to_the_city_and_Inland_sea_-_panoramio.jpg",
+      "scope": "히로시마 도시 전망 참고",
+      "downloaded": false
+    },
+    {
+      "file": "JR Miyajima Ferry-344.jpg",
+      "title": "미야지마로 가는 페리에서",
+      "kind": "교통",
+      "place": "宮島口",
+      "subtitle": "미야지마 페리 관련 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:JR_Miyajima_Ferry-344.jpg",
+      "scope": "미야지마 페리 관련 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "Itsukushima-jinja torii at sunset.jpg",
+      "title": "붉은 도리이의 석양",
+      "kind": "명소",
+      "place": "厳島神社",
+      "subtitle": "실제 장소 · 서로 다른 시간대 사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Itsukushima-jinja_torii_at_sunset.jpg",
+      "scope": "실제 장소 · 서로 다른 시간대 사진",
+      "downloaded": false
+    },
+    {
+      "file": "広島港 Hiroshima Port - panoramio.jpg",
+      "title": "히로시마항 풍경",
+      "kind": "교통",
+      "place": "広島港",
+      "subtitle": "히로시마항 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:広島港_Hiroshima_Port_-_panoramio.jpg",
+      "scope": "히로시마항 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "Sunset over Hiroshima bay, from Miyajima (4177221419).jpg",
+      "title": "미야지마에서 보는 저녁 바다",
+      "kind": "자연",
+      "place": "宮島",
+      "subtitle": "미야지마 풍경 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Hiroshima_bay,_from_Miyajima_(4177221419).jpg",
+      "scope": "미야지마 풍경 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "Seeing the Ferries - Miyajima (42090444331).jpg",
+      "title": "미야지마 페리 접근 풍경",
+      "kind": "교통",
+      "place": "宮島",
+      "subtitle": "미야지마 페리 관련 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Seeing_the_Ferries_-_Miyajima_(42090444331).jpg",
+      "scope": "미야지마 페리 관련 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "JR Miyajima Ferry from West Pine Grove on Itsukushima Island.jpg",
+      "title": "미야지마 해안에서 본 페리",
+      "kind": "자연",
+      "place": "宮島",
+      "subtitle": "미야지마 해안 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:JR_Miyajima_Ferry_from_West_Pine_Grove_on_Itsukushima_Island.jpg",
+      "scope": "미야지마 해안 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "Panorama of the floating torii gate at Itsukushima Shrine.jpg",
+      "title": "이쓰쿠시마 도리이 파노라마",
+      "kind": "명소",
+      "place": "厳島神社",
+      "subtitle": "같은 방문지의 다른 구도 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_the_floating_torii_gate_at_Itsukushima_Shrine.jpg",
+      "scope": "같은 방문지의 다른 구도 실사진",
+      "downloaded": false
     }
   ],
   "shizuoka": [
@@ -608,6 +718,116 @@
       "scope": "실제 장소 사진 · 촬영 시점 상이 가능",
       "local": "",
       "verified_listing": true
+    },
+    {
+      "file": "Shizuoka-airport-terminal.jpg",
+      "title": "후지산 시즈오카 공항 청사",
+      "kind": "교통",
+      "place": "静岡空港",
+      "subtitle": "실제 시즈오카공항 외관",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Shizuoka-airport-terminal.jpg",
+      "scope": "실제 시즈오카공항 외관",
+      "downloaded": false
+    },
+    {
+      "file": "Shizuoka airport - panoramio.jpg",
+      "title": "시즈오카 공항 접근 전경",
+      "kind": "교통",
+      "place": "静岡空港",
+      "subtitle": "공항 풍경 참고",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_airport_-_panoramio.jpg",
+      "scope": "공항 풍경 참고",
+      "downloaded": false
+    },
+    {
+      "file": "Aoba Symbol Road 01.jpg",
+      "title": "아오바 상징거리",
+      "kind": "거리",
+      "place": "青葉シンボルロード",
+      "subtitle": "실제 도심 거리 사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Aoba_Symbol_Road_01.jpg",
+      "scope": "실제 도심 거리 사진",
+      "downloaded": false
+    },
+    {
+      "file": "Aoba Ryokuchi 01.jpg",
+      "title": "시즈오카 아오바 녹지",
+      "kind": "자연",
+      "place": "青葉",
+      "subtitle": "아오바 녹지 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Aoba_Ryokuchi_01.jpg",
+      "scope": "아오바 녹지 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "Shizuoka Station South Exit 01.jpg",
+      "title": "시즈오카역 남쪽 출구",
+      "kind": "교통",
+      "place": "静岡駅",
+      "subtitle": "역 주변 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_South_Exit_01.jpg",
+      "scope": "역 주변 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "Shizuoka Station 3.jpg",
+      "title": "시즈오카역 외관",
+      "kind": "교통",
+      "place": "静岡駅",
+      "subtitle": "역 관련 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_3.jpg",
+      "scope": "역 관련 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "Shizuoka Station 4.jpg",
+      "title": "시즈오카역 다른 구도",
+      "kind": "교통",
+      "place": "静岡駅",
+      "subtitle": "역 관련 다른 구도",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_4.jpg",
+      "scope": "역 관련 다른 구도",
+      "downloaded": false
+    },
+    {
+      "file": "JR Tokai Bus Shizuoka.jpg",
+      "title": "시즈오카 JR 버스",
+      "kind": "교통",
+      "place": "静岡駅",
+      "subtitle": "버스 관련 실사진 · 특정 운행편은 아님",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:JR_Tokai_Bus_Shizuoka.jpg",
+      "scope": "버스 관련 실사진 · 특정 운행편은 아님",
+      "downloaded": false
+    },
+    {
+      "file": "Shichibura Cinema Street A.jpg",
+      "title": "시즈오카 중심가 소규모 거리",
+      "kind": "거리",
+      "place": "静岡市",
+      "subtitle": "도심 거리 참고",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Shichibura_Cinema_Street_A.jpg",
+      "scope": "도심 거리 참고",
+      "downloaded": false
+    },
+    {
+      "file": "Denmacho intersection 01.jpg",
+      "title": "시즈오카 덴마초 교차로",
+      "kind": "거리",
+      "place": "静岡市",
+      "subtitle": "도심 이동 참고",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Denmacho_intersection_01.jpg",
+      "scope": "도심 이동 참고",
+      "downloaded": false
     }
   ],
   "sapporo": [
@@ -862,6 +1082,116 @@
       "scope": "실제 장소 사진 · 촬영 시점 상이 가능",
       "local": "",
       "verified_listing": true
+    },
+    {
+      "file": "New CHITOSE Airport terminal.jpg",
+      "title": "신치토세 공항 터미널 전경",
+      "kind": "교통",
+      "place": "新千歳空港",
+      "subtitle": "공항 터미널 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:New_CHITOSE_Airport_terminal.jpg",
+      "scope": "공항 터미널 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "New Chitose Airport at departure 01.jpg",
+      "title": "신치토세 공항 출발 풍경",
+      "kind": "교통",
+      "place": "新千歳空港",
+      "subtitle": "공항 출발 참고",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:New_Chitose_Airport_at_departure_01.jpg",
+      "scope": "공항 출발 참고",
+      "downloaded": false
+    },
+    {
+      "file": "Susukino-night from TV Tower.JPG",
+      "title": "TV타워에서 내려다본 스스키노",
+      "kind": "야경",
+      "place": "すすきの",
+      "subtitle": "삿포로 야경 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Susukino-night_from_TV_Tower.JPG",
+      "scope": "삿포로 야경 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "Night view Sapporo Susukino.jpg",
+      "title": "스스키노 밤거리",
+      "kind": "야경",
+      "place": "すすきの",
+      "subtitle": "실제 번화가 야경",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Night_view_Sapporo_Susukino.jpg",
+      "scope": "실제 번화가 야경",
+      "downloaded": false
+    },
+    {
+      "file": "Sapporo TV Tower at night 20250725.jpg",
+      "title": "삿포로 TV타워 야경",
+      "kind": "야경",
+      "place": "さっぽろテレビ塔",
+      "subtitle": "실제 전망 랜드마크",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Sapporo_TV_Tower_at_night_20250725.jpg",
+      "scope": "실제 전망 랜드마크",
+      "downloaded": false
+    },
+    {
+      "file": "The snack bar district in Sapporo's Susukino in winter.jpg",
+      "title": "스스키노 겨울 골목",
+      "kind": "거리",
+      "place": "すすきの",
+      "subtitle": "스스키노 다른 골목 풍경",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:The_snack_bar_district_in_Sapporo's_Susukino_in_winter.jpg",
+      "scope": "스스키노 다른 골목 풍경",
+      "downloaded": false
+    },
+    {
+      "file": "Sapporo TV Tower in November 2025 01.jpg",
+      "title": "11월 삿포로 TV타워",
+      "kind": "명소",
+      "place": "さっぽろテレビ塔",
+      "subtitle": "2025년 11월 실제 장소",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Sapporo_TV_Tower_in_November_2025_01.jpg",
+      "scope": "2025년 11월 실제 장소",
+      "downloaded": false
+    },
+    {
+      "file": "Sapporo TV Tower in the snow.jpg",
+      "title": "눈 내린 TV타워 풍경",
+      "kind": "자연",
+      "place": "さっぽろテレビ塔",
+      "subtitle": "과거 겨울 사진 · 방문 당일 날씨와 다를 수 있음",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Sapporo_TV_Tower_in_the_snow.jpg",
+      "scope": "과거 겨울 사진 · 방문 당일 날씨와 다를 수 있음",
+      "downloaded": false
+    },
+    {
+      "file": "Sapporo TV Tower at night 20140815.jpg",
+      "title": "TV타워 다른 시간대 전경",
+      "kind": "야경",
+      "place": "さっぽろテレビ塔",
+      "subtitle": "다른 구도·시간대 사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Sapporo_TV_Tower_at_night_20140815.jpg",
+      "scope": "다른 구도·시간대 사진",
+      "downloaded": false
+    },
+    {
+      "file": "Sapporo TV Tower and Odori park.JPG",
+      "title": "오도리공원과 TV타워",
+      "kind": "자연",
+      "place": "大通公園",
+      "subtitle": "공원 실제 풍경",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Sapporo_TV_Tower_and_Odori_park.JPG",
+      "scope": "공원 실제 풍경",
+      "downloaded": false
     }
   ],
   "nagoya": [
@@ -1115,6 +1445,116 @@
       "scope": "실제 장소 사진 · 촬영 시점 상이 가능",
       "local": "",
       "verified_listing": true
+    },
+    {
+      "file": "The night view of Hisaya Odori Park.jpg",
+      "title": "히사야오도리공원 야간 풍경",
+      "kind": "야경",
+      "place": "久屋大通公園",
+      "subtitle": "실제 공원 야경",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:The_night_view_of_Hisaya_Odori_Park.jpg",
+      "scope": "실제 공원 야경",
+      "downloaded": false
+    },
+    {
+      "file": "Night view of Sakae, Nagoya, Aichi 20150124-1.JPG",
+      "title": "사카에 도심 야경",
+      "kind": "야경",
+      "place": "栄",
+      "subtitle": "사카에 번화가 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Night_view_of_Sakae,_Nagoya,_Aichi_20150124-1.JPG",
+      "scope": "사카에 번화가 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "Oasis21 at Night.jpg",
+      "title": "오아시스21 야간 광장",
+      "kind": "야경",
+      "place": "オアシス21",
+      "subtitle": "오아시스21 다른 구도",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Oasis21_at_Night.jpg",
+      "scope": "오아시스21 다른 구도",
+      "downloaded": false
+    },
+    {
+      "file": "Street view of Sakae, Nagoya at night 20150124.JPG",
+      "title": "사카에 밤거리 보행로",
+      "kind": "거리",
+      "place": "栄",
+      "subtitle": "사카에 거리 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Street_view_of_Sakae,_Nagoya_at_night_20150124.JPG",
+      "scope": "사카에 거리 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "Mitsukoshi Nagoya Sakae at night 20150124.JPG",
+      "title": "사카에 백화점 야경",
+      "kind": "쇼핑",
+      "place": "栄",
+      "subtitle": "도심 쇼핑거리 참고",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Mitsukoshi_Nagoya_Sakae_at_night_20150124.JPG",
+      "scope": "도심 쇼핑거리 참고",
+      "downloaded": false
+    },
+    {
+      "file": "NagoyaMiraiTower at Night01.jpg",
+      "title": "나고야 미라이타워 야경",
+      "kind": "명소",
+      "place": "中部電力 MIRAI TOWER",
+      "subtitle": "실제 전망 랜드마크",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:NagoyaMiraiTower_at_Night01.jpg",
+      "scope": "실제 전망 랜드마크",
+      "downloaded": false
+    },
+    {
+      "file": "Nayabashi night.jpg",
+      "title": "나야바시 강변 야경",
+      "kind": "야경",
+      "place": "名古屋市",
+      "subtitle": "나고야 야경 참고",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Nayabashi_night.jpg",
+      "scope": "나고야 야경 참고",
+      "downloaded": false
+    },
+    {
+      "file": "Nagoya 2017 (34159008173).jpg",
+      "title": "나고야 사카에 시가지",
+      "kind": "거리",
+      "place": "栄",
+      "subtitle": "사카에 시가지 참고",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Nagoya_2017_(34159008173).jpg",
+      "scope": "사카에 시가지 참고",
+      "downloaded": false
+    },
+    {
+      "file": "NGO Naka Hisaya Odori Park EDION Square 20221209-12.jpg",
+      "title": "히사야오도리공원 광장",
+      "kind": "자연",
+      "place": "久屋大通公園",
+      "subtitle": "실제 공원 · 다른 구도",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:NGO_Naka_Hisaya_Odori_Park_EDION_Square_20221209-12.jpg",
+      "scope": "실제 공원 · 다른 구도",
+      "downloaded": false
+    },
+    {
+      "file": "Sunshine Sakae in Nagoya.jpg",
+      "title": "선샤인 사카에 외관",
+      "kind": "명소",
+      "place": "栄",
+      "subtitle": "사카에 일대 랜드마크",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunshine_Sakae_in_Nagoya.jpg",
+      "scope": "사카에 일대 랜드마크",
+      "downloaded": false
     }
   ],
   "sendai": [
@@ -1390,6 +1830,116 @@
       "scope": "실제 장소 사진 · 촬영 시점 상이 가능",
       "local": "",
       "verified_listing": true
+    },
+    {
+      "file": "仙台駅の外観.jpg",
+      "title": "센다이역 외관",
+      "kind": "교통",
+      "place": "仙台駅",
+      "subtitle": "실제 센다이역 외관",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:仙台駅の外観.jpg",
+      "scope": "실제 센다이역 외관",
+      "downloaded": false
+    },
+    {
+      "file": "Sendai Station at night (30648489646).jpg",
+      "title": "센다이역 야경",
+      "kind": "야경",
+      "place": "仙台駅",
+      "subtitle": "센다이역 밤 풍경",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_night_(30648489646).jpg",
+      "scope": "센다이역 밤 풍경",
+      "downloaded": false
+    },
+    {
+      "file": "Sendai Station west entrance 2020.jpg",
+      "title": "센다이역 서쪽 출입구",
+      "kind": "교통",
+      "place": "仙台駅",
+      "subtitle": "실제 서쪽 출입구",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_west_entrance_2020.jpg",
+      "scope": "실제 서쪽 출입구",
+      "downloaded": false
+    },
+    {
+      "file": "Clis Road (Sendai) at night 202512.jpg",
+      "title": "센다이 클리스로드 야간상가",
+      "kind": "쇼핑",
+      "place": "クリスロード",
+      "subtitle": "센다이 실내상점가 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Clis_Road_(Sendai)_at_night_202512.jpg",
+      "scope": "센다이 실내상점가 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "Sendai Station west entrance 2021.jpg",
+      "title": "센다이역 서쪽광장",
+      "kind": "거리",
+      "place": "仙台駅",
+      "subtitle": "역 앞 풍경 다른 시간대",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_west_entrance_2021.jpg",
+      "scope": "역 앞 풍경 다른 시간대",
+      "downloaded": false
+    },
+    {
+      "file": "Sendai Station at Night.JPG",
+      "title": "센다이역 다른 야간사진",
+      "kind": "야경",
+      "place": "仙台駅",
+      "subtitle": "역 주변 야경 참고",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_Night.JPG",
+      "scope": "역 주변 야경 참고",
+      "downloaded": false
+    },
+    {
+      "file": "仙台駅, Sendai station - panoramio.jpg",
+      "title": "센다이역 여행 전경",
+      "kind": "교통",
+      "place": "仙台駅",
+      "subtitle": "역 전경 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:仙台駅,_Sendai_station_-_panoramio.jpg",
+      "scope": "역 전경 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "Sendai Station Oct 2007.JPG",
+      "title": "센다이역 낮 풍경",
+      "kind": "교통",
+      "place": "仙台駅",
+      "subtitle": "역 주변 실사진 · 과거 사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_Oct_2007.JPG",
+      "scope": "역 주변 실사진 · 과거 사진",
+      "downloaded": false
+    },
+    {
+      "file": "Aoba Dori Station exit 2016-10-09 (30040798324).jpg",
+      "title": "아오바도리역 주변 거리",
+      "kind": "거리",
+      "place": "青葉通",
+      "subtitle": "도심 접근 사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Aoba_Dori_Station_exit_2016-10-09_(30040798324).jpg",
+      "scope": "도심 접근 사진",
+      "downloaded": false
+    },
+    {
+      "file": "Sendai Station at night 20070201 1829 (2649342839).jpg",
+      "title": "센다이역 또 다른 밤 풍경",
+      "kind": "야경",
+      "place": "仙台駅",
+      "subtitle": "역 관련 과거 사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_night_20070201_1829_(2649342839).jpg",
+      "scope": "역 관련 과거 사진",
+      "downloaded": false
     }
   ],
   "okinawa": [
@@ -1666,6 +2216,105 @@
       "scope": "실제 장소 사진 · 촬영 시점 상이 가능",
       "local": "",
       "verified_listing": true
+    },
+    {
+      "file": "Naha Airport Departure Lobby.jpg",
+      "title": "나하공항 출발 로비",
+      "kind": "교통",
+      "place": "那覇空港",
+      "subtitle": "공항 실제 실내 사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Naha_Airport_Departure_Lobby.jpg",
+      "scope": "공항 실제 실내 사진",
+      "downloaded": false
+    },
+    {
+      "file": "Inside view of Naha Airport Domestic Passenger Terminal Building.JPG",
+      "title": "나하공항 터미널 내부",
+      "kind": "교통",
+      "place": "那覇空港",
+      "subtitle": "공항 다른 내부 풍경",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Inside_view_of_Naha_Airport_Domestic_Passenger_Terminal_Building.JPG",
+      "scope": "공항 다른 내부 풍경",
+      "downloaded": false
+    },
+    {
+      "file": "Naha Airport01n4272.jpg",
+      "title": "나하공항 여행 동선",
+      "kind": "교통",
+      "place": "那覇空港",
+      "subtitle": "실제 공항 관련 사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Naha_Airport01n4272.jpg",
+      "scope": "실제 공항 관련 사진",
+      "downloaded": false
+    },
+    {
+      "file": "Kokusai-dori08ss3648.jpg",
+      "title": "나하 국제거리 낮 풍경",
+      "kind": "거리",
+      "place": "国際通り",
+      "subtitle": "국제거리 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Kokusai-dori08ss3648.jpg",
+      "scope": "국제거리 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "Don Quijote Kokusaidori Store 20250503184136.jpg",
+      "title": "국제거리 쇼핑 매장 야경",
+      "kind": "쇼핑",
+      "place": "国際通り",
+      "subtitle": "매장 외관 실사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Don_Quijote_Kokusaidori_Store_20250503184136.jpg",
+      "scope": "매장 외관 실사진",
+      "downloaded": false
+    },
+    {
+      "file": "Night at Kokusai-dori 20250503183151.jpg",
+      "title": "국제거리 저녁 산책 장면",
+      "kind": "야경",
+      "place": "国際通り",
+      "subtitle": "국제거리 다른 위치 사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503183151.jpg",
+      "scope": "국제거리 다른 위치 사진",
+      "downloaded": false
+    },
+    {
+      "file": "Night at Kokusai-dori 20250503183819.jpg",
+      "title": "국제거리 늦은 밤 거리",
+      "kind": "야경",
+      "place": "国際通り",
+      "subtitle": "국제거리 다른 지점 사진",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503183819.jpg",
+      "scope": "국제거리 다른 지점 사진",
+      "downloaded": false
+    },
+    {
+      "file": "Kokusai-dori06ss3200.jpg",
+      "title": "국제거리 번화가",
+      "kind": "거리",
+      "place": "国際通り",
+      "subtitle": "국제거리 다른 구도",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:Kokusai-dori06ss3200.jpg",
+      "scope": "국제거리 다른 구도",
+      "downloaded": false
+    },
+    {
+      "file": "JP-47 Naha Kokusai-dori street.jpg",
+      "title": "국제거리 낮 상점",
+      "kind": "쇼핑",
+      "place": "国際通り",
+      "subtitle": "국제거리 다른 위치",
+      "author": "Wikimedia Commons 원본 확인",
+      "source": "https://commons.wikimedia.org/wiki/File:JP-47_Naha_Kokusai-dori_street.jpg",
+      "scope": "국제거리 다른 위치",
+      "downloaded": false
     }
   ]
 }
