@@ -2711,7 +2711,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-takamatsu-d2-05.jpg",
-            "photo_match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+            "photo_match": "해당 장소의 실제 사진 · 일정 관련성 확인"
           },
           {
             "start": "16:30",
@@ -3082,19 +3082,6 @@
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
         },
         {
-          "file": "LOCAL-takamatsu-d2-05.jpg",
-          "title": "선포트 항구 조망",
-          "place": "サンポート高松",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/takamatsu/d2-05.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Sunport-takamatsu.jpg",
-          "author": "Pagemoral",
-          "license": "Public domain",
-          "license_url": "",
-          "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
-        },
-        {
           "file": "LOCAL-takamatsu-d3-03.jpg",
           "title": "사누키 우동 마지막 점심",
           "place": "高松駅",
@@ -3132,6 +3119,19 @@
           "license": "CC BY 2.0",
           "license_url": "https://creativecommons.org/licenses/by/2.0",
           "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+        },
+        {
+          "file": "LOCAL-takamatsu-d2-05.jpg",
+          "title": "선포트 항구 조망",
+          "place": "サンポート高松",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/takamatsu/d2-05.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Takamatsu_harbor_promenade01s3200.jpg",
+          "author": "663highland",
+          "license": "CC BY 2.5",
+          "license_url": "https://creativecommons.org/licenses/by/2.5",
+          "scope": "해당 장소의 실제 사진 · 일정 관련성 확인"
         }
       ]
     },

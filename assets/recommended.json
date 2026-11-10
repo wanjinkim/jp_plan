@@ -1490,7 +1490,7 @@
             "photo_file": "LOCAL-okinawa-d1-02.jpg",
             "photo_scope": "숙박 권역 참고사진 · 호텔 JAL 시티 나하 외관 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "해당 장소의 실제 사진 · 일정 관련성 확인"
           },
           {
             "start": "11:00",
@@ -1632,7 +1632,7 @@
             "photo_file": "LOCAL-okinawa-d2-03.jpg",
             "photo_scope": "자연 참고사진 · 코우리 대교 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "해당 장소의 실제 사진 · 일정 관련성 확인"
           },
           {
             "start": "13:50",
@@ -1746,7 +1746,7 @@
             "photo_file": "LOCAL-okinawa-d3-01.jpg",
             "photo_scope": "숙박 권역 참고사진 · 츄라우미 수족관 고래상어 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "해당 장소의 실제 사진 · 일정 관련성 확인"
           },
           {
             "start": "09:20",

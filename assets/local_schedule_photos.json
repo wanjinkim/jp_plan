@@ -1094,15 +1094,14 @@
   },
   "okinawa-d1-02": {
     "url": "./assets/photos/schedules/okinawa/d1-02.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Kench%C5%8D-mae_Station,_Chiba1.jpg",
     "place": "県庁前駅 那覇",
-    "match": "exact",
-    "author": "掬茶",
+    "source": "https://commons.wikimedia.org/wiki/File:Kencho-mae_Station_Okinawa.jpg",
+    "author": "Rsa",
     "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "1c6d28152252982c114f2b4b8ad07c6cf39c3e3b",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "match": "manual_venue_and_season_review",
+    "source_verified_by": "commons_file_metadata_and_visual_review",
+    "source_proof_blob_sha": "40302821063d29ba2e5e4d91913621373af1f0f6"
   },
   "okinawa-d1-03": {
     "url": "./assets/photos/schedules/okinawa/d1-03.jpg",
@@ -1214,15 +1213,14 @@
   },
   "okinawa-d2-03": {
     "url": "./assets/photos/schedules/okinawa/d2-03.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:%E6%B2%96%E7%B8%84%E7%BE%8E%E3%82%89%E6%B5%B7%E6%B0%B4%E6%97%8F%E9%A4%A8300.jpg",
     "place": "沖縄美ら海水族館",
-    "match": "exact",
-    "author": "内田真之介",
+    "source": "https://commons.wikimedia.org/wiki/File:Whale_shark_at_Churauma_Aquarium,_Okinawa.jpg",
+    "author": "Mokkie",
     "license": "CC BY-SA 3.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "ccf2d7cbc092fa05c0a66bd0385fab721397a9e0",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "match": "manual_venue_and_season_review",
+    "source_verified_by": "commons_file_metadata_and_visual_review",
+    "source_proof_blob_sha": "617a692493b3a3d16c1ac715bd00c281c323bc6f"
   },
   "okinawa-d2-04": {
     "url": "./assets/photos/schedules/okinawa/d2-04.jpg",
@@ -1309,15 +1307,14 @@
   },
   "okinawa-d3-01": {
     "url": "./assets/photos/schedules/okinawa/d3-01.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Kench%C5%8D-mae_Station,_Chiba2.jpg",
     "place": "県庁前駅 那覇",
-    "match": "exact",
-    "author": "掬茶",
+    "source": "https://commons.wikimedia.org/wiki/File:Kencho-mae_Station_Okinawa.jpg",
+    "author": "Rsa",
     "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "7c7dc1ced84a40a0d1a0982c6758606bb1666795",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "match": "manual_venue_and_season_review",
+    "source_verified_by": "commons_file_metadata_and_visual_review",
+    "source_proof_blob_sha": "40302821063d29ba2e5e4d91913621373af1f0f6"
   },
   "okinawa-d3-02": {
     "url": "./assets/photos/schedules/okinawa/d3-02.jpg",
@@ -2921,15 +2918,15 @@
     "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
   },
   "takamatsu-d2-05": {
-    "source": "https://commons.wikimedia.org/wiki/File:Sunport-takamatsu.jpg",
-    "author": "Pagemoral",
-    "license": "Public domain",
-    "license_url": "",
-    "match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)",
-    "source_verified_by": "current_catalog_for_changed_image",
     "url": "./assets/photos/schedules/takamatsu/d2-05.jpg",
     "place": "サンポート高松",
-    "source_proof_blob_sha": "cbc3fc228cebf9c45de8f2b454206d3335e7d189"
+    "source": "https://commons.wikimedia.org/wiki/File:Takamatsu_harbor_promenade01s3200.jpg",
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "match": "manual_venue_and_season_review",
+    "source_verified_by": "commons_file_metadata_and_visual_review",
+    "source_proof_blob_sha": "921da18e1d7e29a994f6ca6b78e6ec19822d7dc4"
   },
   "takamatsu-d2-06": {
     "url": "./assets/photos/schedules/takamatsu/d2-06.jpg",

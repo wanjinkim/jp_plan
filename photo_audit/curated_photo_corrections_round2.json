@@ -1,0 +1,42 @@
+{
+  "corrected": 4,
+  "photos": [
+    {
+      "key": "okinawa-d1-02",
+      "original_filename": "Kencho-mae Station Okinawa.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kencho-mae_Station_Okinawa.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Rsa",
+      "git_blob_sha": "40302821063d29ba2e5e4d91913621373af1f0f6",
+      "note": "Actual Kenchomae station in Naha, not the similarly named station in Chiba"
+    },
+    {
+      "key": "okinawa-d3-01",
+      "original_filename": "Kencho-mae Station Okinawa.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kencho-mae_Station_Okinawa.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Rsa",
+      "git_blob_sha": "40302821063d29ba2e5e4d91913621373af1f0f6",
+      "note": "Location context: Kenchomae station in Naha; not a hotel room"
+    },
+    {
+      "key": "okinawa-d2-03",
+      "original_filename": "Whale shark at Churauma Aquarium, Okinawa.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Whale_shark_at_Churauma_Aquarium,_Okinawa.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Mokkie",
+      "git_blob_sha": "617a692493b3a3d16c1ac715bd00c281c323bc6f",
+      "note": "Actual whale shark in Okinawa Churaumi Aquarium"
+    },
+    {
+      "key": "takamatsu-d2-05",
+      "original_filename": "Takamatsu harbor promenade01s3200.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Takamatsu_harbor_promenade01s3200.jpg",
+      "license": "CC BY 2.5",
+      "author": "663highland",
+      "git_blob_sha": "921da18e1d7e29a994f6ca6b78e6ec19822d7dc4",
+      "note": "Actual harbor promenade in Sunport Takamatsu, not a Sunport-branded train"
+    }
+  ],
+  "errors": []
+}
