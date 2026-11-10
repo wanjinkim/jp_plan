@@ -58,13 +58,18 @@ try {
       if(await page.locator('#photoPreview').isVisible())throw Error(city+': lightbox does not close on Escape');
 
       // The small image-search link is independent from photo zoom.
-      await page.locator('.schedule-image .photo-search-btn').first().click();
-      if(!await page.locator('#externalModal').isVisible())
-        throw Error(city+': image search does not offer external search link');
+      const search=page.locator('.schedule-image .photo-search-btn').first();
+      const searchUrl=await search.getAttribute('href');
+      const target=await search.getAttribute('target');
+      if(!searchUrl?.startsWith('https://www.google.com/search?')||!searchUrl.includes('tbm=isch')||target!=='_blank')
+        throw Error(city+': image search button does not link directly to Google images');
+      if(await search.getAttribute('data-safe-url'))
+        throw Error(city+': image search unexpectedly triggers confirmation instead of a direct link');
+      const [popup]=await Promise.all([page.waitForEvent('popup'),search.click()]);
+      await popup.close();
       if(await page.locator('#photoPreview').isVisible())
         throw Error(city+': image search incorrectly opened photo lightbox');
       result.searchButtons++;
-      await page.locator('#externalModal button[data-close]').click();
       if(city==='fukuoka')await page.locator('#travel-blogs').screenshot({path:'browser-fukuoka-blog-card.png'});
       result.cities[city]=cityInfo;
     }catch(e){result.errors.push({city,error:String(e)});}
