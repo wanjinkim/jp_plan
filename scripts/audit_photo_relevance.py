@@ -131,13 +131,39 @@ def contact_sheet(city,rows):
  return str(OUT.relative_to(ROOT)/(city+'.jpg'))
 def main():
  data=[row_info(task) for task in ROWS]
+ # Compute actual binary and perceptual uniqueness, without counting a resize as a new subject.
+ import hashlib
+ hashes={}
+ image_sig={}
+ for row in data:
+  path=ROOT/row['image_path']
+  if not row['image_ok']:continue
+  hashes.setdefault(hashlib.sha256(path.read_bytes()).hexdigest(),[]).append(row['key'])
+  with Image.open(path) as im:
+   gray=im.convert('L').resize((9,8),Image.Resampling.LANCZOS)
+   pixels=list(gray.getdata())
+   sig=sum((1<<bit) for bit in range(64)
+           if pixels[(bit//8)*9+bit%8]>pixels[(bit//8)*9+bit%8+1])
+   image_sig[row['key']]=sig
+ perceptual=[]
+ keys=list(image_sig)
+ for i,k1 in enumerate(keys):
+  for k2 in keys[i+1:]:
+   dist=(image_sig[k1]^image_sig[k2]).bit_count()
+   if dist<=2:perceptual.append({'first':k1,'second':k2,'dhash_distance':dist})
+
  assert len(data)==281 and len({r['key'] for r in data})==281
  fields=list(data[0].keys())
  with (OUT/'semantic_audit_281.csv').open('w',encoding='utf-8-sig',newline='') as f:
   out=csv.DictWriter(f,fieldnames=fields);out.writeheader();out.writerows(data)
  counts=dict(Counter(x['status'] for x in data))
+ counts['SOURCE_PRESENT']=sum(bool(v['source']) for v in data)
+ counts['BINARY_UNIQUE']=len(hashes)
+ counts['BINARY_DUPLICATE_EXCESS']=sum(len(v)-1 for v in hashes.values())
  summary={'total':len(data),'files_present':sum(x['image_ok'] for x in data),
-          'status_counts':counts,'verified_place':0,
+          'status_counts':counts,'unique_file_hashes':len(hashes),
+          'repeated_files':[v for v in hashes.values() if len(v)>1],
+          'perceptual_similar_pairs':perceptual,'verified_place':0,
           'note':'Metadata audit is not a visually confirmed 281-image semantic check. All candidates require visual or original-source verification.',
           'city_previews':{city:contact_sheet(city,data) for city in CITIES},
           'items':data}
@@ -145,4 +171,5 @@ def main():
  print('SEMANTIC PHOTO AUDIT:',json.dumps(counts,ensure_ascii=False))
  print('Validated local photos:',summary['files_present'],'/ 281')
  print('Saved 12 city contact sheets to photo_audit')
+ print('CONTENT UNIQUENESS:',len(hashes),'/281; dhash suspicious pairs:',len(perceptual))
 if __name__=='__main__':main()
