@@ -10,3 +10,26 @@
 /* 2026-11-10: research-backed cost evidence and uninterrupted three-day reading */
 .timeline-head{scroll-margin-top:96px;padding-top:26px;margin-top:32px;border-top:1px solid #e9edf0}.day-buttons{position:relative}.day-buttons a{display:inline-flex;padding:9px 16px;background:white;border:1px solid #e5eaf0;border-radius:14px;font-size:12px;font-weight:700;color:#677c8a}.budget-evidence{padding:18px 4px 5px}.budget-evidence h3{font-size:16px}.budget-evidence p{font-size:12px;color:#6b7c87;line-height:1.8;margin:12px 0 6px}.budget-evidence ul{margin:0 0 6px;padding-left:21px;font-size:11px;color:#7b8994}.budget-evidence li{margin:4px 0}.budget-evidence a{color:#377ca4;text-decoration:underline;text-underline-offset:3px}.budget-adjust{border:1px solid #e9edf0;border-radius:18px;padding:14px 17px;margin:14px 0}.budget-adjust summary{font-weight:750;cursor:pointer;color:#456775}.budget-adjust p{font-size:12px;color:#7b8994}.budget-inputs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.budget-inputs label{display:flex;flex-direction:column;gap:5px;color:#637788;font-size:11px}.budget-inputs input{width:100%;background:#fff;border:1px solid #dae4e9;border-radius:12px;padding:9px;color:#263746;font:inherit}.budget-disclaimer{line-height:1.8}.timeline-head:first-child{border:0}
 @media(max-width:690px){.budget-inputs{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:380px){.budget-inputs{grid-template-columns:1fr}}
+
+/* Dedicated accessible photo lightbox. Photo click does not navigate away. */
+.photo-link{position:relative}
+.photo-open{appearance:none;border:0;background:transparent;color:inherit;width:100%;height:100%;min-height:inherit;min-width:0;display:flex;align-items:center;justify-content:center;position:relative;padding:0;cursor:zoom-in;border-radius:inherit}
+.photo-open[disabled]{cursor:default}
+.photo-open img{max-width:100%;max-height:100%;object-fit:contain}
+.photo-open:focus-visible,.photo-search-btn:focus-visible,.photo-preview-close:focus-visible{outline:3px solid #79b6eb;outline-offset:3px}
+.photo-search-btn{position:absolute;z-index:2;right:10px;bottom:10px;display:inline-flex;align-items:center;justify-content:center;border:1px solid rgba(224,231,235,.9);border-radius:999px;background:rgba(255,255,255,.96);padding:5px 10px;font-size:10px;font-weight:750;color:#365d72;box-shadow:0 3px 16px #24384725;line-height:1.25}
+.photo-search-btn:hover{background:#fff0e8;color:#bf6450}
+.zoom-hint{position:absolute;left:10px;bottom:10px;pointer-events:none;padding:4px 9px;border-radius:10px;background:rgba(30,45,55,.64);color:#fff;font-size:10px;font-weight:700;opacity:0;transition:opacity .16s}
+.photo-open:hover .zoom-hint,.photo-open:focus-visible .zoom-hint{opacity:1}
+.photo-item>.photo-link .photo-open,.gallery-unit .photo-link .photo-open{height:100%}
+.schedule-image .photo-open{height:100%;min-height:180px}
+.schedule-image img{max-height:202px}
+.photo-preview[hidden]{display:none!important}
+.photo-preview{position:fixed;inset:0;z-index:110;display:grid;place-items:center;padding:18px}
+.photo-preview-overlay{position:absolute;inset:0;background:rgba(15,26,38,.84);backdrop-filter:blur(9px)}
+.photo-preview-dialog{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:11px;width:min(1100px,calc(100vw - 40px));max-height:calc(100dvh - 36px);border-radius:22px;padding:18px;background:#fbfbfc;box-shadow:0 20px 80px rgba(0,0,0,.36)}
+.photo-preview-dialog img{display:block;width:auto;height:auto;max-width:100%;max-height:calc(100dvh - 133px);object-fit:contain;border-radius:12px}
+.photo-preview-caption{font-size:13px;color:#61717b;text-align:center;margin:0;padding:0 45px 0 10px}
+.photo-preview-close{position:absolute;z-index:3;top:10px;right:11px;width:34px;height:34px;display:grid;place-items:center;line-height:1;border:1px solid #dce2e7;border-radius:50%;background:white;color:#4b5966;font-size:21px}
+body.photo-preview-active{overflow:hidden}
+@media(max-width:690px){.photo-preview{padding:10px}.photo-preview-dialog{width:calc(100vw - 20px);max-height:calc(100dvh - 20px);padding:15px 10px}.photo-preview-dialog img{max-height:calc(100dvh - 107px)}.photo-preview-caption{font-size:11px}.photo-search-btn{right:7px;bottom:7px;font-size:9px}.schedule-image .photo-open{min-height:160px}}
