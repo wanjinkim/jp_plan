@@ -1,0 +1,45 @@
+name: Audit all 281 itinerary image files and relevance
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/audit_photo_relevance.py'
+      - '.github/workflows/audit-photo-relevance.yml'
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install photo decoder
+        run: python -m pip install Pillow==11.3.0
+      - name: Check audit syntax
+        run: python -m py_compile scripts/audit_photo_relevance.py
+      - name: Audit all cities and generate per-city contact sheets
+        run: python scripts/audit_photo_relevance.py
+      - name: Publish image relevance audit to repository
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add photo_audit
+          if ! git diff --cached --quiet; then
+            git commit -m 'Audit every itinerary photo: mapping, provenance, relevance and contact sheets'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Upload full review materials
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: photo-semantic-audit-281
+          path: photo_audit/
+          retention-days: 30
