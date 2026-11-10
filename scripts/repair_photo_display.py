@@ -47,15 +47,67 @@ GPHOTO=r'''const gPhoto = photo => {
   if (/^LOCAL-|\[object Object\]/i.test(filename)) return '';
   return 'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(filename)+'?width=800';
 };'''
-if 'const gPhoto=' in a and 'const gPhoto = photo => {' not in a:
-    # Source currently known from supplied assets.zip (one-line arrow function).
-    a,count=re.subn(r'(?m)^const\s+gPhoto\s*=\s*[^\n]*?;\s*$',lambda m:GPHOTO,a,count=1)
+if re.search(r'const\\s+gPhoto\\s*=\\s*(?:\\(\\s*photo\\s*\\)|photo)\\s*=>\\s*\\{',a):
+    # Modern multi-line resolver: preserve it rather than matching only single lines.
+    print('Recognized existing multi-line gPhoto; preserve its implementation')
+elif 'const gPhoto=' in a:
+    # Only rewrite the old one-line resolver when the entire line is recognized.
+    a,count=re.subn(r'(?m)^const\\s+gPhoto\\s*=\\s*[^\\n]*?;\\s*
+# This is a safety improvement: malformed photo object must not produce empty or invalid img src.
+a=a.replace('${photo?`<img', '${photo&&gPhoto(photo)?`<img')
+# Remove precisely the resolver that calls CORS-blocked Openverse in the browser.
+h,removed = re.subn(r'<script\b[^>]*\bsrc=["\'][^"\']*photo-resolver\.js[^"\']*["\'][^>]*>\s*</script>', '', h, flags=re.I)
+print('Removed browser-only photo-resolver scripts:',removed)
+# Cache-bust app.js to purge old [object Object] code.
+h,appcount = re.subn(r'(<script\b[^>]*\bsrc=["\'])\./assets/app\.js(?:\?[^"\']*)?(["\'][^>]*>\s*</script>)',
+    lambda m:m.group(1)+'./assets/app.js?v='+VERSION+m.group(2),h, count=1, flags=re.I)
+if appcount != 1:
+    sys.exit('index.html has an unknown app.js script tag; abort without modifying files')
+# Reinstall exactly one local loader.
+h=re.sub(r'<script\b[^>]*\bsrc=["\'][^"\']*photo-local-fix\.js[^"\']*["\'][^>]*>\s*</script>', '', h, flags=re.I)
+if not re.search(r'</head>',h,re.I):
+    sys.exit('Cannot find closing head; no files changed')
+h=re.sub(r'</head>', f'<script defer src="./assets/photo-local-fix.js?v={VERSION}"></script></head>',h,count=1,flags=re.I)
+
+# Build a truthful manifest of actual, readable JPEG files, keyed to itinerary slots.
+base=ROOT/'assets/photos/schedules'
+cities=['hiroshima','shizuoka','sapporo','nagoya','sendai','okinawa','fukuoka','osaka','tokyo','matsuyama','takamatsu','kumamoto']
+index={'version':VERSION, 'cities':{}, 'counts':{}}
+allcount=0
+for city in cities:
+    entries={}
+    folder=base/city
+    for f in sorted(folder.glob('d?-??.jpg')) if folder.exists() else []:
+        if not re.fullmatch(r'd[123]-\d\d\.jpg', f.name): continue
+        try:
+            if f.stat().st_size < 800: continue
+            with Image.open(f) as img:
+                img.verify()
+            with Image.open(f) as img:
+                if img.width < 100 or img.height < 90: continue
+            entries[f.stem]=f'./assets/photos/schedules/{city}/{f.name}'
+        except (ValueError, OSError, SyntaxError):
+            print('BAD image skipped:',f)
+    index['cities'][city]=entries
+    index['counts'][city]=len(entries)
+    allcount+=len(entries)
+index['total']=allcount
+
+# Single atomic-ish write after all syntax checks.
+APP.write_text(a,encoding='utf-8')
+HTML.write_text(h,encoding='utf-8')
+OUT.write_text(json.dumps(index,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+print('VALID SAVED JPEG IMAGES:', allcount)
+print('BY CITY:', index['counts'])
+print('Updated:', APP,HTML,OUT)
+# Neutralize the old installer that other workflows may run later.
+old=ROOT/'scripts/install_photo_resolver.py'
+if old.exists():
+    old.write_text('#!/usr/bin/env python3\nprint("Browser live image search disabled; local downloaded photos are used.")\n',encoding='utf-8')
+,lambda m:GPHOTO,a,count=1)
     if count != 1:
         sys.exit('app.js uses an unknown gPhoto implementation; no files changed')
-elif 'const gPhoto = photo => {' in a:
-    print('Already patched gPhoto; leaving unchanged')
 else:
-    # New versions may not use gPhoto. DOM-based helper still handles saved images.
     print('NOTE: gPhoto not found; DOM repair will use known saved file paths')
 # This is a safety improvement: malformed photo object must not produce empty or invalid img src.
 a=a.replace('${photo?`<img', '${photo&&gPhoto(photo)?`<img')
