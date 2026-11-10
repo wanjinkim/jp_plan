@@ -42,12 +42,12 @@ def category(m):
  if re.search(r'역|駅|버스|철도|전철|페리|리무진|공항행',t):return 'station'
  return 'other'
 def keywords(m):
- names=[m.get('candidate_file','').rsplit('.',1)[0].replace('_',' ')]
+ names=[(m.get('candidate_file') or '').rsplit('.',1)[0].replace('_',' ')]
  names += [m['place']]
  if m.get('category')=='new':
   names += [TASKS.get(m['key'],{}).get('search_keywords','')]
  if m.get('category')=='original':
-  names += [m.get('photo_file','').rsplit('.',1)[0].replace('_',' ')]
+  names += [(m.get('photo_file') or '').rsplit('.',1)[0].replace('_',' ')]
  # Numeric/file noise in old data is not an accurate venue
  return list(dict.fromkeys(v.strip() for v in names if v and len(v.strip())>3))
 def relevant(photo,m,query):
@@ -82,9 +82,7 @@ def candidates(api,m):
    for x in api.commons_info(cand):yield x,cand
  qs=keywords(m)
  for query in qs[:4]:
-  # Wikipedia lead photo is a different directory from Commons MediaSearch.
-  for x in api.wikipedia_image(query):
-   yield x,query
+  # Commons alone gives enough distinct licensed files; avoid excessive MediaWiki API calls.
   for x in api.search_commons(query)[:20]:
    yield x,query
 def save(photos,rows):
@@ -117,6 +115,7 @@ def main():
  manifest={m['key']:m for m in MANIFEST}
  records=[]
  for step,key in enumerate(order,1):
+  time.sleep(1.1)  # Be polite to Commons servers and avoid HTTP 429
   m=manifest[key]
   record={'key':key,'status':'UNRESOLVED','old_source':INDEX.get(key,{}).get('source',''),'new_source':'','queries':keywords(m)}
   path=ROOT/m['local_path']
