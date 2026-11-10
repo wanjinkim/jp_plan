@@ -33,3 +33,34 @@
 .photo-preview-close{position:absolute;z-index:3;top:10px;right:11px;width:34px;height:34px;display:grid;place-items:center;line-height:1;border:1px solid #dce2e7;border-radius:50%;background:white;color:#4b5966;font-size:21px}
 body.photo-preview-active{overflow:hidden}
 @media(max-width:690px){.photo-preview{padding:10px}.photo-preview-dialog{width:calc(100vw - 20px);max-height:calc(100dvh - 20px);padding:15px 10px}.photo-preview-dialog img{max-height:calc(100dvh - 107px)}.photo-preview-caption{font-size:11px}.photo-search-btn{right:7px;bottom:7px;font-size:9px}.schedule-image .photo-open{min-height:160px}}
+
+/* City-specific personally written 2-night / 3-day travel journal cards */
+.travel-blogs{margin-top:12px}
+.blog-layout{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(270px,.85fr);gap:18px;align-items:stretch}
+.blog-feature-list{min-width:0}
+.blog-story{height:100%;display:grid;grid-template-columns:195px minmax(0,1fr);overflow:hidden;border:1px solid #e7ebee;border-radius:24px;background:#fff;box-shadow:0 16px 46px rgba(51,72,83,.055);transition:transform .2s,box-shadow .2s}
+.blog-story:hover{transform:translateY(-3px);box-shadow:0 22px 56px rgba(51,72,83,.1)}
+.blog-story-art{display:flex;flex-direction:column;justify-content:space-between;min-height:246px;padding:21px;background:radial-gradient(ellipse at 88% 18%,#f7c4b4 0,transparent 48%),linear-gradient(155deg,#f6e8d9,#e5eff2 95%);color:#936b63;position:relative}
+.blog-story-art::after{content:'✳';position:absolute;top:65px;right:18px;color:rgba(201,136,116,.42);font-size:72px;line-height:1}
+.blog-art-heading{font-size:19px;font-weight:800;letter-spacing:1px;line-height:1.25}
+.blog-art-index{margin:auto 0;font-size:49px;font-weight:750;line-height:1;opacity:.8}
+.blog-art-days{font-size:11px;font-weight:800;letter-spacing:1.2px}
+.blog-story-content{display:flex;flex-direction:column;justify-content:center;min-width:0;padding:23px 24px}
+.blog-story-meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;color:#b47e71;font-size:11px;font-weight:750}
+.blog-story-meta>span+span{color:#92a0a8}
+.blog-story-content h3{font-size:21px;line-height:1.4;letter-spacing:-.6px;margin:11px 0 8px}
+.blog-story-content p{font-size:12px;line-height:1.8;color:#7b8b95;margin:0}
+.blog-tags{display:flex;gap:5px;flex-wrap:wrap;margin:15px 0 17px}
+.blog-tag{padding:4px 9px;border-radius:999px;background:#f5f8fa;color:#788a98;font-size:10px}
+.blog-story-bottom{display:flex;gap:10px;flex-wrap:wrap;justify-content:space-between;align-items:center;padding-top:11px;border-top:1px solid #edf0f1;font-size:11px}
+.blog-story-bottom span{color:#99a7b1}
+.blog-story-bottom strong{color:#dc8e78;font-weight:800}
+.blog-aside{display:flex;flex-direction:column;border-radius:24px;border:1px solid #f1e3d9;background:linear-gradient(145deg,#fff2ea,#fffaf6 75%);padding:23px 24px;min-width:0}
+.blog-aside-mark{font-size:26px;color:#ea9b86;line-height:1}
+.blog-aside h3{font-size:24px;line-height:1.4;margin:5px 0 8px;letter-spacing:-.7px}
+.blog-aside>p:not(.eyebrow){color:#8e827e;font-size:12px;line-height:1.85}
+.blog-aside .eyebrow{font-size:10px;margin:13px 0 0}
+.blog-naver-btn{display:inline-flex;align-items:center;justify-content:center;background:#fff;border:1px solid #eaccc0;border-radius:13px;padding:11px 13px;font-size:12px;font-weight:800;color:#b16e5b;margin:auto 0 13px;box-shadow:0 5px 16px #edbbaa22}
+.blog-aside small{font-size:10px;line-height:1.7;color:#b09c91}
+@media(max-width:970px){.blog-layout{grid-template-columns:1fr}.blog-aside{min-height:160px}.blog-naver-btn{margin-top:12px;align-self:flex-start}}
+@media(max-width:580px){.blog-story{grid-template-columns:1fr}.blog-story-art{min-height:100px;flex-direction:row;align-items:center;gap:15px;padding:16px 19px}.blog-art-heading{font-size:16px}.blog-art-index{font-size:34px;margin:0 0 0 auto}.blog-art-days{font-size:9px}.blog-story-art::after{display:none}.blog-story-content{padding:18px}.blog-story-content h3{font-size:18px}}
