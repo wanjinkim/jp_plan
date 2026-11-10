@@ -1,6 +1,10 @@
 name: FIX all itinerary images (licensed photos)
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fix-all-itinerary-images.yml'
 permissions:
   contents: write
 concurrency:
@@ -33,12 +37,29 @@ jobs:
                   with urllib.request.urlopen(req,timeout=15) as r:print('SOURCE OK',r.status,r.url)
               except Exception as ex:print('SOURCE ERROR',host.split('/')[2],str(ex))
           PY
-      - name: Add photo fallback script to current site without replacing its HTML
-        run: python scripts/install_photo_resolver.py
-      - name: Search schedule names and download licensed pictures
+      - name: Search schedule place and activity keywords, download validated licensed pictures
         run: |
           mkdir -p assets/photos/schedules
           python scripts/repair_all_schedule_photos.py
+      - name: Build validated local photo index after downloads
+        if: always()
+        run: python scripts/build_local_photo_index.py
+      - name: Validate local JPEG paths and source mappings
+        if: always()
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from PIL import Image
+          rows=json.loads(Path('assets/photo_manifest_281.json').read_text())
+          idx=json.loads(Path('assets/local_schedule_photos.json').read_text())
+          assert len(rows)==281, f'Unexpected itinerary count: {len(rows)}'
+          for k, r in idx.items():
+              p=Path(r['url'].removeprefix('./'))
+              assert p.is_file(), f'Missing photo for {k}: {p}'
+              with Image.open(p) as im: im.verify()
+          print(f'PHOTO COVERAGE: {len(idx)}/281, missing={281-len(idx)}')
+          PY
       - name: Rebuild verified local photo index
         run: python scripts/build_local_photo_index.py
       - name: Commit all successfully downloaded photos immediately
@@ -46,7 +67,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A -- index.html assets/app.js assets/local_schedule_photos.json assets/recommended.json assets/new_routes.json assets/gallery.json assets/photos/schedules PHOTO_REPAIR_REPORT.json PHOTO_REPAIR_STATUS.csv PHOTO_CREDITS.md
+          git add -A -- assets/local_schedule_photos.json assets/recommended.json assets/new_routes.json assets/gallery.json assets/photos/schedules PHOTO_REPAIR_REPORT.json PHOTO_REPAIR_STATUS.csv PHOTO_CREDITS.md
           if ! git diff --cached --quiet; then
             git commit -m 'Fix locally stored itinerary photos and licensed credits'
             git push origin HEAD:main
