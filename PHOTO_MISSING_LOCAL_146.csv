@@ -1,0 +1,147 @@
+﻿id,city,place,title,expected_path
+sendai-d2-03,sendai,磊々峡,라이라이쿄 협곡·자연 산책,assets/photos/schedules/sendai/d2-03.jpg
+sendai-d2-04,sendai,秋保温泉,온천마을 점심·간식,assets/photos/schedules/sendai/d2-04.jpg
+sendai-d2-05,sendai,秋保グランドホテル,당일 입욕 가능한 아키우 온천,assets/photos/schedules/sendai/d2-05.jpg
+sendai-d2-07,sendai,仙台城跡,아오바 성터·야경 감상,assets/photos/schedules/sendai/d2-07.jpg
+sendai-d3-02,sendai,瑞鳳殿,즈이호덴 숲길·영묘,assets/photos/schedules/sendai/d3-02.jpg
+fukuoka-d1-01,fukuoka,福岡空港,공항 입국·시내 이동 준비,assets/photos/schedules/fukuoka/d1-01.jpg
+fukuoka-d1-02,fukuoka,博多駅,지하철로 하카타역 이동·수하물 보관,assets/photos/schedules/fukuoka/d1-02.jpg
+fukuoka-d1-03,fukuoka,キャナルシティ博多,캐널시티 주변 탐방,assets/photos/schedules/fukuoka/d1-03.jpg
+fukuoka-d1-04,fukuoka,博多ラーメン,하카타 라멘 점심,assets/photos/schedules/fukuoka/d1-04.jpg
+fukuoka-d1-05,fukuoka,大濠公園,오호리공원 호수 풍경 산책,assets/photos/schedules/fukuoka/d1-05.jpg
+fukuoka-d1-06,fukuoka,舞鶴公園,후쿠오카 성터와 마이즈루 공원,assets/photos/schedules/fukuoka/d1-06.jpg
+fukuoka-d1-07,fukuoka,天神,텐진 쇼핑거리·휴식,assets/photos/schedules/fukuoka/d1-07.jpg
+fukuoka-d1-08,fukuoka,天神 もつ鍋,모츠나베 저녁 식사,assets/photos/schedules/fukuoka/d1-08.jpg
+fukuoka-d1-09,fukuoka,みなと温泉 波葉の湯,나미하노유 천연온천,assets/photos/schedules/fukuoka/d1-09.jpg
+fukuoka-d1-10,fukuoka,博多駅,버스로 복귀·야식·호텔,assets/photos/schedules/fukuoka/d1-10.jpg
+fukuoka-d2-01,fukuoka,姪浜駅,"하카타 출발, 메이노하마 이동",assets/photos/schedules/fukuoka/d2-01.jpg
+fukuoka-d2-02,fukuoka,能古島渡船場,버스·페리로 노코노시마,assets/photos/schedules/fukuoka/d2-02.jpg
+fukuoka-d2-03,fukuoka,のこのしまアイランドパーク,섬 자연 경관·전망대,assets/photos/schedules/fukuoka/d2-03.jpg
+fukuoka-d2-04,fukuoka,のこのしまアイランドパーク,섬 레스토랑 점심,assets/photos/schedules/fukuoka/d2-04.jpg
+fukuoka-d2-05,fukuoka,能古島,세토내해가 아닌 하카타만 경관 감상,assets/photos/schedules/fukuoka/d2-05.jpg
+fukuoka-d2-06,fukuoka,姪浜渡船場,페리·버스로 후쿠오카 복귀,assets/photos/schedules/fukuoka/d2-06.jpg
+fukuoka-d2-07,fukuoka,博多駅,하카타역 일대 카페,assets/photos/schedules/fukuoka/d2-07.jpg
+fukuoka-d2-08,fukuoka,博多駅 居酒屋,가성비 현지 이자카야 저녁,assets/photos/schedules/fukuoka/d2-08.jpg
+fukuoka-d2-09,fukuoka,中洲,나카스 강변 야경,assets/photos/schedules/fukuoka/d2-09.jpg
+fukuoka-d2-10,fukuoka,博多駅,야식·호텔 복귀,assets/photos/schedules/fukuoka/d2-10.jpg
+fukuoka-d3-01,fukuoka,博多駅,체크아웃·수하물 정리,assets/photos/schedules/fukuoka/d3-01.jpg
+fukuoka-d3-02,fukuoka,住吉神社 福岡,스미요시 신사 산책,assets/photos/schedules/fukuoka/d3-02.jpg
+fukuoka-d3-03,fukuoka,博多駅,마지막 점심·기념품,assets/photos/schedules/fukuoka/d3-03.jpg
+fukuoka-d3-04,fukuoka,福岡空港,지하철로 공항 이동,assets/photos/schedules/fukuoka/d3-04.jpg
+fukuoka-d3-05,fukuoka,福岡空港,출국 수속·탑승 대기,assets/photos/schedules/fukuoka/d3-05.jpg
+osaka-d1-01,osaka,関西国際空港,간사이공항 입국·난카이 전철,assets/photos/schedules/osaka/d1-01.jpg
+osaka-d1-02,osaka,なんば駅,난바 호텔 짐 보관,assets/photos/schedules/osaka/d1-02.jpg
+osaka-d1-03,osaka,難波 お好み焼き,오코노미야키 점심,assets/photos/schedules/osaka/d1-03.jpg
+osaka-d1-04,osaka,大阪城公園,오사카성 공원 산책,assets/photos/schedules/osaka/d1-04.jpg
+osaka-d1-05,osaka,大阪城天守閣,천수각 외관·정원 전망,assets/photos/schedules/osaka/d1-05.jpg
+osaka-d1-06,osaka,梅田,우메다 주변 카페,assets/photos/schedules/osaka/d1-06.jpg
+osaka-d1-07,osaka,天神橋筋商店街,쿠시카츠 저녁,assets/photos/schedules/osaka/d1-07.jpg
+osaka-d1-08,osaka,天然温泉 なにわの湯,나니와노유 천연온천,assets/photos/schedules/osaka/d1-08.jpg
+osaka-d1-09,osaka,なんば駅,전철 복귀·호텔 휴식,assets/photos/schedules/osaka/d1-09.jpg
+osaka-d2-01,osaka,箕面駅,한큐 전철로 미노오 이동,assets/photos/schedules/osaka/d2-01.jpg
+osaka-d2-02,osaka,箕面大滝,미노오 폭포까지 숲길 트레킹(관광 도보),assets/photos/schedules/osaka/d2-02.jpg
+osaka-d2-03,osaka,箕面駅,미노오역 인근 점심,assets/photos/schedules/osaka/d2-03.jpg
+osaka-d2-04,osaka,大阪梅田駅,한큐로 오사카 도심 복귀,assets/photos/schedules/osaka/d2-04.jpg
+osaka-d2-05,osaka,中之島公園,나카노시마 강변 산책,assets/photos/schedules/osaka/d2-05.jpg
+osaka-d2-06,osaka,梅田スカイビル,우메다 전망대 선택 방문,assets/photos/schedules/osaka/d2-06.jpg
+osaka-d2-07,osaka,梅田,현지 이자카야 저녁,assets/photos/schedules/osaka/d2-07.jpg
+osaka-d2-08,osaka,道頓堀,도톤보리 운하 야경,assets/photos/schedules/osaka/d2-08.jpg
+osaka-d2-09,osaka,なんば駅,난바 간식·숙소 복귀,assets/photos/schedules/osaka/d2-09.jpg
+osaka-d3-01,osaka,なんば駅,호텔 체크아웃,assets/photos/schedules/osaka/d3-01.jpg
+osaka-d3-02,osaka,黒門市場,구로몬 시장 구경,assets/photos/schedules/osaka/d3-02.jpg
+osaka-d3-03,osaka,なんば駅,마지막 점심,assets/photos/schedules/osaka/d3-03.jpg
+osaka-d3-04,osaka,関西国際空港,공항 전철 이동,assets/photos/schedules/osaka/d3-04.jpg
+osaka-d3-05,osaka,関西国際空港,출국 수속·면세점,assets/photos/schedules/osaka/d3-05.jpg
+tokyo-d1-01,tokyo,成田国際空港,나리타공항 입국·공항철도·도심 이동,assets/photos/schedules/tokyo/d1-01.jpg
+tokyo-d1-02,tokyo,上野駅,우에노역 호텔 짐 보관,assets/photos/schedules/tokyo/d1-02.jpg
+tokyo-d1-03,tokyo,アメ横,우에노 지역 점심,assets/photos/schedules/tokyo/d1-03.jpg
+tokyo-d1-04,tokyo,上野恩賜公園,우에노 공원 가을 산책,assets/photos/schedules/tokyo/d1-04.jpg
+tokyo-d1-05,tokyo,不忍池,시노바즈 연못과 거리,assets/photos/schedules/tokyo/d1-05.jpg
+tokyo-d1-06,tokyo,東京ドームシティ,도쿄 돔시티 저녁,assets/photos/schedules/tokyo/d1-06.jpg
+tokyo-d1-07,tokyo,東京ドーム天然温泉 Spa LaQua,스파 라쿠아 천연온천,assets/photos/schedules/tokyo/d1-07.jpg
+tokyo-d1-08,tokyo,上野駅,전철로 우에노 복귀·휴식,assets/photos/schedules/tokyo/d1-08.jpg
+tokyo-d2-01,tokyo,新宿駅,전철로 신주쿠 이동·아침,assets/photos/schedules/tokyo/d2-01.jpg
+tokyo-d2-02,tokyo,新宿御苑,신주쿠교엔 자연 산책,assets/photos/schedules/tokyo/d2-02.jpg
+tokyo-d2-03,tokyo,新宿三丁目,신주쿠 점심,assets/photos/schedules/tokyo/d2-03.jpg
+tokyo-d2-04,tokyo,明治神宮,메이지 신궁 숲길,assets/photos/schedules/tokyo/d2-04.jpg
+tokyo-d2-05,tokyo,代々木公園,요요기공원 산책,assets/photos/schedules/tokyo/d2-05.jpg
+tokyo-d2-06,tokyo,渋谷,시부야 전망·휴식,assets/photos/schedules/tokyo/d2-06.jpg
+tokyo-d2-07,tokyo,渋谷 焼肉,야키니쿠 저녁,assets/photos/schedules/tokyo/d2-07.jpg
+tokyo-d2-08,tokyo,渋谷スクランブル交差点,시부야 야경·쇼핑,assets/photos/schedules/tokyo/d2-08.jpg
+tokyo-d2-09,tokyo,上野駅,숙소 복귀·야식,assets/photos/schedules/tokyo/d2-09.jpg
+tokyo-d3-01,tokyo,上野駅,체크아웃·짐 보관,assets/photos/schedules/tokyo/d3-01.jpg
+tokyo-d3-02,tokyo,浅草寺,아사쿠사 센소지,assets/photos/schedules/tokyo/d3-02.jpg
+tokyo-d3-03,tokyo,隅田川,스미다강 조망,assets/photos/schedules/tokyo/d3-03.jpg
+tokyo-d3-04,tokyo,浅草,마지막 식사,assets/photos/schedules/tokyo/d3-04.jpg
+tokyo-d3-05,tokyo,成田国際空港,나리타공항 이동,assets/photos/schedules/tokyo/d3-05.jpg
+tokyo-d3-06,tokyo,成田国際空港,출국 수속,assets/photos/schedules/tokyo/d3-06.jpg
+matsuyama-d1-01,matsuyama,松山空港,마쓰야마공항 입국·시내 리무진,assets/photos/schedules/matsuyama/d1-01.jpg
+matsuyama-d1-02,matsuyama,松山市駅,시내 호텔 짐 보관,assets/photos/schedules/matsuyama/d1-02.jpg
+matsuyama-d1-03,matsuyama,松山城ロープウェイ,마쓰야마 성 로프웨이,assets/photos/schedules/matsuyama/d1-03.jpg
+matsuyama-d1-04,matsuyama,松山城,성곽·도시 조망(관광 산책),assets/photos/schedules/matsuyama/d1-04.jpg
+matsuyama-d1-05,matsuyama,松山市駅 鯛めし,도미밥 점심,assets/photos/schedules/matsuyama/d1-05.jpg
+matsuyama-d1-06,matsuyama,道後温泉本館,도고온천 본관 입욕,assets/photos/schedules/matsuyama/d1-06.jpg
+matsuyama-d1-07,matsuyama,道後商店街,도고 상점가·족욕 주변,assets/photos/schedules/matsuyama/d1-07.jpg
+matsuyama-d1-08,matsuyama,道後温泉,에히메 향토음식 저녁,assets/photos/schedules/matsuyama/d1-08.jpg
+matsuyama-d1-09,matsuyama,道後公園,도고 공원 산책,assets/photos/schedules/matsuyama/d1-09.jpg
+matsuyama-d1-10,matsuyama,松山市駅,노면전차 복귀·야식,assets/photos/schedules/matsuyama/d1-10.jpg
+matsuyama-d2-01,matsuyama,松山駅,JR 요산선으로 해안 이동,assets/photos/schedules/matsuyama/d2-01.jpg
+matsuyama-d2-02,matsuyama,下灘駅,시모나다역 바다 풍경,assets/photos/schedules/matsuyama/d2-02.jpg
+matsuyama-d2-03,matsuyama,伊予市駅,철도 시각에 맞춰 귀환·점심,assets/photos/schedules/matsuyama/d2-03.jpg
+matsuyama-d2-04,matsuyama,松山駅,마쓰야마 시내 복귀,assets/photos/schedules/matsuyama/d2-04.jpg
+matsuyama-d2-05,matsuyama,萬翠荘,반스이소·역사 산책,assets/photos/schedules/matsuyama/d2-05.jpg
+matsuyama-d2-06,matsuyama,大街道,대가도 상점가 휴식,assets/photos/schedules/matsuyama/d2-06.jpg
+matsuyama-d2-07,matsuyama,大街道,저녁 식사,assets/photos/schedules/matsuyama/d2-07.jpg
+matsuyama-d2-08,matsuyama,道後温泉駅,도고온천 주변 야경,assets/photos/schedules/matsuyama/d2-08.jpg
+matsuyama-d2-09,matsuyama,松山市駅,숙소 복귀,assets/photos/schedules/matsuyama/d2-09.jpg
+matsuyama-d3-01,matsuyama,松山市駅,체크아웃,assets/photos/schedules/matsuyama/d3-01.jpg
+matsuyama-d3-02,matsuyama,石手寺,이시테지 문화·숲길,assets/photos/schedules/matsuyama/d3-02.jpg
+matsuyama-d3-03,matsuyama,松山市駅,현지 점심,assets/photos/schedules/matsuyama/d3-03.jpg
+matsuyama-d3-04,matsuyama,松山空港,공항 리무진 이동,assets/photos/schedules/matsuyama/d3-04.jpg
+matsuyama-d3-05,matsuyama,松山空港,출국 수속·탑승 준비,assets/photos/schedules/matsuyama/d3-05.jpg
+takamatsu-d1-01,takamatsu,高松空港,다카마쓰공항 입국·리무진버스,assets/photos/schedules/takamatsu/d1-01.jpg
+takamatsu-d1-02,takamatsu,高松駅,호텔 짐 보관·점심 준비,assets/photos/schedules/takamatsu/d1-02.jpg
+takamatsu-d1-03,takamatsu,高松 さぬきうどん,사누키 우동 점심,assets/photos/schedules/takamatsu/d1-03.jpg
+takamatsu-d1-04,takamatsu,栗林公園,리쓰린공원 일본정원 산책,assets/photos/schedules/takamatsu/d1-04.jpg
+takamatsu-d1-05,takamatsu,仏生山駅,고토덴으로 붓쇼잔 이동,assets/photos/schedules/takamatsu/d1-05.jpg
+takamatsu-d1-06,takamatsu,仏生山温泉 天平湯,붓쇼잔온천 천연노천탕,assets/photos/schedules/takamatsu/d1-06.jpg
+takamatsu-d1-07,takamatsu,瓦町駅,고토덴으로 중심지 복귀,assets/photos/schedules/takamatsu/d1-07.jpg
+takamatsu-d1-08,takamatsu,高松駅,야식·호텔 휴식,assets/photos/schedules/takamatsu/d1-08.jpg
+takamatsu-d2-01,takamatsu,琴平駅,고토덴으로 고토히라 이동,assets/photos/schedules/takamatsu/d2-01.jpg
+takamatsu-d2-02,takamatsu,金刀比羅宮,고토히라 신궁 계단길(관광 트레킹),assets/photos/schedules/takamatsu/d2-02.jpg
+takamatsu-d2-03,takamatsu,琴平,고토히라 점심,assets/photos/schedules/takamatsu/d2-03.jpg
+takamatsu-d2-04,takamatsu,高松築港駅,고토덴 열차로 다카마쓰 복귀,assets/photos/schedules/takamatsu/d2-04.jpg
+takamatsu-d2-05,takamatsu,サンポート高松,선포트 항구 조망,assets/photos/schedules/takamatsu/d2-05.jpg
+takamatsu-d2-06,takamatsu,玉藻公園,다카마쓰 성터 공원,assets/photos/schedules/takamatsu/d2-06.jpg
+takamatsu-d2-07,takamatsu,高松港,해산물 저녁,assets/photos/schedules/takamatsu/d2-07.jpg
+takamatsu-d2-08,takamatsu,丸亀町商店街,야경과 상점가,assets/photos/schedules/takamatsu/d2-08.jpg
+takamatsu-d2-09,takamatsu,高松駅,숙소 복귀·휴식,assets/photos/schedules/takamatsu/d2-09.jpg
+takamatsu-d3-01,takamatsu,高松駅,체크아웃,assets/photos/schedules/takamatsu/d3-01.jpg
+takamatsu-d3-02,takamatsu,兵庫町商店街,다카마쓰 중앙 상점가,assets/photos/schedules/takamatsu/d3-02.jpg
+takamatsu-d3-03,takamatsu,高松駅,사누키 우동 마지막 점심,assets/photos/schedules/takamatsu/d3-03.jpg
+takamatsu-d3-04,takamatsu,高松空港,공항 리무진 이동,assets/photos/schedules/takamatsu/d3-04.jpg
+takamatsu-d3-05,takamatsu,高松空港,출국 수속·탑승,assets/photos/schedules/takamatsu/d3-05.jpg
+kumamoto-d1-01,kumamoto,熊本空港,구마모토공항 입국·시내버스,assets/photos/schedules/kumamoto/d1-01.jpg
+kumamoto-d1-02,kumamoto,桜町バスターミナル,시내 짐 보관,assets/photos/schedules/kumamoto/d1-02.jpg
+kumamoto-d1-03,kumamoto,熊本ラーメン,구마모토 라멘 점심,assets/photos/schedules/kumamoto/d1-03.jpg
+kumamoto-d1-04,kumamoto,熊本城,구마모토성 및 공원 산책,assets/photos/schedules/kumamoto/d1-04.jpg
+kumamoto-d1-05,kumamoto,桜町バスターミナル,사쿠라마치 카페·쇼핑,assets/photos/schedules/kumamoto/d1-05.jpg
+kumamoto-d1-06,kumamoto,水前寺成趣園,도심 전차로 자연 명소 이동,assets/photos/schedules/kumamoto/d1-06.jpg
+kumamoto-d1-07,kumamoto,辛島町,말고기·향토 음식 저녁,assets/photos/schedules/kumamoto/d1-07.jpg
+kumamoto-d1-08,kumamoto,湯らっくす,JR 헤이세이역 인근 유락쿠스 온천,assets/photos/schedules/kumamoto/d1-08.jpg
+kumamoto-d1-09,kumamoto,熊本駅,전철·버스 복귀·숙소,assets/photos/schedules/kumamoto/d1-09.jpg
+kumamoto-d2-01,kumamoto,新水前寺駅,아침 식사·노면전차 이동,assets/photos/schedules/kumamoto/d2-01.jpg
+kumamoto-d2-02,kumamoto,水前寺成趣園,수이젠지 정원 자연 산책,assets/photos/schedules/kumamoto/d2-02.jpg
+kumamoto-d2-03,kumamoto,上江津湖,에즈호 주변 조망,assets/photos/schedules/kumamoto/d2-03.jpg
+kumamoto-d2-04,kumamoto,江津湖,호수 인근 점심,assets/photos/schedules/kumamoto/d2-04.jpg
+kumamoto-d2-05,kumamoto,通町筋,전차로 도심 복귀,assets/photos/schedules/kumamoto/d2-05.jpg
+kumamoto-d2-06,kumamoto,下通アーケード,시모토리 아케이드,assets/photos/schedules/kumamoto/d2-06.jpg
+kumamoto-d2-07,kumamoto,熊本城,구마모토 성터 전망,assets/photos/schedules/kumamoto/d2-07.jpg
+kumamoto-d2-08,kumamoto,下通,향토 음식 저녁,assets/photos/schedules/kumamoto/d2-08.jpg
+kumamoto-d2-09,kumamoto,花畑広場,도심 카페·야경,assets/photos/schedules/kumamoto/d2-09.jpg
+kumamoto-d2-10,kumamoto,熊本駅,숙소 복귀,assets/photos/schedules/kumamoto/d2-10.jpg
+kumamoto-d3-01,kumamoto,熊本駅,체크아웃,assets/photos/schedules/kumamoto/d3-01.jpg
+kumamoto-d3-02,kumamoto,アミュプラザくまもと,구마모토역 쇼핑,assets/photos/schedules/kumamoto/d3-02.jpg
+kumamoto-d3-03,kumamoto,熊本駅,마지막 점심,assets/photos/schedules/kumamoto/d3-03.jpg
+kumamoto-d3-04,kumamoto,熊本空港,공항 리무진버스,assets/photos/schedules/kumamoto/d3-04.jpg
+kumamoto-d3-05,kumamoto,熊本空港,출국 수속·탑승,assets/photos/schedules/kumamoto/d3-05.jpg
