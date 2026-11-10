@@ -3,7 +3,7 @@
   "party_size": 4,
   "stay_nights": 2,
   "currency_unit": "만원 (KRW 10,000)",
-  "base": "비예약·비실시간 예산 모델, 모든 금액 계획 가정",
+  "base": "실시간 예약가 아님: 항공사 11월 왕복 월최저·11/27~28 호텔 최저 표시 사례·시설/메뉴 공식가를 근거로 둔 수정 예산 시나리오",
   "scope": "왕복 항공·2박 숙소·3일 현지 식사·대중교통·온천/관광·예비비 / 쇼핑 제외",
   "cities": [
     {
@@ -13,23 +13,68 @@
       "airport": "HIJ",
       "arrival": "09:00 가정",
       "landscape": "미야지마·세토내해·우지나 호노유",
-      "flight": 32,
-      "ground": 7,
-      "meals": 14,
-      "activities": 7,
-      "buffer": 3,
-      "twin": 17,
-      "quad": 31,
-      "total2x2": 320,
-      "total4": 314,
+      "flight": 43,
+      "ground": 8,
+      "meals": 16,
+      "activities": 6,
+      "buffer": 5,
+      "twin": 20,
+      "quad": 38,
+      "total2x2": 392,
+      "total4": 388,
       "range2x2": [
-        272,
-        405
+        306,
+        529
       ],
       "range4": [
-        267,
-        397
-      ]
+        303,
+        524
+      ],
+      "flight_source": {
+        "url": "https://www.koreanair.com/flights/en-kr/flights-from-seoul-to-hiroshima",
+        "observed": "12월 왕복 월최저 310,700원",
+        "status": "왕복 월최저 참고",
+        "note": "대한항공 12월 왕복 월최저 310,700원 (11/27~29 운임 미확인; 주말 평균 표본 아님)"
+      },
+      "hotel_source": {
+        "url": "https://www.tour.ne.jp/j_hotel/55398/",
+        "observed": "스마일호텔 히로시마 11/27 2인1실 ¥15,248, 11/28 표시는 없음",
+        "observed_yen_dates": null,
+        "status": "동일 일자 2박 견적 미검증"
+      },
+      "verified_activities": [
+        [
+          "우지나 호노유(주말)",
+          1100,
+          "https://www.honoyu.jp/ujina/guidel/"
+        ],
+        [
+          "미야지마 로프웨이 왕복",
+          2000,
+          "https://miyajima-ropeway.info/english/fare/"
+        ],
+        [
+          "이쓰쿠시마 신사",
+          300,
+          "https://itsukushimajinja.jp/en/admission.html"
+        ]
+      ],
+      "meal_evidence": [],
+      "transport_evidence": [
+        [
+          "미야지마 JR 페리 편도 ¥200 + 입도세 ¥100",
+          "https://jr-miyajimaferry.co.jp/kr/"
+        ]
+      ],
+      "hotel_shared_status": "공유숙박 성인 4명 2박 요금/청소비/세금/재고 미조회. 표시액은 가정치이며 예약 견적이 아님.",
+      "price_confidence": {
+        "airfare": "날짜 맞춤 왕복 운임 미확인 · 계획값",
+        "hotel": "실제 2박 예약가 미확인 · 계획값",
+        "shared_stay": "4인 공유숙박의 실측 가격 미확인 · 계획값",
+        "activities": "시설별 일부 공식 요금 확인 · 기타 프로그램 예산 가정",
+        "food": "특정 메뉴 일부 공식 가격 확인 · 3일 전체 식비는 가정",
+        "transit": "일부 노선/패스 공식 가격 확인 · 전체 동선 합계 가정"
+      }
     },
     {
       "id": "shizuoka",
@@ -38,23 +83,53 @@
       "airport": "FSZ",
       "arrival": "09:00 가정",
       "landscape": "후지산·미호노마쓰바라·쿠사나기노유",
-      "flight": 29,
+      "flight": 53,
       "ground": 8,
-      "meals": 13,
-      "activities": 5,
-      "buffer": 3,
-      "twin": 15,
-      "quad": 29,
-      "total2x2": 292,
-      "total4": 290,
+      "meals": 15,
+      "activities": 4,
+      "buffer": 5,
+      "twin": 18,
+      "quad": 36,
+      "total2x2": 412,
+      "total4": 412,
       "range2x2": [
-        246,
-        374
+        321,
+        556
       ],
       "range4": [
-        244,
-        371
-      ]
+        321,
+        556
+      ],
+      "flight_source": {
+        "url": "",
+        "observed": null,
+        "status": "금~일 실제 가격 미확인",
+        "note": "해당 금~일 왕복 운임 미확인. 임시 항공 예산"
+      },
+      "hotel_source": {
+        "url": "",
+        "observed": "해당 날짜/조건 최종 견적 미확인",
+        "observed_yen_dates": null,
+        "status": "동일 일자 2박 견적 미검증"
+      },
+      "verified_activities": [
+        [
+          "쿠사나기노유(주말)",
+          1100,
+          "https://www.kusanagino-yu.com/price/"
+        ]
+      ],
+      "meal_evidence": [],
+      "transport_evidence": [],
+      "hotel_shared_status": "공유숙박 성인 4명 2박 요금/청소비/세금/재고 미조회. 표시액은 가정치이며 예약 견적이 아님.",
+      "price_confidence": {
+        "airfare": "날짜 맞춤 왕복 운임 미확인 · 계획값",
+        "hotel": "실제 2박 예약가 미확인 · 계획값",
+        "shared_stay": "4인 공유숙박의 실측 가격 미확인 · 계획값",
+        "activities": "시설별 일부 공식 요금 확인 · 기타 프로그램 예산 가정",
+        "food": "특정 메뉴 일부 공식 가격 확인 · 3일 전체 식비는 가정",
+        "transit": "일부 노선/패스 공식 가격 확인 · 전체 동선 합계 가정"
+      }
     },
     {
       "id": "sapporo",
@@ -63,23 +138,56 @@
       "airport": "CTS",
       "arrival": "09:00 가정",
       "landscape": "조잔케이 계곡·노천온천·도심공원",
-      "flight": 35,
+      "flight": 50,
       "ground": 10,
-      "meals": 15,
-      "activities": 8,
-      "buffer": 3,
+      "meals": 17,
+      "activities": 6,
+      "buffer": 5,
       "twin": 19,
       "quad": 36,
-      "total2x2": 360,
-      "total4": 356,
+      "total2x2": 428,
+      "total4": 424,
       "range2x2": [
-        310,
-        448
+        334,
+        578
       ],
       "range4": [
-        307,
-        443
-      ]
+        331,
+        572
+      ],
+      "flight_source": {
+        "url": "https://www.koreanair.com/flights/en-kr/flights-from-seoul-to-sapporo",
+        "observed": "11월 왕복 월최저 371,700원",
+        "status": "왕복 월최저 참고",
+        "note": "대한항공 11월 왕복 월최저 371,700원. 금~일 가격 아님"
+      },
+      "hotel_source": {
+        "url": "https://www.tour.ne.jp/j_hotel/list/?area1=22&city1=10006&coty1=21&dist1=1&month=11",
+        "observed": "삿포로역 주변 3성급 최저 표시 사례 (2인1실·1박): 11/27 ¥6,784 · 11/28 ¥9,118",
+        "observed_yen_dates": [
+          6784,
+          9118
+        ],
+        "status": "금/토 시장 최저 표시 사례 (예약 불확정)"
+      },
+      "verified_activities": [
+        [
+          "호헤이쿄온천",
+          1300,
+          "https://jozankei.jp/en/oneday/hoheikyo-onsen/"
+        ]
+      ],
+      "meal_evidence": [],
+      "transport_evidence": [],
+      "hotel_shared_status": "공유숙박 성인 4명 2박 요금/청소비/세금/재고 미조회. 표시액은 가정치이며 예약 견적이 아님.",
+      "price_confidence": {
+        "airfare": "날짜 맞춤 왕복 운임 미확인 · 계획값",
+        "hotel": "도시별 금/토 최저 사례 일부 확인 · 동일 객실 2박·재고 미확인",
+        "shared_stay": "4인 공유숙박의 실측 가격 미확인 · 계획값",
+        "activities": "시설별 일부 공식 요금 확인 · 기타 프로그램 예산 가정",
+        "food": "특정 메뉴 일부 공식 가격 확인 · 3일 전체 식비는 가정",
+        "transit": "일부 노선/패스 공식 가격 확인 · 전체 동선 합계 가정"
+      }
     },
     {
       "id": "nagoya",
@@ -88,23 +196,61 @@
       "airport": "NGO",
       "arrival": "09:00 가정",
       "landscape": "나고야 성·아쓰타 신궁·도심 온천",
-      "flight": 28,
+      "flight": 59,
       "ground": 7,
-      "meals": 14,
-      "activities": 5,
-      "buffer": 3,
-      "twin": 18,
-      "quad": 35,
-      "total2x2": 300,
-      "total4": 298,
+      "meals": 16,
+      "activities": 4,
+      "buffer": 5,
+      "twin": 23,
+      "quad": 42,
+      "total2x2": 456,
+      "total4": 448,
       "range2x2": [
-        251,
-        387
+        356,
+        616
       ],
       "range4": [
-        249,
-        384
-      ]
+        349,
+        605
+      ],
+      "flight_source": {
+        "url": "https://www.koreanair.com/flights/ko-kr/flights-from-seoul-to-nagoya",
+        "observed": "11월 왕복 월최저 463,300원",
+        "status": "왕복 월최저 참고",
+        "note": "대한항공 11월 왕복 월최저 463,300원. 금~일 가격 아님"
+      },
+      "hotel_source": {
+        "url": "https://www.tour.ne.jp/j_hotel/list/?area1=636&city1=10151&coty1=82&dist1=5&month=11",
+        "observed": "나고야역 주변 3성급 최저 표시 사례 (2인1실·1박): 11/27 ¥22,000 · 11/28 ¥31,340",
+        "observed_yen_dates": [
+          22000,
+          31340
+        ],
+        "status": "금/토 시장 최저 표시 사례 (예약 불확정)"
+      },
+      "verified_activities": [
+        [
+          "나고야성",
+          1000,
+          "https://www.nagoyajo.city.nagoya.jp/info/fee/"
+        ]
+      ],
+      "meal_evidence": [
+        [
+          "야바톤 미소카츠 정식 ¥1,450부터",
+          "https://tabelog.com/aichi/A2301/A230101/23031652/dtlmenu/"
+        ]
+      ],
+      "transport_evidence": [],
+      "hotel_shared_status": "공유숙박 성인 4명 2박 요금/청소비/세금/재고 미조회. 표시액은 가정치이며 예약 견적이 아님.",
+      "price_confidence": {
+        "airfare": "날짜 맞춤 왕복 운임 미확인 · 계획값",
+        "hotel": "도시별 금/토 최저 사례 일부 확인 · 동일 객실 2박·재고 미확인",
+        "shared_stay": "4인 공유숙박의 실측 가격 미확인 · 계획값",
+        "activities": "시설별 일부 공식 요금 확인 · 기타 프로그램 예산 가정",
+        "food": "특정 메뉴 일부 공식 가격 확인 · 3일 전체 식비는 가정",
+        "transit": "일부 노선/패스 공식 가격 확인 · 전체 동선 합계 가정"
+      }
     },
     {
       "id": "okinawa",
@@ -113,23 +259,53 @@
       "airport": "OKA",
       "arrival": "09:00 가정",
       "landscape": "에메랄드빛 바다·우미카지·해수온천",
-      "flight": 36,
-      "ground": 13,
-      "meals": 14,
-      "activities": 7,
-      "buffer": 3,
-      "twin": 20,
-      "quad": 41,
-      "total2x2": 372,
-      "total4": 374,
+      "flight": 65,
+      "ground": 15,
+      "meals": 17,
+      "activities": 10,
+      "buffer": 5,
+      "twin": 22,
+      "quad": 42,
+      "total2x2": 536,
+      "total4": 532,
       "range2x2": [
-        321,
-        462
+        418,
+        724
       ],
       "range4": [
-        322,
-        464
-      ]
+        415,
+        718
+      ],
+      "flight_source": {
+        "url": "https://www.koreanair.com/flights/ko-kr/flights-from-seoul-to-okinawa",
+        "observed": "11월 왕복 월최저 482,800원",
+        "status": "왕복 월최저 참고",
+        "note": "대한항공 11월 왕복 월최저 482,800원. 금~일 가격 아님"
+      },
+      "hotel_source": {
+        "url": "",
+        "observed": "해당 날짜/조건 최종 견적 미확인",
+        "observed_yen_dates": null,
+        "status": "동일 일자 2박 견적 미검증"
+      },
+      "verified_activities": [
+        [
+          "츄라우미 수족관",
+          2180,
+          "https://static.churaumi.oc-am.net/guide/info/"
+        ]
+      ],
+      "meal_evidence": [],
+      "transport_evidence": [],
+      "hotel_shared_status": "공유숙박 성인 4명 2박 요금/청소비/세금/재고 미조회. 표시액은 가정치이며 예약 견적이 아님.",
+      "price_confidence": {
+        "airfare": "날짜 맞춤 왕복 운임 미확인 · 계획값",
+        "hotel": "실제 2박 예약가 미확인 · 계획값",
+        "shared_stay": "4인 공유숙박의 실측 가격 미확인 · 계획값",
+        "activities": "시설별 일부 공식 요금 확인 · 기타 프로그램 예산 가정",
+        "food": "특정 메뉴 일부 공식 가격 확인 · 3일 전체 식비는 가정",
+        "transit": "일부 노선/패스 공식 가격 확인 · 전체 동선 합계 가정"
+      }
     },
     {
       "id": "sendai",
@@ -138,23 +314,56 @@
       "airport": "SDJ",
       "arrival": "09:00 가정",
       "landscape": "마쓰시마·아키우 온천·녹지",
-      "flight": 32,
+      "flight": 53,
       "ground": 8,
-      "meals": 13,
-      "activities": 6,
-      "buffer": 3,
+      "meals": 17,
+      "activities": 5,
+      "buffer": 5,
       "twin": 16,
       "quad": 31,
-      "total2x2": 312,
-      "total4": 310,
+      "total2x2": 416,
+      "total4": 414,
       "range2x2": [
-        265,
-        396
+        324,
+        562
       ],
       "range4": [
-        263,
-        393
-      ]
+        323,
+        559
+      ],
+      "flight_source": {
+        "url": "",
+        "observed": null,
+        "status": "금~일 실제 가격 미확인",
+        "note": "해당 금~일 왕복 운임 미확인. 임시 항공 예산"
+      },
+      "hotel_source": {
+        "url": "https://www.tour.ne.jp/j_hotel/list/?area1=343&city1=10022&coty1=178&dist1=2&month=11",
+        "observed": "센다이 시내 3성급 최저 표시 사례 (2인1실·1박): 11/27 ¥8,080 · 11/28 ¥13,476",
+        "observed_yen_dates": [
+          8080,
+          13476
+        ],
+        "status": "금/토 시장 최저 표시 사례 (예약 불확정)"
+      },
+      "verified_activities": [
+        [
+          "아키우 그랜드호텔 당일 입욕 주말",
+          1500,
+          "https://akiugrand.com/faq/"
+        ]
+      ],
+      "meal_evidence": [],
+      "transport_evidence": [],
+      "hotel_shared_status": "공유숙박 성인 4명 2박 요금/청소비/세금/재고 미조회. 표시액은 가정치이며 예약 견적이 아님.",
+      "price_confidence": {
+        "airfare": "날짜 맞춤 왕복 운임 미확인 · 계획값",
+        "hotel": "도시별 금/토 최저 사례 일부 확인 · 동일 객실 2박·재고 미확인",
+        "shared_stay": "4인 공유숙박의 실측 가격 미확인 · 계획값",
+        "activities": "시설별 일부 공식 요금 확인 · 기타 프로그램 예산 가정",
+        "food": "특정 메뉴 일부 공식 가격 확인 · 3일 전체 식비는 가정",
+        "transit": "일부 노선/패스 공식 가격 확인 · 전체 동선 합계 가정"
+      }
     },
     {
       "id": "fukuoka",
@@ -163,23 +372,58 @@
       "airport": "FUK",
       "arrival": "오전 07:35 사례",
       "landscape": "오호리 공원·노코노시마·나미하노유",
-      "flight": 25,
-      "ground": 6,
-      "meals": 13,
+      "flight": 49,
+      "ground": 8,
+      "meals": 16,
       "activities": 6,
-      "buffer": 3,
-      "twin": 18,
-      "quad": 34,
-      "total2x2": 284,
-      "total4": 280,
+      "buffer": 5,
+      "twin": 19,
+      "quad": 36,
+      "total2x2": 412,
+      "total4": 408,
       "range2x2": [
-        235,
-        371
+        321,
+        556
       ],
       "range4": [
-        232,
-        365
-      ]
+        318,
+        551
+      ],
+      "flight_source": {
+        "url": "https://www.koreanair.com/flights/en-kr/flights-from-seoul-to-fukuoka",
+        "observed": "11월 왕복 월최저 388,300원",
+        "status": "왕복 월최저 참고",
+        "note": "대한항공 11월 왕복 월최저 388,300원, 11/27 편도 203,645원은 다른 예약사이트 표시; 왕복 조합 미확인"
+      },
+      "hotel_source": {
+        "url": "",
+        "observed": "해당 날짜/조건 최종 견적 미확인",
+        "observed_yen_dates": null,
+        "status": "동일 일자 2박 견적 미검증"
+      },
+      "verified_activities": [
+        [
+          "나미하노유 입욕 주말",
+          1300,
+          "https://namiha.jp/info/"
+        ]
+      ],
+      "meal_evidence": [
+        [
+          "모츠나베 오오야마 하카타 데이토스 1인분 ¥2,398(세금 포함)",
+          "https://www.motu-ooyama.com/shop/hakatadeitos/"
+        ]
+      ],
+      "transport_evidence": [],
+      "hotel_shared_status": "공유숙박 성인 4명 2박 요금/청소비/세금/재고 미조회. 표시액은 가정치이며 예약 견적이 아님.",
+      "price_confidence": {
+        "airfare": "날짜 맞춤 왕복 운임 미확인 · 계획값",
+        "hotel": "실제 2박 예약가 미확인 · 계획값",
+        "shared_stay": "4인 공유숙박의 실측 가격 미확인 · 계획값",
+        "activities": "시설별 일부 공식 요금 확인 · 기타 프로그램 예산 가정",
+        "food": "특정 메뉴 일부 공식 가격 확인 · 3일 전체 식비는 가정",
+        "transit": "일부 노선/패스 공식 가격 확인 · 전체 동선 합계 가정"
+      }
     },
     {
       "id": "osaka",
@@ -188,23 +432,66 @@
       "airport": "KIX",
       "arrival": "오전 08:50 사례",
       "landscape": "오사카성 공원·미노오 폭포·나니와노유",
-      "flight": 27,
+      "flight": 54,
       "ground": 8,
-      "meals": 14,
-      "activities": 7,
-      "buffer": 3,
-      "twin": 21,
-      "quad": 44,
-      "total2x2": 320,
-      "total4": 324,
+      "meals": 16,
+      "activities": 5,
+      "buffer": 5,
+      "twin": 16,
+      "quad": 32,
+      "total2x2": 416,
+      "total4": 416,
       "range2x2": [
-        268,
-        411
+        324,
+        562
       ],
       "range4": [
-        271,
-        417
-      ]
+        324,
+        562
+      ],
+      "flight_source": {
+        "url": "https://www.koreanair.com/flights/ko/flights-from-seoul-to-osaka",
+        "observed": "11월 왕복 월최저 382,400원",
+        "status": "왕복 월최저 참고",
+        "note": "대한항공 11월 왕복 월최저 382,400원. 11/27 출발·12/3 귀국 532,400원 사례는 요청 귀국일 아님"
+      },
+      "hotel_source": {
+        "url": "https://www.tour.ne.jp/j_hotel/list/?area1=677&city1=10177&coty1=5&dist1=6&month=11",
+        "observed": "우메다 권역 3성급 최저 표시 사례 (2인1실·1박): 11/27 ¥4,500 · 11/28 ¥9,900",
+        "observed_yen_dates": [
+          4500,
+          9900
+        ],
+        "status": "금/토 시장 최저 표시 사례 (예약 불확정)"
+      },
+      "verified_activities": [
+        [
+          "나니와노유 입욕 주말",
+          1000,
+          "https://naniwanoyu.com/hours/"
+        ]
+      ],
+      "meal_evidence": [
+        [
+          "모츠나베 오오야마 오사카역점 1인분 ¥2,508(세금 포함)",
+          "https://www.motu-ooyama.com/shop/oosakaeki/"
+        ]
+      ],
+      "transport_evidence": [
+        [
+          "오사카 지하철 토·일 1일권 ¥620",
+          "https://subway.osakametro.co.jp/ko/guide/page/enjoy-eco.php/information_service/index.php"
+        ]
+      ],
+      "hotel_shared_status": "공유숙박 성인 4명 2박 요금/청소비/세금/재고 미조회. 표시액은 가정치이며 예약 견적이 아님.",
+      "price_confidence": {
+        "airfare": "날짜 맞춤 왕복 운임 미확인 · 계획값",
+        "hotel": "도시별 금/토 최저 사례 일부 확인 · 동일 객실 2박·재고 미확인",
+        "shared_stay": "4인 공유숙박의 실측 가격 미확인 · 계획값",
+        "activities": "시설별 일부 공식 요금 확인 · 기타 프로그램 예산 가정",
+        "food": "특정 메뉴 일부 공식 가격 확인 · 3일 전체 식비는 가정",
+        "transit": "일부 노선/패스 공식 가격 확인 · 전체 동선 합계 가정"
+      }
     },
     {
       "id": "tokyo",
@@ -213,23 +500,61 @@
       "airport": "NRT",
       "arrival": "오전 09:40 사례",
       "landscape": "신주쿠교엔·우에노 공원·스파 라쿠아",
-      "flight": 36,
-      "ground": 11,
-      "meals": 16,
-      "activities": 8,
-      "buffer": 3,
-      "twin": 26,
-      "quad": 57,
-      "total2x2": 400,
-      "total4": 410,
+      "flight": 59,
+      "ground": 10,
+      "meals": 19,
+      "activities": 7,
+      "buffer": 5,
+      "twin": 23,
+      "quad": 45,
+      "total2x2": 492,
+      "total4": 490,
       "range2x2": [
-        343,
-        498
+        384,
+        664
       ],
       "range4": [
-        351,
-        512
-      ]
+        382,
+        662
+      ],
+      "flight_source": {
+        "url": "",
+        "observed": null,
+        "status": "금~일 실제 가격 미확인",
+        "note": "해당 금~일 왕복 운임 미확인. 임시 항공 예산"
+      },
+      "hotel_source": {
+        "url": "https://www.tour.ne.jp/j_hotel/list/?area1=7&city1=10299&coty1=1&dist1=3&month=11",
+        "observed": "우에노·아사쿠사 권역 3성급 최저 표시 사례 (2인1실·1박): 11/27 ¥10,424 · 11/28 ¥23,396",
+        "observed_yen_dates": [
+          10424,
+          23396
+        ],
+        "status": "금/토 시장 최저 표시 사례 (예약 불확정)"
+      },
+      "verified_activities": [
+        [
+          "스파 라쿠아 입장 기본",
+          3500,
+          "https://www.laqua.jp/spa/information/?lang=en"
+        ]
+      ],
+      "meal_evidence": [],
+      "transport_evidence": [
+        [
+          "Tokyo Subway Ticket 72시간권 ¥2,000",
+          "https://www.tokyometro.jp/en/ticket/travel/index.html"
+        ]
+      ],
+      "hotel_shared_status": "공유숙박 성인 4명 2박 요금/청소비/세금/재고 미조회. 표시액은 가정치이며 예약 견적이 아님.",
+      "price_confidence": {
+        "airfare": "날짜 맞춤 왕복 운임 미확인 · 계획값",
+        "hotel": "도시별 금/토 최저 사례 일부 확인 · 동일 객실 2박·재고 미확인",
+        "shared_stay": "4인 공유숙박의 실측 가격 미확인 · 계획값",
+        "activities": "시설별 일부 공식 요금 확인 · 기타 프로그램 예산 가정",
+        "food": "특정 메뉴 일부 공식 가격 확인 · 3일 전체 식비는 가정",
+        "transit": "일부 노선/패스 공식 가격 확인 · 전체 동선 합계 가정"
+      }
     },
     {
       "id": "matsuyama",
@@ -238,23 +563,58 @@
       "airport": "MYJ",
       "arrival": "오전 08:35 사례",
       "landscape": "도고온천·마쓰야마성·세토내해",
-      "flight": 31,
-      "ground": 7,
-      "meals": 12,
-      "activities": 6,
-      "buffer": 3,
-      "twin": 15,
-      "quad": 29,
-      "total2x2": 296,
-      "total4": 294,
+      "flight": 55,
+      "ground": 8,
+      "meals": 16,
+      "activities": 4,
+      "buffer": 5,
+      "twin": 18,
+      "quad": 34,
+      "total2x2": 424,
+      "total4": 420,
       "range2x2": [
-        250,
-        378
+        331,
+        572
       ],
       "range4": [
-        248,
-        375
-      ]
+        328,
+        567
+      ],
+      "flight_source": {
+        "url": "",
+        "observed": null,
+        "status": "금~일 실제 가격 미확인",
+        "note": "해당 금~일 왕복 운임 미확인. 임시 항공 예산"
+      },
+      "hotel_source": {
+        "url": "",
+        "observed": "해당 날짜/조건 최종 견적 미확인",
+        "observed_yen_dates": null,
+        "status": "동일 일자 2박 견적 미검증"
+      },
+      "verified_activities": [
+        [
+          "도고온천 본관 기본 입욕",
+          700,
+          "https://dogo.jp/en/honkan.php"
+        ],
+        [
+          "마쓰야마성 로프웨이 왕복",
+          520,
+          "https://www.city.matsuyama.ehime.jp/kanko/kankoguide/shitestukoen/matsuyamajyo/ro-puuei.html"
+        ]
+      ],
+      "meal_evidence": [],
+      "transport_evidence": [],
+      "hotel_shared_status": "공유숙박 성인 4명 2박 요금/청소비/세금/재고 미조회. 표시액은 가정치이며 예약 견적이 아님.",
+      "price_confidence": {
+        "airfare": "날짜 맞춤 왕복 운임 미확인 · 계획값",
+        "hotel": "실제 2박 예약가 미확인 · 계획값",
+        "shared_stay": "4인 공유숙박의 실측 가격 미확인 · 계획값",
+        "activities": "시설별 일부 공식 요금 확인 · 기타 프로그램 예산 가정",
+        "food": "특정 메뉴 일부 공식 가격 확인 · 3일 전체 식비는 가정",
+        "transit": "일부 노선/패스 공식 가격 확인 · 전체 동선 합계 가정"
+      }
     },
     {
       "id": "takamatsu",
@@ -263,23 +623,47 @@
       "airport": "TAK",
       "arrival": "오전 10:30 사례",
       "landscape": "리쓰린 공원·고토히라·붓쇼잔온천",
-      "flight": 29,
-      "ground": 7,
-      "meals": 12,
-      "activities": 6,
-      "buffer": 3,
-      "twin": 16,
-      "quad": 31,
-      "total2x2": 292,
-      "total4": 290,
+      "flight": 54,
+      "ground": 9,
+      "meals": 15,
+      "activities": 4,
+      "buffer": 5,
+      "twin": 17,
+      "quad": 34,
+      "total2x2": 416,
+      "total4": 416,
       "range2x2": [
-        245,
-        376
+        324,
+        562
       ],
       "range4": [
-        243,
-        373
-      ]
+        324,
+        562
+      ],
+      "flight_source": {
+        "url": "",
+        "observed": null,
+        "status": "금~일 실제 가격 미확인",
+        "note": "해당 금~일 왕복 운임 미확인. 임시 항공 예산"
+      },
+      "hotel_source": {
+        "url": "",
+        "observed": "해당 날짜/조건 최종 견적 미확인",
+        "observed_yen_dates": null,
+        "status": "동일 일자 2박 견적 미검증"
+      },
+      "verified_activities": [],
+      "meal_evidence": [],
+      "transport_evidence": [],
+      "hotel_shared_status": "공유숙박 성인 4명 2박 요금/청소비/세금/재고 미조회. 표시액은 가정치이며 예약 견적이 아님.",
+      "price_confidence": {
+        "airfare": "날짜 맞춤 왕복 운임 미확인 · 계획값",
+        "hotel": "실제 2박 예약가 미확인 · 계획값",
+        "shared_stay": "4인 공유숙박의 실측 가격 미확인 · 계획값",
+        "activities": "시설별 일부 공식 요금 확인 · 기타 프로그램 예산 가정",
+        "food": "특정 메뉴 일부 공식 가격 확인 · 3일 전체 식비는 가정",
+        "transit": "일부 노선/패스 공식 가격 확인 · 전체 동선 합계 가정"
+      }
     },
     {
       "id": "kumamoto",
@@ -288,23 +672,65 @@
       "airport": "KMJ",
       "arrival": "오전 09:25 사례",
       "landscape": "수이젠지 정원·에즈호·천연온천",
-      "flight": 31,
-      "ground": 9,
-      "meals": 13,
-      "activities": 7,
-      "buffer": 3,
-      "twin": 16,
-      "quad": 32,
-      "total2x2": 316,
-      "total4": 316,
+      "flight": 48,
+      "ground": 8,
+      "meals": 16,
+      "activities": 4,
+      "buffer": 5,
+      "twin": 17,
+      "quad": 33,
+      "total2x2": 392,
+      "total4": 390,
       "range2x2": [
-        269,
-        400
+        306,
+        529
       ],
       "range4": [
-        269,
-        400
-      ]
+        304,
+        526
+      ],
+      "flight_source": {
+        "url": "https://www.koreanair.com/flights/en-kr/flights-from-seoul-to-kumamoto",
+        "observed": "11월 왕복 월최저 352,800원",
+        "status": "왕복 월최저 참고",
+        "note": "대한항공 11월 왕복 월최저 352,800원. 금~일 가격 아님"
+      },
+      "hotel_source": {
+        "url": "",
+        "observed": "해당 날짜/조건 최종 견적 미확인",
+        "observed_yen_dates": null,
+        "status": "동일 일자 2박 견적 미검증"
+      },
+      "verified_activities": [
+        [
+          "유락쿠스 목욕만 주말",
+          1000,
+          "https://www.yulax.info/price/"
+        ]
+      ],
+      "meal_evidence": [],
+      "transport_evidence": [],
+      "hotel_shared_status": "공유숙박 성인 4명 2박 요금/청소비/세금/재고 미조회. 표시액은 가정치이며 예약 견적이 아님.",
+      "price_confidence": {
+        "airfare": "날짜 맞춤 왕복 운임 미확인 · 계획값",
+        "hotel": "실제 2박 예약가 미확인 · 계획값",
+        "shared_stay": "4인 공유숙박의 실측 가격 미확인 · 계획값",
+        "activities": "시설별 일부 공식 요금 확인 · 기타 프로그램 예산 가정",
+        "food": "특정 메뉴 일부 공식 가격 확인 · 3일 전체 식비는 가정",
+        "transit": "일부 노선/패스 공식 가격 확인 · 전체 동선 합계 가정"
+      }
     }
-  ]
+  ],
+  "exchange_rate_assumption": "1 JPY = 8.46 KRW, 2026-11-10 Wise 중간환율 참고, 결제 수수료 제외",
+  "research_sources": [
+    {
+      "label": "네이버 여행 호텔 조건 안내",
+      "url": "https://mkt.naver.com/naverdetails/travel"
+    },
+    {
+      "label": "엔화 환율 (Wise 2026-11-10)",
+      "url": "https://wise.com/gb/currency-converter/jpy-to-krw-rate/history"
+    }
+  ],
+  "validation": "모든 도시 4인 총액은 세부 예산 입력값으로 계산됨. 확정가격 아님. 2026-11-27~29 네이버 항공권·호텔 실시간 예약가 확인 불가."
 }
