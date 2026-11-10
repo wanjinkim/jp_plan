@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/fix-all-itinerary-images.yml'
+      - 'scripts/repair_all_schedule_photos.py'
 permissions:
   contents: write
 concurrency:
@@ -37,7 +38,9 @@ jobs:
                   with urllib.request.urlopen(req,timeout=15) as r:print('SOURCE OK',r.status,r.url)
               except Exception as ex:print('SOURCE ERROR',host.split('/')[2],str(ex))
           PY
-      - name: Search schedule place and activity keywords, download validated licensed pictures
+      - name: Compile photo collector before running
+        run: python -m py_compile scripts/repair_all_schedule_photos.py
+      - name: Search unresolved venue images using Wikipedia + Wikidata + Commons
         run: |
           mkdir -p assets/photos/schedules
           python scripts/repair_all_schedule_photos.py
