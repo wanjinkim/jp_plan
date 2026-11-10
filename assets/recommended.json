@@ -1,0 +1,2068 @@
+{
+  "updated": "2026-11-10",
+  "basis": "직접 작성한 제안 동선. 상세 시각 중 운행표 확인 구간만 사실, 나머지는 활동 시간 배분값",
+  "cities": {
+    "hiroshima": {
+      "intro": "미야지마 단풍과 세토내해 전망을 중심으로, 전차·JR·페리와 도심 천연온천을 결합한 코스",
+      "themes": [
+        [
+          "1순위 · 풍경+온천 균형",
+          "미야지마·로프웨이·우지나 천연온천"
+        ],
+        [
+          "2순위 · 비·강풍 대안",
+          "평화공원·슈케이엔·도심 식당 중심"
+        ],
+        [
+          "3순위 · 미식 집중",
+          "오코노미야키·굴·혼도리 상점가"
+        ]
+      ],
+      "facts": [
+        "11월 28일 미야지마 로프웨이는 사전 탑승예약 지정일입니다.",
+        "우지나 호노유의 영업은 09:00~23:00, 최종 입장 22:00입니다.",
+        "미야지마 이쓰쿠시마 신사와 로프웨이는 섬 안이며 우에노 본점은 섬 건너 미야지마구치에 있으므로 같은 곳으로 취급하지 않습니다."
+      ],
+      "sources": [
+        [
+          "미야지마 로프웨이 공식",
+          "https://miyajima-ropeway.info/kor/"
+        ],
+        [
+          "우지나 호노유 공식",
+          "https://www.honoyu.jp/ujina/"
+        ]
+      ],
+      "days": [
+        [
+          {
+            "start": "09:00",
+            "end": "10:10",
+            "title": "공항 입국·짐 수령·리무진 대기",
+            "place": "広島空港",
+            "kind": "입국",
+            "walk": 5,
+            "verified": false,
+            "note": "착륙 09:00은 가정이며 실제 항공편이 아직 확인되지 않았습니다.",
+            "photo_file": "A runway and a Sunset - panoramio.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": true
+          },
+          {
+            "start": "10:10",
+            "end": "11:10",
+            "title": "공항 리무진 → 히로시마역 / 짐 맡기기",
+            "place": "広島駅",
+            "kind": "이동",
+            "walk": 7,
+            "verified": false,
+            "note": "공항버스 탑승편과 호텔 위치에 따라 조정 필요",
+            "photo_file": "JR and Hiroden Hiroshima Station.JPG",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "11:10",
+            "end": "12:40",
+            "title": "평화기념공원·원폭 돔·강변 산책",
+            "place": "広島平和記念公園",
+            "kind": "자연·역사",
+            "walk": 8,
+            "verified": false,
+            "note": "도심 전차 하차 후 공원 산책. 공원 내부 산책은 이동 도보 제한에 포함하지 않음",
+            "photo_file": "Hiroshima Peace Memorial Park - HiroshimaPeace128.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "12:40",
+            "end": "13:55",
+            "title": "점심: 히로시마식 오코노미야키",
+            "place": "広島 お好み焼き",
+            "kind": "식사",
+            "walk": 6,
+            "verified": false,
+            "note": "특정 업소의 대기시간이 달라 음식 종류 중심으로 추천",
+            "photo_file": "Okonomiyaki in Hiroshima 02.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "13:55",
+            "end": "15:40",
+            "title": "히로시마성·성곽 공원",
+            "place": "広島城",
+            "kind": "명소",
+            "walk": 8,
+            "verified": false,
+            "note": "전차 또는 버스 이동, 도보는 정류장 접근 구간만 기준",
+            "photo_file": "Hiroshima Castle 2025.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "15:40",
+            "end": "17:50",
+            "title": "혼도리 쇼핑거리·휴식·간식",
+            "place": "本通商店街 広島",
+            "kind": "거리",
+            "walk": 5,
+            "verified": false,
+            "note": "상점별 영업시간 확인",
+            "photo_file": "Hiroshima hondori.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "17:50",
+            "end": "19:30",
+            "title": "저녁: 굴구이 등 세토내해 미식",
+            "place": "広島 牡蠣料理",
+            "kind": "식사",
+            "walk": 6,
+            "verified": false,
+            "note": "굴 전문점은 현장 예약 여부 확인",
+            "photo_file": "2012-04-15 Grilling oysters at Miyajima.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "19:30",
+            "end": "21:30",
+            "title": "시내 전차 야경·나가레카와 번화가",
+            "place": "流川 広島",
+            "kind": "야경",
+            "walk": 7,
+            "verified": false,
+            "note": "야간에는 운행 간격과 영업시간 확인",
+            "photo_file": "Hiroshima streetcar at night beside Hondori Station.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "21:30",
+            "end": "24:00",
+            "title": "호텔 복귀·샤워·취침 준비",
+            "place": "広島駅 ホテル",
+            "kind": "휴식",
+            "walk": 8,
+            "verified": false,
+            "note": "숙소 미확정 · 실제 객실 이미지가 아니라 권역 참고",
+            "photo_file": "2013-09-01 a hotel room in Hiroshima 01.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:20",
+            "title": "JR 산요본선·미야지마구치·페리",
+            "place": "宮島口",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "환승 연결시간은 일정 배분값",
+            "photo_file": "Miyajima Ferry Terminal 宮島渡輪站 - panoramio.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "09:20",
+            "end": "10:40",
+            "title": "이쓰쿠시마 신사·해상 도리이",
+            "place": "厳島神社",
+            "kind": "명소",
+            "walk": 12,
+            "verified": false,
+            "note": "조수 간만에 따라 도리이 모습이 달라질 수 있습니다.",
+            "photo_file": "Itsukushima Gate.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "10:40",
+            "end": "11:30",
+            "title": "오모테산도·모미지만주 간식",
+            "place": "宮島表参道商店街",
+            "kind": "음식",
+            "walk": 8,
+            "verified": false,
+            "note": "섬 상점가에서 간식 구입",
+            "photo_file": "Momiji Manju Hiroshima.JPG",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "11:30",
+            "end": "12:35",
+            "title": "점심: 미야지마 장어덮밥",
+            "place": "宮島 あなご飯",
+            "kind": "식사",
+            "walk": 8,
+            "verified": false,
+            "note": "우에노 본점(육지)은 이 구간에 포함하지 않음",
+            "photo_file": "Anago-meshi あなごめし.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "12:35",
+            "end": "13:20",
+            "title": "모미지다니 공원 산책",
+            "place": "紅葉谷公園",
+            "kind": "자연",
+            "walk": 10,
+            "verified": false,
+            "note": "공원 내부 트레킹은 별도 관람 시간",
+            "photo_file": "Autumn colours on Miyajima Island Japan.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "13:20",
+            "end": "15:50",
+            "title": "예약 로프웨이·시시이와 전망",
+            "place": "宮島ロープウエー",
+            "kind": "자연",
+            "walk": 10,
+            "verified": true,
+            "note": "11월28일 사전 예약 필수. 기상에 따라 운휴 가능",
+            "photo_file": "View from Miyajima Ropeway 001.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "15:50",
+            "end": "17:30",
+            "title": "페리·JR로 히로시마 복귀",
+            "place": "広島駅",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "시간표·대기 포함 편성. 정확한 승차시각 미확정",
+            "photo_file": "JR Hiroshima station 03d (2949908323).jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "17:30",
+            "end": "20:35",
+            "title": "우지나 천연온천 호노유에서 온천욕",
+            "place": "宇品天然温泉 ほの湯",
+            "kind": "온천",
+            "walk": 10,
+            "verified": true,
+            "note": "전차 이동+온천 체류를 포함. 개별 탕 사진은 미확보",
+            "photo_file": "Hiroden Ujina Line in Hiroshima.jpg",
+            "photo_scope": "온천 지역 참고 사진 · 시설 내부 실제 사진은 별도 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "20:35",
+            "end": "22:20",
+            "title": "히로시마역권 늦은 저녁·간식",
+            "place": "広島駅",
+            "kind": "식사",
+            "walk": 5,
+            "verified": false,
+            "note": "늦은 시간 영업 매장 확인 필요",
+            "photo_file": "Okonomiyaki in Hiroshima 03.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "22:20",
+            "end": "24:00",
+            "title": "숙소 복귀·휴식",
+            "place": "広島駅 ホテル",
+            "kind": "휴식",
+            "walk": 5,
+            "verified": false,
+            "note": "숙소 미정 · 호텔 외관 예시",
+            "photo_file": "Hiroshima Washington Hotel.JPG",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:10",
+            "title": "체크아웃·히로시마역 짐 보관",
+            "place": "広島駅",
+            "kind": "교통",
+            "walk": 6,
+            "verified": false,
+            "note": "보관함 공실·호텔 위치 확인",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "09:10",
+            "end": "11:00",
+            "title": "슈케이엔 정원 아침 산책",
+            "place": "縮景園",
+            "kind": "자연",
+            "walk": 12,
+            "verified": false,
+            "note": "정원 내 산책은 트레킹·관람으로 분리",
+            "photo_file": "Hiroshima Shukkeien hdsr Garden S5 20.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "11:00",
+            "end": "12:00",
+            "title": "역으로 돌아와 기념품 쇼핑",
+            "place": "広島駅",
+            "kind": "쇼핑",
+            "walk": 6,
+            "verified": false,
+            "note": "수하물 회수 후 공항 이동 준비",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "12:00",
+            "end": "13:00",
+            "title": "점심: 오코노미야키·라멘 중 선택",
+            "place": "広島駅 お好み焼き",
+            "kind": "식사",
+            "walk": 5,
+            "verified": false,
+            "note": "식당명 미확정. 메뉴 사진 참고",
+            "photo_file": "A man prepares okonomiyaki in Hiroshima 2004-08-05.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "13:00",
+            "end": "14:10",
+            "title": "히로시마역 공항버스 탑승",
+            "place": "広島駅",
+            "kind": "교통",
+            "walk": 4,
+            "verified": false,
+            "note": "귀국 항공편에 맞춰 앞당기거나 조정",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "14:10",
+            "end": "16:00",
+            "title": "히로시마공항 출국수속·탑승 대기",
+            "place": "広島空港",
+            "kind": "공항",
+            "walk": 5,
+            "verified": false,
+            "note": "귀국편 시간이 확정되지 않아 16시 이후는 자유 일정이 아님",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          }
+        ]
+      ]
+    },
+    "shizuoka": {
+      "intro": "토요일 미호노마쓰바라 버스편을 이용해 후지산 조망과 시즈오카 도심 온천을 묶는 코스",
+      "themes": [
+        [
+          "1순위 · 후지산+온천",
+          "미호노마쓰바라·쿠사나기노유"
+        ],
+        [
+          "2순위 · 맑은 날 전망",
+          "니혼다이라·시미즈항"
+        ],
+        [
+          "3순위 · 비 오는 날",
+          "슨푸성·말차·오뎅거리"
+        ]
+      ],
+      "facts": [
+        "미호노마쓰바라는 주말·공휴일에 해변 가까이 가는 버스편이 있어 이용 가치가 높습니다.",
+        "쿠사나기노유는 09:00~23:00 운영, 최종 접수 22:30입니다.",
+        "후지산 가시성은 구름에 좌우됩니다. 보인다는 보장은 없습니다."
+      ],
+      "sources": [
+        [
+          "미호노마쓰바라 교통 안내",
+          "https://www.japan-guide.com/e/e6355.html"
+        ],
+        [
+          "쿠사나기노유 공식",
+          "https://www.kusanagino-yu.com/price/"
+        ]
+      ],
+      "days": [
+        [
+          {
+            "start": "09:00",
+            "end": "10:15",
+            "title": "시즈오카공항 입국·공항버스 대기",
+            "place": "富士山静岡空港",
+            "kind": "입국",
+            "walk": 5,
+            "verified": false,
+            "note": "09:00 착륙은 가정",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": true
+          },
+          {
+            "start": "10:15",
+            "end": "11:25",
+            "title": "시즈오카역 이동·호텔 짐 보관",
+            "place": "静岡駅",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "공항 리무진 실제 출발시각 확인",
+            "photo_file": "Shizuoka Station Concourse.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "11:25",
+            "end": "13:00",
+            "title": "점심: 참치덮밥·시즈오카 해산물",
+            "place": "静岡駅 まぐろ丼",
+            "kind": "식사",
+            "walk": 7,
+            "verified": false,
+            "note": "특정 식당에 고정하지 않고 역 주변 메뉴로 구성",
+            "photo_file": "KASHI NO ICHI maguro kan in shimizu ward.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "13:00",
+            "end": "15:15",
+            "title": "슨푸성 공원·성곽 수로 산책",
+            "place": "駿府城公園",
+            "kind": "자연",
+            "walk": 9,
+            "verified": false,
+            "note": "공원 내부 트레킹은 제한시간 제외",
+            "photo_file": "Sunpu castle park.JPG",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "15:15",
+            "end": "16:45",
+            "title": "녹차·말차 젤라토 휴식",
+            "place": "静岡 抹茶ジェラート",
+            "kind": "음식",
+            "walk": 7,
+            "verified": false,
+            "note": "나나야 등 영업 확인 후 선택",
+            "photo_file": "Matcha ice cream 001.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "16:45",
+            "end": "19:05",
+            "title": "아오바 오뎅거리 저녁 식사",
+            "place": "青葉おでん街",
+            "kind": "식사",
+            "walk": 8,
+            "verified": false,
+            "note": "매장별 개점시각 확인 필요",
+            "photo_file": "Aoba Oden Street 01.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "19:05",
+            "end": "21:20",
+            "title": "시즈오카 도심 카페·쇼핑",
+            "place": "静岡駅 ASTY",
+            "kind": "쇼핑",
+            "walk": 6,
+            "verified": false,
+            "note": "상점 마감은 실제 영업시간 확인",
+            "photo_file": "ASTY Shizuoka 01.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "21:20",
+            "end": "24:00",
+            "title": "숙소 귀환·휴식",
+            "place": "静岡駅 ホテル",
+            "kind": "휴식",
+            "walk": 5,
+            "verified": false,
+            "note": "호텔 사진은 숙박 권역 참고",
+            "photo_file": "Hotel Associa Shizuoka.JPG",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:25",
+            "title": "JR 시미즈역 + 주말 해변행 버스",
+            "place": "清水駅",
+            "kind": "교통",
+            "walk": 8,
+            "verified": false,
+            "note": "버스 실제 편명·주말 운행 재확인",
+            "photo_file": "Shizuoka Station Shinkansen Ticket Gate.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "09:25",
+            "end": "11:40",
+            "title": "미호노마쓰바라 흑송 숲·후지산 해변",
+            "place": "三保松原",
+            "kind": "자연",
+            "walk": 10,
+            "verified": true,
+            "note": "버스 종점부터 해변 가까운 정류장을 우선 사용. 관람 산책 별도",
+            "photo_file": "Miho no Matsubara and Mount Fuji.JPG",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "11:40",
+            "end": "13:00",
+            "title": "시미즈항 쪽으로 돌아와 점심",
+            "place": "清水魚市場 河岸の市",
+            "kind": "식사",
+            "walk": 8,
+            "verified": false,
+            "note": "도시 간 버스 환승 시간은 계획값",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "13:00",
+            "end": "15:00",
+            "title": "시미즈항·수루가만 조망",
+            "place": "清水港",
+            "kind": "자연",
+            "walk": 5,
+            "verified": false,
+            "note": "물가 주변 산책, 실시간 기상 확인",
+            "photo_file": "231027 Shimizu Port Shizuoka Japan01s3.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "15:00",
+            "end": "16:05",
+            "title": "JR 이용해 구사나기역 이동",
+            "place": "草薙駅",
+            "kind": "교통",
+            "walk": 8,
+            "verified": false,
+            "note": "실제 열차 시각 확인",
+            "photo_file": "Shizuoka station 01.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "16:05",
+            "end": "19:00",
+            "title": "아오이 온천 쿠사나기노유 입욕",
+            "place": "あおい温泉 草薙の湯",
+            "kind": "온천",
+            "walk": 10,
+            "verified": true,
+            "note": "시설 09:00~23:00, 최종 접수 22:30 확인. 사진은 지역 음료 참고",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "19:00",
+            "end": "20:30",
+            "title": "JR 시즈오카역 복귀·저녁",
+            "place": "静岡駅",
+            "kind": "교통",
+            "walk": 6,
+            "verified": false,
+            "note": "열차 간격과 식당 영업 확인",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "20:30",
+            "end": "22:30",
+            "title": "도심 야경·디저트",
+            "place": "静岡駅 ASTY",
+            "kind": "야경",
+            "walk": 5,
+            "verified": false,
+            "note": "역 건물 운영시간 확인",
+            "photo_file": "Aoba Oden Street 02.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "22:30",
+            "end": "24:00",
+            "title": "숙소 복귀",
+            "place": "静岡駅 ホテル",
+            "kind": "휴식",
+            "walk": 5,
+            "verified": false,
+            "note": "선택 호텔 미정",
+            "photo_file": "Kuretake Inn Premium Shizuoka Ekimae.JPG",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:20",
+            "title": "체크아웃·짐 보관",
+            "place": "静岡駅",
+            "kind": "교통",
+            "walk": 5,
+            "verified": false,
+            "note": "호텔 프런트 서비스 확인",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "09:20",
+            "end": "10:50",
+            "title": "아스티·시즈오카 차 기념품",
+            "place": "静岡駅 ASTY",
+            "kind": "쇼핑",
+            "walk": 4,
+            "verified": false,
+            "note": "상점 영업시각 확인",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "10:50",
+            "end": "12:15",
+            "title": "점심: 시즈오카 오뎅·면 요리",
+            "place": "静岡駅 静岡おでん",
+            "kind": "식사",
+            "walk": 5,
+            "verified": false,
+            "note": "역 주변 상호는 현장 선택",
+            "photo_file": "Shizoka oden 1 20151022.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "12:15",
+            "end": "13:25",
+            "title": "공항행 버스 승차",
+            "place": "静岡駅",
+            "kind": "교통",
+            "walk": 5,
+            "verified": false,
+            "note": "실제 공항버스 시간표와 탑승권 확인",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "13:25",
+            "end": "15:30",
+            "title": "후지산 시즈오카공항 출국 준비",
+            "place": "富士山静岡空港",
+            "kind": "공항",
+            "walk": 5,
+            "verified": false,
+            "note": "귀국편 출발시각에 맞춰 조정",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          }
+        ]
+      ]
+    },
+    "sapporo": {
+      "intro": "조잔케이 온천마을의 자연과 삿포로 도심 야경·홋카이도 먹거리를 함께 구성",
+      "themes": [
+        [
+          "1순위 · 계곡 온천",
+          "조잔케이 온천·후타미바시"
+        ],
+        [
+          "2순위 · 시내 풍경",
+          "오도리·홋카이도청·나카지마공원"
+        ],
+        [
+          "3순위 · 미식 집중",
+          "수프카레·징기스칸·라멘골목"
+        ]
+      ],
+      "facts": [
+        "조잔케이 단풍 셔틀·호헤이쿄 댐 관광버스는 10월 종료인 상품이 있어 11월말 사용하지 않습니다.",
+        "조잔케이의 정기버스·온천 당일 입욕 영업시간을 별도로 확인해야 합니다.",
+        "11월 말의 설경은 날씨에 따라 다르며 보장되지 않습니다."
+      ],
+      "sources": [
+        [
+          "조잔케이 관광 공식",
+          "https://jozankei.jp/en/godaikoyo/"
+        ],
+        [
+          "삿포로행 조잔케이 버스 안내",
+          "https://www.jotetsu.co.jp/bus/"
+        ]
+      ],
+      "days": [
+        [
+          {
+            "start": "09:00",
+            "end": "10:00",
+            "title": "신치토세공항 입국·JR 승차 준비",
+            "place": "新千歳空港",
+            "kind": "입국",
+            "walk": 6,
+            "verified": false,
+            "note": "09:00 도착 가정, 실제 편 도착은 더 늦을 수 있음",
+            "photo_file": "A Corridor of Sapporo Station 01.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": true
+          },
+          {
+            "start": "10:00",
+            "end": "11:00",
+            "title": "JR 쾌속 에어포트·삿포로역 짐 보관",
+            "place": "札幌駅",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "쾌속 약 40분, 열차 대기 포함",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "11:00",
+            "end": "12:35",
+            "title": "점심: 삿포로 수프카레",
+            "place": "札幌 スープカレー",
+            "kind": "식사",
+            "walk": 8,
+            "verified": false,
+            "note": "식당 대기시간 변동",
+            "photo_file": "A soup curry dish in Sapporo - Flickr - odako1.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "12:35",
+            "end": "14:35",
+            "title": "오도리공원·TV타워 전망",
+            "place": "大通公園",
+            "kind": "명소",
+            "walk": 8,
+            "verified": false,
+            "note": "전망대는 예약·입장시간 확인",
+            "photo_file": "Hokkaido Sapporo Odori Park.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "14:35",
+            "end": "16:20",
+            "title": "홋카이도청 구본청사 전경",
+            "place": "北海道庁旧本庁舎",
+            "kind": "역사",
+            "walk": 8,
+            "verified": false,
+            "note": "실내 입장 여부는 별도 확인",
+            "photo_file": "Former Hokkaido Government Office 202507.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "16:20",
+            "end": "18:45",
+            "title": "스스키노 쇼핑·저녁: 징기스칸",
+            "place": "成吉思汗 だるま 札幌",
+            "kind": "식사",
+            "walk": 7,
+            "verified": false,
+            "note": "다루마 업소 영업·대기 확인",
+            "photo_file": "Yakiniku on braziers at 成吉思汗 だるま in Sapporo, Japan (244).jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "18:45",
+            "end": "21:05",
+            "title": "스스키노 번화가·라멘 골목",
+            "place": "元祖さっぽろラーメン横丁",
+            "kind": "야경",
+            "walk": 5,
+            "verified": false,
+            "note": "심야 영업 식당별 확인",
+            "photo_file": "Ramen Alley Sapporo Japan.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "21:05",
+            "end": "24:00",
+            "title": "호텔로 돌아와 휴식",
+            "place": "札幌駅 ホテル",
+            "kind": "휴식",
+            "walk": 8,
+            "verified": false,
+            "note": "숙박 권역 참고",
+            "photo_file": "Hotel Route Inn Sapporo-Ekimae-Kitaguchi.JPG",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:25",
+            "title": "조잔케이행 정기버스 대기·탑승",
+            "place": "札幌駅",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "정기버스 실제 탑승시각 미확정; 예약제 버스 별도",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "09:25",
+            "end": "11:00",
+            "title": "조잔케이 온천마을 도착",
+            "place": "定山渓温泉",
+            "kind": "교통",
+            "walk": 8,
+            "verified": false,
+            "note": "고속도로·버스 배차에 따라 지연 가능",
+            "photo_file": "JozankeiOnsen.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "11:00",
+            "end": "12:35",
+            "title": "후타미바시·계곡 전망 산책",
+            "place": "定山渓二見吊橋",
+            "kind": "자연",
+            "walk": 12,
+            "verified": false,
+            "note": "관광 목적 계곡 산책은 15분 이동 도보와 구별",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "12:35",
+            "end": "14:10",
+            "title": "온천마을 점심·휴식",
+            "place": "定山渓温泉",
+            "kind": "식사",
+            "walk": 7,
+            "verified": false,
+            "note": "특정 식당 미정, 음식 이미지는 메뉴 참고",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "14:10",
+            "end": "16:30",
+            "title": "예약 가능한 당일 입욕 온천 방문",
+            "place": "定山渓温泉 日帰り入浴",
+            "kind": "온천",
+            "walk": 8,
+            "verified": false,
+            "note": "당일 입욕 가능한 료칸을 예약 전에 확인",
+            "photo_file": "SAKURAKO in the JyoZanKei hot springs. (8345382759).jpg",
+            "photo_scope": "온천 지역 참고 사진 · 시설 내부 실제 사진은 별도 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "16:30",
+            "end": "18:10",
+            "title": "정기버스로 삿포로 복귀",
+            "place": "札幌駅",
+            "kind": "교통",
+            "walk": 8,
+            "verified": false,
+            "note": "막차와 배차 중요: 방문 전 확인 필수",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "18:10",
+            "end": "20:15",
+            "title": "저녁: 라멘·해산물",
+            "place": "札幌 味噌ラーメン",
+            "kind": "식사",
+            "walk": 7,
+            "verified": false,
+            "note": "역·스스키노 일대 선택",
+            "photo_file": "Miso corn ramen 01.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "20:15",
+            "end": "22:30",
+            "title": "야경 산책·간식",
+            "place": "すすきの",
+            "kind": "야경",
+            "walk": 8,
+            "verified": false,
+            "note": "눈·빙판길 상태에 따라 도보시간 변화",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "22:30",
+            "end": "24:00",
+            "title": "숙소 휴식",
+            "place": "札幌駅 ホテル",
+            "kind": "휴식",
+            "walk": 8,
+            "verified": false,
+            "note": "숙소 미정",
+            "photo_file": "KEIO-PRELIA.Sapporo.JPG",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:15",
+            "title": "체크아웃·수하물 보관",
+            "place": "札幌駅",
+            "kind": "교통",
+            "walk": 5,
+            "verified": false,
+            "note": "귀국편과 공항 이동시각 확인",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "09:15",
+            "end": "10:40",
+            "title": "나카지마공원 산책",
+            "place": "中島公園",
+            "kind": "자연",
+            "walk": 7,
+            "verified": false,
+            "note": "공원 산책 별도",
+            "photo_file": "Nakajima Park Sapporo01n3200.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "10:40",
+            "end": "11:50",
+            "title": "기념품·과자 쇼핑",
+            "place": "札幌駅",
+            "kind": "쇼핑",
+            "walk": 5,
+            "verified": false,
+            "note": "매장 개점 확인",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "11:50",
+            "end": "12:55",
+            "title": "점심: 삿포로 미소라멘",
+            "place": "札幌 味噌ラーメン",
+            "kind": "식사",
+            "walk": 6,
+            "verified": false,
+            "note": "대표 메뉴 참고",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "12:55",
+            "end": "14:05",
+            "title": "JR 신치토세공항으로 이동",
+            "place": "新千歳空港",
+            "kind": "교통",
+            "walk": 6,
+            "verified": false,
+            "note": "열차 시간표 확인",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "14:05",
+            "end": "16:00",
+            "title": "공항 출국수속 및 귀국편 대기",
+            "place": "新千歳空港",
+            "kind": "공항",
+            "walk": 5,
+            "verified": false,
+            "note": "귀국편 미확정: 실제 항공편 우선",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          }
+        ]
+      ]
+    },
+    "nagoya": {
+      "intro": "아쓰타 신궁의 숲과 도심 온천을 필수로 넣고 식당·야경을 지하철 중심으로 연결",
+      "themes": [
+        [
+          "1순위 · 숲길+온천",
+          "아쓰타 신궁·어반쿠아"
+        ],
+        [
+          "2순위 · 역사+도심",
+          "나고야성·오스·오아시스21"
+        ],
+        [
+          "3순위 · 먹거리",
+          "야바톤·히츠마부시·테바사키"
+        ]
+      ],
+      "facts": [
+        "나고야 어반쿠아 온천은 히가시베쓰인역에서 도보 약 7분, 가미마에즈역에서 도보 약 9분입니다.",
+        "오아시스21는 건물 구역별 영업시간이 다르므로 늦은 밤 쇼핑을 가정하지 않습니다."
+      ],
+      "sources": [
+        [
+          "어반쿠아 공식 접근 안내",
+          "https://p-castle.co.jp/urban_quar/access/"
+        ]
+      ],
+      "days": [
+        [
+          {
+            "start": "09:00",
+            "end": "10:10",
+            "title": "중부국제공항 입국·메이테츠 대기",
+            "place": "中部国際空港",
+            "kind": "입국",
+            "walk": 5,
+            "verified": false,
+            "note": "09:00 도착 가정",
+            "photo_file": "Central Japan International Airport Station from departure lobby of Chubu Centrair International Airport.JPG",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": true
+          },
+          {
+            "start": "10:10",
+            "end": "11:10",
+            "title": "메이테츠로 나고야역·짐 보관",
+            "place": "名古屋駅",
+            "kind": "교통",
+            "walk": 6,
+            "verified": false,
+            "note": "숙소 나고야역 인근 가정",
+            "photo_file": "Christmas decoration at Nagoya Station; November 2007.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "11:10",
+            "end": "12:40",
+            "title": "점심: 야바톤 미소카츠",
+            "place": "矢場とん 名古屋",
+            "kind": "식사",
+            "walk": 6,
+            "verified": false,
+            "note": "점포별 대기 확인",
+            "photo_file": "Yabaton's misokatsu （Nagoya soul food）.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "12:40",
+            "end": "15:10",
+            "title": "나고야성·혼마루 어전",
+            "place": "名古屋城",
+            "kind": "역사",
+            "walk": 10,
+            "verified": false,
+            "note": "전시·개방 구역 현장 확인",
+            "photo_file": "Nagoya Castle2026.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "15:10",
+            "end": "17:05",
+            "title": "히사야오도리 공원 녹지 산책",
+            "place": "久屋大通公園",
+            "kind": "자연",
+            "walk": 7,
+            "verified": false,
+            "note": "공원 내부 관광 산책은 별도",
+            "photo_file": "Hisayaodori Park, Marunouchi Naka Ward Nagoya 2022.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "17:05",
+            "end": "19:20",
+            "title": "사카에 식당거리에서 저녁",
+            "place": "栄 名古屋 名古屋めし",
+            "kind": "식사",
+            "walk": 7,
+            "verified": false,
+            "note": "식당 후보 미정",
+            "photo_file": "Miso katsu, tsukemono and miso soup by shibainu in Nagoya.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "19:20",
+            "end": "21:20",
+            "title": "오아시스21·야경 감상",
+            "place": "オアシス21",
+            "kind": "야경",
+            "walk": 4,
+            "verified": false,
+            "note": "시설의 야간 입장 가능 범위 확인",
+            "photo_file": "View of Oasis 21 from Nagoya TV Tower at night.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "21:20",
+            "end": "24:00",
+            "title": "숙소 복귀 및 휴식",
+            "place": "名古屋駅 ホテル",
+            "kind": "휴식",
+            "walk": 7,
+            "verified": false,
+            "note": "호텔 예시 사진",
+            "photo_file": "名古屋プリンスホテル スカイタワー (50523581076).jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:15",
+            "title": "지하철 이동·아쓰타 신궁 입구",
+            "place": "熱田神宮",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "도심 호텔 기준",
+            "photo_file": "Atsuta Shrine.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "09:15",
+            "end": "11:00",
+            "title": "아쓰타 신궁 참배·삼림 산책",
+            "place": "熱田神宮",
+            "kind": "자연",
+            "walk": 6,
+            "verified": false,
+            "note": "경내 관광 산책은 15분 제한 제외",
+            "photo_file": "Atsuta Jingu 20211226-02.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "11:00",
+            "end": "13:00",
+            "title": "점심: 히츠마부시 장어덮밥",
+            "place": "あつた蓬莱軒 本店",
+            "kind": "식사",
+            "walk": 9,
+            "verified": false,
+            "note": "인기 식당은 대기시간이 길어 예약·대기 현장 확인",
+            "photo_file": "Hitsumabushi by Tomotaka in Nagoya.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "13:00",
+            "end": "15:10",
+            "title": "오스 상점가 산책·간식",
+            "place": "大須商店街",
+            "kind": "거리",
+            "walk": 6,
+            "verified": false,
+            "note": "대중교통으로 이동",
+            "photo_file": "Main shopping street (Osu in Nagoya, Japan).jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "15:10",
+            "end": "17:30",
+            "title": "어반쿠아 천연온천·휴식",
+            "place": "天然温泉 アーバンクア",
+            "kind": "온천",
+            "walk": 7,
+            "verified": true,
+            "note": "지하철 히가시베쓰인역 도보 7분은 공식 확인. 온천 자체의 실내 사진은 미확보",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "17:30",
+            "end": "19:25",
+            "title": "나고야역 인근으로 이동·저녁",
+            "place": "名古屋駅",
+            "kind": "교통",
+            "walk": 6,
+            "verified": false,
+            "note": "실제 식당 선택",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "19:25",
+            "end": "21:30",
+            "title": "오아시스21 야경 또는 도심 산책",
+            "place": "オアシス21",
+            "kind": "야경",
+            "walk": 6,
+            "verified": false,
+            "note": "반드시 영업시간을 확인하고 시설 내부가 아닌 외부 경관 중심",
+            "photo_file": "Oasis 21.JPG",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "21:30",
+            "end": "24:00",
+            "title": "숙소 휴식",
+            "place": "名古屋駅 ホテル",
+            "kind": "휴식",
+            "walk": 7,
+            "verified": false,
+            "note": "숙소 미정",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:15",
+            "title": "체크아웃·짐 보관",
+            "place": "名古屋駅",
+            "kind": "교통",
+            "walk": 5,
+            "verified": false,
+            "note": "숙소 위치 미정",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "09:15",
+            "end": "10:45",
+            "title": "노리타케의 숲·정원",
+            "place": "ノリタケの森",
+            "kind": "자연",
+            "walk": 8,
+            "verified": false,
+            "note": "녹지 산책",
+            "photo_file": "Autumn Leaves in Noritake Garden - 1.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "10:45",
+            "end": "12:10",
+            "title": "점심: 기시멘·나고야 로컬식",
+            "place": "名古屋駅 きしめん",
+            "kind": "식사",
+            "walk": 5,
+            "verified": false,
+            "note": "기시멘 실제 사진 미확보, 이미지 일치하지 않으면 빈 카드 처리",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "12:10",
+            "end": "13:20",
+            "title": "메이테츠 나고야역에서 공항행",
+            "place": "名鉄名古屋駅",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "열차 실제 출발시각 확인",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "13:20",
+            "end": "15:30",
+            "title": "중부국제공항 출국 준비",
+            "place": "中部国際空港",
+            "kind": "공항",
+            "walk": 5,
+            "verified": false,
+            "note": "귀국편에 맞춰 앞당기기",
+            "photo_file": "Central Japan International Airport Station interior 01.JPG",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          }
+        ]
+      ]
+    },
+    "okinawa": {
+      "intro": "나하 시내·세나가시마 해수온천과 예약제 북부 관광버스를 결합한 렌터카 없는 오키나와",
+      "themes": [
+        [
+          "1순위 · 버스투어+해수온천",
+          "츄라우미·코우리·만자모·세나가시마"
+        ],
+        [
+          "2순위 · 시내문화",
+          "슈리성·국제거리·우미카지"
+        ],
+        [
+          "3순위 · 바다 풍경",
+          "코우리·아메리칸빌리지·석양"
+        ]
+      ],
+      "facts": [
+        "실제 관광버스 투어 C코스는 나하 오전 08시대 출발, 수족관 약 11:30 도착, 코우리 약 14:30, 만자모 약 16시대, 나하 약 19시대 복귀로 안내합니다.",
+        "세나가시마 호텔은 나하공항에서 버스로 약 20분, 아카미네역을 이용하는 대중교통 접근도 안내합니다.",
+        "여행 당일 북부 투어가 실제 출발하는지 예약 확인해야 합니다."
+      ],
+      "sources": [
+        [
+          "오키나와 북부 버스투어",
+          "https://cerulean-blue.co.jp/tours/46858"
+        ],
+        [
+          "세나가시마 호텔 교통 공식",
+          "https://www.resorts.co.jp/senaga/en/access"
+        ]
+      ],
+      "days": [
+        [
+          {
+            "start": "09:00",
+            "end": "10:00",
+            "title": "나하공항 입국·유이레일 준비",
+            "place": "那覇空港",
+            "kind": "입국",
+            "walk": 5,
+            "verified": false,
+            "note": "09:00 착륙 가정",
+            "photo_file": "140902 Naha Airport Naha Okinawa pref Japan01bs50.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": true
+          },
+          {
+            "start": "10:00",
+            "end": "11:00",
+            "title": "겐초마에역 이동·나하 호텔에 짐 보관",
+            "place": "県庁前駅 那覇",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "호텔명 미정",
+            "photo_file": "Monoriel en okinawa.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "11:00",
+            "end": "13:20",
+            "title": "슈리성 공원·류탄 연못 산책",
+            "place": "首里城公園",
+            "kind": "역사·자연",
+            "walk": 10,
+            "verified": false,
+            "note": "유이레일+버스 필요 가능. 슈리성 공사 구역 확인",
+            "photo_file": "Ryutan and Shuri Castle 01.JPG",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "13:20",
+            "end": "15:10",
+            "title": "국제거리·오키나와 소바 점심",
+            "place": "那覇国際通り",
+            "kind": "식사",
+            "walk": 7,
+            "verified": false,
+            "note": "늦은 점심 운영 확인",
+            "photo_file": "Shuri soba by kazuh.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "15:10",
+            "end": "16:25",
+            "title": "아카미네역 경유 세나가시마 버스",
+            "place": "赤嶺駅",
+            "kind": "교통",
+            "walk": 6,
+            "verified": false,
+            "note": "현지 버스 실시간 배차 확인",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "16:25",
+            "end": "19:10",
+            "title": "류큐온천 세나가시마 호텔 해수온천",
+            "place": "琉球温泉 龍神の湯",
+            "kind": "온천",
+            "walk": 7,
+            "verified": false,
+            "note": "당일 입욕 운영·막차 필수 확인, 실제 온천탕 내부 사진 미확보",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "19:10",
+            "end": "20:30",
+            "title": "나하 시내 복귀·저녁",
+            "place": "那覇国際通り",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "버스 막차 확인. 막차가 맞지 않으면 온천을 이른 시간으로 이동",
+            "photo_file": "202408 沖繩縣那霸市的那霸國際通的街景.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "20:30",
+            "end": "22:30",
+            "title": "국제거리 야경·로컬 음식",
+            "place": "那覇国際通り",
+            "kind": "야경",
+            "walk": 5,
+            "verified": false,
+            "note": "영업시간 확인",
+            "photo_file": "Kokusaidori at night.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "22:30",
+            "end": "24:00",
+            "title": "숙소 복귀·휴식",
+            "place": "那覇 ホテル",
+            "kind": "휴식",
+            "walk": 6,
+            "verified": false,
+            "note": "호텔은 예시",
+            "photo_file": "Hotel JALCITY Naha.JPG",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          }
+        ],
+        [
+          {
+            "start": "07:45",
+            "end": "08:45",
+            "title": "관광버스 집합지 이동·08:45 출발",
+            "place": "県庁前 パレットくもじ",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "예약제 북부 투어 상품에 따라 08:45/09:15 출발",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "08:45",
+            "end": "11:30",
+            "title": "북부 버스 이동·츄라우미 수족관 도착",
+            "place": "沖縄美ら海水族館",
+            "kind": "교통",
+            "walk": 5,
+            "verified": false,
+            "note": "08:45 출발 C코스 예시 일정",
+            "photo_file": "Okinawa Churaumi Aquarium main entrance far view 20170408.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "11:30",
+            "end": "13:50",
+            "title": "수족관 고래상어·해양박공원",
+            "place": "沖縄美ら海水族館",
+            "kind": "실내",
+            "walk": 5,
+            "verified": false,
+            "note": "관광버스 자유관람 시간 약 2시간 20분",
+            "photo_file": "Okinawa Churaumi Aquarium.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "13:50",
+            "end": "14:30",
+            "title": "코우리섬·바다 전망",
+            "place": "古宇利島",
+            "kind": "자연",
+            "walk": 5,
+            "verified": false,
+            "note": "투어 공식 일정 도착 13:50~14:30대 상품별 차이",
+            "photo_file": "Kouri 01.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "14:30",
+            "end": "15:45",
+            "title": "오카시고텐 쇼핑·간식",
+            "place": "御菓子御殿 恩納店",
+            "kind": "쇼핑",
+            "walk": 4,
+            "verified": false,
+            "note": "상품 일정에 맞춰 변경 가능",
+            "photo_file": "Ryukyu Sweets with Sanpin-cha in Shuri Castle.JPG",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "15:45",
+            "end": "16:55",
+            "title": "만자모 절벽 풍경",
+            "place": "万座毛",
+            "kind": "자연",
+            "walk": 5,
+            "verified": false,
+            "note": "이 이미지의 장소는 코우리대교 참고: 만자모 사진 미확보",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "16:55",
+            "end": "18:25",
+            "title": "아메리칸빌리지·해변 거리",
+            "place": "アメリカンビレッジ",
+            "kind": "거리",
+            "walk": 5,
+            "verified": false,
+            "note": "투어 체류시간 단축; 자율 하차는 예약 조건 확인",
+            "photo_file": "American Village in Okinawa.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "18:25",
+            "end": "19:25",
+            "title": "북부 투어 종료·나하 하차",
+            "place": "県庁前 パレットくもじ",
+            "kind": "교통",
+            "walk": 5,
+            "verified": false,
+            "note": "공식 투어 예정 도착시간 예시, 교통 지연 가능",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "19:25",
+            "end": "21:15",
+            "title": "국제거리 타코라이스 저녁",
+            "place": "那覇国際通り タコライス",
+            "kind": "식사",
+            "walk": 5,
+            "verified": false,
+            "note": "실제 야간 운영 식당 확인",
+            "photo_file": "Tacos in Okinawa.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "21:15",
+            "end": "24:00",
+            "title": "국제거리 야경·호텔 귀환",
+            "place": "那覇国際通り",
+            "kind": "야경",
+            "walk": 5,
+            "verified": false,
+            "note": "숙소 미정",
+            "photo_file": "Night at Kokusai-dori 20250503182742.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:20",
+            "title": "호텔 체크아웃·짐 보관",
+            "place": "県庁前駅 那覇",
+            "kind": "교통",
+            "walk": 5,
+            "verified": false,
+            "note": "호텔 예시",
+            "photo_file": "Hotel Rocore Naha.JPG",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "09:20",
+            "end": "11:20",
+            "title": "우미카지 테라스 카페·오션뷰",
+            "place": "瀬長島ウミカジテラス",
+            "kind": "자연",
+            "walk": 7,
+            "verified": false,
+            "note": "아카미네역 경유 대중교통 이동",
+            "photo_file": "Umikaji Terrace Senagajima.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "11:20",
+            "end": "12:30",
+            "title": "바닷가 점심·기념품",
+            "place": "瀬長島ウミカジテラス",
+            "kind": "식사",
+            "walk": 5,
+            "verified": false,
+            "note": "특정 음식점 미정, 사진은 일반 음식점 사례",
+            "photo_file": "Okinawan Restaurant Kokusaidori.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "12:30",
+            "end": "13:40",
+            "title": "공항행 버스·유이레일 이동",
+            "place": "那覇空港",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "항공편 출발에 맞춰 앞당기기",
+            "photo_file": "Naha Airport Station (17173992728).jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "13:40",
+            "end": "16:00",
+            "title": "나하공항 출국 준비",
+            "place": "那覇空港",
+            "kind": "공항",
+            "walk": 5,
+            "verified": false,
+            "note": "귀국편 확정 필요",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          }
+        ]
+      ]
+    },
+    "sendai": {
+      "intro": "마쓰시마의 바다 풍경과 아키우 온천·협곡을 JR·정기버스 중심으로 연결한 계획",
+      "themes": [
+        [
+          "1순위 · 마쓰시마+아키우",
+          "해상 풍경·협곡 온천"
+        ],
+        [
+          "2순위 · 역사 자연",
+          "즈이호덴·아오바 성터"
+        ],
+        [
+          "3순위 · 먹거리",
+          "규탄 정식·즈다모치·고쿠분초"
+        ]
+      ],
+      "facts": [
+        "아키우 온천행 대중교통은 정기버스 시간표 확인이 필요하며 호텔 셔틀은 일반 버스와 다릅니다.",
+        "아키우 그랜드호텔은 공식 FAQ에 당일 입욕을 안내하지만 요일·일자별 이용시간을 확인해야 합니다."
+      ],
+      "sources": [
+        [
+          "아키우 그랜드호텔 공식 FAQ",
+          "https://akiugrand.com/faq/"
+        ],
+        [
+          "다케야교통 공식",
+          "https://takeyakotsu.jp/"
+        ]
+      ],
+      "days": [
+        [
+          {
+            "start": "09:00",
+            "end": "10:00",
+            "title": "센다이공항 입국·공항철도 준비",
+            "place": "仙台空港",
+            "kind": "입국",
+            "walk": 5,
+            "verified": false,
+            "note": "09:00 착륙 가정",
+            "photo_file": "211028 Sendai Airport Station Miyagi prefecture Japan01s.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": true
+          },
+          {
+            "start": "10:00",
+            "end": "10:50",
+            "title": "센다이역 이동·호텔 짐 보관",
+            "place": "仙台駅",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "공항철도 25~30분 + 대기",
+            "photo_file": "Rapid train to Sendai.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "10:50",
+            "end": "12:10",
+            "title": "점심: 센다이 규탄 정식",
+            "place": "仙台駅 牛タン",
+            "kind": "식사",
+            "walk": 5,
+            "verified": false,
+            "note": "정식 가게별 대기 확인",
+            "photo_file": "Gyutan teishoku.JPG",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "12:10",
+            "end": "13:25",
+            "title": "JR 센세키선으로 마쓰시마행",
+            "place": "松島海岸駅",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "JR 이동 약 40분",
+            "photo_file": "Sendai station Senzan Line platforms.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "13:25",
+            "end": "16:05",
+            "title": "마쓰시마만 유람선·고다이도",
+            "place": "松島湾",
+            "kind": "자연",
+            "walk": 10,
+            "verified": false,
+            "note": "유람선 운항·마감시간 확인. 관광 산책 별도",
+            "photo_file": "Matsushima Bay - Matsushima6238.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "16:05",
+            "end": "17:20",
+            "title": "센다이역 복귀",
+            "place": "仙台駅",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "열차 실제 출발시각 확인",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "17:20",
+            "end": "19:05",
+            "title": "조젠지도리 케야키 가로수길",
+            "place": "定禅寺通",
+            "kind": "자연",
+            "walk": 8,
+            "verified": false,
+            "note": "현지 단풍 상태 변동",
+            "photo_file": "Jouzenji-dori Avenue.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "19:05",
+            "end": "21:15",
+            "title": "고쿠분초·우설 저녁 식사",
+            "place": "国分町 仙台",
+            "kind": "식사",
+            "walk": 5,
+            "verified": false,
+            "note": "음식 사진 참고",
+            "photo_file": "Sendai gyutan.JPG",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "21:15",
+            "end": "24:00",
+            "title": "야경·숙소 귀환",
+            "place": "仙台駅 ホテル",
+            "kind": "휴식",
+            "walk": 7,
+            "verified": false,
+            "note": "호텔 사진은 권역 참고",
+            "photo_file": "WestinSendai Front.JPG",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:30",
+            "title": "센다이역에서 아키우행 정기버스",
+            "place": "仙台駅 西口",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "버스 실제 정기편 09:30 승차 확인 후 이용",
+            "photo_file": "Sendai citybus in Jozenji-dori ave. 2023.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "09:30",
+            "end": "10:20",
+            "title": "아키우 온천지역 하차·협곡 입구",
+            "place": "秋保温泉",
+            "kind": "교통",
+            "walk": 6,
+            "verified": false,
+            "note": "정기버스 하차 정류장 확인",
+            "photo_file": "211028 Akiu Onsen Sendai Miyagi pref Japan01s3.jpg",
+            "photo_scope": "교통 또는 숙박 권역 참고 사진 · 정확한 탑승 장소·객실은 아님",
+            "flight_assumption": false
+          },
+          {
+            "start": "10:20",
+            "end": "12:30",
+            "title": "라이라이쿄 협곡·자연 산책",
+            "place": "磊々峡",
+            "kind": "자연",
+            "walk": 10,
+            "verified": false,
+            "note": "관람 트레킹 자체는 15분 이동 제한 대상 아님",
+            "photo_file": "211029 Rairaikyo Sendai Miyagi pref Japan13s3.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "12:30",
+            "end": "13:55",
+            "title": "온천마을 점심·간식",
+            "place": "秋保温泉",
+            "kind": "식사",
+            "walk": 8,
+            "verified": false,
+            "note": "일반 식당·운영시간 확인",
+            "photo_file": "Fall in Akiu, Sendai, Japan.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "13:55",
+            "end": "15:05",
+            "title": "당일 입욕 가능한 아키우 온천",
+            "place": "秋保グランドホテル",
+            "kind": "온천",
+            "walk": 7,
+            "verified": false,
+            "note": "해당 사진은 다른 아키우 료칸 예시입니다. 실제 호텔 탕 사진 아님",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "15:05",
+            "end": "16:15",
+            "title": "정기버스로 센다이 복귀",
+            "place": "仙台駅",
+            "kind": "교통",
+            "walk": 7,
+            "verified": false,
+            "note": "15:18 출발편 등 공식 시간표 확인 필요; 구간 종료시각 탄력 운영",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "16:15",
+            "end": "18:30",
+            "title": "아오바 성터·야경 감상",
+            "place": "仙台城跡",
+            "kind": "역사",
+            "walk": 8,
+            "verified": false,
+            "note": "장소 사진이 아니므로 이 항목은 사진 미표시 필요",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "18:30",
+            "end": "20:45",
+            "title": "저녁: 규탄과 도호쿠 로컬 요리",
+            "place": "仙台 牛タン",
+            "kind": "식사",
+            "walk": 7,
+            "verified": false,
+            "note": "영업 매장 확인",
+            "photo_file": "牛タン定食（牛タン焼専門店司西口名掛丁店・仙台）20220312-P1330639.jpg",
+            "photo_scope": "지역 음식·거리 참고 사진 · 특정 업소 사진으로 보증하지 않음",
+            "flight_assumption": false
+          },
+          {
+            "start": "20:45",
+            "end": "22:35",
+            "title": "센다이역 쇼핑·카페",
+            "place": "仙台駅",
+            "kind": "쇼핑",
+            "walk": 5,
+            "verified": false,
+            "note": "매장 영업시간 확인. 사진은 다른 시설",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "22:35",
+            "end": "24:00",
+            "title": "숙소 복귀",
+            "place": "仙台駅 ホテル",
+            "kind": "휴식",
+            "walk": 6,
+            "verified": false,
+            "note": "호텔 미지정",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          }
+        ],
+        [
+          {
+            "start": "08:00",
+            "end": "09:10",
+            "title": "체크아웃·짐 보관",
+            "place": "仙台駅",
+            "kind": "교통",
+            "walk": 5,
+            "verified": false,
+            "note": "숙소 위치 미정",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "09:10",
+            "end": "11:00",
+            "title": "즈이호덴 숲길·영묘",
+            "place": "瑞鳳殿",
+            "kind": "자연·역사",
+            "walk": 9,
+            "verified": false,
+            "note": "영묘 관람 동선은 별도",
+            "photo_file": "Zuiho-den01s3872.jpg",
+            "photo_scope": "사진 원본·촬영 위치는 출처에서 확인",
+            "flight_assumption": false
+          },
+          {
+            "start": "11:00",
+            "end": "12:10",
+            "title": "역·아케이드에서 즈다모치 쇼핑",
+            "place": "仙台駅 ずんだ餅",
+            "kind": "쇼핑",
+            "walk": 7,
+            "verified": false,
+            "note": "실제 식품관 오픈시간 확인",
+            "photo_file": null,
+            "photo_scope": "장소 일치 실사진 미확보 · 사진 클릭 시 구글 이미지 검색",
+            "flight_assumption": false
+          },
+          {
+            "start": "12:10",
+            "end": "13:20",
+            "title": "마지막 규탄 점심",
+            "place": "仙台駅 牛タン",
+            "kind": "식사",
+            "walk": 5,
+            "verified": false,
+            "note": "식당 대기 여유 필수",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "13:20",
+            "end": "14:20",
+            "title": "공항철도로 센다이공항 이동",
+            "place": "仙台空港",
+            "kind": "교통",
+            "walk": 6,
+            "verified": false,
+            "note": "귀국 출발시각에 따라 조정",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          },
+          {
+            "start": "14:20",
+            "end": "16:00",
+            "title": "공항 출국수속 대기",
+            "place": "仙台空港",
+            "kind": "공항",
+            "walk": 5,
+            "verified": false,
+            "note": "귀국편 확정 전 임시 일정",
+            "photo_file": null,
+            "photo_scope": "같은 도시의 중복 사진 제거 · 구글 이미지 검색으로 연결",
+            "flight_assumption": false
+          }
+        ]
+      ]
+    }
+  },
+  "policy": {
+    "walk_max": 15,
+    "walking_definition": "교통수단에서 장소까지 연결되는 순수 이동 도보의 목표치; 관광 자체의 트레킹 제외",
+    "first_day": "09:00 가정이며 실제 정기편 09:00 도착 미확인",
+    "night": "Day 1 & 2 24:00까지 대기·식사·휴식 시간 포함 연속 배분; 시설 24시 영업 보증 아님",
+    "third_day": "귀국 항공편 미확정으로 출국수속까지만 구성",
+    "prices": "2026-11-27~29 6개 도시 동일 조건 왕복 실시간 최저가 비교 미확인; BEST5 금액 순위 생성 금지"
+  }
+}
