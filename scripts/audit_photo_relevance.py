@@ -24,14 +24,14 @@ CITIES=['hiroshima','shizuoka','sapporo','nagoya','okinawa','sendai',
 PHOTO_CATEGORY={
  'airport':r'airport|terminal|空港|aeropuerto|flug|runway',
  'station':r'station|駅|rail|train|電車|subway|metro|trams',
- 'onsen':r'onsen|温泉|湯|hot.spring|spa|bath',
+ 'onsen':r'onsen|温泉|湯|hot.spring|spa|bath|no.yu|noyu|hot.springs',
  'park':r'park|garden|公園|庭園|lake|forest',
- 'meal':r'ramen|ラーメン|udon|うどん|soba|そば|sushi|寿司|curry|カレー|okonomiyaki|お好み焼き|food|dish|meat|steak|牛タン|牡蠣|taco|noodle|hotel.*restaurant',
+ 'meal':r'ramen|ラーメン|udon|うどん|soba|そば|sushi|寿司|curry|カレー|okonomiyaki|お好み焼き|food|dish|meat|steak|gyutan|teishoku|anago|hitsumabushi|miso|katsu|oyster|牡蠣|牛タン|taco|noodle|yakitori|izakaya|restaurant|motsunabe|udon|jingu|horai|donburi',
  'hotel':r'hotel|inn|ryokan|ホテル|旅館|room|guesthouse',
  'shrine':r'shrine|神社|寺|temple|castle|城',
  'market':r'market|street|shopping|mall|商店|商店街'
 }
-OTHER_LOCATIONS=r'office|市役所|支所|city.office|government|prefectur|博物館|museum|school|university|教会|church'
+OTHER_LOCATIONS=r'office|市役所|支所|city.office|government|博物館|museum|school|university|教会|church'
 def normalize(s):
  return re.sub(r'[^\\w\\u3040-\\u9fff]+','',str(s or '').casefold(),flags=re.UNICODE)
 def filename(src):
@@ -54,7 +54,7 @@ def row_info(task):
  pool=raw.get('photos',[]) if task['category']=='new' else GALLERY.get(city,[])
  item=next((p for p in pool if p.get('file') and p.get('file')==entry.get('photo_file')),None)
  loc=INDEX.get(key,{})
- source=(item or {}).get('source') or loc.get('source') or task.get('source') or ''
+ source=loc.get('source') or (item or {}).get('source') or task.get('source') or ''
  file=filename(source)
  desc=entry.get('photo_scope') or entry.get('photo_match') or (item or {}).get('scope') or ''
  picture=ROOT/task['local_path']
@@ -141,7 +141,7 @@ def main():
           'note':'Metadata audit is not a visually confirmed 281-image semantic check. All candidates require visual or original-source verification.',
           'city_previews':{city:contact_sheet(city,data) for city in CITIES},
           'items':data}
- (OUT/'semantic_audit_281.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2)+'\\n',encoding='utf-8')
+ (OUT/'semantic_audit_281.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
  print('SEMANTIC PHOTO AUDIT:',json.dumps(counts,ensure_ascii=False))
  print('Validated local photos:',summary['files_present'],'/ 281')
  print('Saved 12 city contact sheets to photo_audit')
