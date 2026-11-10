@@ -1,0 +1,4505 @@
+{
+"version": "20261110c",
+"total": 281,
+"items": {
+"hiroshima-d1-01": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島空港",
+"title": "공항 입국·짐 수령·리무진 대기",
+"type": "airport",
+"queries": [
+"広島空港"
+],
+"candidate": "A runway and a Sunset - panoramio.jpg",
+"local": "./assets/photos/schedules/hiroshima/d1-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:A_runway_and_a_Sunset_-_panoramio.jpg",
+"files": []
+},
+"hiroshima-d1-02": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島駅",
+"title": "공항 리무진 → 히로시마역 / 짐 맡기기",
+"type": "train station",
+"queries": [
+"広島駅"
+],
+"candidate": "JR and Hiroden Hiroshima Station.JPG",
+"local": "./assets/photos/schedules/hiroshima/d1-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:JR_and_Hiroden_Hiroshima_Station.JPG",
+"files": []
+},
+"hiroshima-d1-03": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島平和記念公園",
+"title": "평화기념공원·원폭 돔·강변 산책",
+"type": "park garden",
+"queries": [
+"広島平和記念公園"
+],
+"candidate": "Hiroshima Shukkeien hdsr Garden S5 20.jpg",
+"local": "./assets/photos/schedules/hiroshima/d1-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Shukkeien_hdsr_Garden_S5_20.jpg",
+"files": []
+},
+"hiroshima-d1-04": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島 お好み焼き",
+"title": "점심: 히로시마식 오코노미야키",
+"type": "restaurant Japanese food",
+"queries": [
+"広島 お好み焼き"
+],
+"candidate": "Okonomiyaki in Hiroshima 02.jpg",
+"local": "./assets/photos/schedules/hiroshima/d1-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Okonomiyaki_in_Hiroshima_02.jpg",
+"files": []
+},
+"hiroshima-d1-05": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島城",
+"title": "히로시마성·성곽 공원",
+"type": "park garden",
+"queries": [
+"広島城"
+],
+"candidate": "Hiroshima Castle 2025.jpg",
+"local": "./assets/photos/schedules/hiroshima/d1-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Castle_2025.jpg",
+"files": []
+},
+"hiroshima-d1-06": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "本通商店街 広島",
+"title": "혼도리 쇼핑거리·휴식·간식",
+"type": "shopping street",
+"queries": [
+"本通商店街 広島"
+],
+"candidate": "Hiroshima hondori.jpg",
+"local": "./assets/photos/schedules/hiroshima/d1-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Hiroshima_hondori.jpg",
+"files": []
+},
+"hiroshima-d1-07": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島 牡蠣料理",
+"title": "저녁: 굴구이 등 세토내해 미식",
+"type": "restaurant Japanese food",
+"queries": [
+"広島 牡蠣料理"
+],
+"candidate": "Kakihune Kanawa 20140302.JPG",
+"local": "./assets/photos/schedules/hiroshima/d1-07.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Kakihune_Kanawa_20140302.JPG",
+"files": []
+},
+"hiroshima-d1-08": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "流川 広島",
+"title": "시내 전차 야경·나가레카와 번화가",
+"type": "night city skyline",
+"queries": [
+"流川 広島"
+],
+"candidate": "A bomb dome hiroshima sunset.jpg",
+"local": "./assets/photos/schedules/hiroshima/d1-08.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:A_bomb_dome_hiroshima_sunset.jpg",
+"files": []
+},
+"hiroshima-d1-09": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島駅 ホテル",
+"title": "호텔 복귀·샤워·취침 준비",
+"type": "train station",
+"queries": [
+"広島駅 ホテル"
+],
+"candidate": "2013-09-01 a hotel room in Hiroshima 01.jpg",
+"local": "./assets/photos/schedules/hiroshima/d1-09.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:2013-09-01_a_hotel_room_in_Hiroshima_01.jpg",
+"files": []
+},
+"hiroshima-d2-01": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "宮島口",
+"title": "JR 산요본선·미야지마구치·페리",
+"type": "train station",
+"queries": [
+"宮島口"
+],
+"candidate": "JR Miyajima Ferry-344.jpg",
+"local": "./assets/photos/schedules/hiroshima/d2-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:JR_Miyajima_Ferry-344.jpg",
+"files": []
+},
+"hiroshima-d2-02": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "厳島神社",
+"title": "이쓰쿠시마 신사·해상 도리이",
+"type": "temple shrine",
+"queries": [
+"厳島神社"
+],
+"candidate": "Itsukushima Gate.jpg",
+"local": "./assets/photos/schedules/hiroshima/d2-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Itsukushima_Gate.jpg",
+"files": []
+},
+"hiroshima-d2-03": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "宮島表参道商店街",
+"title": "오모테산도·모미지만주 간식",
+"type": "shopping street",
+"queries": [
+"宮島表参道商店街"
+],
+"candidate": "Momiji Manju Hiroshima.JPG",
+"local": "./assets/photos/schedules/hiroshima/d2-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Momiji_Manju_Hiroshima.JPG",
+"files": []
+},
+"hiroshima-d2-04": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "宮島 あなご飯",
+"title": "점심: 미야지마 장어덮밥",
+"type": "restaurant Japanese food",
+"queries": [
+"宮島 あなご飯"
+],
+"candidate": "Anagoju in Miyajima 01.jpg",
+"local": "./assets/photos/schedules/hiroshima/d2-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Anagoju_in_Miyajima_01.jpg",
+"files": []
+},
+"hiroshima-d2-05": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "紅葉谷公園",
+"title": "모미지다니 공원 산책",
+"type": "park garden",
+"queries": [
+"紅葉谷公園"
+],
+"candidate": "Autumn colours on Miyajima Island Japan.jpg",
+"local": "./assets/photos/schedules/hiroshima/d2-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Autumn_colours_on_Miyajima_Island_Japan.jpg",
+"files": []
+},
+"hiroshima-d2-06": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "宮島ロープウエー",
+"title": "예약 로프웨이·시시이와 전망",
+"type": "scenery",
+"queries": [
+"宮島ロープウエー"
+],
+"candidate": "Miyajima Ropeway Shishiiwa Line 2010.jpg",
+"local": "./assets/photos/schedules/hiroshima/d2-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Miyajima_Ropeway_Shishiiwa_Line_2010.jpg",
+"files": []
+},
+"hiroshima-d2-07": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島駅",
+"title": "페리·JR로 히로시마 복귀",
+"type": "train station",
+"queries": [
+"広島駅"
+],
+"candidate": "JR Hiroshima station 03d (2949908323).jpg",
+"local": "./assets/photos/schedules/hiroshima/d2-07.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:JR_Hiroshima_station_03d_(2949908323).jpg",
+"files": []
+},
+"hiroshima-d2-08": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "宇品天然温泉 ほの湯",
+"title": "우지나 천연온천 호노유에서 온천욕",
+"type": "onsen hot spring",
+"queries": [
+"宇品天然温泉 ほの湯"
+],
+"candidate": "Hiroshima Washington Hotel.JPG",
+"local": "./assets/photos/schedules/hiroshima/d2-08.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Washington_Hotel.JPG",
+"files": []
+},
+"hiroshima-d2-09": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島駅",
+"title": "히로시마역권 늦은 저녁·간식",
+"type": "train station",
+"queries": [
+"広島駅"
+],
+"candidate": "Okonomiyaki in Hiroshima 03.jpg",
+"local": "./assets/photos/schedules/hiroshima/d2-09.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Okonomiyaki_in_Hiroshima_03.jpg",
+"files": []
+},
+"hiroshima-d2-10": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島駅 ホテル",
+"title": "숙소 복귀·휴식",
+"type": "train station",
+"queries": [
+"広島駅 ホテル"
+],
+"candidate": "Mielparque Hiroshima 2026.JPG",
+"local": "./assets/photos/schedules/hiroshima/d2-10.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Mielparque_Hiroshima_2026.JPG",
+"files": []
+},
+"hiroshima-d3-01": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島駅",
+"title": "체크아웃·히로시마역 짐 보관",
+"type": "train station",
+"queries": [
+"広島駅"
+],
+"candidate": "A man prepares okonomiyaki in Hiroshima 2004-08-05.jpg",
+"local": "./assets/photos/schedules/hiroshima/d3-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:A_man_prepares_okonomiyaki_in_Hiroshima_2004-08-05.jpg",
+"files": []
+},
+"hiroshima-d3-02": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "縮景園",
+"title": "슈케이엔 정원 아침 산책",
+"type": "park garden",
+"queries": [
+"縮景園"
+],
+"candidate": "Sunset over Hiroshima bay, from Miyajima (4177221419).jpg",
+"local": "./assets/photos/schedules/hiroshima/d3-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Hiroshima_bay,_from_Miyajima_(4177221419).jpg",
+"files": []
+},
+"hiroshima-d3-03": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島駅",
+"title": "역으로 돌아와 기념품 쇼핑",
+"type": "train station",
+"queries": [
+"広島駅"
+],
+"candidate": "Hiroshima streetcar at night beside Hondori Station.jpg",
+"local": "./assets/photos/schedules/hiroshima/d3-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Hiroshima_streetcar_at_night_beside_Hondori_Station.jpg",
+"files": []
+},
+"hiroshima-d3-04": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島駅 お好み焼き",
+"title": "점심: 오코노미야키·라멘 중 선택",
+"type": "train station",
+"queries": [
+"広島駅 お好み焼き"
+],
+"candidate": "Matcha Soft Serve in Miyajima 01.jpg",
+"local": "./assets/photos/schedules/hiroshima/d3-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Matcha_Soft_Serve_in_Miyajima_01.jpg",
+"files": []
+},
+"hiroshima-d3-05": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島駅",
+"title": "히로시마역 공항버스 탑승",
+"type": "train station",
+"queries": [
+"広島駅"
+],
+"candidate": "Hiroshima-Airport Inside.jpg",
+"local": "./assets/photos/schedules/hiroshima/d3-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Hiroshima-Airport_Inside.jpg",
+"files": []
+},
+"hiroshima-d3-06": {
+"city": "hiroshima",
+"city_en": "Hiroshima",
+"city_jp": "広島市",
+"place": "広島空港",
+"title": "히로시마공항 출국수속·탑승 대기",
+"type": "airport",
+"queries": [
+"広島空港"
+],
+"candidate": "Hiroden Ujina Line in Hiroshima.jpg",
+"local": "./assets/photos/schedules/hiroshima/d3-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Hiroden_Ujina_Line_in_Hiroshima.jpg",
+"files": []
+},
+"shizuoka-d1-01": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "富士山静岡空港",
+"title": "시즈오카공항 입국·공항버스 대기",
+"type": "airport",
+"queries": [
+"富士山静岡空港"
+],
+"candidate": "Shizuoka-airport-terminal.jpg",
+"local": "./assets/photos/schedules/shizuoka/d1-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Shizuoka-airport-terminal.jpg",
+"files": []
+},
+"shizuoka-d1-02": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "静岡駅",
+"title": "시즈오카역 이동·호텔 짐 보관",
+"type": "train station",
+"queries": [
+"静岡駅"
+],
+"candidate": "Kuretake Inn Premium Shizuoka Ekimae.JPG",
+"local": "./assets/photos/schedules/shizuoka/d1-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Kuretake_Inn_Premium_Shizuoka_Ekimae.JPG",
+"files": []
+},
+"shizuoka-d1-03": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "静岡駅 まぐろ丼",
+"title": "점심: 참치덮밥·시즈오카 해산물",
+"type": "train station",
+"queries": [
+"静岡駅 まぐろ丼"
+],
+"candidate": "KASHI NO ICHI maguro kan in shimizu ward.jpg",
+"local": "./assets/photos/schedules/shizuoka/d1-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:KASHI_NO_ICHI_maguro_kan_in_shimizu_ward.jpg",
+"files": []
+},
+"shizuoka-d1-04": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "駿府城公園",
+"title": "슨푸성 공원·성곽 수로 산책",
+"type": "park garden",
+"queries": [
+"駿府城公園"
+],
+"candidate": "Sunpu castle park.JPG",
+"local": "./assets/photos/schedules/shizuoka/d1-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Sunpu_castle_park.JPG",
+"files": []
+},
+"shizuoka-d1-05": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "静岡 抹茶ジェラート",
+"title": "녹차·말차 젤라토 휴식",
+"type": "scenery",
+"queries": [
+"静岡 抹茶ジェラート"
+],
+"candidate": "Matcha ice cream 001.jpg",
+"local": "./assets/photos/schedules/shizuoka/d1-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Matcha_ice_cream_001.jpg",
+"files": []
+},
+"shizuoka-d1-06": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "青葉おでん街",
+"title": "아오바 오뎅거리 저녁 식사",
+"type": "shopping street",
+"queries": [
+"青葉おでん街"
+],
+"candidate": "Sumpu-jou park Oden shop.jpg",
+"local": "./assets/photos/schedules/shizuoka/d1-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Sumpu-jou_park_Oden_shop.jpg",
+"files": []
+},
+"shizuoka-d1-07": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "静岡駅 ASTY",
+"title": "시즈오카 도심 카페·쇼핑",
+"type": "train station",
+"queries": [
+"静岡駅 ASTY"
+],
+"candidate": "ASTY Shizuoka 01.jpg",
+"local": "./assets/photos/schedules/shizuoka/d1-07.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:ASTY_Shizuoka_01.jpg",
+"files": []
+},
+"shizuoka-d1-08": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "静岡駅 ホテル",
+"title": "숙소 귀환·휴식",
+"type": "train station",
+"queries": [
+"静岡駅 ホテル"
+],
+"candidate": "Hotel Associa Shizuoka.JPG",
+"local": "./assets/photos/schedules/shizuoka/d1-08.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Hotel_Associa_Shizuoka.JPG",
+"files": []
+},
+"shizuoka-d2-01": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "清水駅",
+"title": "JR 시미즈역 + 주말 해변행 버스",
+"type": "train station",
+"queries": [
+"清水駅"
+],
+"candidate": "Miho no Matsubara and Mount Fuji.JPG",
+"local": "./assets/photos/schedules/shizuoka/d2-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Miho_no_Matsubara_and_Mount_Fuji.JPG",
+"files": []
+},
+"shizuoka-d2-02": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "三保松原",
+"title": "미호노마쓰바라 흑송 숲·후지산 해변",
+"type": "harbor seaside",
+"queries": [
+"三保松原"
+],
+"candidate": "231027 Shimizu Port Shizuoka Japan01s3.jpg",
+"local": "./assets/photos/schedules/shizuoka/d2-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:231027_Shimizu_Port_Shizuoka_Japan01s3.jpg",
+"files": []
+},
+"shizuoka-d2-03": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "清水魚市場 河岸の市",
+"title": "시미즈항 쪽으로 돌아와 점심",
+"type": "restaurant Japanese food",
+"queries": [
+"清水魚市場 河岸の市"
+],
+"candidate": "Matcha latte.jpg",
+"local": "./assets/photos/schedules/shizuoka/d2-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Matcha_latte.jpg",
+"files": []
+},
+"shizuoka-d2-04": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "清水港",
+"title": "시미즈항·수루가만 조망",
+"type": "harbor seaside",
+"queries": [
+"清水港"
+],
+"candidate": "231027 Shimizu Port Shizuoka Japan03s3.jpg",
+"local": "./assets/photos/schedules/shizuoka/d2-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:231027_Shimizu_Port_Shizuoka_Japan03s3.jpg",
+"files": []
+},
+"shizuoka-d2-05": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "草薙駅",
+"title": "JR 이용해 구사나기역 이동",
+"type": "train station",
+"queries": [
+"草薙駅"
+],
+"candidate": "Shizuoka station 01.jpg",
+"local": "./assets/photos/schedules/shizuoka/d2-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Shizuoka_station_01.jpg",
+"files": []
+},
+"shizuoka-d2-06": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "あおい温泉 草薙の湯",
+"title": "아오이 온천 쿠사나기노유 입욕",
+"type": "onsen hot spring",
+"queries": [
+"あおい温泉 草薙の湯"
+],
+"candidate": "Aoba Ryokuchi 01.jpg",
+"local": "./assets/photos/schedules/shizuoka/d2-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Aoba_Ryokuchi_01.jpg",
+"files": []
+},
+"shizuoka-d2-07": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "静岡駅",
+"title": "JR 시즈오카역 복귀·저녁",
+"type": "train station",
+"queries": [
+"静岡駅"
+],
+"candidate": "Shizuoka Oden matsuri.jpg",
+"local": "./assets/photos/schedules/shizuoka/d2-07.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Oden_matsuri.jpg",
+"files": []
+},
+"shizuoka-d2-08": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "静岡駅 ASTY",
+"title": "도심 야경·디저트",
+"type": "train station",
+"queries": [
+"静岡駅 ASTY"
+],
+"candidate": "Shizoka oden 1 20151022.jpg",
+"local": "./assets/photos/schedules/shizuoka/d2-08.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Shizoka_oden_1_20151022.jpg",
+"files": []
+},
+"shizuoka-d2-09": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "静岡駅 ホテル",
+"title": "숙소 복귀",
+"type": "train station",
+"queries": [
+"静岡駅 ホテル"
+],
+"candidate": "Aoba Symbol Road 01.jpg",
+"local": "./assets/photos/schedules/shizuoka/d2-09.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Aoba_Symbol_Road_01.jpg",
+"files": []
+},
+"shizuoka-d3-01": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "静岡駅",
+"title": "체크아웃·짐 보관",
+"type": "train station",
+"queries": [
+"静岡駅"
+],
+"candidate": "Sanco Inn Shizuoka Kitaguchi.JPG",
+"local": "./assets/photos/schedules/shizuoka/d3-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Sanco_Inn_Shizuoka_Kitaguchi.JPG",
+"files": []
+},
+"shizuoka-d3-02": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "静岡駅 ASTY",
+"title": "아스티·시즈오카 차 기념품",
+"type": "train station",
+"queries": [
+"静岡駅 ASTY"
+],
+"candidate": "Aoba Oden Street 01.jpg",
+"local": "./assets/photos/schedules/shizuoka/d3-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Aoba_Oden_Street_01.jpg",
+"files": []
+},
+"shizuoka-d3-03": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "静岡駅 静岡おでん",
+"title": "점심: 시즈오카 오뎅·면 요리",
+"type": "train station",
+"queries": [
+"静岡駅 静岡おでん"
+],
+"candidate": "Shizoka oden 2 20151022.jpg",
+"local": "./assets/photos/schedules/shizuoka/d3-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Shizoka_oden_2_20151022.jpg",
+"files": []
+},
+"shizuoka-d3-04": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "静岡駅",
+"title": "공항행 버스 승차",
+"type": "train station",
+"queries": [
+"静岡駅"
+],
+"candidate": "Shizuoka airport - panoramio.jpg",
+"local": "./assets/photos/schedules/shizuoka/d3-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Shizuoka_airport_-_panoramio.jpg",
+"files": []
+},
+"shizuoka-d3-05": {
+"city": "shizuoka",
+"city_en": "Shizuoka",
+"city_jp": "静岡市",
+"place": "富士山静岡空港",
+"title": "후지산 시즈오카공항 출국 준비",
+"type": "airport",
+"queries": [
+"富士山静岡空港"
+],
+"candidate": "Shizuoka Station Concourse.jpg",
+"local": "./assets/photos/schedules/shizuoka/d3-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_Concourse.jpg",
+"files": []
+},
+"sapporo-d1-01": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "新千歳空港",
+"title": "신치토세공항 입국·JR 승차 준비",
+"type": "airport",
+"queries": [
+"新千歳空港"
+],
+"candidate": "New CHITOSE Airport terminal.jpg",
+"local": "./assets/photos/schedules/sapporo/d1-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:New_CHITOSE_Airport_terminal.jpg",
+"files": []
+},
+"sapporo-d1-02": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "札幌駅",
+"title": "JR 쾌속 에어포트·삿포로역 짐 보관",
+"type": "train station",
+"queries": [
+"札幌駅"
+],
+"candidate": "Hotel Route Inn Sapporo-Ekimae-Kitaguchi.JPG",
+"local": "./assets/photos/schedules/sapporo/d1-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Hotel_Route_Inn_Sapporo-Ekimae-Kitaguchi.JPG",
+"files": []
+},
+"sapporo-d1-03": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "札幌 スープカレー",
+"title": "점심: 삿포로 수프카레",
+"type": "restaurant Japanese food",
+"queries": [
+"札幌 スープカレー"
+],
+"candidate": "A soup curry dish in Sapporo - Flickr - odako1.jpg",
+"local": "./assets/photos/schedules/sapporo/d1-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:A_soup_curry_dish_in_Sapporo_-_Flickr_-_odako1.jpg",
+"files": []
+},
+"sapporo-d1-04": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "大通公園",
+"title": "오도리공원·TV타워 전망",
+"type": "park garden",
+"queries": [
+"大通公園"
+],
+"candidate": "Hokkaido Sapporo Odori Park.jpg",
+"local": "./assets/photos/schedules/sapporo/d1-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Hokkaido_Sapporo_Odori_Park.jpg",
+"files": []
+},
+"sapporo-d1-05": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "北海道庁旧本庁舎",
+"title": "홋카이도청 구본청사 전경",
+"type": "harbor seaside",
+"queries": [
+"北海道庁旧本庁舎"
+],
+"candidate": "New Chitose Airport at departure 01.jpg",
+"local": "./assets/photos/schedules/sapporo/d1-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:New_Chitose_Airport_at_departure_01.jpg",
+"files": []
+},
+"sapporo-d1-06": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "成吉思汗 だるま 札幌",
+"title": "스스키노 쇼핑·저녁: 징기스칸",
+"type": "shopping street",
+"queries": [
+"成吉思汗 だるま 札幌"
+],
+"candidate": "Yakiniku on braziers at 成吉思汗 だるま in Sapporo, Japan (244).jpg",
+"local": "./assets/photos/schedules/sapporo/d1-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Yakiniku_on_braziers_at_%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97_%E3%81%A0%E3%82%8B%E3%81%BE_in_Sapporo%2C_Japan_(244).jpg",
+"files": []
+},
+"sapporo-d1-07": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "元祖さっぽろラーメン横丁",
+"title": "스스키노 번화가·라멘 골목",
+"type": "restaurant Japanese food",
+"queries": [
+"元祖さっぽろラーメン横丁"
+],
+"candidate": "Curry dish at Rojiura Curry SAMURAI in Sapporo, Japan (242).jpg",
+"local": "./assets/photos/schedules/sapporo/d1-07.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Curry_dish_at_Rojiura_Curry_SAMURAI_in_Sapporo,_Japan_(242).jpg",
+"files": []
+},
+"sapporo-d1-08": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "札幌駅 ホテル",
+"title": "호텔로 돌아와 휴식",
+"type": "train station",
+"queries": [
+"札幌駅 ホテル"
+],
+"candidate": "定山渓ビューホテル - panoramio.jpg",
+"local": "./assets/photos/schedules/sapporo/d1-08.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:定山渓ビューホテル_-_panoramio.jpg",
+"files": []
+},
+"sapporo-d2-01": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "札幌駅",
+"title": "조잔케이행 정기버스 대기·탑승",
+"type": "train station",
+"queries": [
+"札幌駅"
+],
+"candidate": "A Corridor of Sapporo Station 01.jpg",
+"local": "./assets/photos/schedules/sapporo/d2-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:A_Corridor_of_Sapporo_Station_01.jpg",
+"files": []
+},
+"sapporo-d2-02": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "定山渓温泉",
+"title": "조잔케이 온천마을 도착",
+"type": "onsen hot spring",
+"queries": [
+"定山渓温泉"
+],
+"candidate": "JozankeiOnsen.jpg",
+"local": "./assets/photos/schedules/sapporo/d2-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:JozankeiOnsen.jpg",
+"files": []
+},
+"sapporo-d2-03": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "定山渓二見吊橋",
+"title": "후타미바시·계곡 전망 산책",
+"type": "scenery",
+"queries": [
+"定山渓二見吊橋"
+],
+"candidate": "20240923 Sapporo Odori Park.jpg",
+"local": "./assets/photos/schedules/sapporo/d2-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:20240923_Sapporo_Odori_Park.jpg",
+"files": []
+},
+"sapporo-d2-04": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "定山渓温泉",
+"title": "온천마을 점심·휴식",
+"type": "onsen hot spring",
+"queries": [
+"定山渓温泉"
+],
+"candidate": "SAKURAKO in the JyoZanKei hot springs. (8345382759).jpg",
+"local": "./assets/photos/schedules/sapporo/d2-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:SAKURAKO_in_the_JyoZanKei_hot_springs._(8345382759).jpg",
+"files": []
+},
+"sapporo-d2-05": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "定山渓温泉 日帰り入浴",
+"title": "예약 가능한 당일 입욕 온천 방문",
+"type": "onsen hot spring",
+"queries": [
+"定山渓温泉 日帰り入浴"
+],
+"candidate": "Former Hokkaido Government Office Building 20090112-01.jpg",
+"local": "./assets/photos/schedules/sapporo/d2-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Former_Hokkaido_Government_Office_Building_20090112-01.jpg",
+"files": []
+},
+"sapporo-d2-06": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "札幌駅",
+"title": "정기버스로 삿포로 복귀",
+"type": "train station",
+"queries": [
+"札幌駅"
+],
+"candidate": "Corridor of Sapporo Station 02.jpg",
+"local": "./assets/photos/schedules/sapporo/d2-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Corridor_of_Sapporo_Station_02.jpg",
+"files": []
+},
+"sapporo-d2-07": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "札幌 味噌ラーメン",
+"title": "저녁: 라멘·해산물",
+"type": "restaurant Japanese food",
+"queries": [
+"札幌 味噌ラーメン"
+],
+"candidate": "Soup-Curry ： PICANTE, Sapporo, Japan - panoramio.jpg",
+"local": "./assets/photos/schedules/sapporo/d2-07.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Soup-Curry_：_PICANTE,_Sapporo,_Japan_-_panoramio.jpg",
+"files": []
+},
+"sapporo-d2-08": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "すすきの",
+"title": "야경 산책·간식",
+"type": "night city skyline",
+"queries": [
+"すすきの"
+],
+"candidate": "Nakajima Park Sapporo01n3200.jpg",
+"local": "./assets/photos/schedules/sapporo/d2-08.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Nakajima_Park_Sapporo01n3200.jpg",
+"files": []
+},
+"sapporo-d2-09": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "札幌駅 ホテル",
+"title": "숙소 휴식",
+"type": "train station",
+"queries": [
+"札幌駅 ホテル"
+],
+"candidate": "KEIO-PRELIA.Sapporo.JPG",
+"local": "./assets/photos/schedules/sapporo/d2-09.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:KEIO-PRELIA.Sapporo.JPG",
+"files": []
+},
+"sapporo-d3-01": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "札幌駅",
+"title": "체크아웃·수하물 보관",
+"type": "train station",
+"queries": [
+"札幌駅"
+],
+"candidate": "The snack bar district in Sapporo's Susukino in winter.jpg",
+"local": "./assets/photos/schedules/sapporo/d3-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:The_snack_bar_district_in_Sapporo's_Susukino_in_winter.jpg",
+"files": []
+},
+"sapporo-d3-02": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "中島公園",
+"title": "나카지마공원 산책",
+"type": "park garden",
+"queries": [
+"中島公園"
+],
+"candidate": "Nakajima Park Sapporo02n4272.jpg",
+"local": "./assets/photos/schedules/sapporo/d3-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Nakajima_Park_Sapporo02n4272.jpg",
+"files": []
+},
+"sapporo-d3-03": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "札幌駅",
+"title": "기념품·과자 쇼핑",
+"type": "train station",
+"queries": [
+"札幌駅"
+],
+"candidate": "Susukino-night from TV Tower.JPG",
+"local": "./assets/photos/schedules/sapporo/d3-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Susukino-night_from_TV_Tower.JPG",
+"files": []
+},
+"sapporo-d3-04": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "札幌 味噌ラーメン",
+"title": "점심: 삿포로 미소라멘",
+"type": "restaurant Japanese food",
+"queries": [
+"札幌 味噌ラーメン"
+],
+"candidate": "Genghis Khan dish.jpg",
+"local": "./assets/photos/schedules/sapporo/d3-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Genghis_Khan_dish.jpg",
+"files": []
+},
+"sapporo-d3-05": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "新千歳空港",
+"title": "JR 신치토세공항으로 이동",
+"type": "airport",
+"queries": [
+"新千歳空港"
+],
+"candidate": "Ramen Alley Sapporo Japan.jpg",
+"local": "./assets/photos/schedules/sapporo/d3-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Ramen_Alley_Sapporo_Japan.jpg",
+"files": []
+},
+"sapporo-d3-06": {
+"city": "sapporo",
+"city_en": "Sapporo",
+"city_jp": "札幌市",
+"place": "新千歳空港",
+"title": "공항 출국수속 및 귀국편 대기",
+"type": "airport",
+"queries": [
+"新千歳空港"
+],
+"candidate": "Former Hokkaido Government Office 202507.jpg",
+"local": "./assets/photos/schedules/sapporo/d3-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Former_Hokkaido_Government_Office_202507.jpg",
+"files": []
+},
+"nagoya-d1-01": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "中部国際空港",
+"title": "중부국제공항 입국·메이테츠 대기",
+"type": "airport",
+"queries": [
+"中部国際空港"
+],
+"candidate": "Central Japan International Airport Station from departure lobby of Chubu Centrair International Airport.JPG",
+"local": "./assets/photos/schedules/nagoya/d1-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Central_Japan_International_Airport_Station_from_departure_lobby_of_Chubu_Centrair_International_Airport.JPG",
+"files": []
+},
+"nagoya-d1-02": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "名古屋駅",
+"title": "메이테츠로 나고야역·짐 보관",
+"type": "train station",
+"queries": [
+"名古屋駅"
+],
+"candidate": "名古屋プリンスホテル スカイタワー (50523581076).jpg",
+"local": "./assets/photos/schedules/nagoya/d1-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:名古屋プリンスホテル_スカイタワー_(50523581076).jpg",
+"files": []
+},
+"nagoya-d1-03": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "矢場とん 名古屋",
+"title": "점심: 야바톤 미소카츠",
+"type": "restaurant Japanese food",
+"queries": [
+"矢場とん 名古屋"
+],
+"candidate": "Yabaton's misokatsu （Nagoya soul food）.jpg",
+"local": "./assets/photos/schedules/nagoya/d1-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Yabaton's_misokatsu_（Nagoya_soul_food）.jpg",
+"files": []
+},
+"nagoya-d1-04": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "名古屋城",
+"title": "나고야성·혼마루 어전",
+"type": "scenery",
+"queries": [
+"名古屋城"
+],
+"candidate": "Nagoya Castle2026.jpg",
+"local": "./assets/photos/schedules/nagoya/d1-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Nagoya_Castle2026.jpg",
+"files": []
+},
+"nagoya-d1-05": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "久屋大通公園",
+"title": "히사야오도리 공원 녹지 산책",
+"type": "park garden",
+"queries": [
+"久屋大通公園"
+],
+"candidate": "Hisayaodori Park, Marunouchi Naka Ward Nagoya 2022.jpg",
+"local": "./assets/photos/schedules/nagoya/d1-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Hisayaodori_Park%2C_Marunouchi_Naka_Ward_Nagoya_2022.jpg",
+"files": []
+},
+"nagoya-d1-06": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "栄 名古屋 名古屋めし",
+"title": "사카에 식당거리에서 저녁",
+"type": "shopping street",
+"queries": [
+"栄 名古屋 名古屋めし"
+],
+"candidate": "Miso katsu, tsukemono and miso soup by shibainu in Nagoya.jpg",
+"local": "./assets/photos/schedules/nagoya/d1-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Miso_katsu,_tsukemono_and_miso_soup_by_shibainu_in_Nagoya.jpg",
+"files": []
+},
+"nagoya-d1-07": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "オアシス21",
+"title": "오아시스21·야경 감상",
+"type": "night city skyline",
+"queries": [
+"オアシス21"
+],
+"candidate": "View of Oasis 21 from Nagoya TV Tower at night.jpg",
+"local": "./assets/photos/schedules/nagoya/d1-07.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:View_of_Oasis_21_from_Nagoya_TV_Tower_at_night.jpg",
+"files": []
+},
+"nagoya-d1-08": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "名古屋駅 ホテル",
+"title": "숙소 복귀 및 휴식",
+"type": "train station",
+"queries": [
+"名古屋駅 ホテル"
+],
+"candidate": "Nagoya Castle 6.jpg",
+"local": "./assets/photos/schedules/nagoya/d1-08.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Nagoya_Castle_6.jpg",
+"files": []
+},
+"nagoya-d2-01": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "熱田神宮",
+"title": "지하철 이동·아쓰타 신궁 입구",
+"type": "train station",
+"queries": [
+"熱田神宮"
+],
+"candidate": "Atsuta Shrine.jpg",
+"local": "./assets/photos/schedules/nagoya/d2-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Atsuta_Shrine.jpg",
+"files": []
+},
+"nagoya-d2-02": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "熱田神宮",
+"title": "아쓰타 신궁 참배·삼림 산책",
+"type": "scenery",
+"queries": [
+"熱田神宮"
+],
+"candidate": "Atsuta Jingu 20211226-02.jpg",
+"local": "./assets/photos/schedules/nagoya/d2-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Atsuta_Jingu_20211226-02.jpg",
+"files": []
+},
+"nagoya-d2-03": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "あつた蓬莱軒 本店",
+"title": "점심: 히츠마부시 장어덮밥",
+"type": "restaurant Japanese food",
+"queries": [
+"あつた蓬莱軒 本店"
+],
+"candidate": "Hitsumabushi by Tomotaka in Nagoya.jpg",
+"local": "./assets/photos/schedules/nagoya/d2-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Hitsumabushi_by_Tomotaka_in_Nagoya.jpg",
+"files": []
+},
+"nagoya-d2-04": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "大須商店街",
+"title": "오스 상점가 산책·간식",
+"type": "shopping street",
+"queries": [
+"大須商店街"
+],
+"candidate": "Main shopping street (Osu in Nagoya, Japan).jpg",
+"local": "./assets/photos/schedules/nagoya/d2-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Main_shopping_street_(Osu_in_Nagoya,_Japan).jpg",
+"files": []
+},
+"nagoya-d2-05": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "天然温泉 アーバンクア",
+"title": "어반쿠아 천연온천·휴식",
+"type": "onsen hot spring",
+"queries": [
+"天然温泉 アーバンクア"
+],
+"candidate": "Lawn field of RAYARD Hisaya-odori Park.jpg",
+"local": "./assets/photos/schedules/nagoya/d2-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Lawn_field_of_RAYARD_Hisaya-odori_Park.jpg",
+"files": []
+},
+"nagoya-d2-06": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "名古屋駅",
+"title": "나고야역 인근으로 이동·저녁",
+"type": "train station",
+"queries": [
+"名古屋駅"
+],
+"candidate": "Miso Katsu by jetalone in Nagoya.jpg",
+"local": "./assets/photos/schedules/nagoya/d2-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Miso_Katsu_by_jetalone_in_Nagoya.jpg",
+"files": []
+},
+"nagoya-d2-07": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "オアシス21",
+"title": "오아시스21 야경 또는 도심 산책",
+"type": "night city skyline",
+"queries": [
+"オアシス21"
+],
+"candidate": "Oasis 21.JPG",
+"local": "./assets/photos/schedules/nagoya/d2-07.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Oasis_21.JPG",
+"files": []
+},
+"nagoya-d2-08": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "名古屋駅 ホテル",
+"title": "숙소 휴식",
+"type": "train station",
+"queries": [
+"名古屋駅 ホテル"
+],
+"candidate": "Nagoya 2017 (34159008173).jpg",
+"local": "./assets/photos/schedules/nagoya/d2-08.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Nagoya_2017_(34159008173).jpg",
+"files": []
+},
+"nagoya-d3-01": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "名古屋駅",
+"title": "체크아웃·짐 보관",
+"type": "train station",
+"queries": [
+"名古屋駅"
+],
+"candidate": "Christmas decoration at Nagoya Station; November 2007.jpg",
+"local": "./assets/photos/schedules/nagoya/d3-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Christmas_decoration_at_Nagoya_Station%3B_November_2007.jpg",
+"files": []
+},
+"nagoya-d3-02": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "ノリタケの森",
+"title": "노리타케의 숲·정원",
+"type": "park garden",
+"queries": [
+"ノリタケの森"
+],
+"candidate": "Autumn Leaves in Noritake Garden - 1.jpg",
+"local": "./assets/photos/schedules/nagoya/d3-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Autumn_Leaves_in_Noritake_Garden_-_1.jpg",
+"files": []
+},
+"nagoya-d3-03": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "名古屋駅 きしめん",
+"title": "점심: 기시멘·나고야 로컬식",
+"type": "train station",
+"queries": [
+"名古屋駅 きしめん"
+],
+"candidate": "Warajikatsu Yabaton.jpg",
+"local": "./assets/photos/schedules/nagoya/d3-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Warajikatsu_Yabaton.jpg",
+"files": []
+},
+"nagoya-d3-04": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "名鉄名古屋駅",
+"title": "메이테츠 나고야역에서 공항행",
+"type": "train station",
+"queries": [
+"名鉄名古屋駅"
+],
+"candidate": "Central Japan International Airport Station interior 01.JPG",
+"local": "./assets/photos/schedules/nagoya/d3-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Central_Japan_International_Airport_Station_interior_01.JPG",
+"files": []
+},
+"nagoya-d3-05": {
+"city": "nagoya",
+"city_en": "Nagoya",
+"city_jp": "名古屋市",
+"place": "中部国際空港",
+"title": "중부국제공항 출국 준비",
+"type": "airport",
+"queries": [
+"中部国際空港"
+],
+"candidate": "Oasis21 at Night.jpg",
+"local": "./assets/photos/schedules/nagoya/d3-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Oasis21_at_Night.jpg",
+"files": []
+},
+"okinawa-d1-01": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "那覇空港",
+"title": "나하공항 입국·유이레일 준비",
+"type": "airport",
+"queries": [
+"那覇空港"
+],
+"candidate": "140902 Naha Airport Naha Okinawa pref Japan01bs50.jpg",
+"local": "./assets/photos/schedules/okinawa/d1-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:140902_Naha_Airport_Naha_Okinawa_pref_Japan01bs50.jpg",
+"files": []
+},
+"okinawa-d1-02": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "県庁前駅 那覇",
+"title": "겐초마에역 이동·나하 호텔에 짐 보관",
+"type": "train station",
+"queries": [
+"県庁前駅 那覇"
+],
+"candidate": "Hotel JALCITY Naha.JPG",
+"local": "./assets/photos/schedules/okinawa/d1-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Hotel_JALCITY_Naha.JPG",
+"files": []
+},
+"okinawa-d1-03": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "首里城公園",
+"title": "슈리성 공원·류탄 연못 산책",
+"type": "park garden",
+"queries": [
+"首里城公園"
+],
+"candidate": "Ryutan and Shuri Castle 01.JPG",
+"local": "./assets/photos/schedules/okinawa/d1-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Ryutan_and_Shuri_Castle_01.JPG",
+"files": []
+},
+"okinawa-d1-04": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "那覇国際通り",
+"title": "국제거리·오키나와 소바 점심",
+"type": "shopping street",
+"queries": [
+"那覇国際通り"
+],
+"candidate": "Okinawan Restaurant Kokusaidori.jpg",
+"local": "./assets/photos/schedules/okinawa/d1-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Okinawan_Restaurant_Kokusaidori.jpg",
+"files": []
+},
+"okinawa-d1-05": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "赤嶺駅",
+"title": "아카미네역 경유 세나가시마 버스",
+"type": "train station",
+"queries": [
+"赤嶺駅"
+],
+"candidate": "Naha Airport Station (17173992728).jpg",
+"local": "./assets/photos/schedules/okinawa/d1-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Naha_Airport_Station_(17173992728).jpg",
+"files": []
+},
+"okinawa-d1-06": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "琉球温泉 龍神の湯",
+"title": "류큐온천 세나가시마 호텔 해수온천",
+"type": "onsen hot spring",
+"queries": [
+"琉球温泉 龍神の湯"
+],
+"candidate": "JP 日本 Japan 沖繩 OKINAWA 那霸 Naha 九州酒店 Kyushu Hotel Blossom Naha January 2025 R12S 128.jpg",
+"local": "./assets/photos/schedules/okinawa/d1-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:JP_日本_Japan_沖繩_OKINAWA_那霸_Naha_九州酒店_Kyushu_Hotel_Blossom_Naha_January_2025_R12S_128.jpg",
+"files": []
+},
+"okinawa-d1-07": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "那覇国際通り",
+"title": "나하 시내 복귀·저녁",
+"type": "shopping street",
+"queries": [
+"那覇国際通り"
+],
+"candidate": "Tacos in Okinawa.jpg",
+"local": "./assets/photos/schedules/okinawa/d1-07.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Tacos_in_Okinawa.jpg",
+"files": []
+},
+"okinawa-d1-08": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "那覇国際通り",
+"title": "국제거리 야경·로컬 음식",
+"type": "shopping street",
+"queries": [
+"那覇国際通り"
+],
+"candidate": "Kokusaidori at night.jpg",
+"local": "./assets/photos/schedules/okinawa/d1-08.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Kokusaidori_at_night.jpg",
+"files": []
+},
+"okinawa-d1-09": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "那覇 ホテル",
+"title": "숙소 복귀·휴식",
+"type": "scenery",
+"queries": [
+"那覇 ホテル"
+],
+"candidate": "Hotel Rocore Naha.JPG",
+"local": "./assets/photos/schedules/okinawa/d1-09.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Hotel_Rocore_Naha.JPG",
+"files": []
+},
+"okinawa-d2-01": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "県庁前 パレットくもじ",
+"title": "관광버스 집합지 이동·08:45 출발",
+"type": "train station",
+"queries": [
+"県庁前 パレットくもじ"
+],
+"candidate": "Monoriel en okinawa.jpg",
+"local": "./assets/photos/schedules/okinawa/d2-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Monoriel_en_okinawa.jpg",
+"files": []
+},
+"okinawa-d2-02": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "沖縄美ら海水族館",
+"title": "북부 버스 이동·츄라우미 수족관 도착",
+"type": "train station",
+"queries": [
+"沖縄美ら海水族館"
+],
+"candidate": "Okinawa Churaumi Aquarium main entrance far view 20170408.jpg",
+"local": "./assets/photos/schedules/okinawa/d2-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Okinawa_Churaumi_Aquarium_main_entrance_far_view_20170408.jpg",
+"files": []
+},
+"okinawa-d2-03": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "沖縄美ら海水族館",
+"title": "수족관 고래상어·해양박공원",
+"type": "park garden",
+"queries": [
+"沖縄美ら海水族館"
+],
+"candidate": "Kouri Bridge (15130568259).jpg",
+"local": "./assets/photos/schedules/okinawa/d2-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Kouri_Bridge_(15130568259).jpg",
+"files": []
+},
+"okinawa-d2-04": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "古宇利島",
+"title": "코우리섬·바다 전망",
+"type": "harbor seaside",
+"queries": [
+"古宇利島"
+],
+"candidate": "Kouri 01.jpg",
+"local": "./assets/photos/schedules/okinawa/d2-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Kouri_01.jpg",
+"files": []
+},
+"okinawa-d2-05": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "御菓子御殿 恩納店",
+"title": "오카시고텐 쇼핑·간식",
+"type": "shopping street",
+"queries": [
+"御菓子御殿 恩納店"
+],
+"candidate": "Night at Kokusai-dori 20250503183151.jpg",
+"local": "./assets/photos/schedules/okinawa/d2-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503183151.jpg",
+"files": []
+},
+"okinawa-d2-06": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "万座毛",
+"title": "만자모 절벽 풍경",
+"type": "temple shrine",
+"queries": [
+"万座毛"
+],
+"candidate": "JP 日本 Japan 沖繩 OKINAWA Outlet Mall Ashibinaa 豐見城市 Tomigusuku taxi tour view to 瀨長島 Senagajima Umikaji Terrace January 2025 R12S 01.jpg",
+"local": "./assets/photos/schedules/okinawa/d2-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Outlet_Mall_Ashibinaa_%E8%B1%90%E8%A6%8B%E5%9F%8E%E5%B8%82_Tomigusuku_taxi_tour_view_to_%E7%80%A8%E9%95%B7%E5%B3%B6_Senagajima_Umikaji_Terrace_January_2025_R12S_01.jpg",
+"files": []
+},
+"okinawa-d2-07": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "アメリカンビレッジ",
+"title": "아메리칸빌리지·해변 거리",
+"type": "shopping street",
+"queries": [
+"アメリカンビレッジ"
+],
+"candidate": "American Village in Okinawa.jpg",
+"local": "./assets/photos/schedules/okinawa/d2-07.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:American_Village_in_Okinawa.jpg",
+"files": []
+},
+"okinawa-d2-08": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "県庁前 パレットくもじ",
+"title": "북부 투어 종료·나하 하차",
+"type": "scenery",
+"queries": [
+"県庁前 パレットくもじ"
+],
+"candidate": "Okinawa Churaumi Aquarium 20131009.jpg",
+"local": "./assets/photos/schedules/okinawa/d2-08.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Okinawa_Churaumi_Aquarium_20131009.jpg",
+"files": []
+},
+"okinawa-d2-09": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "那覇国際通り タコライス",
+"title": "국제거리 타코라이스 저녁",
+"type": "shopping street",
+"queries": [
+"那覇国際通り タコライス"
+],
+"candidate": "Ryukyu Sweets with Sanpin-cha in Shuri Castle.JPG",
+"local": "./assets/photos/schedules/okinawa/d2-09.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Ryukyu_Sweets_with_Sanpin-cha_in_Shuri_Castle.JPG",
+"files": []
+},
+"okinawa-d2-10": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "那覇国際通り",
+"title": "국제거리 야경·호텔 귀환",
+"type": "shopping street",
+"queries": [
+"那覇国際通り"
+],
+"candidate": "202408 沖繩縣那霸市的那霸國際通的街景.jpg",
+"local": "./assets/photos/schedules/okinawa/d2-10.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:202408_%E6%B2%96%E7%B9%A9%E7%B8%A3%E9%82%A3%E9%9C%B8%E5%B8%82%E7%9A%84%E9%82%A3%E9%9C%B8%E5%9C%8B%E9%9A%9B%E9%80%9A%E7%9A%84%E8%A1%97%E6%99%AF.jpg",
+"files": []
+},
+"okinawa-d3-01": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "県庁前駅 那覇",
+"title": "호텔 체크아웃·짐 보관",
+"type": "train station",
+"queries": [
+"県庁前駅 那覇"
+],
+"candidate": "Okinawa Churaumi Aquarium.jpg",
+"local": "./assets/photos/schedules/okinawa/d3-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Okinawa_Churaumi_Aquarium.jpg",
+"files": []
+},
+"okinawa-d3-02": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "瀬長島ウミカジテラス",
+"title": "우미카지 테라스 카페·오션뷰",
+"type": "scenery",
+"queries": [
+"瀬長島ウミカジテラス"
+],
+"candidate": "Umikaji Terrace Senagajima.jpg",
+"local": "./assets/photos/schedules/okinawa/d3-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Umikaji_Terrace_Senagajima.jpg",
+"files": []
+},
+"okinawa-d3-03": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "瀬長島ウミカジテラス",
+"title": "바닷가 점심·기념품",
+"type": "restaurant Japanese food",
+"queries": [
+"瀬長島ウミカジテラス"
+],
+"candidate": "Shuri soba by kazuh.jpg",
+"local": "./assets/photos/schedules/okinawa/d3-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Shuri_soba_by_kazuh.jpg",
+"files": []
+},
+"okinawa-d3-04": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "那覇空港",
+"title": "공항행 버스·유이레일 이동",
+"type": "airport",
+"queries": [
+"那覇空港"
+],
+"candidate": "Naha Airport Departure Lobby.jpg",
+"local": "./assets/photos/schedules/okinawa/d3-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Naha_Airport_Departure_Lobby.jpg",
+"files": []
+},
+"okinawa-d3-05": {
+"city": "okinawa",
+"city_en": "Okinawa",
+"city_jp": "那覇市",
+"place": "那覇空港",
+"title": "나하공항 출국 준비",
+"type": "airport",
+"queries": [
+"那覇空港"
+],
+"candidate": "Inside view of Naha Airport Domestic Passenger Terminal Building.JPG",
+"local": "./assets/photos/schedules/okinawa/d3-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Inside_view_of_Naha_Airport_Domestic_Passenger_Terminal_Building.JPG",
+"files": []
+},
+"sendai-d1-01": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台空港",
+"title": "센다이공항 입국·공항철도 준비",
+"type": "airport",
+"queries": [
+"仙台空港"
+],
+"candidate": "211028 Sendai Airport Station Miyagi prefecture Japan01s.jpg",
+"local": "./assets/photos/schedules/sendai/d1-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:211028_Sendai_Airport_Station_Miyagi_prefecture_Japan01s.jpg",
+"files": []
+},
+"sendai-d1-02": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台駅",
+"title": "센다이역 이동·호텔 짐 보관",
+"type": "train station",
+"queries": [
+"仙台駅"
+],
+"candidate": "Sendai Station west entrance 2021.jpg",
+"local": "./assets/photos/schedules/sendai/d1-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_west_entrance_2021.jpg",
+"files": []
+},
+"sendai-d1-03": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台駅 牛タン",
+"title": "점심: 센다이 규탄 정식",
+"type": "train station",
+"queries": [
+"仙台駅 牛タン"
+],
+"candidate": "Gyutan teishoku.JPG",
+"local": "./assets/photos/schedules/sendai/d1-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Gyutan_teishoku.JPG",
+"files": []
+},
+"sendai-d1-04": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "松島海岸駅",
+"title": "JR 센세키선으로 마쓰시마행",
+"type": "train station",
+"queries": [
+"松島海岸駅"
+],
+"candidate": "Sendai citybus in Jozenji-dori ave. 2023.jpg",
+"local": "./assets/photos/schedules/sendai/d1-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Sendai_citybus_in_Jozenji-dori_ave._2023.jpg",
+"files": []
+},
+"sendai-d1-05": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "松島湾",
+"title": "마쓰시마만 유람선·고다이도",
+"type": "scenery",
+"queries": [
+"松島湾"
+],
+"candidate": "Matsushima Bay - Matsushima6238.jpg",
+"local": "./assets/photos/schedules/sendai/d1-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Matsushima_Bay_-_Matsushima6238.jpg",
+"files": []
+},
+"sendai-d1-06": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台駅",
+"title": "센다이역 복귀",
+"type": "train station",
+"queries": [
+"仙台駅"
+],
+"candidate": "Sendai station Senzan Line platforms.jpg",
+"local": "./assets/photos/schedules/sendai/d1-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Sendai_station_Senzan_Line_platforms.jpg",
+"files": []
+},
+"sendai-d1-07": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "定禅寺通",
+"title": "조젠지도리 케야키 가로수길",
+"type": "temple shrine",
+"queries": [
+"定禅寺通"
+],
+"candidate": "Exterior view of Sendai Mediatheque from Jozenji Street 20220910a.jpg",
+"local": "./assets/photos/schedules/sendai/d1-07.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Exterior_view_of_Sendai_Mediatheque_from_Jozenji_Street_20220910a.jpg",
+"files": []
+},
+"sendai-d1-08": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "国分町 仙台",
+"title": "고쿠분초·우설 저녁 식사",
+"type": "restaurant Japanese food",
+"queries": [
+"国分町 仙台"
+],
+"candidate": "Sendai gyutan.JPG",
+"local": "./assets/photos/schedules/sendai/d1-08.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Sendai_gyutan.JPG",
+"files": []
+},
+"sendai-d1-09": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台駅 ホテル",
+"title": "야경·숙소 귀환",
+"type": "train station",
+"queries": [
+"仙台駅 ホテル"
+],
+"candidate": "WestinSendai Front.JPG",
+"local": "./assets/photos/schedules/sendai/d1-09.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:WestinSendai_Front.JPG",
+"files": []
+},
+"sendai-d2-01": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台駅 西口",
+"title": "센다이역에서 아키우행 정기버스",
+"type": "train station",
+"queries": [
+"仙台駅 西口"
+],
+"candidate": "仙台駅の外観.jpg",
+"local": "./assets/photos/schedules/sendai/d2-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:仙台駅の外観.jpg",
+"files": []
+},
+"sendai-d2-02": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "秋保温泉",
+"title": "아키우 온천지역 하차·협곡 입구",
+"type": "train station",
+"queries": [
+"秋保温泉"
+],
+"candidate": "211028 Akiu Onsen Sendai Miyagi pref Japan01s3.jpg",
+"local": "./assets/photos/schedules/sendai/d2-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:211028_Akiu_Onsen_Sendai_Miyagi_pref_Japan01s3.jpg",
+"files": []
+},
+"sendai-d2-03": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "磊々峡",
+"title": "라이라이쿄 협곡·자연 산책",
+"type": "scenery",
+"queries": [
+"磊々峡"
+],
+"candidate": "211029 Rairaikyo Sendai Miyagi pref Japan13s3.jpg",
+"local": "./assets/photos/schedules/sendai/d2-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:211029_Rairaikyo_Sendai_Miyagi_pref_Japan13s3.jpg",
+"files": []
+},
+"sendai-d2-04": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "秋保温泉",
+"title": "온천마을 점심·간식",
+"type": "onsen hot spring",
+"queries": [
+"秋保温泉"
+],
+"candidate": "Akiu Onsen, Ryokusuitei 01.jpg",
+"local": "./assets/photos/schedules/sendai/d2-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Akiu_Onsen,_Ryokusuitei_01.jpg",
+"files": []
+},
+"sendai-d2-05": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "秋保グランドホテル",
+"title": "당일 입욕 가능한 아키우 온천",
+"type": "onsen hot spring",
+"queries": [
+"秋保グランドホテル"
+],
+"candidate": "WestinSendaiExecutiveLounge.JPG",
+"local": "./assets/photos/schedules/sendai/d2-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:WestinSendaiExecutiveLounge.JPG",
+"files": []
+},
+"sendai-d2-06": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台駅",
+"title": "정기버스로 센다이 복귀",
+"type": "train station",
+"queries": [
+"仙台駅"
+],
+"candidate": "Sendai Station west entrance 2020.jpg",
+"local": "./assets/photos/schedules/sendai/d2-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_west_entrance_2020.jpg",
+"files": []
+},
+"sendai-d2-07": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台城跡",
+"title": "아오바 성터·야경 감상",
+"type": "night city skyline",
+"queries": [
+"仙台城跡"
+],
+"candidate": "Clis Road (Sendai) at night 202512.jpg",
+"local": "./assets/photos/schedules/sendai/d2-07.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Clis_Road_(Sendai)_at_night_202512.jpg",
+"files": []
+},
+"sendai-d2-08": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台 牛タン",
+"title": "저녁: 규탄과 도호쿠 로컬 요리",
+"type": "restaurant Japanese food",
+"queries": [
+"仙台 牛タン"
+],
+"candidate": "牛タン定食（牛タン焼専門店司西口名掛丁店・仙台）20220312-P1330639.jpg",
+"local": "./assets/photos/schedules/sendai/d2-08.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:牛タン定食（牛タン焼専門店司西口名掛丁店・仙台）20220312-P1330639.jpg",
+"files": []
+},
+"sendai-d2-09": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台駅",
+"title": "센다이역 쇼핑·카페",
+"type": "train station",
+"queries": [
+"仙台駅"
+],
+"candidate": "Sendai Station at night (30648489646).jpg",
+"local": "./assets/photos/schedules/sendai/d2-09.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_night_(30648489646).jpg",
+"files": []
+},
+"sendai-d2-10": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台駅 ホテル",
+"title": "숙소 복귀",
+"type": "train station",
+"queries": [
+"仙台駅 ホテル"
+],
+"candidate": "Akiu spa Hotel zuiho 2008.jpg",
+"local": "./assets/photos/schedules/sendai/d2-10.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Akiu_spa_Hotel_zuiho_2008.jpg",
+"files": []
+},
+"sendai-d3-01": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台駅",
+"title": "체크아웃·짐 보관",
+"type": "train station",
+"queries": [
+"仙台駅"
+],
+"candidate": "Zuiho-den02s3200.jpg",
+"local": "./assets/photos/schedules/sendai/d3-01.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Zuiho-den02s3200.jpg",
+"files": []
+},
+"sendai-d3-02": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "瑞鳳殿",
+"title": "즈이호덴 숲길·영묘",
+"type": "scenery",
+"queries": [
+"瑞鳳殿"
+],
+"candidate": "Zuiho-den01s3872.jpg",
+"local": "./assets/photos/schedules/sendai/d3-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Zuiho-den01s3872.jpg",
+"files": []
+},
+"sendai-d3-03": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台駅 ずんだ餅",
+"title": "역·아케이드에서 즈다모치 쇼핑",
+"type": "train station",
+"queries": [
+"仙台駅 ずんだ餅"
+],
+"candidate": "Sendai Station at Night.JPG",
+"local": "./assets/photos/schedules/sendai/d3-03.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_Night.JPG",
+"files": []
+},
+"sendai-d3-04": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台駅 牛タン",
+"title": "마지막 규탄 점심",
+"type": "train station",
+"queries": [
+"仙台駅 牛タン"
+],
+"candidate": "211030 Kameshima Matsushima Miyagi pref Japan01n.jpg",
+"local": "./assets/photos/schedules/sendai/d3-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:211030_Kameshima_Matsushima_Miyagi_pref_Japan01n.jpg",
+"files": []
+},
+"sendai-d3-05": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台空港",
+"title": "공항철도로 센다이공항 이동",
+"type": "airport",
+"queries": [
+"仙台空港"
+],
+"candidate": "Rapid train to Sendai.jpg",
+"local": "./assets/photos/schedules/sendai/d3-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Rapid_train_to_Sendai.jpg",
+"files": []
+},
+"sendai-d3-06": {
+"city": "sendai",
+"city_en": "Sendai",
+"city_jp": "仙台市",
+"place": "仙台空港",
+"title": "공항 출국수속 대기",
+"type": "airport",
+"queries": [
+"仙台空港"
+],
+"candidate": "仙台駅, Sendai station - panoramio.jpg",
+"local": "./assets/photos/schedules/sendai/d3-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:仙台駅,_Sendai_station_-_panoramio.jpg",
+"files": []
+},
+"fukuoka-d1-01": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "福岡空港",
+"title": "공항 입국·시내 이동 준비",
+"type": "airport",
+"queries": [
+"Fukuoka Airport international terminal 福岡空港",
+"福岡空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d1-01.jpg",
+"source": "",
+"files": [
+"Fukuoka Airport international terminal.jpg",
+"Fukuoka Airport International Terminal Departure Floor.jpg"
+]
+},
+"fukuoka-d1-02": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "博多駅",
+"title": "지하철로 하카타역 이동·수하물 보관",
+"type": "train station",
+"queries": [
+"Hakata Station Fukuoka 博多駅",
+"博多駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d1-02.jpg",
+"source": "",
+"files": [
+"Fukuoka City Subway Airport Line Hakata Station.jpg"
+]
+},
+"fukuoka-d1-03": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "キャナルシティ博多",
+"title": "캐널시티 주변 탐방",
+"type": "scenery",
+"queries": [
+"Canal City Hakata キャナルシティ博多",
+"キャナルシティ博多"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d1-03.jpg",
+"source": "",
+"files": [
+"Canal city hakata fukuoka.jpg"
+]
+},
+"fukuoka-d1-04": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "博多ラーメン",
+"title": "하카타 라멘 점심",
+"type": "restaurant Japanese food",
+"queries": [
+"Hakata tonkotsu ramen 博多ラーメン",
+"博多ラーメン"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d1-04.jpg",
+"source": "",
+"files": []
+},
+"fukuoka-d1-05": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "大濠公園",
+"title": "오호리공원 호수 풍경 산책",
+"type": "park garden",
+"queries": [
+"Ohori Park Fukuoka 大濠公園",
+"大濠公園"
+],
+"candidate": "Ohori Park 20170505-4.jpg",
+"local": "./assets/photos/schedules/fukuoka/d1-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Ohori_Park_20170505-4.jpg",
+"files": [
+"Ohori Park 20170505-4.jpg",
+"Ohori Park 20200716-7.jpg"
+]
+},
+"fukuoka-d1-06": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "舞鶴公園",
+"title": "후쿠오카 성터와 마이즈루 공원",
+"type": "park garden",
+"queries": [
+"Maizuru Park Fukuoka castle ruins 舞鶴公園",
+"舞鶴公園"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d1-06.jpg",
+"source": "",
+"files": []
+},
+"fukuoka-d1-07": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "天神",
+"title": "텐진 쇼핑거리·휴식",
+"type": "shopping street",
+"queries": [
+"Tenjin Fukuoka 天神",
+"天神"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d1-07.jpg",
+"source": "",
+"files": []
+},
+"fukuoka-d1-08": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "天神 もつ鍋",
+"title": "모츠나베 저녁 식사",
+"type": "restaurant Japanese food",
+"queries": [
+"motsunabe Fukuoka 天神 もつ鍋",
+"天神 もつ鍋"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d1-08.jpg",
+"source": "",
+"files": []
+},
+"fukuoka-d1-09": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "みなと温泉 波葉の湯",
+"title": "나미하노유 천연온천",
+"type": "onsen hot spring",
+"queries": [
+"Namiha no Yu onsen Fukuoka みなと温泉 波葉の湯",
+"みなと温泉 波葉の湯"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d1-09.jpg",
+"source": "",
+"files": []
+},
+"fukuoka-d1-10": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "博多駅",
+"title": "버스로 복귀·야식·호텔",
+"type": "train station",
+"queries": [
+"Hakata Station Fukuoka 博多駅",
+"博多駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d1-10.jpg",
+"source": "",
+"files": [
+"Fukuoka City Subway Airport Line Hakata Station.jpg"
+]
+},
+"fukuoka-d2-01": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "姪浜駅",
+"title": "하카타 출발, 메이노하마 이동",
+"type": "train station",
+"queries": [
+"Meinohama Station 姪浜駅",
+"姪浜駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d2-01.jpg",
+"source": "",
+"files": []
+},
+"fukuoka-d2-02": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "能古島渡船場",
+"title": "버스·페리로 노코노시마",
+"type": "train station",
+"queries": [
+"Nokonoshima ferry terminal 能古島渡船場",
+"能古島渡船場"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d2-02.jpg",
+"source": "",
+"files": []
+},
+"fukuoka-d2-03": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "のこのしまアイランドパーク",
+"title": "섬 자연 경관·전망대",
+"type": "harbor seaside",
+"queries": [
+"Nokonoshima Island Park のこのしまアイランドパーク",
+"のこのしまアイランドパーク"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d2-03.jpg",
+"source": "",
+"files": [
+"Canola field in Nokonoshima Island Park 1.jpg"
+]
+},
+"fukuoka-d2-04": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "のこのしまアイランドパーク",
+"title": "섬 레스토랑 점심",
+"type": "restaurant Japanese food",
+"queries": [
+"Nokonoshima Island Park のこのしまアイランドパーク",
+"のこのしまアイランドパーク"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d2-04.jpg",
+"source": "",
+"files": [
+"Canola field in Nokonoshima Island Park 1.jpg"
+]
+},
+"fukuoka-d2-05": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "能古島",
+"title": "세토내해가 아닌 하카타만 경관 감상",
+"type": "scenery",
+"queries": [
+"Nokonoshima island 能古島",
+"能古島"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d2-05.jpg",
+"source": "",
+"files": []
+},
+"fukuoka-d2-06": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "姪浜渡船場",
+"title": "페리·버스로 후쿠오카 복귀",
+"type": "train station",
+"queries": [
+"Meinohama ferry terminal 姪浜渡船場",
+"姪浜渡船場"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d2-06.jpg",
+"source": "",
+"files": []
+},
+"fukuoka-d2-07": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "博多駅",
+"title": "하카타역 일대 카페",
+"type": "train station",
+"queries": [
+"Hakata Station Fukuoka 博多駅",
+"博多駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d2-07.jpg",
+"source": "",
+"files": [
+"Fukuoka City Subway Airport Line Hakata Station.jpg"
+]
+},
+"fukuoka-d2-08": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "博多駅 居酒屋",
+"title": "가성비 현지 이자카야 저녁",
+"type": "train station",
+"queries": [
+"Hakata izakaya Fukuoka 博多駅 居酒屋",
+"博多駅 居酒屋"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d2-08.jpg",
+"source": "",
+"files": []
+},
+"fukuoka-d2-09": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "中洲",
+"title": "나카스 강변 야경",
+"type": "night city skyline",
+"queries": [
+"Nakasu Fukuoka at night 中洲",
+"中洲"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d2-09.jpg",
+"source": "",
+"files": [
+"Nakasu at night.jpg",
+"Night view of Nakasu and Canal City Hakata November 2011.jpg"
+]
+},
+"fukuoka-d2-10": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "博多駅",
+"title": "야식·호텔 복귀",
+"type": "train station",
+"queries": [
+"Hakata Station Fukuoka 博多駅",
+"博多駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d2-10.jpg",
+"source": "",
+"files": [
+"Fukuoka City Subway Airport Line Hakata Station.jpg"
+]
+},
+"fukuoka-d3-01": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "博多駅",
+"title": "체크아웃·수하물 정리",
+"type": "train station",
+"queries": [
+"Hakata Station Fukuoka 博多駅",
+"博多駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d3-01.jpg",
+"source": "",
+"files": [
+"Fukuoka City Subway Airport Line Hakata Station.jpg"
+]
+},
+"fukuoka-d3-02": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "住吉神社 福岡",
+"title": "스미요시 신사 산책",
+"type": "temple shrine",
+"queries": [
+"Sumiyoshi Shrine Fukuoka 住吉神社 福岡",
+"住吉神社 福岡"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d3-02.jpg",
+"source": "",
+"files": []
+},
+"fukuoka-d3-03": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "博多駅",
+"title": "마지막 점심·기념품",
+"type": "train station",
+"queries": [
+"Hakata Station Fukuoka 博多駅",
+"博多駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d3-03.jpg",
+"source": "",
+"files": [
+"Fukuoka City Subway Airport Line Hakata Station.jpg"
+]
+},
+"fukuoka-d3-04": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "福岡空港",
+"title": "지하철로 공항 이동",
+"type": "airport",
+"queries": [
+"Fukuoka Airport international terminal 福岡空港",
+"福岡空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d3-04.jpg",
+"source": "",
+"files": [
+"Fukuoka Airport international terminal.jpg",
+"Fukuoka Airport International Terminal Departure Floor.jpg"
+]
+},
+"fukuoka-d3-05": {
+"city": "fukuoka",
+"city_en": "Fukuoka",
+"city_jp": "福岡市",
+"place": "福岡空港",
+"title": "출국 수속·탑승 대기",
+"type": "airport",
+"queries": [
+"Fukuoka Airport international terminal 福岡空港",
+"福岡空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/fukuoka/d3-05.jpg",
+"source": "",
+"files": [
+"Fukuoka Airport international terminal.jpg",
+"Fukuoka Airport International Terminal Departure Floor.jpg"
+]
+},
+"osaka-d1-01": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "関西国際空港",
+"title": "간사이공항 입국·난카이 전철",
+"type": "airport",
+"queries": [
+"Kansai International Airport Osaka 関西国際空港",
+"関西国際空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d1-01.jpg",
+"source": "",
+"files": [
+"Kansai International Airport.JPG"
+]
+},
+"osaka-d1-02": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "なんば駅",
+"title": "난바 호텔 짐 보관",
+"type": "train station",
+"queries": [
+"Namba Station Osaka なんば駅",
+"なんば駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d1-02.jpg",
+"source": "",
+"files": []
+},
+"osaka-d1-03": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "難波 お好み焼き",
+"title": "오코노미야키 점심",
+"type": "restaurant Japanese food",
+"queries": [
+"okonomiyaki Osaka 難波 お好み焼き",
+"難波 お好み焼き"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d1-03.jpg",
+"source": "",
+"files": []
+},
+"osaka-d1-04": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "大阪城公園",
+"title": "오사카성 공원 산책",
+"type": "park garden",
+"queries": [
+"Osaka Castle Park 大阪城公園",
+"大阪城公園"
+],
+"candidate": "Osaka Castle June 2019.jpg",
+"local": "./assets/photos/schedules/osaka/d1-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Osaka_Castle_June_2019.jpg",
+"files": [
+"Osaka Castle June 2019.jpg"
+]
+},
+"osaka-d1-05": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "大阪城天守閣",
+"title": "천수각 외관·정원 전망",
+"type": "park garden",
+"queries": [
+"Osaka Castle main keep 大阪城天守閣",
+"大阪城天守閣"
+],
+"candidate": "Exterior of Osaka Castle (I).jpg",
+"local": "./assets/photos/schedules/osaka/d1-05.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Osaka_Castle_(I).jpg",
+"files": [
+"Exterior of Osaka Castle (I).jpg"
+]
+},
+"osaka-d1-06": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "梅田",
+"title": "우메다 주변 카페",
+"type": "scenery",
+"queries": [
+"Umeda Osaka 梅田",
+"梅田"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d1-06.jpg",
+"source": "",
+"files": []
+},
+"osaka-d1-07": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "天神橋筋商店街",
+"title": "쿠시카츠 저녁",
+"type": "shopping street",
+"queries": [
+"Tenjinbashisuji shopping street 天神橋筋商店街",
+"天神橋筋商店街"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d1-07.jpg",
+"source": "",
+"files": []
+},
+"osaka-d1-08": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "天然温泉 なにわの湯",
+"title": "나니와노유 천연온천",
+"type": "onsen hot spring",
+"queries": [
+"Naniwa no Yu Osaka onsen 天然温泉 なにわの湯",
+"天然温泉 なにわの湯"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d1-08.jpg",
+"source": "",
+"files": []
+},
+"osaka-d1-09": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "なんば駅",
+"title": "전철 복귀·호텔 휴식",
+"type": "train station",
+"queries": [
+"Namba Station Osaka なんば駅",
+"なんば駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d1-09.jpg",
+"source": "",
+"files": []
+},
+"osaka-d2-01": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "箕面駅",
+"title": "한큐 전철로 미노오 이동",
+"type": "train station",
+"queries": [
+"Minoh Station Osaka 箕面駅",
+"箕面駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d2-01.jpg",
+"source": "",
+"files": []
+},
+"osaka-d2-02": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "箕面大滝",
+"title": "미노오 폭포까지 숲길 트레킹(관광 도보)",
+"type": "scenery",
+"queries": [
+"Minoo Falls waterfall 箕面大滝",
+"箕面大滝"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d2-02.jpg",
+"source": "",
+"files": []
+},
+"osaka-d2-03": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "箕面駅",
+"title": "미노오역 인근 점심",
+"type": "train station",
+"queries": [
+"Minoh Station Osaka 箕面駅",
+"箕面駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d2-03.jpg",
+"source": "",
+"files": []
+},
+"osaka-d2-04": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "大阪梅田駅",
+"title": "한큐로 오사카 도심 복귀",
+"type": "train station",
+"queries": [
+"Osaka Umeda station Hankyu 大阪梅田駅",
+"大阪梅田駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d2-04.jpg",
+"source": "",
+"files": []
+},
+"osaka-d2-05": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "中之島公園",
+"title": "나카노시마 강변 산책",
+"type": "park garden",
+"queries": [
+"Nakanoshima Park Osaka 中之島公園",
+"中之島公園"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d2-05.jpg",
+"source": "",
+"files": []
+},
+"osaka-d2-06": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "梅田スカイビル",
+"title": "우메다 전망대 선택 방문",
+"type": "scenery",
+"queries": [
+"Umeda Sky Building Osaka 梅田スカイビル",
+"梅田スカイビル"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d2-06.jpg",
+"source": "",
+"files": [
+"UMEDA SKY BUILDING.jpg"
+]
+},
+"osaka-d2-07": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "梅田",
+"title": "현지 이자카야 저녁",
+"type": "restaurant Japanese food",
+"queries": [
+"Umeda Osaka 梅田",
+"梅田"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d2-07.jpg",
+"source": "",
+"files": []
+},
+"osaka-d2-08": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "道頓堀",
+"title": "도톤보리 운하 야경",
+"type": "night city skyline",
+"queries": [
+"Dotonbori Osaka at night 道頓堀",
+"道頓堀"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d2-08.jpg",
+"source": "",
+"files": [
+"Osaka Dotonbori yoru.jpg"
+]
+},
+"osaka-d2-09": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "なんば駅",
+"title": "난바 간식·숙소 복귀",
+"type": "train station",
+"queries": [
+"Namba Station Osaka なんば駅",
+"なんば駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d2-09.jpg",
+"source": "",
+"files": []
+},
+"osaka-d3-01": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "なんば駅",
+"title": "호텔 체크아웃",
+"type": "train station",
+"queries": [
+"Namba Station Osaka なんば駅",
+"なんば駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d3-01.jpg",
+"source": "",
+"files": []
+},
+"osaka-d3-02": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "黒門市場",
+"title": "구로몬 시장 구경",
+"type": "shopping street",
+"queries": [
+"Kuromon Ichiba Market Osaka 黒門市場",
+"黒門市場"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d3-02.jpg",
+"source": "",
+"files": [
+"Kuromon Ichiba Osaka.jpg"
+]
+},
+"osaka-d3-03": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "なんば駅",
+"title": "마지막 점심",
+"type": "train station",
+"queries": [
+"Namba Station Osaka なんば駅",
+"なんば駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d3-03.jpg",
+"source": "",
+"files": []
+},
+"osaka-d3-04": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "関西国際空港",
+"title": "공항 전철 이동",
+"type": "airport",
+"queries": [
+"Kansai International Airport Osaka 関西国際空港",
+"関西国際空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d3-04.jpg",
+"source": "",
+"files": [
+"Kansai International Airport.JPG"
+]
+},
+"osaka-d3-05": {
+"city": "osaka",
+"city_en": "Osaka",
+"city_jp": "大阪市",
+"place": "関西国際空港",
+"title": "출국 수속·면세점",
+"type": "airport",
+"queries": [
+"Kansai International Airport Osaka 関西国際空港",
+"関西国際空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/osaka/d3-05.jpg",
+"source": "",
+"files": [
+"Kansai International Airport.JPG"
+]
+},
+"tokyo-d1-01": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "成田国際空港",
+"title": "나리타공항 입국·공항철도·도심 이동",
+"type": "airport",
+"queries": [
+"Narita International Airport Tokyo terminal 成田国際空港",
+"成田国際空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d1-01.jpg",
+"source": "",
+"files": []
+},
+"tokyo-d1-02": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "上野駅",
+"title": "우에노역 호텔 짐 보관",
+"type": "train station",
+"queries": [
+"Ueno Station Tokyo 上野駅",
+"上野駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d1-02.jpg",
+"source": "",
+"files": [
+"Ueno Station.jpg"
+]
+},
+"tokyo-d1-03": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "アメ横",
+"title": "우에노 지역 점심",
+"type": "train station",
+"queries": [
+"Ameya Yokocho market Tokyo アメ横",
+"アメ横"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d1-03.jpg",
+"source": "",
+"files": []
+},
+"tokyo-d1-04": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "上野恩賜公園",
+"title": "우에노 공원 가을 산책",
+"type": "park garden",
+"queries": [
+"Ueno Park Tokyo 上野恩賜公園",
+"上野恩賜公園"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d1-04.jpg",
+"source": "",
+"files": []
+},
+"tokyo-d1-05": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "不忍池",
+"title": "시노바즈 연못과 거리",
+"type": "shopping street",
+"queries": [
+"Shinobazu Pond Ueno Tokyo 不忍池",
+"不忍池"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d1-05.jpg",
+"source": "",
+"files": []
+},
+"tokyo-d1-06": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "東京ドームシティ",
+"title": "도쿄 돔시티 저녁",
+"type": "restaurant Japanese food",
+"queries": [
+"Tokyo Dome City 東京ドームシティ",
+"東京ドームシティ"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d1-06.jpg",
+"source": "",
+"files": [
+"Tokyo Dome City LaQua.JPG"
+]
+},
+"tokyo-d1-07": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "東京ドーム天然温泉 Spa LaQua",
+"title": "스파 라쿠아 천연온천",
+"type": "onsen hot spring",
+"queries": [
+"Tokyo Dome City Spa LaQua 東京ドーム天然温泉 Spa LaQua",
+"東京ドーム天然温泉 Spa LaQua"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d1-07.jpg",
+"source": "",
+"files": [
+"Tokyo Dome City LaQua.JPG"
+]
+},
+"tokyo-d1-08": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "上野駅",
+"title": "전철로 우에노 복귀·휴식",
+"type": "train station",
+"queries": [
+"Ueno Station Tokyo 上野駅",
+"上野駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d1-08.jpg",
+"source": "",
+"files": [
+"Ueno Station.jpg"
+]
+},
+"tokyo-d2-01": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "新宿駅",
+"title": "전철로 신주쿠 이동·아침",
+"type": "train station",
+"queries": [
+"Shinjuku Station 新宿駅",
+"新宿駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d2-01.jpg",
+"source": "",
+"files": []
+},
+"tokyo-d2-02": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "新宿御苑",
+"title": "신주쿠교엔 자연 산책",
+"type": "scenery",
+"queries": [
+"Shinjuku Gyoen National Garden 新宿御苑",
+"新宿御苑"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d2-02.jpg",
+"source": "",
+"files": [
+"Shinjuku-Gyoen Japan-garden.jpg"
+]
+},
+"tokyo-d2-03": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "新宿三丁目",
+"title": "신주쿠 점심",
+"type": "restaurant Japanese food",
+"queries": [
+"Shinjuku sanchome Tokyo 新宿三丁目",
+"新宿三丁目"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d2-03.jpg",
+"source": "",
+"files": []
+},
+"tokyo-d2-04": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "明治神宮",
+"title": "메이지 신궁 숲길",
+"type": "scenery",
+"queries": [
+"Meiji Jingu shrine Tokyo 明治神宮",
+"明治神宮"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d2-04.jpg",
+"source": "",
+"files": [
+"Meiji shrine.jpg"
+]
+},
+"tokyo-d2-05": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "代々木公園",
+"title": "요요기공원 산책",
+"type": "park garden",
+"queries": [
+"Yoyogi Park autumn Tokyo 代々木公園",
+"代々木公園"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d2-05.jpg",
+"source": "",
+"files": [
+"Yoyogipark in Autumn 1.jpg",
+"Yoyogipark in Autumn 2.jpg"
+]
+},
+"tokyo-d2-06": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "渋谷",
+"title": "시부야 전망·휴식",
+"type": "scenery",
+"queries": [
+"Shibuya Tokyo 渋谷",
+"渋谷"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d2-06.jpg",
+"source": "",
+"files": [
+"Shibuya Scramble.jpg"
+]
+},
+"tokyo-d2-07": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "渋谷 焼肉",
+"title": "야키니쿠 저녁",
+"type": "restaurant Japanese food",
+"queries": [
+"Japanese yakiniku grilled beef 渋谷 焼肉",
+"渋谷 焼肉"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d2-07.jpg",
+"source": "",
+"files": []
+},
+"tokyo-d2-08": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "渋谷スクランブル交差点",
+"title": "시부야 야경·쇼핑",
+"type": "shopping street",
+"queries": [
+"Shibuya Scramble crossing Tokyo night 渋谷スクランブル交差点",
+"渋谷スクランブル交差点"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d2-08.jpg",
+"source": "",
+"files": [
+"Shibuya Scramble crossing.jpg",
+"Shibuya Scramble.jpg"
+]
+},
+"tokyo-d2-09": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "上野駅",
+"title": "숙소 복귀·야식",
+"type": "train station",
+"queries": [
+"Ueno Station Tokyo 上野駅",
+"上野駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d2-09.jpg",
+"source": "",
+"files": [
+"Ueno Station.jpg"
+]
+},
+"tokyo-d3-01": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "上野駅",
+"title": "체크아웃·짐 보관",
+"type": "train station",
+"queries": [
+"Ueno Station Tokyo 上野駅",
+"上野駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d3-01.jpg",
+"source": "",
+"files": [
+"Ueno Station.jpg"
+]
+},
+"tokyo-d3-02": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "浅草寺",
+"title": "아사쿠사 센소지",
+"type": "temple shrine",
+"queries": [
+"Sensoji Asakusa Tokyo 浅草寺",
+"浅草寺"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d3-02.jpg",
+"source": "",
+"files": [
+"Sensoji temple, Asakusa, Tokyo, Japan.jpg",
+"Sensoji,Asakusa.JPG"
+]
+},
+"tokyo-d3-03": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "隅田川",
+"title": "스미다강 조망",
+"type": "scenery",
+"queries": [
+"Sumida River Tokyo 隅田川",
+"隅田川"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d3-03.jpg",
+"source": "",
+"files": []
+},
+"tokyo-d3-04": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "浅草",
+"title": "마지막 식사",
+"type": "restaurant Japanese food",
+"queries": [
+"Asakusa Tokyo 浅草",
+"浅草"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d3-04.jpg",
+"source": "",
+"files": []
+},
+"tokyo-d3-05": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "成田国際空港",
+"title": "나리타공항 이동",
+"type": "airport",
+"queries": [
+"Narita International Airport Tokyo terminal 成田国際空港",
+"成田国際空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d3-05.jpg",
+"source": "",
+"files": []
+},
+"tokyo-d3-06": {
+"city": "tokyo",
+"city_en": "Tokyo",
+"city_jp": "東京都",
+"place": "成田国際空港",
+"title": "출국 수속",
+"type": "airport",
+"queries": [
+"Narita International Airport Tokyo terminal 成田国際空港",
+"成田国際空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/tokyo/d3-06.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d1-01": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "松山空港",
+"title": "마쓰야마공항 입국·시내 리무진",
+"type": "airport",
+"queries": [
+"Matsuyama Airport Ehime 松山空港",
+"松山空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d1-01.jpg",
+"source": "",
+"files": [
+"Matsuyama Airport 20240605.jpg"
+]
+},
+"matsuyama-d1-02": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "松山市駅",
+"title": "시내 호텔 짐 보관",
+"type": "train station",
+"queries": [
+"Matsuyamashi Station Ehime 松山市駅",
+"松山市駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d1-02.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d1-03": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "松山城ロープウェイ",
+"title": "마쓰야마 성 로프웨이",
+"type": "scenery",
+"queries": [
+"Matsuyama Castle ropeway 松山城ロープウェイ",
+"松山城ロープウェイ"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d1-03.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d1-04": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "松山城",
+"title": "성곽·도시 조망(관광 산책)",
+"type": "scenery",
+"queries": [
+"Matsuyama Castle Ehime 松山城",
+"松山城"
+],
+"candidate": "Matsuyama Castle.jpg",
+"local": "./assets/photos/schedules/matsuyama/d1-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Castle.jpg",
+"files": [
+"Matsuyama Castle.jpg"
+]
+},
+"matsuyama-d1-05": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "松山市駅 鯛めし",
+"title": "도미밥 점심",
+"type": "train station",
+"queries": [
+"Ehime taimeshi rice sea bream 松山市駅 鯛めし",
+"松山市駅 鯛めし"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d1-05.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d1-06": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "道後温泉本館",
+"title": "도고온천 본관 입욕",
+"type": "onsen hot spring",
+"queries": [
+"Dogo Onsen Honkan Matsuyama 道後温泉本館",
+"道後温泉本館"
+],
+"candidate": "Dogo-onsen Honkan.jpg",
+"local": "./assets/photos/schedules/matsuyama/d1-06.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Dogo-onsen_Honkan.jpg",
+"files": [
+"Dougo Onsen, Matsuyama.jpg",
+"Dogo-onsen Honkan.jpg"
+]
+},
+"matsuyama-d1-07": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "道後商店街",
+"title": "도고 상점가·족욕 주변",
+"type": "shopping street",
+"queries": [
+"Dogo shopping street Matsuyama 道後商店街",
+"道後商店街"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d1-07.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d1-08": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "道後温泉",
+"title": "에히메 향토음식 저녁",
+"type": "onsen hot spring",
+"queries": [
+"Dogo Onsen Matsuyama 道後温泉",
+"道後温泉"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d1-08.jpg",
+"source": "",
+"files": [
+"Dougo Onsen, Matsuyama.jpg"
+]
+},
+"matsuyama-d1-09": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "道後公園",
+"title": "도고 공원 산책",
+"type": "park garden",
+"queries": [
+"Dogo Park Matsuyama 道後公園",
+"道後公園"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d1-09.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d1-10": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "松山市駅",
+"title": "노면전차 복귀·야식",
+"type": "train station",
+"queries": [
+"Matsuyamashi Station Ehime 松山市駅",
+"松山市駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d1-10.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d2-01": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "松山駅",
+"title": "JR 요산선으로 해안 이동",
+"type": "train station",
+"queries": [
+"Matsuyama Station Ehime 松山駅",
+"松山駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d2-01.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d2-02": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "下灘駅",
+"title": "시모나다역 바다 풍경",
+"type": "train station",
+"queries": [
+"Shimonada Station Ehime seaside 下灘駅",
+"下灘駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d2-02.jpg",
+"source": "",
+"files": [
+"Shimonada Station.jpg",
+"Shimonada Station 2016-09-17.jpg"
+]
+},
+"matsuyama-d2-03": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "伊予市駅",
+"title": "철도 시각에 맞춰 귀환·점심",
+"type": "train station",
+"queries": [
+"Iyoshi Station Ehime 伊予市駅",
+"伊予市駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d2-03.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d2-04": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "松山駅",
+"title": "마쓰야마 시내 복귀",
+"type": "train station",
+"queries": [
+"Matsuyama Station Ehime 松山駅",
+"松山駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d2-04.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d2-05": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "萬翠荘",
+"title": "반스이소·역사 산책",
+"type": "train station",
+"queries": [
+"Bansuiso villa Matsuyama 萬翠荘",
+"萬翠荘"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d2-05.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d2-06": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "大街道",
+"title": "대가도 상점가 휴식",
+"type": "shopping street",
+"queries": [
+"Okaido shopping street Matsuyama 大街道",
+"大街道"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d2-06.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d2-07": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "大街道",
+"title": "저녁 식사",
+"type": "shopping street",
+"queries": [
+"Okaido shopping street Matsuyama 大街道",
+"大街道"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d2-07.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d2-08": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "道後温泉駅",
+"title": "도고온천 주변 야경",
+"type": "train station",
+"queries": [
+"Dogo Onsen Station Matsuyama 道後温泉駅",
+"道後温泉駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d2-08.jpg",
+"source": "",
+"files": [
+"Dogo Onsen Station (Iyo Railway).jpg",
+"Dogo Onsen Station 20240828.jpg"
+]
+},
+"matsuyama-d2-09": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "松山市駅",
+"title": "숙소 복귀",
+"type": "train station",
+"queries": [
+"Matsuyamashi Station Ehime 松山市駅",
+"松山市駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d2-09.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d3-01": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "松山市駅",
+"title": "체크아웃",
+"type": "train station",
+"queries": [
+"Matsuyamashi Station Ehime 松山市駅",
+"松山市駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d3-01.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d3-02": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "石手寺",
+"title": "이시테지 문화·숲길",
+"type": "temple shrine",
+"queries": [
+"Ishiteji Temple Matsuyama 石手寺",
+"石手寺"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d3-02.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d3-03": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "松山市駅",
+"title": "현지 점심",
+"type": "train station",
+"queries": [
+"Matsuyamashi Station Ehime 松山市駅",
+"松山市駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d3-03.jpg",
+"source": "",
+"files": []
+},
+"matsuyama-d3-04": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "松山空港",
+"title": "공항 리무진 이동",
+"type": "airport",
+"queries": [
+"Matsuyama Airport Ehime 松山空港",
+"松山空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d3-04.jpg",
+"source": "",
+"files": [
+"Matsuyama Airport 20240605.jpg"
+]
+},
+"matsuyama-d3-05": {
+"city": "matsuyama",
+"city_en": "Matsuyama",
+"city_jp": "松山市",
+"place": "松山空港",
+"title": "출국 수속·탑승 준비",
+"type": "airport",
+"queries": [
+"Matsuyama Airport Ehime 松山空港",
+"松山空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/matsuyama/d3-05.jpg",
+"source": "",
+"files": [
+"Matsuyama Airport 20240605.jpg"
+]
+},
+"takamatsu-d1-01": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "高松空港",
+"title": "다카마쓰공항 입국·리무진버스",
+"type": "airport",
+"queries": [
+"Takamatsu Airport Kagawa 高松空港",
+"高松空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d1-01.jpg",
+"source": "",
+"files": [
+"高松空港 全景.jpg"
+]
+},
+"takamatsu-d1-02": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "高松駅",
+"title": "호텔 짐 보관·점심 준비",
+"type": "train station",
+"queries": [
+"Takamatsu Station Kagawa 高松駅",
+"高松駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d1-02.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d1-03": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "高松 さぬきうどん",
+"title": "사누키 우동 점심",
+"type": "restaurant Japanese food",
+"queries": [
+"Sanuki udon Takamatsu 高松 さぬきうどん",
+"高松 さぬきうどん"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d1-03.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d1-04": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "栗林公園",
+"title": "리쓰린공원 일본정원 산책",
+"type": "park garden",
+"queries": [
+"Ritsurin Garden Takamatsu 栗林公園",
+"栗林公園"
+],
+"candidate": "Ritsurin Garden - Takamatsu.jpg",
+"local": "./assets/photos/schedules/takamatsu/d1-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Ritsurin_Garden_-_Takamatsu.jpg",
+"files": [
+"Ritsurin Garden - Takamatsu.jpg",
+"Ritsurin Garden.jpg"
+]
+},
+"takamatsu-d1-05": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "仏生山駅",
+"title": "고토덴으로 붓쇼잔 이동",
+"type": "train station",
+"queries": [
+"Busshozan Station Takamatsu 仏生山駅",
+"仏生山駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d1-05.jpg",
+"source": "",
+"files": [
+"KD-Busshōzan Station-Building.jpg"
+]
+},
+"takamatsu-d1-06": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "仏生山温泉 天平湯",
+"title": "붓쇼잔온천 천연노천탕",
+"type": "onsen hot spring",
+"queries": [
+"Busshozan Onsen Takamatsu 仏生山温泉 天平湯",
+"仏生山温泉 天平湯"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d1-06.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d1-07": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "瓦町駅",
+"title": "고토덴으로 중심지 복귀",
+"type": "train station",
+"queries": [
+"Kawaramachi Station Takamatsu 瓦町駅",
+"瓦町駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d1-07.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d1-08": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "高松駅",
+"title": "야식·호텔 휴식",
+"type": "train station",
+"queries": [
+"Takamatsu Station Kagawa 高松駅",
+"高松駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d1-08.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d2-01": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "琴平駅",
+"title": "고토덴으로 고토히라 이동",
+"type": "train station",
+"queries": [
+"Kotohira Station Kagawa 琴平駅",
+"琴平駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d2-01.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d2-02": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "金刀比羅宮",
+"title": "고토히라 신궁 계단길(관광 트레킹)",
+"type": "scenery",
+"queries": [
+"Kotohira-gu Shrine stairs Kagawa 金刀比羅宮",
+"金刀比羅宮"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d2-02.jpg",
+"source": "",
+"files": [
+"Torii and steps leading to Kotohira-gū inner shrine (6453432445).jpg"
+]
+},
+"takamatsu-d2-03": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "琴平",
+"title": "고토히라 점심",
+"type": "restaurant Japanese food",
+"queries": [
+"Kotohira Kagawa 琴平",
+"琴平"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d2-03.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d2-04": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "高松築港駅",
+"title": "고토덴 열차로 다카마쓰 복귀",
+"type": "train station",
+"queries": [
+"Takamatsu Chikko Station 高松築港駅",
+"高松築港駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d2-04.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d2-05": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "サンポート高松",
+"title": "선포트 항구 조망",
+"type": "harbor seaside",
+"queries": [
+"Sunport Takamatsu サンポート高松",
+"サンポート高松"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d2-05.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d2-06": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "玉藻公園",
+"title": "다카마쓰 성터 공원",
+"type": "park garden",
+"queries": [
+"Tamamo Park Takamatsu Castle 玉藻公園",
+"玉藻公園"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d2-06.jpg",
+"source": "",
+"files": [
+"Takamatsu Castle - Tamamo Park 20211125 08.jpg"
+]
+},
+"takamatsu-d2-07": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "高松港",
+"title": "해산물 저녁",
+"type": "restaurant Japanese food",
+"queries": [
+"Takamatsu Port Kagawa 高松港",
+"高松港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d2-07.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d2-08": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "丸亀町商店街",
+"title": "야경과 상점가",
+"type": "shopping street",
+"queries": [
+"Marugamemachi shopping street Takamatsu 丸亀町商店街",
+"丸亀町商店街"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d2-08.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d2-09": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "高松駅",
+"title": "숙소 복귀·휴식",
+"type": "train station",
+"queries": [
+"Takamatsu Station Kagawa 高松駅",
+"高松駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d2-09.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d3-01": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "高松駅",
+"title": "체크아웃",
+"type": "train station",
+"queries": [
+"Takamatsu Station Kagawa 高松駅",
+"高松駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d3-01.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d3-02": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "兵庫町商店街",
+"title": "다카마쓰 중앙 상점가",
+"type": "shopping street",
+"queries": [
+"Hyogomachi shopping street Takamatsu 兵庫町商店街",
+"兵庫町商店街"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d3-02.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d3-03": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "高松駅",
+"title": "사누키 우동 마지막 점심",
+"type": "train station",
+"queries": [
+"Takamatsu Station Kagawa 高松駅",
+"高松駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d3-03.jpg",
+"source": "",
+"files": []
+},
+"takamatsu-d3-04": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "高松空港",
+"title": "공항 리무진 이동",
+"type": "airport",
+"queries": [
+"Takamatsu Airport Kagawa 高松空港",
+"高松空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d3-04.jpg",
+"source": "",
+"files": [
+"高松空港 全景.jpg"
+]
+},
+"takamatsu-d3-05": {
+"city": "takamatsu",
+"city_en": "Takamatsu",
+"city_jp": "高松市",
+"place": "高松空港",
+"title": "출국 수속·탑승",
+"type": "airport",
+"queries": [
+"Takamatsu Airport Kagawa 高松空港",
+"高松空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/takamatsu/d3-05.jpg",
+"source": "",
+"files": [
+"高松空港 全景.jpg"
+]
+},
+"kumamoto-d1-01": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "熊本空港",
+"title": "구마모토공항 입국·시내버스",
+"type": "airport",
+"queries": [
+"Kumamoto Airport terminal 熊本空港",
+"熊本空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d1-01.jpg",
+"source": "",
+"files": [
+"Kumamoto Airport Terminal inside1.jpg",
+"Kumamoto Airport Terminal inside2.jpg",
+"In front of the baggage inspection area at Kumamoto Airport.jpg"
+]
+},
+"kumamoto-d1-02": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "桜町バスターミナル",
+"title": "시내 짐 보관",
+"type": "scenery",
+"queries": [
+"Sakuramachi bus terminal Kumamoto 桜町バスターミナル",
+"桜町バスターミナル"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d1-02.jpg",
+"source": "",
+"files": [
+"Kumamoto Sakuramachi Bus terminal.JPG"
+]
+},
+"kumamoto-d1-03": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "熊本ラーメン",
+"title": "구마모토 라멘 점심",
+"type": "restaurant Japanese food",
+"queries": [
+"Kumamoto ramen tonkotsu 熊本ラーメン",
+"熊本ラーメン"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d1-03.jpg",
+"source": "",
+"files": []
+},
+"kumamoto-d1-04": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "熊本城",
+"title": "구마모토성 및 공원 산책",
+"type": "park garden",
+"queries": [
+"Kumamoto Castle 熊本城",
+"熊本城"
+],
+"candidate": "Kumamoto Castle.JPG",
+"local": "./assets/photos/schedules/kumamoto/d1-04.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Castle.JPG",
+"files": [
+"Kumamoto Castle 05n3200.jpg",
+"KumamotoCastle.jpg",
+"Kumamoto Castle.JPG"
+]
+},
+"kumamoto-d1-05": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "桜町バスターミナル",
+"title": "사쿠라마치 카페·쇼핑",
+"type": "shopping street",
+"queries": [
+"Sakuramachi bus terminal Kumamoto 桜町バスターミナル",
+"桜町バスターミナル"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d1-05.jpg",
+"source": "",
+"files": [
+"Kumamoto Sakuramachi Bus terminal.JPG"
+]
+},
+"kumamoto-d1-06": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "水前寺成趣園",
+"title": "도심 전차로 자연 명소 이동",
+"type": "train station",
+"queries": [
+"Suizenji Jojuen garden Kumamoto 水前寺成趣園",
+"水前寺成趣園"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d1-06.jpg",
+"source": "",
+"files": [
+"Suizenji jojuen garden.jpg",
+"Suizen-ji Garden, Kumamoto.jpg"
+]
+},
+"kumamoto-d1-07": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "辛島町",
+"title": "말고기·향토 음식 저녁",
+"type": "restaurant Japanese food",
+"queries": [
+"Karashimacho Kumamoto 辛島町",
+"辛島町"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d1-07.jpg",
+"source": "",
+"files": []
+},
+"kumamoto-d1-08": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "湯らっくす",
+"title": "JR 헤이세이역 인근 유락쿠스 온천",
+"type": "train station",
+"queries": [
+"Yulax Kumamoto onsen 湯らっくす",
+"湯らっくす"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d1-08.jpg",
+"source": "",
+"files": []
+},
+"kumamoto-d1-09": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "熊本駅",
+"title": "전철·버스 복귀·숙소",
+"type": "train station",
+"queries": [
+"Kumamoto Station Kyushu 熊本駅",
+"熊本駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d1-09.jpg",
+"source": "",
+"files": []
+},
+"kumamoto-d2-01": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "新水前寺駅",
+"title": "아침 식사·노면전차 이동",
+"type": "train station",
+"queries": [
+"Shinsuizenji Station Kumamoto 新水前寺駅",
+"新水前寺駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d2-01.jpg",
+"source": "",
+"files": []
+},
+"kumamoto-d2-02": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "水前寺成趣園",
+"title": "수이젠지 정원 자연 산책",
+"type": "temple shrine",
+"queries": [
+"Suizenji Jojuen garden Kumamoto 水前寺成趣園",
+"水前寺成趣園"
+],
+"candidate": "Kumamoto Suizenji-jojuen01n4272.jpg",
+"local": "./assets/photos/schedules/kumamoto/d2-02.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Suizenji-jojuen01n4272.jpg",
+"files": [
+"Suizenji jojuen garden.jpg",
+"Suizen-ji Garden, Kumamoto.jpg",
+"Kumamoto Suizenji-jojuen01n4272.jpg"
+]
+},
+"kumamoto-d2-03": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "上江津湖",
+"title": "에즈호 주변 조망",
+"type": "scenery",
+"queries": [
+"Ezu Lake Kumamoto 上江津湖",
+"上江津湖"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d2-03.jpg",
+"source": "",
+"files": []
+},
+"kumamoto-d2-04": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "江津湖",
+"title": "호수 인근 점심",
+"type": "restaurant Japanese food",
+"queries": [
+"Ezu Lake Kumamoto 江津湖",
+"江津湖"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d2-04.jpg",
+"source": "",
+"files": []
+},
+"kumamoto-d2-05": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "通町筋",
+"title": "전차로 도심 복귀",
+"type": "scenery",
+"queries": [
+"Torichosuji tram stop Kumamoto 通町筋",
+"通町筋"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d2-05.jpg",
+"source": "",
+"files": []
+},
+"kumamoto-d2-06": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "下通アーケード",
+"title": "시모토리 아케이드",
+"type": "scenery",
+"queries": [
+"Shimotori shopping arcade Kumamoto 下通アーケード",
+"下通アーケード"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d2-06.jpg",
+"source": "",
+"files": []
+},
+"kumamoto-d2-07": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "熊本城",
+"title": "구마모토 성터 전망",
+"type": "scenery",
+"queries": [
+"Kumamoto Castle 熊本城",
+"熊本城"
+],
+"candidate": "Kumamoto Castle.JPG",
+"local": "./assets/photos/schedules/kumamoto/d2-07.jpg",
+"source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Castle.JPG",
+"files": [
+"Kumamoto Castle 05n3200.jpg",
+"KumamotoCastle.jpg",
+"Kumamoto Castle.JPG"
+]
+},
+"kumamoto-d2-08": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "下通",
+"title": "향토 음식 저녁",
+"type": "restaurant Japanese food",
+"queries": [
+"Shimotori shopping street Kumamoto 下通",
+"下通"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d2-08.jpg",
+"source": "",
+"files": []
+},
+"kumamoto-d2-09": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "花畑広場",
+"title": "도심 카페·야경",
+"type": "night city skyline",
+"queries": [
+"Hanabata Square Kumamoto 花畑広場",
+"花畑広場"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d2-09.jpg",
+"source": "",
+"files": [
+"SAKURA-MACHI-Kumamoto.jpg"
+]
+},
+"kumamoto-d2-10": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "熊本駅",
+"title": "숙소 복귀",
+"type": "train station",
+"queries": [
+"Kumamoto Station Kyushu 熊本駅",
+"熊本駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d2-10.jpg",
+"source": "",
+"files": []
+},
+"kumamoto-d3-01": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "熊本駅",
+"title": "체크아웃",
+"type": "train station",
+"queries": [
+"Kumamoto Station Kyushu 熊本駅",
+"熊本駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d3-01.jpg",
+"source": "",
+"files": []
+},
+"kumamoto-d3-02": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "アミュプラザくまもと",
+"title": "구마모토역 쇼핑",
+"type": "train station",
+"queries": [
+"Amu Plaza Kumamoto アミュプラザくまもと",
+"アミュプラザくまもと"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d3-02.jpg",
+"source": "",
+"files": []
+},
+"kumamoto-d3-03": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "熊本駅",
+"title": "마지막 점심",
+"type": "train station",
+"queries": [
+"Kumamoto Station Kyushu 熊本駅",
+"熊本駅"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d3-03.jpg",
+"source": "",
+"files": []
+},
+"kumamoto-d3-04": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "熊本空港",
+"title": "공항 리무진버스",
+"type": "airport",
+"queries": [
+"Kumamoto Airport terminal 熊本空港",
+"熊本空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d3-04.jpg",
+"source": "",
+"files": [
+"Kumamoto Airport Terminal inside1.jpg",
+"Kumamoto Airport Terminal inside2.jpg",
+"In front of the baggage inspection area at Kumamoto Airport.jpg"
+]
+},
+"kumamoto-d3-05": {
+"city": "kumamoto",
+"city_en": "Kumamoto",
+"city_jp": "熊本市",
+"place": "熊本空港",
+"title": "출국 수속·탑승",
+"type": "airport",
+"queries": [
+"Kumamoto Airport terminal 熊本空港",
+"熊本空港"
+],
+"candidate": null,
+"local": "./assets/photos/schedules/kumamoto/d3-05.jpg",
+"source": "",
+"files": [
+"Kumamoto Airport Terminal inside1.jpg",
+"Kumamoto Airport Terminal inside2.jpg",
+"In front of the baggage inspection area at Kumamoto Airport.jpg"
+]
+}
+}
+}
