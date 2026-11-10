@@ -887,6 +887,12 @@
     "place": "天神 もつ鍋",
     "match": "search_required"
   },
+  "fukuoka-d1-09": {
+    "url": "./assets/photos/schedules/fukuoka/d1-09.jpg",
+    "source": "",
+    "place": "みなと温泉 波葉の湯",
+    "match": "search_required"
+  },
   "fukuoka-d1-10": {
     "url": "./assets/photos/schedules/fukuoka/d1-10.jpg",
     "source": "",
@@ -1425,6 +1431,12 @@
     "url": "./assets/photos/schedules/takamatsu/d1-05.jpg",
     "source": "",
     "place": "仏生山駅",
+    "match": "search_required"
+  },
+  "takamatsu-d1-06": {
+    "url": "./assets/photos/schedules/takamatsu/d1-06.jpg",
+    "source": "",
+    "place": "仏生山温泉 天平湯",
     "match": "search_required"
   },
   "takamatsu-d1-07": {
