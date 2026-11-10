@@ -115,6 +115,7 @@ def main():
     p.add_argument('--limit',type=int,default=281,help='For a short test, use 1; default: all 281 schedules')
     p.add_argument('--strict',action='store_true',help='Return failure if not all 281 photos have been saved')
     p.add_argument('--no-search',action='store_true',help='Only curated candidates and exact Wikipedia images')
+    p.add_argument('--max-runtime-seconds', type=int, default=2700, help='Stop cleanly before a GitHub Actions job timeout, saving partial results')
     opts=p.parse_args()
     manifest=json.loads((ROOT/'assets/photo_manifest_281.json').read_text('utf-8'))
     tasks={t['id']:t for t in json.loads((ROOT/'assets/photo_tasks.json').read_text('utf-8'))}
@@ -123,7 +124,19 @@ def main():
     gallery=json.loads((ROOT/'assets/gallery.json').read_text('utf-8'))
     meta_cache={};search_cache={};wiki_cache={};download_cache={}
     audit=[];fail=[];processed=0
+    start_time=time.monotonic()
     for task in manifest[:opts.limit]:
+        # Continue over several workflow runs without downloading already verified local photos again.
+        done_path=ROOT/task['local_path']
+        if task.get('status')=='downloaded' and done_path.exists():
+            try:
+                with Image.open(done_path) as previous: previous.verify()
+                continue
+            except (OSError,ValueError,UnidentifiedImageError):
+                task['status']='missing_or_manual_review'
+        if time.monotonic()-start_time>=opts.max_runtime_seconds:
+            print('Runtime guard reached; partial photos are saved for commit.',flush=True)
+            break
         city=task['city']; key=task['key'];place=task['place']
         schedule=(old['cities'][city] if task['category']=='original' else new['cities'][city])['days'][task['day']-1][task['step']-1]
         city_pool=gallery[city] if task['category']=='original' else new['cities'][city]['photos']
