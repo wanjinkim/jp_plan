@@ -4,7 +4,7 @@ import fs from 'node:fs';
 const cities = ['hiroshima','shizuoka','sapporo','nagoya','okinawa','sendai',
                 'fukuoka','osaka','tokyo','matsuyama','takamatsu','kumamoto'];
 const browser = await chromium.launch({headless:true,args:['--no-sandbox']});
-const result = {checkedAt: new Date().toISOString(), cities:{}, checked:0,loaded:0,missing:[],errors:[]};
+const result = {checkedAt: new Date().toISOString(), cities:{}, checked:0,loaded:0,missing:[],errors:[],blogCards:0,lightboxes:0,searchButtons:0};
 try {
   for (const city of cities) {
     const page = await browser.newPage();
@@ -33,6 +33,39 @@ try {
         if(check.loaded){cityInfo.loaded++;result.loaded++;}
         else {const missing={city,step:i+1,...check};cityInfo.missing.push(missing);result.missing.push(missing);}
       }
+      // Every destination must have an actual 2-night/3-day post, not a bare URL.
+      const blog=page.locator('#travel-blogs .blog-story');
+      if(await blog.count()!==1) throw Error(city+': missing curated blog story card');
+      if(!((await blog.first().getAttribute('href'))||'').startsWith('https://'))
+        throw Error(city+': blog article is not a real URL');
+      result.blogCards++;
+
+      // Click photograph itself: verify centered lightbox, loaded full image, escape closing.
+      const thumb=page.locator('.schedule-image .photo-open').first();
+      if(!await thumb.count()) throw Error(city+': photo zoom button missing');
+      await thumb.click();
+      if(!await page.locator('#photoPreview').isVisible()) throw Error(city+': lightbox failed to open');
+      const full=page.locator('#photoPreviewImage');
+      await full.evaluate(el=>el.decode().catch(()=>{}));
+      if(!await full.evaluate(el=>el.complete&&el.naturalWidth>0))
+        throw Error(city+': modal preview image did not load');
+      const box=await full.boundingBox(),viewport=page.viewportSize();
+      if(!box||box.width>viewport.width||box.height>viewport.height)
+        throw Error(city+': modal image overflows viewport');
+      result.lightboxes++;
+      if(city==='fukuoka') await page.screenshot({path:'browser-fukuoka-lightbox.png'});
+      await page.keyboard.press('Escape');
+      if(await page.locator('#photoPreview').isVisible())throw Error(city+': lightbox does not close on Escape');
+
+      // The small image-search link is independent from photo zoom.
+      await page.locator('.schedule-image .photo-search-btn').first().click();
+      if(!await page.locator('#externalModal').isVisible())
+        throw Error(city+': image search does not offer external search link');
+      if(await page.locator('#photoPreview').isVisible())
+        throw Error(city+': image search incorrectly opened photo lightbox');
+      result.searchButtons++;
+      await page.locator('#externalModal button[data-close]').click();
+      if(city==='fukuoka')await page.locator('#travel-blogs').screenshot({path:'browser-fukuoka-blog-card.png'});
       result.cities[city]=cityInfo;
     }catch(e){result.errors.push({city,error:String(e)});}
     result.errors.push(...errors.map(error=>({city,error})));
@@ -42,5 +75,5 @@ try {
 fs.writeFileSync('browser-photo-audit.json',JSON.stringify(result,null,2)+'\n');
 console.log('ACTUAL BROWSER PHOTO LOADS:',result.loaded+'/'+result.checked);
 for(const [city,c] of Object.entries(result.cities))console.log(city,c.loaded+'/'+c.total);
-console.log('MISSING:',result.missing.length,'JS ERRORS:',result.errors.length);
-if(result.checked!==281 || result.missing.length || result.errors.length) process.exitCode=1;
+console.log('MISSING:',result.missing.length,'JS ERRORS:',result.errors.length);console.log('BLOGS:',result.blogCards+'/12','MODALS:',result.lightboxes+'/12','SEARCH LINKS:',result.searchButtons+'/12');
+if(result.checked!==281 || result.missing.length || result.errors.length || result.blogCards!==12 || result.lightboxes!==12 || result.searchButtons!==12) process.exitCode=1;
