@@ -1,0 +1,490 @@
+{
+  "total_reviewed": 69,
+  "replaced": 42,
+  "unresolved": 27,
+  "items": [
+    {
+      "id": "hiroshima-d1-08",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Hiroshima-Nagarekawa_church_130414.JPG",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Night_Nagarekawa-cho_in_Hiroshima.jpg",
+      "score": 6
+    },
+    {
+      "id": "hiroshima-d1-09",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:%E5%B0%BE%E9%81%93%E9%A7%85_-_Flickr_-_m-louis.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Grand_Prince_Hotel_Hiroshima_Prince_Club_Floor_King_bedroom_20190614-001.jpg",
+      "score": 4
+    },
+    {
+      "id": "hiroshima-d2-08",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Washington_Hotel.JPG",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "hiroshima-d2-09",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Hiroshima_yaki_by_woinary_at_the_food_court_in_Hiroshima_Airport.jpg",
+      "score": 6
+    },
+    {
+      "id": "hiroshima-d2-10",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:%E5%B0%BE%E9%81%93%E9%A7%85_-_Flickr_-_m-louis.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "hiroshima-d3-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Matcha_Soft_Serve_in_Miyajima_01.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:A_man_prepares_okonomiyaki_in_Hiroshima_2004-08-05.jpg",
+      "score": 4
+    },
+    {
+      "id": "hiroshima-d3-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Station_South_04.jpg",
+      "score": 2
+    },
+    {
+      "id": "shizuoka-d1-08",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:%E3%81%97%E3%81%9A%E3%81%A6%E3%81%A4%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3_%E6%96%B0%E6%B8%85%E6%B0%B4_%E3%83%90%E3%82%B9%E5%81%9C_2015_(16681556472).jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Hotel_Associa_Shizuoka_from_Tokaido_Shinkansen_window_view.jpg",
+      "score": 2
+    },
+    {
+      "id": "shizuoka-d2-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Kusanagi_Station_02.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Kusanagi_Station_(Shizuoka-Shimizu_railway)_April_13th_2008.JPG",
+      "score": 4
+    },
+    {
+      "id": "shizuoka-d2-06",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Aoba_Ryokuchi_01.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "shizuoka-d2-07",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_201016a.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "shizuoka-d2-08",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:ASTY%E9%9D%99%E5%B2%A1%E6%9D%B1%E9%A4%A8.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "shizuoka-d2-09",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Fujieda_Station_04.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Hotel_Associa_Shizuoka_from_Tokaido_Shinkansen_window_view.jpg",
+      "score": 2
+    },
+    {
+      "id": "shizuoka-d3-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_201016a.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station_201016a.jpg",
+      "score": 2
+    },
+    {
+      "id": "sapporo-d1-07",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Curry_dish_at_Rojiura_Curry_SAMURAI_in_Sapporo,_Japan_(242).jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Ganso_Ramen_Street_by_zezebono_in_Sapporo,_Hokkaido.jpg",
+      "score": 6
+    },
+    {
+      "id": "sapporo-d1-08",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:SapporoNight2004-11.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:SapporoNight2004-11.jpg",
+      "score": 2
+    },
+    {
+      "id": "sapporo-d2-05",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Former_Hokkaido_Government_Office_Building_20090112-01.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "sapporo-d2-09",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sapporo2005-1-9.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:SapporoNight2004-11.jpg",
+      "score": 2
+    },
+    {
+      "id": "nagoya-d2-03",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Godo-cho_20170731.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Atsutahouraiken20071117.PNG",
+      "score": 6
+    },
+    {
+      "id": "nagoya-d2-05",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Lawn_field_of_RAYARD_Hisaya-odori_Park.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "nagoya-d2-06",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:View_of_Nagoya_Station,_Tsubaki-cho_Nakamura_Ward_Nagoya_2022.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "nagoya-d3-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:MEITETSU_Department_Store_-_Head_Store_-_01.JPG",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Meitetsu_Nagoya_Station_Central_Gate.jpg",
+      "score": 14
+    },
+    {
+      "id": "okinawa-d1-06",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E9%82%A3%E9%9C%B8_Naha_%E4%B9%9D%E5%B7%9E%E9%85%92%E5%BA%97_Kyushu_Hotel_Blossom_Naha_January_2025_R12S_128.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "okinawa-d2-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Okashigoten.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Okashigoten.jpg",
+      "score": 12
+    },
+    {
+      "id": "okinawa-d2-09",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Ryukyu_Sweets_with_Sanpin-cha_in_Shuri_Castle.JPG",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Taco_Rice.jpg",
+      "score": 6
+    },
+    {
+      "id": "okinawa-d2-10",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Night_at_Kokusai-dori_20250503182742.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "sendai-d2-02",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:211029_Akiu_Onsen_Sendai_Miyagi_pref_Japan01s3.jpg",
+      "score": 4
+    },
+    {
+      "id": "sendai-d2-05",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:WestinSendaiExecutiveLounge.JPG",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "sendai-d2-10",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Sendai_Hotel_viewed_from_a_pedway_in_front_of_Sendai_station_west_exit.JPG",
+      "score": 2
+    },
+    {
+      "id": "sendai-d3-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Gyutan_teishoku.JPG",
+      "score": 4
+    },
+    {
+      "id": "fukuoka-d2-02",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Hakata_Station_Transportation_Center.JPG",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Meinohama_Ferry_Passenger_Terminal-2.jpg",
+      "score": 6
+    },
+    {
+      "id": "fukuoka-d2-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Trees_in_Nokonoshima_Island_Park_1.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Restaurant_%22Sakimori%22_in_Nokonoshima_Island_Park.jpg",
+      "score": 14
+    },
+    {
+      "id": "fukuoka-d2-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Roads_on_Nokonoshima_Island_20140506.JPG",
+      "new_source": "https://commons.wikimedia.org/wiki/File:View_of_Hakata_Bay_and_Fukuoka_City_from_Nokonoshima_Island_20130526-2.jpg",
+      "score": 6
+    },
+    {
+      "id": "fukuoka-d2-07",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Hakata_Station_Sign_(Fukuoka_Municipal_Subway).jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:JR_Hakata_City_2011_Jan.jpg",
+      "score": 2
+    },
+    {
+      "id": "fukuoka-d2-08",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Local_train_bounding_for_Nishitetsu-Fukuoka_Station_stopping_at_Nishitetsu-Futsukaichi_Station.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "fukuoka-d2-09",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Nakasu02.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:JP_Fukuoka-shi_Nakasu.jpg",
+      "score": 4
+    },
+    {
+      "id": "fukuoka-d2-10",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Hakata_Station_Sign_(Fukuoka_Municipal_Subway).jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:2014-09-01_a_hotel_room_in_a_Toyoko_Inn_near_Hakata_Station.jpg",
+      "score": 4
+    },
+    {
+      "id": "fukuoka-d3-02",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sumiyoshi-jinja_the_information_board_Sumiyoshi_3-ch%C5%8Dme_Hakata-ku_Fukuoka_20241010_153045.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Sumiyoshi-jinja_(Fukuoka)_haiden-1.JPG",
+      "score": 19
+    },
+    {
+      "id": "fukuoka-d3-03",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Hakata_Station_Sign_(Fukuoka_Municipal_Subway).jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Tonkotsu_Ramen_Special,_Hakata_Choten,_Paris_001.jpg",
+      "score": 4
+    },
+    {
+      "id": "osaka-d1-01",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:%E5%92%8C%E6%B3%89%E8%91%9B%E5%9F%8E%E5%B1%B1%E5%B1%95%E6%9C%9B%E5%8F%B0%E3%81%8B%E3%82%89%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E3%82%92%E8%A6%8B%E3%82%8B_Towarad_Kansai_International_Airport_2013.11.23_-_panoramio.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E5%85%A8%E4%BD%93%E5%86%99%E7%9C%9F20220811.jpg",
+      "score": 12
+    },
+    {
+      "id": "osaka-d1-07",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Tenjinbashisuji_Shopping_Street_2024_Dec_31_various.jpeg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "osaka-d1-08",
+      "status": "UNRESOLVED",
+      "old_source": "",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "osaka-d2-07",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Osaka_Umeda_Sky_Building_Panoramablick_05.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "osaka-d3-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:%E5%92%8C%E6%B3%89%E8%91%9B%E5%9F%8E%E5%B1%B1%E5%B1%95%E6%9C%9B%E5%8F%B0%E3%81%8B%E3%82%89%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E3%82%92%E8%A6%8B%E3%82%8B_Towarad_Kansai_International_Airport_2013.11.23_-_panoramio.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E5%85%A8%E4%BD%93%E5%86%99%E7%9C%9F20220811.jpg",
+      "score": 12
+    },
+    {
+      "id": "tokyo-d1-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sakura_in_Ueno_Park.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Ueno_park.jpg",
+      "score": 2
+    },
+    {
+      "id": "tokyo-d1-07",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Tokyo_Dome_City_LaQua.JPG",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "tokyo-d2-02",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Shinjuku_Gyoen_National_Garden_-_sakura_3.JPG",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Autumn_leaves_-_Shinjuku_gyoen_-_nov_2016.jpg",
+      "score": 16
+    },
+    {
+      "id": "tokyo-d2-09",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Opening_day_of_Ueno_Station_of_Tokyo_Metro_Ginza_Line.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "tokyo-d3-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Kaminarimon_-_Asakusa_-_2022_July_15_from_a_distance.jpeg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Pudding_sample_by_OiMax_in_Asakusa,_Tokyo.jpg",
+      "score": 4
+    },
+    {
+      "id": "matsuyama-d1-01",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Bukkake_udon_by_woinary_at_Matsuyama_Airport,_Ehime.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Airport_20240709_(10).jpg",
+      "score": 12
+    },
+    {
+      "id": "matsuyama-d1-03",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Castle_Ropeway,_%E6%9D%BE%E5%B1%B1%E5%9F%8E_%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4_-_panoramio.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Castle_Ropeway,_%E6%9D%BE%E5%B1%B1%E5%9F%8E_%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4_-_panoramio.jpg",
+      "score": 16
+    },
+    {
+      "id": "matsuyama-d1-05",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Iyo_Railway_Matsuyama_station_platform_-_panoramio.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "matsuyama-d1-08",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Dogo_Onsen_Honkan_(Main_building),_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_(1).jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "matsuyama-d2-08",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Dogo_Onsen_Station_(Iyo_Railway).jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Tram_station_of_D%C5%8Dgo_Onsen_area_(6454069139).jpg",
+      "score": 2
+    },
+    {
+      "id": "matsuyama-d3-03",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Iyotetsu_Takashimaya_20260517.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Taimeshi_02.jpg",
+      "score": 2
+    },
+    {
+      "id": "matsuyama-d3-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Bukkake_udon_by_woinary_at_Matsuyama_Airport,_Ehime.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Airport_20240709_(10).jpg",
+      "score": 12
+    },
+    {
+      "id": "takamatsu-d1-03",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Name_of_the_station_mark_takamatsu_sanuki_takamatsu_udon.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Kama-age_sanuki_udon_by_sekido_in_Takamatsu,_Kagawa.jpg",
+      "score": 6
+    },
+    {
+      "id": "takamatsu-d1-06",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Takamatsu_City_Office_Busshozan_Branch_Office.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "takamatsu-d1-08",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Station_(Kagawa)_201508(2).JPG",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "takamatsu-d2-03",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Saya-bridge_Kotohira_Kagawa_pref01s3s4500.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "takamatsu-d2-05",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Sunport-takamatsu.jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Sunport-takamatsu.jpg",
+      "score": 14
+    },
+    {
+      "id": "takamatsu-d2-09",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Station_(Kagawa)_201508(5).JPG",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "takamatsu-d3-03",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Station_(Kagawa)_201508(6).JPG",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Kama-age_sanuki_udon_by_sekido_in_Takamatsu,_Kagawa.jpg",
+      "score": 6
+    },
+    {
+      "id": "takamatsu-d3-04",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Airport_Baggage_Claim_belt_conveyor_Reputation.JPG",
+      "new_source": "https://commons.wikimedia.org/wiki/File:TakamatsuKukou01.jpg",
+      "score": 12
+    },
+    {
+      "id": "kumamoto-d1-07",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Nishi-Karashima-cho_sta02n4272.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "kumamoto-d2-04",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:%E4%B8%8B%E6%B1%9F%E6%B4%A5%E6%B9%96.JPG",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "kumamoto-d2-08",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Shimotori_shop_street_Shintengai_1.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "kumamoto-d2-09",
+      "status": "UNRESOLVED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:SAKURA-MACHI-Kumamoto.jpg",
+      "new_source": "",
+      "score": 0
+    },
+    {
+      "id": "kumamoto-d3-03",
+      "status": "REPLACED",
+      "old_source": "https://commons.wikimedia.org/wiki/File:Electronic_signage_of_Kumamoto_Station_(Kyushu_Shinkansen).jpg",
+      "new_source": "https://commons.wikimedia.org/wiki/File:Kumamoto_ramen.jpg",
+      "score": 4
+    }
+  ]
+}
