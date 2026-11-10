@@ -11,6 +11,8 @@ on:
       - 'assets/new_routes.json'
       - 'assets/gallery.json'
       - 'index.html'
+      - 'assets/site.css'
+      - 'assets/blog_references.json'
       - 'scripts/verify_web_photos.mjs'
       - '.github/workflows/verify-web-photos.yml'
 permissions:
@@ -39,5 +41,7 @@ jobs:
           name: itinerary-browser-image-test
           path: |
             browser-photo-audit.json
+            browser-*-lightbox.png
+            browser-*-blog-card.png
             /tmp/japan-atlas-server.log
           if-no-files-found: ignore
