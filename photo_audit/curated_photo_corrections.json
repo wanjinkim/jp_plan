@@ -1,0 +1,24 @@
+{
+  "corrected": 2,
+  "photos": [
+    {
+      "key": "tokyo-d1-04",
+      "original_filename": "Fall leaves in Tokyo.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Fall_leaves_in_Tokyo.JPG",
+      "license": "CC BY-SA 4.0",
+      "author": "AllisonMiller",
+      "git_blob_sha": "c0c81ce4d7f701a13a8d4b0e7e519eba4ff122d3",
+      "note": "Ueno Park autumn foliage, not cherry blossoms"
+    },
+    {
+      "key": "nagoya-d2-05",
+      "original_filename": "Urban-quar-Spa-Fujimi-Nagoya.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Urban-quar-Spa-Fujimi-Nagoya.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "HQA02330",
+      "git_blob_sha": "c37df63c73f8d4072a94a5b0116567d285280883",
+      "note": "Exact Urban Quar SPA & LIVING facility photo"
+    }
+  ],
+  "errors": []
+}

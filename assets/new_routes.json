@@ -1334,7 +1334,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-tokyo-d1-04.jpg",
-            "photo_match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+            "photo_match": "해당 장소의 실제 사진 · 일정 관련성 확인"
           },
           {
             "start": "16:30",
@@ -1853,19 +1853,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-tokyo-d1-04.jpg",
-          "title": "우에노 공원 가을 산책",
-          "place": "上野恩賜公園",
-          "kind": "자연",
-          "local": "./assets/photos/schedules/tokyo/d1-04.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Ueno_park.jpg",
-          "author": "Bernard Gagnon",
-          "license": "CC BY-SA 3.0",
-          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-          "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
-        },
-        {
           "file": "LOCAL-tokyo-d2-02.jpg",
           "title": "신주쿠교엔 자연 산책",
           "place": "新宿御苑",
@@ -1890,6 +1877,19 @@
           "license": "CC BY 2.0",
           "license_url": "https://creativecommons.org/licenses/by/2.0",
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+        },
+        {
+          "file": "LOCAL-tokyo-d1-04.jpg",
+          "title": "우에노 공원 가을 산책",
+          "place": "上野恩賜公園",
+          "kind": "자연",
+          "local": "./assets/photos/schedules/tokyo/d1-04.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Fall_leaves_in_Tokyo.JPG",
+          "author": "AllisonMiller",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "scope": "해당 장소의 실제 사진 · 일정 관련성 확인"
         }
       ]
     },

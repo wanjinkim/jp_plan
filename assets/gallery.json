@@ -2556,19 +2556,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-nagoya-d2-05.jpg",
-      "title": "어반쿠아 천연온천·휴식",
-      "place": "天然温泉 アーバンクア",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/nagoya/d2-05.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Lawn_field_of_RAYARD_Hisaya-odori_Park.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-nagoya-d2-07.jpg",
       "title": "오아시스21 야경 또는 도심 산책",
       "place": "オアシス21",
@@ -2684,6 +2671,19 @@
       "license": "CC BY 2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0",
       "scope": "같은 도시의 관련 음식·활동 예시 사진 (특정 가게·숙소로 확정되지 않음)"
+    },
+    {
+      "file": "LOCAL-nagoya-d2-05.jpg",
+      "title": "어반쿠아 천연온천·휴식",
+      "place": "天然温泉 アーバンクア",
+      "kind": "온천",
+      "local": "./assets/photos/schedules/nagoya/d2-05.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Urban-quar-Spa-Fujimi-Nagoya.jpg",
+      "author": "HQA02330",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "해당 장소의 실제 사진 · 일정 관련성 확인"
     }
   ],
   "sendai": [

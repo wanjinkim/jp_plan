@@ -975,15 +975,14 @@
   },
   "nagoya-d2-05": {
     "url": "./assets/photos/schedules/nagoya/d2-05.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Lawn_field_of_RAYARD_Hisaya-odori_Park.jpg",
     "place": "天然温泉 アーバンクア",
-    "match": "reference",
-    "author": "KKPCW（Kyu3）",
+    "source": "https://commons.wikimedia.org/wiki/File:Urban-quar-Spa-Fujimi-Nagoya.jpg",
+    "author": "HQA02330",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "f10053f147fcde8b8a4cc74e6d6ba079ad274d40",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "match": "manual_venue_and_season_review",
+    "source_verified_by": "commons_file_metadata_and_visual_review",
+    "source_proof_blob_sha": "c37df63c73f8d4072a94a5b0116567d285280883"
   },
   "nagoya-d2-06": {
     "url": "./assets/photos/schedules/nagoya/d2-06.jpg",
@@ -2256,15 +2255,15 @@
     "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
   },
   "tokyo-d1-04": {
-    "source": "https://commons.wikimedia.org/wiki/File:Ueno_park.jpg",
-    "author": "Bernard Gagnon",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)",
-    "source_verified_by": "current_catalog_for_changed_image",
     "url": "./assets/photos/schedules/tokyo/d1-04.jpg",
     "place": "上野恩賜公園",
-    "source_proof_blob_sha": "e1077fc12cfc50a8810daad71668c5e55dd8b12b"
+    "source": "https://commons.wikimedia.org/wiki/File:Fall_leaves_in_Tokyo.JPG",
+    "author": "AllisonMiller",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "manual_venue_and_season_review",
+    "source_verified_by": "commons_file_metadata_and_visual_review",
+    "source_proof_blob_sha": "c0c81ce4d7f701a13a8d4b0e7e519eba4ff122d3"
   },
   "tokyo-d1-05": {
     "url": "./assets/photos/schedules/tokyo/d1-05.jpg",
