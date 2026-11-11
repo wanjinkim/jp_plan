@@ -318,15 +318,15 @@
   },
   "shizuoka-d1-03": {
     "url": "./assets/photos/schedules/shizuoka/d1-03.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:KASHI_NO_ICHI_maguro_kan_in_shimizu_ward.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E3%83%9E%E3%82%B0%E3%83%AD%E3%81%AE%E6%BC%AC%E3%81%91%E4%B8%BC---2024-07-05.jpg",
     "place": "静岡駅 まぐろ丼",
-    "match": "reference",
-    "author": "Halowand",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "425d1d9487256ac7d45b49a43a30e17939d5df42",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "author": "RuinDig/Yuki Uchida",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "시즈오카 참치덮밥 점심의 음식 참고사진 · 실제 가게 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "2a67977685ce0b5c0ec95533e1d1f39eb0bc1112"
   },
   "shizuoka-d1-04": {
     "url": "./assets/photos/schedules/shizuoka/d1-04.jpg",
@@ -472,14 +472,15 @@
   },
   "shizuoka-d2-08": {
     "url": "./assets/photos/schedules/shizuoka/d2-08.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:ASTY%E9%9D%99%E5%B2%A1%E6%9D%B1%E9%A4%A8.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hachi-no-ji%EF%BC%88Japanese_sweets_in_Shizuoka%EF%BC%89.jpg",
     "place": "静岡駅 ASTY",
-    "author": "電車(新幹線)でゴー！",
+    "author": "やきつべ",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "b0dafe12f8d4000367b49ab2d5a82d5fe9f93e0f",
-    "source_verified_by": "download_verified_content"
+    "match": "curated_schedule_activity",
+    "description_scope": "시즈오카 지역 실제 과자·디저트 참고사진 · 특정 카페 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "010eeb5170e5beb2f84e5d5f064d73c7572c2ab6"
   },
   "shizuoka-d2-09": {
     "url": "./assets/photos/schedules/shizuoka/d2-09.jpg",
@@ -1480,14 +1481,15 @@
   },
   "sendai-d2-04": {
     "url": "./assets/photos/schedules/sendai/d2-04.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Akiu_Onsen,_Ryokusuitei_01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:AKIU_Village_agrie.JPG",
     "place": "秋保温泉",
-    "author": "gp  from Japan.",
-    "license": "CC BY-SA 2.1 jp",
-    "license_url": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "7df2a9ce7941357bcd03458f1dac5ec64ccc61e4",
-    "source_verified_by": "download_verified_content"
+    "author": "Ellerad",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "센다이 아키우 온천 지역 실제 식품판매·휴식 시설 · 식당 확정 아님",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "b51ed5ea4d3239c6243718ef1c552a4242568607"
   },
   "sendai-d2-05": {
     "url": "./assets/photos/schedules/sendai/d2-05.jpg",
@@ -3125,14 +3127,15 @@
   },
   "kumamoto-d2-04": {
     "url": "./assets/photos/schedules/kumamoto/d2-04.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%8B%E6%B1%9F%E6%B4%A5%E6%B9%96.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_ramen_by_woinary_in_Kumamoto.jpg",
     "place": "江津湖",
-    "author": "Kuzeo",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "03ba3361bf41eee326b44dcc14268672b24e61fe",
-    "source_verified_by": "download_verified_content"
+    "author": "woinary  from Ramen shop near the Kumamoto Station in Kasuga, Kumamoto,",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "구마모토 시내에서 촬영된 라멘 점심 참고 · 에즈호 인근 식당 확정 아님",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "1fc479b409f9b46011847b4573171ffbff44386d"
   },
   "kumamoto-d2-05": {
     "url": "./assets/photos/schedules/kumamoto/d2-05.jpg",

@@ -1153,19 +1153,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-shizuoka-d1-03.jpg",
-      "title": "점심: 참치덮밥·시즈오카 해산물",
-      "place": "静岡駅 まぐろ丼",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/shizuoka/d1-03.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:KASHI_NO_ICHI_maguro_kan_in_shimizu_ward.jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-shizuoka-d1-04.jpg",
       "title": "슨푸성 공원·성곽 수로 산책",
       "place": "駿府城公園",
@@ -1335,19 +1322,6 @@
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     },
     {
-      "file": "LOCAL-shizuoka-d2-08.jpg",
-      "title": "도심 야경·디저트",
-      "place": "静岡駅 ASTY",
-      "kind": "야경",
-      "local": "./assets/photos/schedules/shizuoka/d2-08.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:ASTY%E9%9D%99%E5%B2%A1%E6%9D%B1%E9%A4%A8.jpg",
-      "author": "電車(新幹線)でゴー！",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-    },
-    {
       "file": "LOCAL-shizuoka-d3-01.jpg",
       "title": "체크아웃·짐 보관",
       "place": "静岡駅",
@@ -1412,6 +1386,32 @@
       "license": "시설 원본 이미지 · 사용 조건 별도 확인 필요",
       "license_url": "",
       "scope": "아오이온천 쿠사나기노유의 실제 노천탕"
+    },
+    {
+      "file": "LOCAL-shizuoka-d1-03.jpg",
+      "title": "점심: 참치덮밥·시즈오카 해산물",
+      "place": "静岡駅 まぐろ丼",
+      "kind": "식사",
+      "local": "./assets/photos/schedules/shizuoka/d1-03.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:%E3%83%9E%E3%82%B0%E3%83%AD%E3%81%AE%E6%BC%AC%E3%81%91%E4%B8%BC---2024-07-05.jpg",
+      "author": "RuinDig/Yuki Uchida",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "scope": "시즈오카 참치덮밥 점심의 음식 참고사진 · 실제 가게 미정"
+    },
+    {
+      "file": "LOCAL-shizuoka-d2-08.jpg",
+      "title": "도심 야경·디저트",
+      "place": "静岡駅 ASTY",
+      "kind": "야경",
+      "local": "./assets/photos/schedules/shizuoka/d2-08.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Hachi-no-ji%EF%BC%88Japanese_sweets_in_Shizuoka%EF%BC%89.jpg",
+      "author": "やきつべ",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "시즈오카 지역 실제 과자·디저트 참고사진 · 특정 카페 미정"
     }
   ],
   "sapporo": [
@@ -3292,19 +3292,6 @@
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     },
     {
-      "file": "LOCAL-sendai-d2-04.jpg",
-      "title": "온천마을 점심·간식",
-      "place": "秋保温泉",
-      "kind": "식사",
-      "local": "./assets/photos/schedules/sendai/d2-04.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Akiu_Onsen,_Ryokusuitei_01.jpg",
-      "author": "gp  from Japan.",
-      "license": "CC BY-SA 2.1 jp",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
-      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-    },
-    {
       "file": "LOCAL-sendai-d3-01.jpg",
       "title": "체크아웃·짐 보관",
       "place": "仙台駅",
@@ -3382,6 +3369,19 @@
       "license": "CC BY-SA 3.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
       "scope": "센다이역 서쪽 버스 승강장 차량 참고 · 아키우행 확정 차량은 아님"
+    },
+    {
+      "file": "LOCAL-sendai-d2-04.jpg",
+      "title": "온천마을 점심·간식",
+      "place": "秋保温泉",
+      "kind": "식사",
+      "local": "./assets/photos/schedules/sendai/d2-04.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:AKIU_Village_agrie.JPG",
+      "author": "Ellerad",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "scope": "센다이 아키우 온천 지역 실제 식품판매·휴식 시설 · 식당 확정 아님"
     }
   ],
   "okinawa": [

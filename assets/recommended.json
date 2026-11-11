@@ -465,7 +465,7 @@
             "photo_file": "LOCAL-shizuoka-d1-03.jpg",
             "photo_scope": "지역 음식 참고사진 · 시미즈 어시장 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "시즈오카 참치덮밥 점심의 음식 참고사진 · 실제 가게 미정"
           },
           {
             "start": "13:00",
@@ -649,7 +649,7 @@
             "photo_file": "LOCAL-shizuoka-d2-08.jpg",
             "photo_scope": "지역 음식 참고사진 · 시즈오카 검은 오뎅 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "시즈오카 지역 실제 과자·디저트 참고사진 · 특정 카페 미정"
           },
           {
             "start": "22:30",
@@ -2021,7 +2021,7 @@
             "photo_file": "LOCAL-sendai-d2-04.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 아키우 료칸 사례",
             "flight_assumption": false,
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "센다이 아키우 온천 지역 실제 식품판매·휴식 시설 · 식당 확정 아님"
           },
           {
             "start": "13:55",

@@ -1,0 +1,52 @@
+{
+  "total": 4,
+  "replaced": 4,
+  "unresolved": 0,
+  "items": [
+    {
+      "id": "shizuoka-d1-03",
+      "requested_file": "マグロの漬け丼---2024-07-05.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:KASHI_NO_ICHI_maguro_kan_in_shimizu_ward.jpg",
+      "scope": "시즈오카 참치덮밥 점심의 음식 참고사진 · 실제 가게 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:%E3%83%9E%E3%82%B0%E3%83%AD%E3%81%AE%E6%BC%AC%E3%81%91%E4%B8%BC---2024-07-05.jpg",
+      "license": "CC BY 4.0",
+      "author": "RuinDig/Yuki Uchida",
+      "sha": "2a67977685ce0b5c0ec95533e1d1f39eb0bc1112"
+    },
+    {
+      "id": "shizuoka-d2-08",
+      "requested_file": "Hachi-no-ji（Japanese sweets in Shizuoka）.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:ASTY%E9%9D%99%E5%B2%A1%E6%9D%B1%E9%A4%A8.jpg",
+      "scope": "시즈오카 지역 실제 과자·디저트 참고사진 · 특정 카페 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:Hachi-no-ji%EF%BC%88Japanese_sweets_in_Shizuoka%EF%BC%89.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "やきつべ",
+      "sha": "010eeb5170e5beb2f84e5d5f064d73c7572c2ab6"
+    },
+    {
+      "id": "sendai-d2-04",
+      "requested_file": "AKIU Village agrie.JPG",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Akiu_Onsen,_Ryokusuitei_01.jpg",
+      "scope": "센다이 아키우 온천 지역 실제 식품판매·휴식 시설 · 식당 확정 아님",
+      "source": "https://commons.wikimedia.org/wiki/File:AKIU_Village_agrie.JPG",
+      "license": "CC BY-SA 4.0",
+      "author": "Ellerad",
+      "sha": "b51ed5ea4d3239c6243718ef1c552a4242568607"
+    },
+    {
+      "id": "kumamoto-d2-04",
+      "requested_file": "Kumamoto ramen by woinary in Kumamoto.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:%E4%B8%8B%E6%B1%9F%E6%B4%A5%E6%B9%96.JPG",
+      "scope": "구마모토 시내에서 촬영된 라멘 점심 참고 · 에즈호 인근 식당 확정 아님",
+      "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_ramen_by_woinary_in_Kumamoto.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "woinary  from Ramen shop near the Kumamoto Station in Kasuga, Kumamoto,",
+      "sha": "1fc479b409f9b46011847b4573171ffbff44386d"
+    }
+  ],
+  "api_errors": {}
+}

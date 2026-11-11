@@ -3323,7 +3323,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-kumamoto-d2-04.jpg",
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "구마모토 시내에서 촬영된 라멘 점심 참고 · 에즈호 인근 식당 확정 아님"
           },
           {
             "start": "13:30",
@@ -3705,19 +3705,6 @@
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
         },
         {
-          "file": "LOCAL-kumamoto-d2-04.jpg",
-          "title": "호수 인근 점심",
-          "place": "江津湖",
-          "kind": "자연",
-          "local": "./assets/photos/schedules/kumamoto/d2-04.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%8B%E6%B1%9F%E6%B4%A5%E6%B9%96.JPG",
-          "author": "Kuzeo",
-          "license": "CC BY-SA 3.0",
-          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-        },
-        {
           "file": "LOCAL-kumamoto-d2-02.jpg",
           "title": "수이젠지 정원 자연 산책",
           "place": "水前寺成趣園",
@@ -3794,6 +3781,19 @@
           "license": "CC BY-SA 3.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
           "scope": "구마모토현 숙박시설 객실 참고사진 · 실제 예약 호텔 미정"
+        },
+        {
+          "file": "LOCAL-kumamoto-d2-04.jpg",
+          "title": "호수 인근 점심",
+          "place": "江津湖",
+          "kind": "자연",
+          "local": "./assets/photos/schedules/kumamoto/d2-04.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_ramen_by_woinary_in_Kumamoto.jpg",
+          "author": "woinary  from Ramen shop near the Kumamoto Station in Kasuga, Kumamoto,",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "scope": "구마모토 시내에서 촬영된 라멘 점심 참고 · 에즈호 인근 식당 확정 아님"
         }
       ]
     }
