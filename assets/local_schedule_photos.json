@@ -575,7 +575,7 @@
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "cb2f5ffcaf50f4deae64e7a43eec105604e7b6c1",
     "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
-    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
+    "description_scope": "일정의 이동·수하물 보관 관련 참고사진"
   },
   "sapporo-d1-03": {
     "url": "./assets/photos/schedules/sapporo/d1-03.jpg",
@@ -844,7 +844,7 @@
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "97fc12802db5032d6c354d121d5d810a0dd68bdb",
     "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
-    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
+    "description_scope": "일정의 이동·수하물 보관 관련 참고사진"
   },
   "nagoya-d1-03": {
     "url": "./assets/photos/schedules/nagoya/d1-03.jpg",
@@ -1138,7 +1138,7 @@
     "license_url": "",
     "match": "exact_facility_visual_review",
     "source_proof_blob_sha": "f6d40fc60a191b15283c0839a7df2de02456298e",
-    "description_scope": "류큐온천 류진노유의 바다 전망 노천탕 · 실제 숙소 예약 여부 확인 필요"
+    "description_scope": "류큐온천 류진노유의 바다 전망 노천탕"
   },
   "okinawa-d1-07": {
     "url": "./assets/photos/schedules/okinawa/d1-07.jpg",
@@ -1669,7 +1669,7 @@
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "2bbec0c5c90e4b9e3957870fdd44720225f2f908",
     "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f",
-    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
+    "description_scope": "일정의 이동·수하물 보관 관련 참고사진"
   },
   "fukuoka-d1-03": {
     "url": "./assets/photos/schedules/fukuoka/d1-03.jpg",
@@ -3036,7 +3036,7 @@
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "ea01f3e90a598920fa9a31f357745045cd3db77a",
     "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f",
-    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
+    "description_scope": "일정의 이동·수하물 보관 관련 참고사진"
   },
   "kumamoto-d1-03": {
     "url": "./assets/photos/schedules/kumamoto/d1-03.jpg",
