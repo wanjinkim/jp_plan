@@ -1,0 +1,560 @@
+{
+  "total": 5,
+  "items": [
+    {
+      "key": "hiroshima-d2-08",
+      "facility": "https://www.honoyu.jp/ujina/",
+      "candidates": [
+        {
+          "url": "https://www.honoyu.jp/wp-content/themes/honoyu/assets/img/ogp/ogp.jpg",
+          "alt": "",
+          "page": "https://www.honoyu.jp/ujina/",
+          "width": 1400,
+          "height": 698,
+          "size": 216103
+        },
+        {
+          "url": "https://www.honoyu.jp/wp-content/themes/honoyu/assets/img/ujina/top/fv2.jpg",
+          "alt": "",
+          "page": "https://www.honoyu.jp/ujina/",
+          "width": 2304,
+          "height": 1728,
+          "size": 279603
+        },
+        {
+          "url": "https://www.honoyu.jp/wp-content/themes/honoyu/assets/img/ujina/top/fv3.jpg",
+          "alt": "",
+          "page": "https://www.honoyu.jp/ujina/",
+          "width": 2304,
+          "height": 1728,
+          "size": 240697
+        },
+        {
+          "url": "https://www.honoyu.jp/wp-content/themes/honoyu/assets/img/ujina/top/fv1.jpg",
+          "alt": "",
+          "page": "https://www.honoyu.jp/ujina/",
+          "width": 1024,
+          "height": 624,
+          "size": 173850
+        },
+        {
+          "url": "https://www.honoyu.jp/wp-content/themes/honoyu/assets/img/mask/mask_4.png",
+          "alt": "",
+          "page": "https://www.honoyu.jp/ujina/",
+          "width": 2792,
+          "height": 320,
+          "size": 1056
+        },
+        {
+          "url": "https://www.honoyu.jp/wp-content/themes/honoyu/assets/img/ujina/top/s1_02.jpg",
+          "alt": "",
+          "page": "https://www.honoyu.jp/ujina/",
+          "width": 2800,
+          "height": 520,
+          "size": 129113
+        },
+        {
+          "url": "https://www.honoyu.jp/wp-content/themes/honoyu/assets/img/ujina/top/s1_03.png",
+          "alt": "",
+          "page": "https://www.honoyu.jp/ujina/",
+          "width": 700,
+          "height": 380,
+          "size": 146561
+        },
+        {
+          "url": "https://www.honoyu.jp/wp-content/themes/honoyu/assets/img/ujina/top/s1_04.png",
+          "alt": "",
+          "page": "https://www.honoyu.jp/ujina/",
+          "width": 700,
+          "height": 380,
+          "size": 106748
+        },
+        {
+          "url": "https://www.honoyu.jp/wp-content/themes/honoyu/assets/img/ujina/top/s1_05.png",
+          "alt": "",
+          "page": "https://www.honoyu.jp/ujina/",
+          "width": 700,
+          "height": 380,
+          "size": 170255
+        },
+        {
+          "url": "https://www.honoyu.jp/wp-content/themes/honoyu/assets/img/ujina/top/s1_06.jpg",
+          "alt": "",
+          "page": "https://www.honoyu.jp/ujina/",
+          "width": 2800,
+          "height": 520,
+          "size": 288806
+        },
+        {
+          "url": "https://www.honoyu.jp/wp-content/themes/honoyu/assets/img/ujina/top/s2_01.png",
+          "alt": "",
+          "page": "https://www.honoyu.jp/ujina/",
+          "width": 1040,
+          "height": 400,
+          "size": 211617
+        },
+        {
+          "url": "https://www.honoyu.jp/wp-content/themes/honoyu/assets/img/ujina/top/s2_02.png",
+          "alt": "",
+          "page": "https://www.honoyu.jp/ujina/",
+          "width": 1040,
+          "height": 400,
+          "size": 104903
+        },
+        {
+          "url": "https://www.honoyu.jp/wp-content/themes/honoyu/assets/img/ujina/logo/logo.png",
+          "alt": "",
+          "page": "https://www.honoyu.jp/ujina/",
+          "width": 468,
+          "height": 210,
+          "size": 19778
+        }
+      ],
+      "errors": []
+    },
+    {
+      "key": "shizuoka-d2-06",
+      "facility": "https://www.kusanagino-yu.com/bath/index.html",
+      "candidates": [
+        {
+          "url": "https://www.kusanagino-yu.com/common/img/bath/titleImg01.png",
+          "alt": "",
+          "page": "https://www.kusanagino-yu.com/bath/index.html",
+          "width": 920,
+          "height": 240,
+          "size": 145213
+        },
+        {
+          "url": "https://www.kusanagino-yu.com/common/img/bath/bath1-1.png",
+          "alt": "",
+          "page": "https://www.kusanagino-yu.com/bath/index.html",
+          "width": 580,
+          "height": 366,
+          "size": 124335
+        },
+        {
+          "url": "https://www.kusanagino-yu.com/common/img/bath/bath1-2.png",
+          "alt": "",
+          "page": "https://www.kusanagino-yu.com/bath/index.html",
+          "width": 440,
+          "height": 306,
+          "size": 86037
+        },
+        {
+          "url": "https://www.kusanagino-yu.com/common/img/bath/bath1-4.png",
+          "alt": "",
+          "page": "https://www.kusanagino-yu.com/bath/index.html",
+          "width": 440,
+          "height": 306,
+          "size": 72335
+        },
+        {
+          "url": "https://www.kusanagino-yu.com/common/img/bath/bath1-7.png",
+          "alt": "",
+          "page": "https://www.kusanagino-yu.com/bath/index.html",
+          "width": 440,
+          "height": 306,
+          "size": 82410
+        },
+        {
+          "url": "https://www.kusanagino-yu.com/common/img/bath/titleImg02.png",
+          "alt": "",
+          "page": "https://www.kusanagino-yu.com/bath/index.html",
+          "width": 920,
+          "height": 240,
+          "size": 118274
+        },
+        {
+          "url": "https://www.kusanagino-yu.com/common/img/bath/bath2-1.png",
+          "alt": "",
+          "page": "https://www.kusanagino-yu.com/bath/index.html",
+          "width": 580,
+          "height": 366,
+          "size": 293918
+        },
+        {
+          "url": "https://www.kusanagino-yu.com/common/img/bath/bath2-2.png",
+          "alt": "",
+          "page": "https://www.kusanagino-yu.com/bath/index.html",
+          "width": 440,
+          "height": 306,
+          "size": 76876
+        },
+        {
+          "url": "https://www.kusanagino-yu.com/common/img/bath/bath2-3.png",
+          "alt": "",
+          "page": "https://www.kusanagino-yu.com/bath/index.html",
+          "width": 440,
+          "height": 306,
+          "size": 79415
+        },
+        {
+          "url": "https://www.kusanagino-yu.com/common/img/bath/bath2-4.png",
+          "alt": "",
+          "page": "https://www.kusanagino-yu.com/bath/index.html",
+          "width": 440,
+          "height": 306,
+          "size": 54102
+        },
+        {
+          "url": "https://www.kusanagino-yu.com/common/img/bath/bath2-5.png",
+          "alt": "",
+          "page": "https://www.kusanagino-yu.com/bath/index.html",
+          "width": 440,
+          "height": 305,
+          "size": 86491
+        },
+        {
+          "url": "https://www.kusanagino-yu.com/common/img/bath/bath2-6.png",
+          "alt": "",
+          "page": "https://www.kusanagino-yu.com/bath/index.html",
+          "width": 1900,
+          "height": 1321,
+          "size": 1322963
+        },
+        {
+          "url": "https://www.kusanagino-yu.com/common/img/bath/bath3-1.png",
+          "alt": "",
+          "page": "https://www.kusanagino-yu.com/bath/index.html",
+          "width": 440,
+          "height": 306,
+          "size": 91418
+        },
+        {
+          "url": "https://www.kusanagino-yu.com/common/img/bath/bath3-3.png",
+          "alt": "",
+          "page": "https://www.kusanagino-yu.com/bath/index.html",
+          "width": 440,
+          "height": 306,
+          "size": 81789
+        }
+      ],
+      "errors": []
+    },
+    {
+      "key": "okinawa-d1-06",
+      "facility": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+      "candidates": [
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin042.webp",
+          "alt": "龍神の湯瀬長島ホテル 温泉",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 2000,
+          "height": 800,
+          "size": 175308
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/ryujin_saikai_square.webp",
+          "alt": "琉球温泉瀬長島ホテル 龍神の湯",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 1080,
+          "height": 1080,
+          "size": 25262
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin045.webp",
+          "alt": "琉球温泉瀬長島ホテル 龍神の湯",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 620,
+          "height": 620,
+          "size": 45886
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin046.webp",
+          "alt": "琉球温泉瀬長島ホテル 龍神の湯",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 620,
+          "height": 620,
+          "size": 15412
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin058.webp",
+          "alt": "琉球温泉瀬長島ホテル 龍神の湯",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 500,
+          "height": 500,
+          "size": 25566
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin048.webp",
+          "alt": "琉球温泉瀬長島ホテル 龍神の湯",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 620,
+          "height": 620,
+          "size": 28754
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujinamenities001.webp",
+          "alt": "琉球温泉龍神の湯 瀬長島ホテル",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 1200,
+          "height": 800,
+          "size": 88575
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin052.webp",
+          "alt": "琉球温泉瀬長島ホテル 龍神の湯 立ち湯",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 1500,
+          "height": 1000,
+          "size": 112424
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin053.webp",
+          "alt": "琉球温泉瀬長島ホテル 龍神の湯 壺湯",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 1500,
+          "height": 1000,
+          "size": 136576
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin049.webp",
+          "alt": "琉球温泉瀬長島ホテル 龍神の湯",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 1500,
+          "height": 1000,
+          "size": 137022
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin054.webp",
+          "alt": "琉球温泉瀬長島ホテル 龍神の湯 寝湯",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 1500,
+          "height": 1000,
+          "size": 120552
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin055.webp",
+          "alt": "琉球温泉瀬長島ホテル 龍神の湯 サウナ",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 1800,
+          "height": 1200,
+          "size": 132410
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin008.webp",
+          "alt": "琉球温泉龍神の湯 瀬長島ホテル",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 1200,
+          "height": 800,
+          "size": 55123
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin040.webp",
+          "alt": "琉球温泉龍神の湯 瀬長島ホテル",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 2000,
+          "height": 1333,
+          "size": 88838
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin039.webp",
+          "alt": "琉球温泉龍神の湯 瀬長島ホテル",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 1920,
+          "height": 1280,
+          "size": 208944
+        },
+        {
+          "url": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin050.webp",
+          "alt": "琉球温泉瀬長島ホテル 龍神の湯",
+          "page": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+          "width": 1920,
+          "height": 1280,
+          "size": 194850
+        }
+      ],
+      "errors": []
+    },
+    {
+      "key": "sendai-d2-05",
+      "facility": "https://akiugrand.com/",
+      "candidates": [
+        {
+          "url": "https://www.akiugrand.com/images/index/bn_hs_renewal.jpg",
+          "alt": "露天風呂大浴場リニューアル",
+          "page": "https://akiugrand.com/",
+          "width": 1020,
+          "height": 188,
+          "size": 174607
+        },
+        {
+          "url": "https://akiugrand.com/images/index/hs01.jpg?v=2",
+          "alt": "温泉",
+          "page": "https://akiugrand.com/",
+          "width": 600,
+          "height": 1000,
+          "size": 285482
+        },
+        {
+          "url": "https://akiugrand.com/images/index/hs02.jpg?v=2",
+          "alt": "温泉",
+          "page": "https://akiugrand.com/",
+          "width": 600,
+          "height": 1000,
+          "size": 165126
+        },
+        {
+          "url": "https://akiugrand.com/images/index/hs03.jpg?v=2",
+          "alt": "温泉",
+          "page": "https://akiugrand.com/",
+          "width": 600,
+          "height": 1000,
+          "size": 162383
+        },
+        {
+          "url": "https://akiugrand.com/images/index/hs04.jpg?v=2",
+          "alt": "温泉",
+          "page": "https://akiugrand.com/",
+          "width": 600,
+          "height": 1000,
+          "size": 152459
+        },
+        {
+          "url": "https://akiugrand.com/images/index/hs05.jpg?v=2",
+          "alt": "温泉",
+          "page": "https://akiugrand.com/",
+          "width": 600,
+          "height": 1000,
+          "size": 190126
+        },
+        {
+          "url": "https://akiugrand.com/images/index/hs06.jpg?v=2",
+          "alt": "温泉",
+          "page": "https://akiugrand.com/",
+          "width": 600,
+          "height": 1000,
+          "size": 96203
+        },
+        {
+          "url": "https://akiugrand.com/images/index/hs_sp.jpg?v=2",
+          "alt": "温泉",
+          "page": "https://akiugrand.com/",
+          "width": 750,
+          "height": 720,
+          "size": 420059
+        },
+        {
+          "url": "https://akiugrand.com/images/index/poimg1.png",
+          "alt": "",
+          "page": "https://akiugrand.com/",
+          "width": 240,
+          "height": 240,
+          "size": 113155
+        },
+        {
+          "url": "https://akiugrand.com/images/index/poimg3.png",
+          "alt": "",
+          "page": "https://akiugrand.com/",
+          "width": 240,
+          "height": 240,
+          "size": 83145
+        },
+        {
+          "url": "https://akiugrand.com/images/index/poimg4.png",
+          "alt": "",
+          "page": "https://akiugrand.com/",
+          "width": 240,
+          "height": 240,
+          "size": 125966
+        },
+        {
+          "url": "https://akiugrand.com/images/index/poimg5.png",
+          "alt": "",
+          "page": "https://akiugrand.com/",
+          "width": 240,
+          "height": 240,
+          "size": 107060
+        },
+        {
+          "url": "https://akiugrand.com/images/index/poimg6.png",
+          "alt": "",
+          "page": "https://akiugrand.com/",
+          "width": 240,
+          "height": 240,
+          "size": 99419
+        },
+        {
+          "url": "https://akiugrand.com/images/index/bn_search.jpg",
+          "alt": "宿泊検索",
+          "page": "https://akiugrand.com/",
+          "width": 1038,
+          "height": 168,
+          "size": 105885
+        },
+        {
+          "url": "https://akiugrand.com/images/index/bn_search_sp.jpg",
+          "alt": "宿泊検索",
+          "page": "https://akiugrand.com/",
+          "width": 668,
+          "height": 418,
+          "size": 145107
+        },
+        {
+          "url": "https://akiugrand.com/images/index/bn_change-phone.jpg",
+          "alt": "代表電話番号変更のお知らせ",
+          "page": "https://akiugrand.com/",
+          "width": 800,
+          "height": 160,
+          "size": 42825
+        }
+      ],
+      "errors": []
+    },
+    {
+      "key": "takamatsu-d1-06",
+      "facility": "https://busshozan.com/",
+      "candidates": [
+        {
+          "url": "https://busshozan.com/images/1.jpg",
+          "alt": "仏生山温泉 外観",
+          "page": "https://busshozan.com/",
+          "width": 285,
+          "height": 285,
+          "size": 25123
+        },
+        {
+          "url": "https://busshozan.com/images/2.jpg",
+          "alt": "仏生山温泉 休憩室",
+          "page": "https://busshozan.com/",
+          "width": 285,
+          "height": 285,
+          "size": 35424
+        },
+        {
+          "url": "https://busshozan.com/images/3.jpg",
+          "alt": "仏生山温泉 浴場",
+          "page": "https://busshozan.com/",
+          "width": 285,
+          "height": 285,
+          "size": 48365
+        },
+        {
+          "url": "https://busshozan.com/images/4.jpg",
+          "alt": "仏生山温泉 食堂",
+          "page": "https://busshozan.com/",
+          "width": 285,
+          "height": 285,
+          "size": 40392
+        },
+        {
+          "url": "https://busshozan.com/images/main.jpg",
+          "alt": "営業時間のお知らせ",
+          "page": "https://busshozan.com/",
+          "width": 1200,
+          "height": 1711,
+          "size": 105294
+        },
+        {
+          "url": "https://busshozan.com/images/logo.png",
+          "alt": "仏生山温泉",
+          "page": "https://busshozan.com/",
+          "width": 855,
+          "height": 204,
+          "size": 17538
+        }
+      ],
+      "errors": []
+    }
+  ]
+}
