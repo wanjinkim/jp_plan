@@ -1,0 +1,46 @@
+name: Restore five exact-venue onsen photos
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/restore_official_onsen_photos.py'
+      - '.github/workflows/restore-official-onsen-photos.yml'
+permissions:
+  contents: write
+jobs:
+  restore:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install image validation libraries
+        run: python -m pip install Pillow==11.3.0 requests==2.32.5
+      - name: Compile source before image retrieval
+        run: python -m py_compile scripts/restore_official_onsen_photos.py
+      - name: Fetch actual bath venue pictures and validate all 281
+        run: python -u scripts/restore_official_onsen_photos.py
+      - name: Commit 5 exact verified facility images
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/photos/schedules assets/local_schedule_photos.json assets/recommended.json assets/new_routes.json assets/gallery.json photo_audit/official_onsen_restoration.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Replace incorrect onsen pictures with true facility photos, 281 unique maintained'
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
+      - name: Archive transparent source-by-venue report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: five-real-onsen-venue-images
+          path: photo_audit/official_onsen_restoration.json
+          if-no-files-found: warn
