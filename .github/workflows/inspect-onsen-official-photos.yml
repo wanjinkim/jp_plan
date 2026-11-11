@@ -1,0 +1,46 @@
+name: Inspect genuine official onsen photos for visual selection
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/inspect_onsen_official_photos.py'
+      - '.github/workflows/inspect-onsen-official-photos.yml'
+permissions:
+  contents: write
+jobs:
+  inspect:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install image/site inspection libraries
+        run: python -m pip install Pillow==11.3.0 requests==2.32.5 beautifulsoup4==4.14.2
+      - name: Validate syntax and inspect official facility photos
+        run: |
+          python -m py_compile scripts/inspect_onsen_official_photos.py
+          python -u scripts/inspect_onsen_official_photos.py
+      - name: Commit review sheets only, never unreviewed images
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add photo_audit/onsen_candidates
+          if ! git diff --cached --quiet; then
+            git commit -m 'Audit official venue photo candidates for five remaining onsen mismatches'
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
+      - name: Preserve actual source and photo preview proof
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: onsen-official-source-photo-preview
+          path: photo_audit/onsen_candidates/
+          retention-days: 30
