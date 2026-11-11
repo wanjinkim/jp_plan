@@ -296,7 +296,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-fukuoka-d3-03.jpg",
-            "photo_match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+            "photo_match": "후쿠오카 라멘 신신 실제 하카타 라멘 · 식당 방문 확정 아님"
           },
           {
             "start": "12:30",
@@ -620,19 +620,6 @@
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
         },
         {
-          "file": "LOCAL-fukuoka-d3-03.jpg",
-          "title": "마지막 점심·기념품",
-          "place": "博多駅",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/fukuoka/d3-03.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Tonkotsu_Ramen_Special,_Hakata_Choten,_Paris_001.jpg",
-          "author": "Guilhem Vellut  from Paris, France",
-          "license": "CC BY 2.0",
-          "license_url": "https://creativecommons.org/licenses/by/2.0",
-          "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
-        },
-        {
           "file": "LOCAL-fukuoka-d3-01.jpg",
           "title": "체크아웃·수하물 정리",
           "place": "博多駅",
@@ -670,6 +657,19 @@
           "license": "CC BY-SA 2.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
           "scope": "후쿠오카 하카타 이자카야에서 촬영된 실제 음식"
+        },
+        {
+          "file": "LOCAL-fukuoka-d3-03.jpg",
+          "title": "마지막 점심·기념품",
+          "place": "博多駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/fukuoka/d3-03.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Ramen_shin_shin.jpg",
+          "author": "Warakush",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "scope": "후쿠오카 라멘 신신 실제 하카타 라멘 · 식당 방문 확정 아님"
         }
       ]
     },
@@ -759,7 +759,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-osaka-d1-06.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "우메다 그랑프론트 오사카의 실제 카페"
           },
           {
             "start": "18:30",
@@ -905,7 +905,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-osaka-d2-09.jpg",
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "오사카 난바 호쿠교쿠 아이스캔디 · 간식 참고"
           }
         ],
         [
@@ -919,7 +919,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-osaka-d3-01.jpg",
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "난바 지역 호텔 실제 외관 · 실제 예약 호텔 미정"
           },
           {
             "start": "09:00",
@@ -1033,19 +1033,6 @@
           "local": "./assets/photos/schedules/osaka/d1-05.jpg",
           "local_verified": true,
           "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Osaka_Castle_(I).jpg",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-osaka-d1-06.jpg",
-          "title": "우메다 주변 카페",
-          "place": "梅田",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/osaka/d1-06.jpg",
-          "local_verified": true,
-          "source": "",
           "author": "",
           "license": "previously supplied, verify original license",
           "license_url": "",
@@ -1208,32 +1195,6 @@
           "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
         },
         {
-          "file": "LOCAL-osaka-d2-09.jpg",
-          "title": "난바 간식·숙소 복귀",
-          "place": "なんば駅",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/osaka/d2-09.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%B5%B7%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85_-_panoramio.jpg",
-          "author": "くろふね",
-          "license": "CC BY 3.0",
-          "license_url": "https://creativecommons.org/licenses/by/3.0",
-          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-        },
-        {
-          "file": "LOCAL-osaka-d3-01.jpg",
-          "title": "호텔 체크아웃",
-          "place": "なんば駅",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/osaka/d3-01.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%B5%B7%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85_-_panoramio_(1).jpg",
-          "author": "C.L. Kao (eddie5150)",
-          "license": "CC BY-SA 3.0",
-          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-        },
-        {
           "file": "LOCAL-osaka-d2-07.jpg",
           "title": "현지 이자카야 저녁",
           "place": "梅田",
@@ -1284,6 +1245,45 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
           "scope": "오사카 난바 인근 구로몬시장에서 촬영된 타코야키 실제 음식"
+        },
+        {
+          "file": "LOCAL-osaka-d1-06.jpg",
+          "title": "우메다 주변 카페",
+          "place": "梅田",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/osaka/d1-06.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:CAFE_Lab._in_Knowledge_Capital,_Grand_Front_Osaka_20130928.jpg",
+          "author": "Tokumeigakarinoaoshima",
+          "license": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "scope": "우메다 그랑프론트 오사카의 실제 카페"
+        },
+        {
+          "file": "LOCAL-osaka-d2-09.jpg",
+          "title": "난바 간식·숙소 복귀",
+          "place": "なんば駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/osaka/d2-09.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Hokkyoku_no_ice_candy.jpg",
+          "author": "Tokumeigakarinoaoshima",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "scope": "오사카 난바 호쿠교쿠 아이스캔디 · 간식 참고"
+        },
+        {
+          "file": "LOCAL-osaka-d3-01.jpg",
+          "title": "호텔 체크아웃",
+          "place": "なんば駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/osaka/d3-01.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Hotel_KEIHAN_Namba_Grande.jpg",
+          "author": "Tokumeigakarinoaoshima",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "scope": "난바 지역 호텔 실제 외관 · 실제 예약 호텔 미정"
         }
       ]
     },
@@ -1557,7 +1557,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-tokyo-d3-04.jpg",
-            "photo_match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+            "photo_match": "도쿄 아사쿠사의 실제 텐푸라 음식점 외관 · 방문 식당 미정"
           },
           {
             "start": "13:00",
@@ -1790,19 +1790,6 @@
           "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
         },
         {
-          "file": "LOCAL-tokyo-d3-04.jpg",
-          "title": "마지막 식사",
-          "place": "浅草",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/tokyo/d3-04.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Pudding_sample_by_OiMax_in_Asakusa,_Tokyo.jpg",
-          "author": "OiMax  from  Resutoran Kashimiya\" (Restaurant Cashmere) in Asakusa, Taito,  Tokyo",
-          "license": "CC BY 2.0",
-          "license_url": "https://creativecommons.org/licenses/by/2.0",
-          "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
-        },
-        {
           "file": "LOCAL-tokyo-d1-04.jpg",
           "title": "우에노 공원 가을 산책",
           "place": "上野恩賜公園",
@@ -1905,6 +1892,19 @@
           "license": "Public domain",
           "license_url": "",
           "scope": "도쿄 신주쿠의 라멘 실제 음식 사진"
+        },
+        {
+          "file": "LOCAL-tokyo-d3-04.jpg",
+          "title": "마지막 식사",
+          "place": "浅草",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/tokyo/d3-04.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Tempura_restaurant_by_clanchou_in_Asakusa,_Tokyo.jpg",
+          "author": "clanchou  from Tempura restaurant  Daikokuya Tempura  in Asakusa, Taito,  Tokyo",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "scope": "도쿄 아사쿠사의 실제 텐푸라 음식점 외관 · 방문 식당 미정"
         }
       ]
     },
@@ -2018,7 +2018,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-matsuyama-d1-08.jpg",
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "도고온천 지역 자코텐과 지역 맥주 실제 음식사진"
           },
           {
             "start": "21:00",
@@ -2128,7 +2128,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-matsuyama-d2-07.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "마쓰야마 지역 자코텐 우동 실제 음식사진"
           },
           {
             "start": "20:00",
@@ -2384,19 +2384,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-matsuyama-d2-07.jpg",
-          "title": "저녁 식사",
-          "place": "大街道",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/matsuyama/d2-07.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-matsuyama-d2-09.jpg",
           "title": "숙소 복귀",
           "place": "松山市駅",
@@ -2514,19 +2501,6 @@
           "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
         },
         {
-          "file": "LOCAL-matsuyama-d1-08.jpg",
-          "title": "에히메 향토음식 저녁",
-          "place": "道後温泉",
-          "kind": "일정",
-          "local": "./assets/photos/schedules/matsuyama/d1-08.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Dougo_Onsen,_Matsuyama.jpg",
-          "author": "Urashimataro",
-          "license": "Public domain",
-          "license_url": "",
-          "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-        },
-        {
           "file": "LOCAL-matsuyama-d3-03.jpg",
           "title": "현지 점심",
           "place": "松山市駅",
@@ -2551,6 +2525,32 @@
           "license": "CC BY-SA 2.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
           "scope": "에히메현 지역 향토음식 점심 참고사진, 특정 식당 아님"
+        },
+        {
+          "file": "LOCAL-matsuyama-d1-08.jpg",
+          "title": "에히메 향토음식 저녁",
+          "place": "道後温泉",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/matsuyama/d1-08.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Jako-ten_and_Dogo_beer_by_Hyougushi_in_Dogo_Onsen,_Ehime.jpg",
+          "author": "Hyougushi  from Beer hall  Dogo Bakusyu Kan  at a microbrewery in Dogo Onsen, Dogo-Yunomachi, Matsuyama, Ehime",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "scope": "도고온천 지역 자코텐과 지역 맥주 실제 음식사진"
+        },
+        {
+          "file": "LOCAL-matsuyama-d2-07.jpg",
+          "title": "저녁 식사",
+          "place": "大街道",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/matsuyama/d2-07.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Jako-ten_udon_by_woinary_in_Matsuyama,_Ehime.jpg",
+          "author": "woinary  from Udon restaurant  Kameya  in underground mall  Matsu-Chika  Town at the Matsuyama-shi station, Matsuyama, Ehime",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "scope": "마쓰야마 지역 자코텐 우동 실제 음식사진"
         }
       ]
     },
@@ -2750,7 +2750,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-takamatsu-d2-07.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "해산물 저녁 메뉴 중 사시미 참고사진 · 고정 식당 미정"
           },
           {
             "start": "20:00",
@@ -2993,19 +2993,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-takamatsu-d2-07.jpg",
-          "title": "해산물 저녁",
-          "place": "高松港",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/takamatsu/d2-07.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-takamatsu-d2-08.jpg",
           "title": "야경과 상점가",
           "place": "丸亀町商店街",
@@ -3148,6 +3135,19 @@
           "license": "시설 원본 이미지 · 사용 조건 별도 확인 필요",
           "license_url": "",
           "scope": "붓쇼잔온천의 실제 목욕 시설"
+        },
+        {
+          "file": "LOCAL-takamatsu-d2-07.jpg",
+          "title": "해산물 저녁",
+          "place": "高松港",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/takamatsu/d2-07.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Fish_sashimi.jpg",
+          "author": "Nome92",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "scope": "해산물 저녁 메뉴 중 사시미 참고사진 · 고정 식당 미정"
         }
       ]
     },
@@ -3273,7 +3273,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-kumamoto-d1-09.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "구마모토 시내 호텔 실제 건물 · 실제 예약 호텔 미정"
           }
         ],
         [
@@ -3395,7 +3395,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-kumamoto-d2-10.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "구마모토 시내 숙박시설 실제 외관 · 실제 예약 호텔 미정"
           }
         ],
         [
@@ -3409,7 +3409,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-kumamoto-d3-01.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "구마모토현 숙박시설 객실 참고사진 · 실제 예약 호텔 미정"
           },
           {
             "start": "09:00",
@@ -3575,19 +3575,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-kumamoto-d1-09.jpg",
-          "title": "전철·버스 복귀·숙소",
-          "place": "熊本駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/kumamoto/d1-09.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-kumamoto-d2-01.jpg",
           "title": "아침 식사·노면전차 이동",
           "place": "新水前寺駅",
@@ -3658,32 +3645,6 @@
           "place": "花畑広場",
           "kind": "명소",
           "local": "./assets/photos/schedules/kumamoto/d2-09.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-kumamoto-d2-10.jpg",
-          "title": "숙소 복귀",
-          "place": "熊本駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/kumamoto/d2-10.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-kumamoto-d3-01.jpg",
-          "title": "체크아웃",
-          "place": "熊本駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/kumamoto/d3-01.jpg",
           "local_verified": true,
           "source": "",
           "author": "",
@@ -3794,6 +3755,45 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
           "scope": "구마모토 향토음식 말고기회 실제 음식"
+        },
+        {
+          "file": "LOCAL-kumamoto-d1-09.jpg",
+          "title": "전철·버스 복귀·숙소",
+          "place": "熊本駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/kumamoto/d1-09.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:KKR_Hotel_Kumamoto_20230227.jpg",
+          "author": "先従隗始",
+          "license": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "scope": "구마모토 시내 호텔 실제 건물 · 실제 예약 호텔 미정"
+        },
+        {
+          "file": "LOCAL-kumamoto-d2-10.jpg",
+          "title": "숙소 복귀",
+          "place": "熊本駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/kumamoto/d2-10.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:MIELPARQUE_Kumamoto_202512.jpg",
+          "author": "運動会プロテインパワー",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "scope": "구마모토 시내 숙박시설 실제 외관 · 실제 예약 호텔 미정"
+        },
+        {
+          "file": "LOCAL-kumamoto-d3-01.jpg",
+          "title": "체크아웃",
+          "place": "熊本駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/kumamoto/d3-01.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Richmond_Hotels_single_bedroom_20110806-001.jpg",
+          "author": "J o",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "scope": "구마모토현 숙박시설 객실 참고사진 · 실제 예약 호텔 미정"
         }
       ]
     }

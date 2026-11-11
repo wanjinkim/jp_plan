@@ -701,19 +701,6 @@
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     },
     {
-      "file": "LOCAL-hiroshima-d3-03.jpg",
-      "title": "역으로 돌아와 기념품 쇼핑",
-      "place": "広島駅",
-      "kind": "쇼핑",
-      "local": "./assets/photos/schedules/hiroshima/d3-03.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_streetcar_at_night_beside_Hondori_Station.jpg",
-      "author": "Benlisquare",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-    },
-    {
       "file": "LOCAL-hiroshima-d3-05.jpg",
       "title": "히로시마역 공항버스 탑승",
       "place": "広島駅",
@@ -724,19 +711,6 @@
       "author": "MaedaAkihiko",
       "license": "CC0",
       "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-    },
-    {
-      "file": "LOCAL-hiroshima-d2-10.jpg",
-      "title": "숙소 복귀·휴식",
-      "place": "広島駅 ホテル",
-      "kind": "휴식",
-      "local": "./assets/photos/schedules/hiroshima/d2-10.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%BE%E9%81%93%E9%A7%85_-_Flickr_-_m-louis.jpg",
-      "author": "m-louis .®  from Osaka, Japan",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     },
     {
@@ -765,6 +739,32 @@
       "license": "시설 원본 이미지 · 사용 조건 별도 확인 필요",
       "license_url": "",
       "scope": "우지나 천연온천 호노유의 실제 노천탕"
+    },
+    {
+      "file": "LOCAL-hiroshima-d2-10.jpg",
+      "title": "숙소 복귀·휴식",
+      "place": "広島駅 ホテル",
+      "kind": "휴식",
+      "local": "./assets/photos/schedules/hiroshima/d2-10.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:2013-09-01_a_hotel_room_in_Hiroshima_02.jpg",
+      "author": "Cheng-en Cheng",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "scope": "숙소 객실 참고사진 · 실제 예약 호텔 미정"
+    },
+    {
+      "file": "LOCAL-hiroshima-d3-03.jpg",
+      "title": "역으로 돌아와 기념품 쇼핑",
+      "place": "広島駅",
+      "kind": "쇼핑",
+      "local": "./assets/photos/schedules/hiroshima/d3-03.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Nishikid%C5%8D.jpg",
+      "author": "midorisyu",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "scope": "히로시마역 니시키도 모미지만주 매장 · 기념품 쇼핑"
     }
   ],
   "shizuoka": [
@@ -1935,19 +1935,6 @@
       "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
     },
     {
-      "file": "LOCAL-sapporo-d1-08.jpg",
-      "title": "호텔로 돌아와 휴식",
-      "place": "札幌駅 ホテル",
-      "kind": "휴식",
-      "local": "./assets/photos/schedules/sapporo/d1-08.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:SapporoNight2004-11.jpg",
-      "author": "Kinori",
-      "license": "Public domain",
-      "license_url": "",
-      "scope": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
-    },
-    {
       "file": "LOCAL-sapporo-d3-05.jpg",
       "title": "JR 신치토세공항으로 이동",
       "place": "新千歳空港",
@@ -1997,19 +1984,6 @@
       "author": "ノボホショコロトソ",
       "license": "CC BY 4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0",
-      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-    },
-    {
-      "file": "LOCAL-sapporo-d2-09.jpg",
-      "title": "숙소 휴식",
-      "place": "札幌駅 ホテル",
-      "kind": "휴식",
-      "local": "./assets/photos/schedules/sapporo/d2-09.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Sapporo2005-1-9.jpg",
-      "author": "w:ja:user:Kinori",
-      "license": "Public domain",
-      "license_url": "",
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     },
     {
@@ -2063,6 +2037,32 @@
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
       "scope": "삿포로 조잔케이 온천마을 실제 사진 (입욕 시설 내부는 아님)"
+    },
+    {
+      "file": "LOCAL-sapporo-d1-08.jpg",
+      "title": "호텔로 돌아와 휴식",
+      "place": "札幌駅 ホテル",
+      "kind": "휴식",
+      "local": "./assets/photos/schedules/sapporo/d1-08.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Hotel_Route_Inn_Sapporo-Ekimae-Kitaguchi.JPG",
+      "author": "Abasaa",
+      "license": "Public domain",
+      "license_url": "",
+      "scope": "삿포로역 인근 호텔 외관 참고 · 실제 예약 호텔 미정"
+    },
+    {
+      "file": "LOCAL-sapporo-d2-09.jpg",
+      "title": "숙소 휴식",
+      "place": "札幌駅 ホテル",
+      "kind": "휴식",
+      "local": "./assets/photos/schedules/sapporo/d2-09.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:JR-EAST.HOTEL-METS-Sapporo.JPG",
+      "author": "RJD",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "scope": "삿포로역 인근 호텔 외관 참고 · 실제 예약 호텔 미정"
     }
   ],
   "nagoya": [
@@ -2545,19 +2545,6 @@
       "scope": "관련 지역 참고사진"
     },
     {
-      "file": "LOCAL-nagoya-d2-08.jpg",
-      "title": "숙소 휴식",
-      "place": "名古屋駅 ホテル",
-      "kind": "명소",
-      "local": "./assets/photos/schedules/nagoya/d2-08.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Nagoya_2017_(34159008173).jpg",
-      "author": "",
-      "license": "previously supplied, verify original license",
-      "license_url": "",
-      "scope": "관련 지역 참고사진"
-    },
-    {
       "file": "LOCAL-nagoya-d3-02.jpg",
       "title": "노리타케의 숲·정원",
       "place": "ノリタケの森",
@@ -2686,6 +2673,19 @@
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+    },
+    {
+      "file": "LOCAL-nagoya-d2-08.jpg",
+      "title": "숙소 휴식",
+      "place": "名古屋駅 ホテル",
+      "kind": "휴식",
+      "local": "./assets/photos/schedules/nagoya/d2-08.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Meitetsu_Inn_Nagoyaeki_Shinkansenguchi.jpg",
+      "author": "Syced",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "scope": "나고야역 인근 메이테츠인 실제 건물 · 실제 예약 호텔 미정"
     }
   ],
   "sendai": [
@@ -3305,32 +3305,6 @@
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     },
     {
-      "file": "LOCAL-sendai-d3-03.jpg",
-      "title": "역·아케이드에서 즈다모치 쇼핑",
-      "place": "仙台駅 ずんだ餅",
-      "kind": "쇼핑",
-      "local": "./assets/photos/schedules/sendai/d3-03.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_Night.JPG",
-      "author": "Caveman2",
-      "license": "Public domain",
-      "license_url": "",
-      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-    },
-    {
-      "file": "LOCAL-sendai-d3-04.jpg",
-      "title": "마지막 규탄 점심",
-      "place": "仙台駅 牛タン",
-      "kind": "식사",
-      "local": "./assets/photos/schedules/sendai/d3-04.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:211030_Kameshima_Matsushima_Miyagi_pref_Japan01n.jpg",
-      "author": "663highland",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-    },
-    {
       "file": "LOCAL-sendai-d2-04.jpg",
       "title": "온천마을 점심·간식",
       "place": "秋保温泉",
@@ -3382,6 +3356,32 @@
       "license": "시설 원본 이미지 · 사용 조건 별도 확인 필요",
       "license_url": "",
       "scope": "아키우 그랜드호텔의 실제 노천탕"
+    },
+    {
+      "file": "LOCAL-sendai-d3-03.jpg",
+      "title": "역·아케이드에서 즈다모치 쇼핑",
+      "place": "仙台駅 ずんだ餅",
+      "kind": "쇼핑",
+      "local": "./assets/photos/schedules/sendai/d3-03.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Zunda-mochi.jpg",
+      "author": "Σ64",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "scope": "센다이 대표 기념 간식 즈다모치 실제 음식사진"
+    },
+    {
+      "file": "LOCAL-sendai-d3-04.jpg",
+      "title": "마지막 규탄 점심",
+      "place": "仙台駅 牛タン",
+      "kind": "식사",
+      "local": "./assets/photos/schedules/sendai/d3-04.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Sedaigyutantei200607.jpg",
+      "author": "No machine-readable author provided.  Sensiro  assumed (based on copyright claims).",
+      "license": "Public domain",
+      "license_url": "",
+      "scope": "센다이 규탄 정식 실제 음식사진"
     }
   ],
   "okinawa": [

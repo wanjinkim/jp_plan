@@ -213,14 +213,15 @@
   },
   "hiroshima-d2-10": {
     "url": "./assets/photos/schedules/hiroshima/d2-10.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%BE%E9%81%93%E9%A7%85_-_Flickr_-_m-louis.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2013-09-01_a_hotel_room_in_Hiroshima_02.jpg",
     "place": "広島駅 ホテル",
-    "author": "m-louis .®  from Osaka, Japan",
+    "author": "Cheng-en Cheng",
     "license": "CC BY-SA 2.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "119a26dfa3da96716248175ec8e2460902e0ea1b",
-    "source_verified_by": "download_verified_content"
+    "match": "curated_schedule_activity",
+    "description_scope": "숙소 객실 참고사진 · 실제 예약 호텔 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "6658fde35e661481761c09a4ec282ed9f399d30e"
   },
   "hiroshima-d3-01": {
     "url": "./assets/photos/schedules/hiroshima/d3-01.jpg",
@@ -247,14 +248,15 @@
   },
   "hiroshima-d3-03": {
     "url": "./assets/photos/schedules/hiroshima/d3-03.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_streetcar_at_night_beside_Hondori_Station.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nishikid%C5%8D.jpg",
     "place": "広島駅",
-    "author": "Benlisquare",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "73d16acf1860e4e9928cd7f8102a44b077b441f9",
-    "source_verified_by": "download_verified_content"
+    "author": "midorisyu",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "히로시마역 니시키도 모미지만주 매장 · 기념품 쇼핑",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "a422c1221f284d60eacbc6a08dd2d114e3aa0131"
   },
   "hiroshima-d3-04": {
     "source": "https://commons.wikimedia.org/wiki/File:A_man_prepares_okonomiyaki_in_Hiroshima_2004-08-05.jpg",
@@ -629,15 +631,16 @@
     "source_proof_blob_sha": "06e2b3d674312060e888b04eb77aa6a4cd33b60c"
   },
   "sapporo-d1-08": {
-    "source": "https://commons.wikimedia.org/wiki/File:SapporoNight2004-11.jpg",
-    "author": "Kinori",
+    "url": "./assets/photos/schedules/sapporo/d1-08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Route_Inn_Sapporo-Ekimae-Kitaguchi.JPG",
+    "place": "札幌駅 ホテル",
+    "author": "Abasaa",
     "license": "Public domain",
     "license_url": "",
-    "match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)",
-    "source_verified_by": "current_catalog_for_changed_image",
-    "url": "./assets/photos/schedules/sapporo/d1-08.jpg",
-    "place": "札幌駅 ホテル",
-    "source_proof_blob_sha": "93b86bdf5e63df52b1f583f85f05ed1456b61365"
+    "match": "curated_schedule_activity",
+    "description_scope": "삿포로역 인근 호텔 외관 참고 · 실제 예약 호텔 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "763cef4de4291935e1aefb55732a5742cacfde4f"
   },
   "sapporo-d2-01": {
     "url": "./assets/photos/schedules/sapporo/d2-01.jpg",
@@ -733,14 +736,15 @@
   },
   "sapporo-d2-09": {
     "url": "./assets/photos/schedules/sapporo/d2-09.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Sapporo2005-1-9.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:JR-EAST.HOTEL-METS-Sapporo.JPG",
     "place": "札幌駅 ホテル",
-    "author": "w:ja:user:Kinori",
-    "license": "Public domain",
-    "license_url": "",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "b11bf8163e76eff79901e5f8fdc1ffac5ad99da0",
-    "source_verified_by": "download_verified_content"
+    "author": "RJD",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "삿포로역 인근 호텔 외관 참고 · 실제 예약 호텔 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "193c6d649813d1ae47d6ec4f494ccfd951dd2006"
   },
   "sapporo-d3-01": {
     "url": "./assets/photos/schedules/sapporo/d3-01.jpg",
@@ -987,15 +991,15 @@
   },
   "nagoya-d2-08": {
     "url": "./assets/photos/schedules/nagoya/d2-08.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Bellevue_Office_NAGOYA.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Meitetsu_Inn_Nagoyaeki_Shinkansenguchi.jpg",
     "place": "名古屋駅 ホテル",
-    "match": "exact",
-    "author": "妖精書士",
+    "author": "Syced",
     "license": "CC0",
     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "cc8cab9466b9470b2716b07afeedb836bc243640",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "match": "curated_schedule_activity",
+    "description_scope": "나고야역 인근 메이테츠인 실제 건물 · 실제 예약 호텔 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "8ebcc765fafb07ad7e77d1ac8a3c12095dc7959b"
   },
   "nagoya-d3-01": {
     "url": "./assets/photos/schedules/nagoya/d3-01.jpg",
@@ -1576,25 +1580,27 @@
   },
   "sendai-d3-03": {
     "url": "./assets/photos/schedules/sendai/d3-03.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_Night.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Zunda-mochi.jpg",
     "place": "仙台駅 ずんだ餅",
-    "author": "Caveman2",
-    "license": "Public domain",
-    "license_url": "",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "ae2fe07367eeb235ec3dfd5de9d71b0fde7448d1",
-    "source_verified_by": "download_verified_content"
+    "author": "Σ64",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "센다이 대표 기념 간식 즈다모치 실제 음식사진",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "61806f71ba4457997d88f45d406ce3d037ff8c84"
   },
   "sendai-d3-04": {
     "url": "./assets/photos/schedules/sendai/d3-04.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:211030_Kameshima_Matsushima_Miyagi_pref_Japan01n.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sedaigyutantei200607.jpg",
     "place": "仙台駅 牛タン",
-    "author": "663highland",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "a58eae90607251380b1dc3fdcd64121a0eb7d2f7",
-    "source_verified_by": "download_verified_content"
+    "author": "No machine-readable author provided.  Sensiro  assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": "",
+    "match": "curated_schedule_activity",
+    "description_scope": "센다이 규탄 정식 실제 음식사진",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "a81f5fb91b47db397131cd6bfb60a61ba833d448"
   },
   "sendai-d3-05": {
     "url": "./assets/photos/schedules/sendai/d3-05.jpg",
@@ -1873,15 +1879,16 @@
     "source_proof_blob_sha": "ef257cfbbb105ab8f9643aa0bbbc5c9ef8e0b458"
   },
   "fukuoka-d3-03": {
-    "source": "https://commons.wikimedia.org/wiki/File:Tonkotsu_Ramen_Special,_Hakata_Choten,_Paris_001.jpg",
-    "author": "Guilhem Vellut  from Paris, France",
-    "license": "CC BY 2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)",
-    "source_verified_by": "current_catalog_for_changed_image",
     "url": "./assets/photos/schedules/fukuoka/d3-03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ramen_shin_shin.jpg",
     "place": "博多駅",
-    "source_proof_blob_sha": "c5f117e181936654daa8196c9247aaa9e0a91ce3"
+    "author": "Warakush",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "후쿠오카 라멘 신신 실제 하카타 라멘 · 식당 방문 확정 아님",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "49a2546cf774f60f7cc19cda0cf921ec8fadb428"
   },
   "fukuoka-d3-04": {
     "url": "./assets/photos/schedules/fukuoka/d3-04.jpg",
@@ -1968,15 +1975,15 @@
   },
   "osaka-d1-06": {
     "url": "./assets/photos/schedules/osaka/d1-06.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Osaka_Umeda_Sky_Building_Panoramablick_05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:CAFE_Lab._in_Knowledge_Capital,_Grand_Front_Osaka_20130928.jpg",
     "place": "梅田",
-    "match": "exact",
-    "author": "Zairon",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "14f50eca049abc2d8584447d87b178d0247fe337",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "Tokumeigakarinoaoshima",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "match": "curated_schedule_activity",
+    "description_scope": "우메다 그랑프론트 오사카의 실제 카페",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "7b39a6f61570711b9f547db88a794bfeae3d4204"
   },
   "osaka-d1-07": {
     "url": "./assets/photos/schedules/osaka/d1-07.jpg",
@@ -2096,25 +2103,27 @@
   },
   "osaka-d2-09": {
     "url": "./assets/photos/schedules/osaka/d2-09.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%B5%B7%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85_-_panoramio.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hokkyoku_no_ice_candy.jpg",
     "place": "なんば駅",
-    "author": "くろふね",
-    "license": "CC BY 3.0",
-    "license_url": "https://creativecommons.org/licenses/by/3.0",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "b60124b153abc732acbb0ad180263478f32939ae",
-    "source_verified_by": "download_verified_content"
+    "author": "Tokumeigakarinoaoshima",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "오사카 난바 호쿠교쿠 아이스캔디 · 간식 참고",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "aa80f49ef460ecc1cb26f55d090c4ade0684cf17"
   },
   "osaka-d3-01": {
     "url": "./assets/photos/schedules/osaka/d3-01.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%B5%B7%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85_-_panoramio_(1).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_KEIHAN_Namba_Grande.jpg",
     "place": "なんば駅",
-    "author": "C.L. Kao (eddie5150)",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "281bc042a7ec469d04f0f40173d5c43a96035b8e",
-    "source_verified_by": "download_verified_content"
+    "author": "Tokumeigakarinoaoshima",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "난바 지역 호텔 실제 외관 · 실제 예약 호텔 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "20b0abebc1dcfe4f3c06dfd7ea24c55fb232183d"
   },
   "osaka-d3-02": {
     "url": "./assets/photos/schedules/osaka/d3-02.jpg",
@@ -2396,15 +2405,16 @@
     "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
   },
   "tokyo-d3-04": {
-    "source": "https://commons.wikimedia.org/wiki/File:Pudding_sample_by_OiMax_in_Asakusa,_Tokyo.jpg",
-    "author": "OiMax  from  Resutoran Kashimiya\" (Restaurant Cashmere) in Asakusa, Taito,  Tokyo",
+    "url": "./assets/photos/schedules/tokyo/d3-04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tempura_restaurant_by_clanchou_in_Asakusa,_Tokyo.jpg",
+    "place": "浅草",
+    "author": "clanchou  from Tempura restaurant  Daikokuya Tempura  in Asakusa, Taito,  Tokyo",
     "license": "CC BY 2.0",
     "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)",
-    "source_verified_by": "current_catalog_for_changed_image",
-    "url": "./assets/photos/schedules/tokyo/d3-04.jpg",
-    "place": "浅草",
-    "source_proof_blob_sha": "181dcdd1abfe318b703bb466a55974dbe6febb3d"
+    "match": "curated_schedule_activity",
+    "description_scope": "도쿄 아사쿠사의 실제 텐푸라 음식점 외관 · 방문 식당 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "9140bfad6c5eeab5507634cf437d04f0716f4999"
   },
   "tokyo-d3-05": {
     "url": "./assets/photos/schedules/tokyo/d3-05.jpg",
@@ -2513,14 +2523,15 @@
   },
   "matsuyama-d1-08": {
     "url": "./assets/photos/schedules/matsuyama/d1-08.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Dougo_Onsen,_Matsuyama.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jako-ten_and_Dogo_beer_by_Hyougushi_in_Dogo_Onsen,_Ehime.jpg",
     "place": "道後温泉",
-    "author": "Urashimataro",
-    "license": "Public domain",
-    "license_url": "",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "ac908a2953af9292e37288cfb3aed69aed8089a5",
-    "source_verified_by": "download_verified_content"
+    "author": "Hyougushi  from Beer hall  Dogo Bakusyu Kan  at a microbrewery in Dogo Onsen, Dogo-Yunomachi, Matsuyama, Ehime",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "도고온천 지역 자코텐과 지역 맥주 실제 음식사진",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "53063e9047a94b1f65ef2335d4d04a68ee87dfc3"
   },
   "matsuyama-d1-09": {
     "url": "./assets/photos/schedules/matsuyama/d1-09.jpg",
@@ -2619,15 +2630,15 @@
   },
   "matsuyama-d2-07": {
     "url": "./assets/photos/schedules/matsuyama/d2-07.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Okaido_2021-08_ac_(2).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jako-ten_udon_by_woinary_in_Matsuyama,_Ehime.jpg",
     "place": "大街道",
-    "match": "exact",
-    "author": "Asturio Cantabrio",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "9d56de131dde07e736db52beb1f099ee05ba00e0",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "woinary  from Udon restaurant  Kameya  in underground mall  Matsu-Chika  Town at the Matsuyama-shi station, Matsuyama, Ehime",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "마쓰야마 지역 자코텐 우동 실제 음식사진",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "c25927fc86e1d548fadf7042f51b8aea90c74916"
   },
   "matsuyama-d2-08": {
     "source": "https://commons.wikimedia.org/wiki/File:Tram_station_of_D%C5%8Dgo_Onsen_area_(6454069139).jpg",
@@ -2876,15 +2887,15 @@
   },
   "takamatsu-d2-07": {
     "url": "./assets/photos/schedules/takamatsu/d2-07.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Port_of_Takamatsu_panorama_Apr_01_2021_05-43PM.jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fish_sashimi.jpg",
     "place": "高松港",
-    "match": "exact",
-    "author": "Nesnad",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "7e0f67ffb879a6df9881e4fffd1981347dc6217a",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "Nome92",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "해산물 저녁 메뉴 중 사시미 참고사진 · 고정 식당 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "2d7ac4494fc24310632576692385af9f0a56da40"
   },
   "takamatsu-d2-08": {
     "url": "./assets/photos/schedules/takamatsu/d2-08.jpg",
@@ -3065,15 +3076,15 @@
   },
   "kumamoto-d1-09": {
     "url": "./assets/photos/schedules/kumamoto/d1-09.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:JR_Kyushu_Type_815_EC_%40Kumamoto_(4208828858).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:KKR_Hotel_Kumamoto_20230227.jpg",
     "place": "熊本駅",
-    "match": "exact",
-    "author": "Yamaguchi Yoshiaki  from Japan",
-    "license": "CC BY-SA 2.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "a27182533eea316dd749985bfb8d059f87b8d51a",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "先従隗始",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "match": "curated_schedule_activity",
+    "description_scope": "구마모토 시내 호텔 실제 건물 · 실제 예약 호텔 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "c89e584ca2ab9b48073f1b59b3924f601f530ddc"
   },
   "kumamoto-d2-01": {
     "url": "./assets/photos/schedules/kumamoto/d2-01.jpg",
@@ -3182,27 +3193,27 @@
   },
   "kumamoto-d2-10": {
     "url": "./assets/photos/schedules/kumamoto/d2-10.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Station_Sign_(Kyushu_Shinkansen).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:MIELPARQUE_Kumamoto_202512.jpg",
     "place": "熊本駅",
-    "match": "exact",
-    "author": "そらみみ",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "2452836873d943b3e7cb2be272d36a796b230b01",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "運動会プロテインパワー",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "구마모토 시내 숙박시설 실제 외관 · 실제 예약 호텔 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "61ad0319ce508243f535204728ff0966c22fe736"
   },
   "kumamoto-d3-01": {
     "url": "./assets/photos/schedules/kumamoto/d3-01.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Station_Sign_(Kyushu_Shinkansen)_2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Richmond_Hotels_single_bedroom_20110806-001.jpg",
     "place": "熊本駅",
-    "match": "exact",
-    "author": "そらみみ",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "aaf381e7dea114abc1d0eb722f0deda28928c78c",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "J o",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "구마모토현 숙박시설 객실 참고사진 · 실제 예약 호텔 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "3689f2754a997116da1d74390171112ebf5f2929"
   },
   "kumamoto-d3-02": {
     "url": "./assets/photos/schedules/kumamoto/d3-02.jpg",

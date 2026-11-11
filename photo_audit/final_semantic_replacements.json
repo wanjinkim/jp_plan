@@ -1,0 +1,206 @@
+{
+  "total": 18,
+  "replaced": 18,
+  "unresolved": 0,
+  "items": [
+    {
+      "id": "hiroshima-d2-10",
+      "requested_file": "2013-09-01 a hotel room in Hiroshima 02.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:%E5%B0%BE%E9%81%93%E9%A7%85_-_Flickr_-_m-louis.jpg",
+      "scope": "숙소 객실 참고사진 · 실제 예약 호텔 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:2013-09-01_a_hotel_room_in_Hiroshima_02.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Cheng-en Cheng",
+      "sha": "6658fde35e661481761c09a4ec282ed9f399d30e"
+    },
+    {
+      "id": "hiroshima-d3-03",
+      "requested_file": "Nishikidō.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Hiroshima_streetcar_at_night_beside_Hondori_Station.jpg",
+      "scope": "히로시마역 니시키도 모미지만주 매장 · 기념품 쇼핑",
+      "source": "https://commons.wikimedia.org/wiki/File:Nishikid%C5%8D.jpg",
+      "license": "CC BY 2.0",
+      "author": "midorisyu",
+      "sha": "a422c1221f284d60eacbc6a08dd2d114e3aa0131"
+    },
+    {
+      "id": "sapporo-d1-08",
+      "requested_file": "Hotel Route Inn Sapporo-Ekimae-Kitaguchi.JPG",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:SapporoNight2004-11.jpg",
+      "scope": "삿포로역 인근 호텔 외관 참고 · 실제 예약 호텔 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:Hotel_Route_Inn_Sapporo-Ekimae-Kitaguchi.JPG",
+      "license": "Public domain",
+      "author": "Abasaa",
+      "sha": "763cef4de4291935e1aefb55732a5742cacfde4f"
+    },
+    {
+      "id": "sapporo-d2-09",
+      "requested_file": "JR-EAST.HOTEL-METS-Sapporo.JPG",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Sapporo2005-1-9.jpg",
+      "scope": "삿포로역 인근 호텔 외관 참고 · 실제 예약 호텔 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:JR-EAST.HOTEL-METS-Sapporo.JPG",
+      "license": "CC BY 3.0",
+      "author": "RJD",
+      "sha": "193c6d649813d1ae47d6ec4f494ccfd951dd2006"
+    },
+    {
+      "id": "nagoya-d2-08",
+      "requested_file": "Meitetsu Inn Nagoyaeki Shinkansenguchi.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Bellevue_Office_NAGOYA.jpg",
+      "scope": "나고야역 인근 메이테츠인 실제 건물 · 실제 예약 호텔 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:Meitetsu_Inn_Nagoyaeki_Shinkansenguchi.jpg",
+      "license": "CC0",
+      "author": "Syced",
+      "sha": "8ebcc765fafb07ad7e77d1ac8a3c12095dc7959b"
+    },
+    {
+      "id": "sendai-d3-03",
+      "requested_file": "Zunda-mochi.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_at_Night.JPG",
+      "scope": "센다이 대표 기념 간식 즈다모치 실제 음식사진",
+      "source": "https://commons.wikimedia.org/wiki/File:Zunda-mochi.jpg",
+      "license": "CC BY 4.0",
+      "author": "Σ64",
+      "sha": "61806f71ba4457997d88f45d406ce3d037ff8c84"
+    },
+    {
+      "id": "sendai-d3-04",
+      "requested_file": "Sedaigyutantei200607.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:211030_Kameshima_Matsushima_Miyagi_pref_Japan01n.jpg",
+      "scope": "센다이 규탄 정식 실제 음식사진",
+      "source": "https://commons.wikimedia.org/wiki/File:Sedaigyutantei200607.jpg",
+      "license": "Public domain",
+      "author": "No machine-readable author provided.  Sensiro  assumed (based on copyright claims).",
+      "sha": "a81f5fb91b47db397131cd6bfb60a61ba833d448"
+    },
+    {
+      "id": "fukuoka-d3-03",
+      "requested_file": "Ramen shin shin.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Tonkotsu_Ramen_Special,_Hakata_Choten,_Paris_001.jpg",
+      "scope": "후쿠오카 라멘 신신 실제 하카타 라멘 · 식당 방문 확정 아님",
+      "source": "https://commons.wikimedia.org/wiki/File:Ramen_shin_shin.jpg",
+      "license": "CC BY 4.0",
+      "author": "Warakush",
+      "sha": "49a2546cf774f60f7cc19cda0cf921ec8fadb428"
+    },
+    {
+      "id": "osaka-d1-06",
+      "requested_file": "CAFE Lab. in Knowledge Capital, Grand Front Osaka 20130928.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Osaka_Umeda_Sky_Building_Panoramablick_05.jpg",
+      "scope": "우메다 그랑프론트 오사카의 실제 카페",
+      "source": "https://commons.wikimedia.org/wiki/File:CAFE_Lab._in_Knowledge_Capital,_Grand_Front_Osaka_20130928.jpg",
+      "license": "CC0",
+      "author": "Tokumeigakarinoaoshima",
+      "sha": "7b39a6f61570711b9f547db88a794bfeae3d4204"
+    },
+    {
+      "id": "osaka-d2-09",
+      "requested_file": "Hokkyoku no ice candy.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%B5%B7%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85_-_panoramio.jpg",
+      "scope": "오사카 난바 호쿠교쿠 아이스캔디 · 간식 참고",
+      "source": "https://commons.wikimedia.org/wiki/File:Hokkyoku_no_ice_candy.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Tokumeigakarinoaoshima",
+      "sha": "aa80f49ef460ecc1cb26f55d090c4ade0684cf17"
+    },
+    {
+      "id": "osaka-d3-01",
+      "requested_file": "Hotel KEIHAN Namba Grande.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%B5%B7%E3%81%AA%E3%82%93%E3%81%B0%E9%A7%85_-_panoramio_(1).jpg",
+      "scope": "난바 지역 호텔 실제 외관 · 실제 예약 호텔 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:Hotel_KEIHAN_Namba_Grande.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Tokumeigakarinoaoshima",
+      "sha": "20b0abebc1dcfe4f3c06dfd7ea24c55fb232183d"
+    },
+    {
+      "id": "tokyo-d3-04",
+      "requested_file": "Tempura restaurant by clanchou in Asakusa, Tokyo.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Pudding_sample_by_OiMax_in_Asakusa,_Tokyo.jpg",
+      "scope": "도쿄 아사쿠사의 실제 텐푸라 음식점 외관 · 방문 식당 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:Tempura_restaurant_by_clanchou_in_Asakusa,_Tokyo.jpg",
+      "license": "CC BY 2.0",
+      "author": "clanchou  from Tempura restaurant  Daikokuya Tempura  in Asakusa, Taito,  Tokyo",
+      "sha": "9140bfad6c5eeab5507634cf437d04f0716f4999"
+    },
+    {
+      "id": "matsuyama-d1-08",
+      "requested_file": "Jako-ten and Dogo beer by Hyougushi in Dogo Onsen, Ehime.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Dougo_Onsen,_Matsuyama.jpg",
+      "scope": "도고온천 지역 자코텐과 지역 맥주 실제 음식사진",
+      "source": "https://commons.wikimedia.org/wiki/File:Jako-ten_and_Dogo_beer_by_Hyougushi_in_Dogo_Onsen,_Ehime.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Hyougushi  from Beer hall  Dogo Bakusyu Kan  at a microbrewery in Dogo Onsen, Dogo-Yunomachi, Matsuyama, Ehime",
+      "sha": "53063e9047a94b1f65ef2335d4d04a68ee87dfc3"
+    },
+    {
+      "id": "matsuyama-d2-07",
+      "requested_file": "Jako-ten udon by woinary in Matsuyama, Ehime.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Okaido_2021-08_ac_(2).jpg",
+      "scope": "마쓰야마 지역 자코텐 우동 실제 음식사진",
+      "source": "https://commons.wikimedia.org/wiki/File:Jako-ten_udon_by_woinary_in_Matsuyama,_Ehime.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "woinary  from Udon restaurant  Kameya  in underground mall  Matsu-Chika  Town at the Matsuyama-shi station, Matsuyama, Ehime",
+      "sha": "c25927fc86e1d548fadf7042f51b8aea90c74916"
+    },
+    {
+      "id": "takamatsu-d2-07",
+      "requested_file": "Fish sashimi.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Port_of_Takamatsu_panorama_Apr_01_2021_05-43PM.jpeg",
+      "scope": "해산물 저녁 메뉴 중 사시미 참고사진 · 고정 식당 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:Fish_sashimi.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Nome92",
+      "sha": "2d7ac4494fc24310632576692385af9f0a56da40"
+    },
+    {
+      "id": "kumamoto-d1-09",
+      "requested_file": "KKR Hotel Kumamoto 20230227.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:JR_Kyushu_Type_815_EC_%40Kumamoto_(4208828858).jpg",
+      "scope": "구마모토 시내 호텔 실제 건물 · 실제 예약 호텔 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:KKR_Hotel_Kumamoto_20230227.jpg",
+      "license": "CC0",
+      "author": "先従隗始",
+      "sha": "c89e584ca2ab9b48073f1b59b3924f601f530ddc"
+    },
+    {
+      "id": "kumamoto-d2-10",
+      "requested_file": "MIELPARQUE Kumamoto 202512.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Station_Sign_(Kyushu_Shinkansen).jpg",
+      "scope": "구마모토 시내 숙박시설 실제 외관 · 실제 예약 호텔 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:MIELPARQUE_Kumamoto_202512.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "運動会プロテインパワー",
+      "sha": "61ad0319ce508243f535204728ff0966c22fe736"
+    },
+    {
+      "id": "kumamoto-d3-01",
+      "requested_file": "Richmond Hotels single bedroom 20110806-001.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Station_Sign_(Kyushu_Shinkansen)_2.jpg",
+      "scope": "구마모토현 숙박시설 객실 참고사진 · 실제 예약 호텔 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:Richmond_Hotels_single_bedroom_20110806-001.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "J o",
+      "sha": "3689f2754a997116da1d74390171112ebf5f2929"
+    }
+  ],
+  "api_errors": {}
+}

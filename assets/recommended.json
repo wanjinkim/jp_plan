@@ -301,7 +301,7 @@
             "photo_file": "LOCAL-hiroshima-d2-10.jpg",
             "photo_scope": "숙박 권역 참고사진 · 도심 숙박시설 사례 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "숙소 객실 참고사진 · 실제 예약 호텔 미정"
           }
         ],
         [
@@ -345,7 +345,7 @@
             "photo_file": "LOCAL-hiroshima-d3-03.jpg",
             "photo_scope": "거리·야경 참고사진 · 혼도리역 야간 노면전차 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "히로시마역 니시키도 모미지만주 매장 · 기념품 쇼핑"
           },
           {
             "start": "12:00",
@@ -883,7 +883,7 @@
             "photo_file": "LOCAL-sapporo-d1-08.jpg",
             "photo_scope": "숙박 권역 참고사진 · 조잔케이 호텔 실제 모습 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "장소·활동 메타데이터 일치 후보 (사진 재검토 필요)"
+            "photo_match": "삿포로역 인근 호텔 외관 참고 · 실제 예약 호텔 미정"
           }
         ],
         [
@@ -1011,7 +1011,7 @@
             "photo_file": "LOCAL-sapporo-d2-09.jpg",
             "photo_scope": "숙박 권역 참고사진 · 게이오 프렐리아 삿포로 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "삿포로역 인근 호텔 외관 참고 · 실제 예약 호텔 미정"
           }
         ],
         [
@@ -1354,7 +1354,7 @@
             "photo_file": "LOCAL-nagoya-d2-08.jpg",
             "photo_scope": "숙박 권역 참고사진 · 나고야 사카에 시가지 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "나고야역 인근 메이테츠인 실제 건물 · 실제 예약 호텔 미정"
           }
         ],
         [
@@ -2149,7 +2149,7 @@
             "photo_file": "LOCAL-sendai-d3-03.jpg",
             "photo_scope": "실제 방문지 관련 사진 · 센다이역 다른 야간사진",
             "flight_assumption": false,
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "센다이 대표 기념 간식 즈다모치 실제 음식사진"
           },
           {
             "start": "12:10",
@@ -2163,7 +2163,7 @@
             "photo_file": "LOCAL-sendai-d3-04.jpg",
             "photo_scope": "지역 음식 참고사진 · 마쓰시마의 작은 섬 (실제 시설·메뉴와 다를 수 있음)",
             "flight_assumption": false,
-            "photo_match": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
+            "photo_match": "센다이 규탄 정식 실제 음식사진"
           },
           {
             "start": "13:20",
