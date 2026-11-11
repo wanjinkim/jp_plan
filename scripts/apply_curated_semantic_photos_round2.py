@@ -91,7 +91,7 @@ def main():
  summary={'total':len(TARGETS),'replaced':sum(x['status']=='REPLACED' for x in results),
           'unresolved':sum(x['status']!='REPLACED' for x in results),
           'items':results,'api_errors':dict(source.errors)}
- (AUDIT/'final_semantic_replacements.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+ (AUDIT/'final_semantic_replacements_round2.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
  print('FINAL SEMANTIC REPLACEMENTS',summary['replaced'],'/',summary['total'],'errors:',dict(source.errors),flush=True)
  return 0
 if __name__=='__main__':sys.exit(main())
