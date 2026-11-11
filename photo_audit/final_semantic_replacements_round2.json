@@ -1,0 +1,85 @@
+{
+  "total": 7,
+  "replaced": 7,
+  "unresolved": 0,
+  "items": [
+    {
+      "id": "hiroshima-d3-05",
+      "requested_file": "644-3957 Chugoku U-MS826P Limousine.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Hiroshima-Airport_Inside.jpg",
+      "scope": "히로시마역 출발 공항 리무진 버스 실제 차량 사진",
+      "source": "https://commons.wikimedia.org/wiki/File:644-3957_Chugoku_U-MS826P_Limousine.jpg",
+      "license": "Public domain",
+      "author": "Cassiopeia sweet",
+      "sha": "45e2ceb57ff41f016149778e91dab4acade00982"
+    },
+    {
+      "id": "sendai-d2-01",
+      "requested_file": "Sendaicitybus-5736.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:International-Center-STA_South1.jpg",
+      "scope": "센다이역 서쪽 버스 승강장 차량 참고 · 아키우행 확정 차량은 아님",
+      "source": "https://commons.wikimedia.org/wiki/File:Sendaicitybus-5736.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Mutimaro",
+      "sha": "537a6f2f355e75d8f43eb1b39be507a4a7ee328d"
+    },
+    {
+      "id": "osaka-d3-04",
+      "requested_file": "Nankai50000Series Rapit01s4s2880.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:%E5%92%8C%E6%B3%89%E8%91%9B%E5%9F%8E%E5%B1%B1%E5%B1%95%E6%9C%9B%E5%8F%B0%E3%81%8B%E3%82%89%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E3%82%92%E8%A6%8B%E3%82%8B_Towarad_Kansai_International_Airport_2013.11.23_-_panoramio.jpg",
+      "scope": "간사이공항역의 난카이 공항열차 실제 모습",
+      "source": "https://commons.wikimedia.org/wiki/File:Nankai50000Series_Rapit01s4s2880.jpg",
+      "license": "CC BY 2.5",
+      "author": "663highland",
+      "sha": "94cbc2b54e466eeb75f5b085c4ef99c91e6f251c"
+    },
+    {
+      "id": "tokyo-d2-09",
+      "requested_file": "Hotel Sunroute Stella Ueno.JPG",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Opening_day_of_Ueno_Station_of_Tokyo_Metro_Ginza_Line.jpg",
+      "scope": "우에노역 인근 호텔 실제 외관 · 예약 호텔 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:Hotel_Sunroute_Stella_Ueno.JPG",
+      "license": "Public domain",
+      "author": "Abasaa",
+      "sha": "20df14c936432624f81996ab379a6525c3df4ba1"
+    },
+    {
+      "id": "takamatsu-d1-08",
+      "requested_file": "JR-Hotel Clement-Takamatsu.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Station_(Kagawa)_201508(2).JPG",
+      "scope": "다카마쓰역 인근 숙박시설 실제 외관 · 예약 호텔 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:JR-Hotel_Clement-Takamatsu.jpg",
+      "license": "CC0",
+      "author": "MaedaAkihiko",
+      "sha": "987b3c71ea35de13b4c9bb477fc73ad45c298627"
+    },
+    {
+      "id": "takamatsu-d2-09",
+      "requested_file": "ANA Hotel Clement Takamatsu01s3872.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Station_(Kagawa)_201508(5).JPG",
+      "scope": "다카마쓰역 인근 숙박시설 실제 외관 · 예약 호텔 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:ANA_Hotel_Clement_Takamatsu01s3872.jpg",
+      "license": "CC BY 2.5",
+      "author": "663highland",
+      "sha": "38f73c84e55d6d4d046398e8cfbc347e7f3a689b"
+    },
+    {
+      "id": "takamatsu-d3-01",
+      "requested_file": "ANA Hotel Clement Takamatsu02s3872.jpg",
+      "status": "REPLACED",
+      "previous_source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Station_(Kagawa)_201508(4).JPG",
+      "scope": "다카마쓰역 인근 숙박시설 실제 외관 · 예약 호텔 미정",
+      "source": "https://commons.wikimedia.org/wiki/File:ANA_Hotel_Clement_Takamatsu02s3872.jpg",
+      "license": "CC BY 2.5",
+      "author": "663highland",
+      "sha": "6dc85f11a4d0a64b4eb4c39764bcf2462e7b2edb"
+    }
+  ],
+  "api_errors": {}
+}

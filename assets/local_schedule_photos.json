@@ -271,14 +271,15 @@
   },
   "hiroshima-d3-05": {
     "url": "./assets/photos/schedules/hiroshima/d3-05.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima-Airport_Inside.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:644-3957_Chugoku_U-MS826P_Limousine.jpg",
     "place": "広島駅",
-    "author": "MaedaAkihiko",
-    "license": "CC0",
-    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "edd349d2d932deaed319cfbe25825d81cdd69f6f",
-    "source_verified_by": "download_verified_content"
+    "author": "Cassiopeia sweet",
+    "license": "Public domain",
+    "license_url": "",
+    "match": "curated_schedule_activity",
+    "description_scope": "히로시마역 출발 공항 리무진 버스 실제 차량 사진",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "45e2ceb57ff41f016149778e91dab4acade00982"
   },
   "hiroshima-d3-06": {
     "url": "./assets/photos/schedules/hiroshima/d3-06.jpg",
@@ -1444,14 +1445,15 @@
   },
   "sendai-d2-01": {
     "url": "./assets/photos/schedules/sendai/d2-01.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:International-Center-STA_South1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendaicitybus-5736.jpg",
     "place": "仙台駅 西口",
-    "author": "MaedaAkihiko",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "match": "place_or_activity_match",
-    "source_proof_blob_sha": "80df232bee3551a51db6d9338d40c62eeabee0d9",
-    "source_verified_by": "download_verified_content"
+    "author": "Mutimaro",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "match": "curated_schedule_activity",
+    "description_scope": "센다이역 서쪽 버스 승강장 차량 참고 · 아키우행 확정 차량은 아님",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "537a6f2f355e75d8f43eb1b39be507a4a7ee328d"
   },
   "sendai-d2-02": {
     "source": "https://commons.wikimedia.org/wiki/File:211029_Akiu_Onsen_Sendai_Miyagi_pref_Japan01s3.jpg",
@@ -2150,15 +2152,15 @@
   },
   "osaka-d3-04": {
     "url": "./assets/photos/schedules/osaka/d3-04.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:%E5%92%8C%E6%B3%89%E8%91%9B%E5%9F%8E%E5%B1%B1%E5%B1%95%E6%9C%9B%E5%8F%B0%E3%81%8B%E3%82%89%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E3%82%92%E8%A6%8B%E3%82%8B_Towarad_Kansai_International_Airport_2013.11.23_-_panoramio.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nankai50000Series_Rapit01s4s2880.jpg",
     "place": "関西国際空港",
-    "match": "exact",
-    "author": "Nankou Oronain (as36…",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "0c59514d4c1c90cec4f3165d784b0a670dfefbb9",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "match": "curated_schedule_activity",
+    "description_scope": "간사이공항역의 난카이 공항열차 실제 모습",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "94cbc2b54e466eeb75f5b085c4ef99c91e6f251c"
   },
   "osaka-d3-05": {
     "url": "./assets/photos/schedules/osaka/d3-05.jpg",
@@ -2359,15 +2361,15 @@
   },
   "tokyo-d2-09": {
     "url": "./assets/photos/schedules/tokyo/d2-09.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Opening_day_of_Ueno_Station_of_Tokyo_Metro_Ginza_Line.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Sunroute_Stella_Ueno.JPG",
     "place": "上野駅",
-    "match": "exact",
-    "author": "Unknown author Unknown author",
+    "author": "Abasaa",
     "license": "Public domain",
     "license_url": "",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "db865df3c90a1124afdaa398c5171a663b873e89",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "match": "curated_schedule_activity",
+    "description_scope": "우에노역 인근 호텔 실제 외관 · 예약 호텔 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "20df14c936432624f81996ab379a6525c3df4ba1"
   },
   "tokyo-d3-01": {
     "url": "./assets/photos/schedules/tokyo/d3-01.jpg",
@@ -2805,15 +2807,15 @@
   },
   "takamatsu-d1-08": {
     "url": "./assets/photos/schedules/takamatsu/d1-08.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Station_(Kagawa)_201508(2).JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:JR-Hotel_Clement-Takamatsu.jpg",
     "place": "高松駅",
-    "match": "exact",
-    "author": "Sunport1216",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "f71275a6b6ed81674b03c26bad68e468c843b528",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "MaedaAkihiko",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "match": "curated_schedule_activity",
+    "description_scope": "다카마쓰역 인근 숙박시설 실제 외관 · 예약 호텔 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "987b3c71ea35de13b4c9bb477fc73ad45c298627"
   },
   "takamatsu-d2-01": {
     "url": "./assets/photos/schedules/takamatsu/d2-01.jpg",
@@ -2911,27 +2913,27 @@
   },
   "takamatsu-d2-09": {
     "url": "./assets/photos/schedules/takamatsu/d2-09.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Station_(Kagawa)_201508(5).JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:ANA_Hotel_Clement_Takamatsu01s3872.jpg",
     "place": "高松駅",
-    "match": "exact",
-    "author": "Sunport1216",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "49183cab6d682a0d840fe4fcf692eb17508b20b7",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "match": "curated_schedule_activity",
+    "description_scope": "다카마쓰역 인근 숙박시설 실제 외관 · 예약 호텔 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "38f73c84e55d6d4d046398e8cfbc347e7f3a689b"
   },
   "takamatsu-d3-01": {
     "url": "./assets/photos/schedules/takamatsu/d3-01.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Takamatsu_Station_(Kagawa)_201508(4).JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:ANA_Hotel_Clement_Takamatsu02s3872.jpg",
     "place": "高松駅",
-    "match": "exact",
-    "author": "Sunport1216",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "provider": "Wikimedia Commons",
-    "source_proof_blob_sha": "eb739a78eac88317880a736868c7ae5e79b1ea64",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "match": "curated_schedule_activity",
+    "description_scope": "다카마쓰역 인근 숙박시설 실제 외관 · 예약 호텔 미정",
+    "source_verified_by": "curated_specific_file_subject",
+    "source_proof_blob_sha": "6dc85f11a4d0a64b4eb4c39764bcf2462e7b2edb"
   },
   "takamatsu-d3-02": {
     "url": "./assets/photos/schedules/takamatsu/d3-02.jpg",

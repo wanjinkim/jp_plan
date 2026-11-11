@@ -701,19 +701,6 @@
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     },
     {
-      "file": "LOCAL-hiroshima-d3-05.jpg",
-      "title": "히로시마역 공항버스 탑승",
-      "place": "広島駅",
-      "kind": "교통",
-      "local": "./assets/photos/schedules/hiroshima/d3-05.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:Hiroshima-Airport_Inside.jpg",
-      "author": "MaedaAkihiko",
-      "license": "CC0",
-      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-    },
-    {
       "file": "LOCAL-hiroshima-d3-01.jpg",
       "title": "체크아웃·히로시마역 짐 보관",
       "place": "広島駅",
@@ -765,6 +752,19 @@
       "license": "CC BY 2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0",
       "scope": "히로시마역 니시키도 모미지만주 매장 · 기념품 쇼핑"
+    },
+    {
+      "file": "LOCAL-hiroshima-d3-05.jpg",
+      "title": "히로시마역 공항버스 탑승",
+      "place": "広島駅",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/hiroshima/d3-05.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:644-3957_Chugoku_U-MS826P_Limousine.jpg",
+      "author": "Cassiopeia sweet",
+      "license": "Public domain",
+      "license_url": "",
+      "scope": "히로시마역 출발 공항 리무진 버스 실제 차량 사진"
     }
   ],
   "shizuoka": [
@@ -3266,19 +3266,6 @@
       "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
     },
     {
-      "file": "LOCAL-sendai-d2-01.jpg",
-      "title": "센다이역에서 아키우행 정기버스",
-      "place": "仙台駅 西口",
-      "kind": "교통",
-      "local": "./assets/photos/schedules/sendai/d2-01.jpg",
-      "local_verified": true,
-      "source": "https://commons.wikimedia.org/wiki/File:International-Center-STA_South1.jpg",
-      "author": "MaedaAkihiko",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "scope": "장소·활동 관련 사진 (중복 방지 검색·원본 구별 확인)"
-    },
-    {
       "file": "LOCAL-sendai-d2-06.jpg",
       "title": "정기버스로 센다이 복귀",
       "place": "仙台駅",
@@ -3382,6 +3369,19 @@
       "license": "Public domain",
       "license_url": "",
       "scope": "센다이 규탄 정식 실제 음식사진"
+    },
+    {
+      "file": "LOCAL-sendai-d2-01.jpg",
+      "title": "센다이역에서 아키우행 정기버스",
+      "place": "仙台駅 西口",
+      "kind": "교통",
+      "local": "./assets/photos/schedules/sendai/d2-01.jpg",
+      "local_verified": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Sendaicitybus-5736.jpg",
+      "author": "Mutimaro",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "scope": "센다이역 서쪽 버스 승강장 차량 참고 · 아키우행 확정 차량은 아님"
     }
   ],
   "okinawa": [

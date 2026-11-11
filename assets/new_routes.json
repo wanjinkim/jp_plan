@@ -955,7 +955,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-osaka-d3-04.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "간사이공항역의 난카이 공항열차 실제 모습"
           },
           {
             "start": "13:30",
@@ -1130,19 +1130,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-osaka-d3-04.jpg",
-          "title": "공항 전철 이동",
-          "place": "関西国際空港",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/osaka/d3-04.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-osaka-d1-01.jpg",
           "title": "간사이공항 입국·난카이 전철",
           "place": "関西国際空港",
@@ -1284,6 +1271,19 @@
           "license": "CC BY-SA 4.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
           "scope": "난바 지역 호텔 실제 외관 · 실제 예약 호텔 미정"
+        },
+        {
+          "file": "LOCAL-osaka-d3-04.jpg",
+          "title": "공항 전철 이동",
+          "place": "関西国際空港",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/osaka/d3-04.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Nankai50000Series_Rapit01s4s2880.jpg",
+          "author": "663highland",
+          "license": "CC BY 2.5",
+          "license_url": "https://creativecommons.org/licenses/by/2.5",
+          "scope": "간사이공항역의 난카이 공항열차 실제 모습"
         }
       ]
     },
@@ -1507,7 +1507,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-tokyo-d2-09.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "우에노역 인근 호텔 실제 외관 · 예약 호텔 미정"
           }
         ],
         [
@@ -1738,19 +1738,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-tokyo-d2-09.jpg",
-          "title": "숙소 복귀·야식",
-          "place": "上野駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/tokyo/d2-09.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-tokyo-d3-02.jpg",
           "title": "아사쿠사 센소지",
           "place": "浅草寺",
@@ -1905,6 +1892,19 @@
           "license": "CC BY 2.0",
           "license_url": "https://creativecommons.org/licenses/by/2.0",
           "scope": "도쿄 아사쿠사의 실제 텐푸라 음식점 외관 · 방문 식당 미정"
+        },
+        {
+          "file": "LOCAL-tokyo-d2-09.jpg",
+          "title": "숙소 복귀·야식",
+          "place": "上野駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/tokyo/d2-09.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:Hotel_Sunroute_Stella_Ueno.JPG",
+          "author": "Abasaa",
+          "license": "Public domain",
+          "license_url": "",
+          "scope": "우에노역 인근 호텔 실제 외관 · 예약 호텔 미정"
         }
       ]
     },
@@ -2664,7 +2664,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-takamatsu-d1-08.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "다카마쓰역 인근 숙박시설 실제 외관 · 예약 호텔 미정"
           }
         ],
         [
@@ -2774,7 +2774,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-takamatsu-d2-09.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "다카마쓰역 인근 숙박시설 실제 외관 · 예약 호텔 미정"
           }
         ],
         [
@@ -2788,7 +2788,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-takamatsu-d3-01.jpg",
-            "photo_match": "관련 지역 참고사진"
+            "photo_match": "다카마쓰역 인근 숙박시설 실제 외관 · 예약 호텔 미정"
           },
           {
             "start": "09:00",
@@ -2928,19 +2928,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-takamatsu-d1-08.jpg",
-          "title": "야식·호텔 휴식",
-          "place": "高松駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/takamatsu/d1-08.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
           "file": "LOCAL-takamatsu-d2-01.jpg",
           "title": "고토덴으로 고토히라 이동",
           "place": "琴平駅",
@@ -2998,32 +2985,6 @@
           "place": "丸亀町商店街",
           "kind": "명소",
           "local": "./assets/photos/schedules/takamatsu/d2-08.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-takamatsu-d2-09.jpg",
-          "title": "숙소 복귀·휴식",
-          "place": "高松駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/takamatsu/d2-09.jpg",
-          "local_verified": true,
-          "source": "",
-          "author": "",
-          "license": "previously supplied, verify original license",
-          "license_url": "",
-          "scope": "관련 지역 참고사진"
-        },
-        {
-          "file": "LOCAL-takamatsu-d3-01.jpg",
-          "title": "체크아웃",
-          "place": "高松駅",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/takamatsu/d3-01.jpg",
           "local_verified": true,
           "source": "",
           "author": "",
@@ -3148,6 +3109,45 @@
           "license": "CC BY-SA 3.0",
           "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
           "scope": "해산물 저녁 메뉴 중 사시미 참고사진 · 고정 식당 미정"
+        },
+        {
+          "file": "LOCAL-takamatsu-d1-08.jpg",
+          "title": "야식·호텔 휴식",
+          "place": "高松駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/takamatsu/d1-08.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:JR-Hotel_Clement-Takamatsu.jpg",
+          "author": "MaedaAkihiko",
+          "license": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "scope": "다카마쓰역 인근 숙박시설 실제 외관 · 예약 호텔 미정"
+        },
+        {
+          "file": "LOCAL-takamatsu-d2-09.jpg",
+          "title": "숙소 복귀·휴식",
+          "place": "高松駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/takamatsu/d2-09.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:ANA_Hotel_Clement_Takamatsu01s3872.jpg",
+          "author": "663highland",
+          "license": "CC BY 2.5",
+          "license_url": "https://creativecommons.org/licenses/by/2.5",
+          "scope": "다카마쓰역 인근 숙박시설 실제 외관 · 예약 호텔 미정"
+        },
+        {
+          "file": "LOCAL-takamatsu-d3-01.jpg",
+          "title": "체크아웃",
+          "place": "高松駅",
+          "kind": "일정",
+          "local": "./assets/photos/schedules/takamatsu/d3-01.jpg",
+          "local_verified": true,
+          "source": "https://commons.wikimedia.org/wiki/File:ANA_Hotel_Clement_Takamatsu02s3872.jpg",
+          "author": "663highland",
+          "license": "CC BY 2.5",
+          "license_url": "https://creativecommons.org/licenses/by/2.5",
+          "scope": "다카마쓰역 인근 숙박시설 실제 외관 · 예약 호텔 미정"
         }
       ]
     },
