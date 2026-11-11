@@ -4,7 +4,7 @@ Does not mistake a decodable image or a generic reference for a verified venue.
 Creates one row per itinerary and human-review contact sheets for every city.
 """
 from __future__ import annotations
-import csv, json, re, urllib.parse
+import csv, hashlib, json, re, urllib.parse
 from collections import Counter
 from pathlib import Path
 from PIL import Image, ImageOps, ImageDraw, ImageFont
@@ -69,6 +69,11 @@ def row_info(task):
     ok=(im.width>=100 and im.height>=90)
     dimensions=f'{im.width}x{im.height}'
   except Exception:pass
+ photo_source_hash_valid=False
+ if ok and loc.get('source_proof_blob_sha'):
+  body=picture.read_bytes()
+  source_hash=hashlib.sha1(f'blob {len(body)}\0'.encode('utf-8')+body).hexdigest()
+  photo_source_hash_valid=(source_hash==loc.get('source_proof_blob_sha'))
  category=activity_category(task.get('title',''),task.get('place',''),entry.get('kind',''))
  # Category contradiction rules are conservative: a hotel is not the onsen, and
  # a government office is not the named hot spring.
@@ -103,6 +108,7 @@ def row_info(task):
              category=category,source=source,source_filename=file,photo_scope=desc,
              audit_catalog_match=loc.get('match',''),source_photo=loc.get('source_image',''),
              image_path=task['local_path'],image_ok=ok,dimensions=dimensions,
+             photo_source_hash_valid=photo_source_hash_valid,
              status=state,metadata_matches=', '.join(token_hits),
              warnings='; '.join(contradiction),
              verified_place=False,verified_license=False,
@@ -161,13 +167,14 @@ def main():
   out=csv.DictWriter(f,fieldnames=fields);out.writeheader();out.writerows(data)
  counts=dict(Counter(x['status'] for x in data))
  counts['SOURCE_PRESENT']=sum(bool(v['source']) for v in data)
+ counts['SOURCE_HASH_VERIFIED']=sum(bool(v['photo_source_hash_valid']) for v in data)
  counts['BINARY_UNIQUE']=len(hashes)
  counts['BINARY_DUPLICATE_EXCESS']=sum(len(v)-1 for v in hashes.values())
  summary={'total':len(data),'files_present':sum(x['image_ok'] for x in data),
           'status_counts':counts,'unique_file_hashes':len(hashes),
           'repeated_files':[v for v in hashes.values() if len(v)>1],
           'perceptual_similar_pairs':perceptual,'verified_place':0,
-          'note':'Regenerated from current 281 local images and current source mapping. Metadata mismatch flags are screening suggestions; they are NOT confirmed visual mismatches.',
+          'note':'Regenerated from current 281 local images; file bytes compared with recorded original Git SHA where available. Category mismatch is a conservative keyword-based screening suggestion, NOT definitive visual mismatch. Booked venue unspecified: reference photo labels appear on site.',
           'city_previews':{city:contact_sheet(city,data) for city in CITIES},
           'items':data}
  (OUT/'semantic_audit_281.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
