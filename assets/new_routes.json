@@ -2640,7 +2640,7 @@
             "walk": null,
             "verified": false,
             "photo_file": "LOCAL-takamatsu-d1-06.jpg",
-            "photo_match": "동일 장소 검색 사진"
+            "photo_match": "붓쇼잔온천의 실제 목욕 시설"
           },
           {
             "start": "20:45",
@@ -2915,19 +2915,6 @@
           "scope": "관련 지역 참고사진"
         },
         {
-          "file": "LOCAL-takamatsu-d1-06.jpg",
-          "title": "붓쇼잔온천 천연노천탕",
-          "place": "仏生山温泉 天平湯",
-          "kind": "명소",
-          "local": "./assets/photos/schedules/takamatsu/d1-06.jpg",
-          "local_verified": true,
-          "source": "https://commons.wikimedia.org/wiki/File:Takamatsu_City_Office_Busshozan_Branch_Office.jpg",
-          "author": "ラハール",
-          "license": "Public domain",
-          "license_url": "",
-          "scope": "동일 장소 검색 사진"
-        },
-        {
           "file": "LOCAL-takamatsu-d1-07.jpg",
           "title": "고토덴으로 중심지 복귀",
           "place": "瓦町駅",
@@ -3147,6 +3134,20 @@
           "license": "CC BY 3.0",
           "license_url": "https://creativecommons.org/licenses/by/3.0",
           "scope": "카가와현 지역 명물 사누키 우동 실제 요리 사진"
+        },
+        {
+          "file": "LOCAL-takamatsu-d1-06.jpg",
+          "title": "붓쇼잔온천 천연노천탕",
+          "place": "仏生山温泉 天平湯",
+          "kind": "온천",
+          "local": "./assets/photos/schedules/takamatsu/d1-06.jpg",
+          "local_verified": true,
+          "source": "https://busshozan.com/",
+          "source_image": "https://busshozan.com/images/3.jpg",
+          "author": "시설 공식 사이트",
+          "license": "시설 원본 이미지 · 사용 조건 별도 확인 필요",
+          "license_url": "",
+          "scope": "붓쇼잔온천의 실제 목욕 시설"
         }
       ]
     },

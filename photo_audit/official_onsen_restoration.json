@@ -1,0 +1,52 @@
+{
+  "updated": 5,
+  "files": 281,
+  "unique": 281,
+  "items": [
+    {
+      "key": "hiroshima-d2-08",
+      "venue": "宇品天然温泉 ほの湯",
+      "source": "https://www.honoyu.jp/ujina/",
+      "image_source": "https://www.honoyu.jp/wp-content/themes/honoyu/assets/img/ujina/top/fv1.jpg",
+      "photo_sha": "7a39a30f4d232525933fa45d9f43b21333fc942f",
+      "dimensions": 143257,
+      "description": "우지나 천연온천 호노유의 실제 노천탕"
+    },
+    {
+      "key": "shizuoka-d2-06",
+      "venue": "あおい温泉 草薙の湯",
+      "source": "https://www.kusanagino-yu.com/bath/index.html",
+      "image_source": "https://www.kusanagino-yu.com/common/img/bath/bath1-2.png",
+      "photo_sha": "bfc1e94f70d244032feb05c94ea35d068d750f12",
+      "dimensions": 53648,
+      "description": "아오이온천 쿠사나기노유의 실제 노천탕"
+    },
+    {
+      "key": "okinawa-d1-06",
+      "venue": "琉球温泉 龍神の湯",
+      "source": "https://www.resorts.co.jp/senaga/ryujinhotspring",
+      "image_source": "https://www.resorts.co.jp/upload/tenant_1/senaga_ryujin049.webp",
+      "photo_sha": "f6d40fc60a191b15283c0839a7df2de02456298e",
+      "dimensions": 302950,
+      "description": "류큐온천 류진노유의 바다 전망 노천탕"
+    },
+    {
+      "key": "sendai-d2-05",
+      "venue": "秋保グランドホテル",
+      "source": "https://akiugrand.com/",
+      "image_source": "https://akiugrand.com/images/index/hs04.jpg?v=2",
+      "photo_sha": "4fc986a04394fa880a3db69381557566515a469e",
+      "dimensions": 135026,
+      "description": "아키우 그랜드호텔의 실제 노천탕"
+    },
+    {
+      "key": "takamatsu-d1-06",
+      "venue": "仏生山温泉 天平湯",
+      "source": "https://busshozan.com/",
+      "image_source": "https://busshozan.com/images/3.jpg",
+      "photo_sha": "f0d0598a8d8f91d921c6bfd7c847ed8dcea1aa97",
+      "dimensions": 29951,
+      "description": "붓쇼잔온천의 실제 목욕 시설"
+    }
+  ]
+}
