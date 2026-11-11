@@ -198,6 +198,21 @@
         "photo_evidence": "text_only",
         "trip_scope": "2박 3일 방문 기록",
         "reviewed_at": "2026-11-11"
+      },
+      {
+        "date": "2026-11-01",
+        "source": "티스토리 · 스울지",
+        "title": "도쿄 2박 3일에 직접 먹은 음식과 거리 사진",
+        "summary": "2박 3일 실제 방문 중 들른 와인바, 코메다커피, 무지호텔 식당의 음식과 현장 사진을 소개한 기록.",
+        "url": "https://world-gi.tistory.com/405",
+        "tags": [
+          "긴자",
+          "식당 사진",
+          "개인 여행 기록"
+        ],
+        "photo_evidence": "verified",
+        "trip_scope": "도쿄 2박 3일 실제 방문 중 식사 기록",
+        "reviewed_at": "2026-11-11"
       }
     ],
     "matsuyama": [
