@@ -35,9 +35,17 @@ try {
       }
       // Every destination must have an actual 2-night/3-day post, not a bare URL.
       const blog=page.locator('#travel-blogs .blog-story');
-      if(await blog.count()!==1) throw Error(city+': missing curated blog story card');
-      if(!((await blog.first().getAttribute('href'))||'').startsWith('https://'))
-        throw Error(city+': blog article is not a real URL');
+      if(await page.locator('#travel-blogs').count()!==1)
+        throw Error(city+': duplicate travel journal sections');
+      if(await blog.count()<1) throw Error(city+': missing curated blog story card');
+      for(const story of await blog.all()){
+        if(!((await story.getAttribute('href'))||'').startsWith('https://'))
+          throw Error(city+': blog article is not a real HTTPS URL');
+        if(!(await story.locator('time[datetime]').count()))
+          throw Error(city+': travel journal missing publication date');
+      }
+      if(!(await page.locator('#travel-blogs .blog-search-more').getAttribute('href')).includes('where=blog'))
+        throw Error(city+': missing Naver travel review lookup');
       result.blogCards++;
 
       // Click photograph itself: verify centered lightbox, loaded full image, escape closing.
@@ -80,5 +88,5 @@ try {
 fs.writeFileSync('browser-photo-audit.json',JSON.stringify(result,null,2)+'\n');
 console.log('ACTUAL BROWSER PHOTO LOADS:',result.loaded+'/'+result.checked);
 for(const [city,c] of Object.entries(result.cities))console.log(city,c.loaded+'/'+c.total);
-console.log('MISSING:',result.missing.length,'JS ERRORS:',result.errors.length);console.log('BLOGS:',result.blogCards+'/12','MODALS:',result.lightboxes+'/12','SEARCH LINKS:',result.searchButtons+'/12');
+console.log('MISSING:',result.missing.length,'JS ERRORS:',result.errors.length);for(const e of result.errors)console.error('BROWSER VERIFICATION ERROR:',JSON.stringify(e));console.log('BLOGS:',result.blogCards+'/12','MODALS:',result.lightboxes+'/12','SEARCH LINKS:',result.searchButtons+'/12');
 if(result.checked!==281 || result.missing.length || result.errors.length || result.blogCards!==12 || result.lightboxes!==12 || result.searchButtons!==12) process.exitCode=1;
