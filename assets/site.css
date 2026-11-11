@@ -95,3 +95,8 @@ body.photo-preview-active{overflow:hidden}
 #travel-blogs .blog-search-icon{display:grid;place-items:center;width:38px;height:38px;border-radius:13px;background:white;color:#7b97a8;font-size:27px;flex-shrink:0}
 #travel-blogs .blog-search-copy{flex:1;min-width:0}
 @media(max-width:690px){.blog-story-visual{height:148px}.blog-story-body{padding:18px}.blog-story h3{font-size:17px}}
+
+/* Clearly distinguish an illustrative scene from the exact venue or booked hotel. */
+.photo-context-badge{position:absolute;left:12px;bottom:10px;z-index:2;pointer-events:none;border-radius:10px;padding:4px 8px;font-size:10px;font-weight:700;letter-spacing:-.1px;background:rgba(27,42,51,.83);color:white;max-width:calc(100% - 112px);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;box-shadow:0 2px 8px rgba(30,40,50,.14)}
+.photo-link.schedule-image .photo-context-badge{bottom:17px;left:18px}
+@media(max-width:690px){.photo-context-badge{font-size:9px;left:8px;bottom:8px}.photo-link.schedule-image .photo-context-badge{bottom:17px;left:22px}}
