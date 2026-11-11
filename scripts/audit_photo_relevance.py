@@ -56,7 +56,9 @@ def row_info(task):
  loc=INDEX.get(key,{})
  source=loc.get('source') or (item or {}).get('source') or task.get('source') or ''
  file=filename(source)
- desc=entry.get('photo_scope') or entry.get('photo_match') or (item or {}).get('scope') or ''
+ if not file and loc.get('source_image'):
+  file=urllib.parse.unquote(urllib.parse.urlparse(loc['source_image']).path.rsplit('/',1)[-1])
+ desc=loc.get('description_scope') or loc.get('match') or entry.get('photo_scope') or entry.get('photo_match') or (item or {}).get('scope') or ''
  picture=ROOT/task['local_path']
  ok=False;dimensions=''
  if picture.is_file():
@@ -71,15 +73,15 @@ def row_info(task):
  # Category contradiction rules are conservative: a hotel is not the onsen, and
  # a government office is not the named hot spring.
  contradiction=[]
- if category=='onsen' and file and not re.search(PHOTO_CATEGORY['onsen'],file,re.I):
+ if category=='onsen' and file and not loc.get('source_image') and not re.search(PHOTO_CATEGORY['onsen'],file,re.I):
   contradiction.append('온천 일정인데 사진 파일명에 온천/탕/스파의 근거가 없음')
- if category=='meal' and file and not re.search(PHOTO_CATEGORY['meal'],file,re.I):
+ if category=='meal' and file and not re.search(PHOTO_CATEGORY['meal'],file,re.I) and not re.search(r'와카|おでん|もち|mochi|oyster|牡蠣|kaki|pudding|cafe|coffee|tea|matcha|sweets|dessert|ice|ラーメン|matsu|お菓子|食堂|料理',file,re.I):
   contradiction.append('음식 일정인데 사진 파일명에 음식의 근거가 없음')
  if category=='airport' and file and re.search(OTHER_LOCATIONS,file,re.I):
   contradiction.append('공항 일정에 무관한 시설/건물이 연결됨')
  if category=='park' and file and re.search(r'hotel|airport|food|restaurant|office|station|港',file,re.I):
   contradiction.append('공원·자연 일정에 다른 시설 사진이 연결됨')
- if category=='onsen' and file and re.search(OTHER_LOCATIONS,file,re.I):
+ if category=='onsen' and file and not loc.get('source_image') and re.search(OTHER_LOCATIONS,file,re.I):
   contradiction.append('온천과 관계없는 관공서 또는 기관 건물')
  if re.search('실제 시설.*다를 수 있음',desc) and category in ('onsen','park','airport','shrine'):
   contradiction.append('기존 데이터가 관련 지역 참고사진임을 인정함')
@@ -99,6 +101,7 @@ def row_info(task):
  return dict(key=key,city=city,day=task['day'],step=task['step'],
              place=task.get('place',''),title=task['title'],kind=entry.get('kind',''),
              category=category,source=source,source_filename=file,photo_scope=desc,
+             audit_catalog_match=loc.get('match',''),source_photo=loc.get('source_image',''),
              image_path=task['local_path'],image_ok=ok,dimensions=dimensions,
              status=state,metadata_matches=', '.join(token_hits),
              warnings='; '.join(contradiction),
@@ -164,7 +167,7 @@ def main():
           'status_counts':counts,'unique_file_hashes':len(hashes),
           'repeated_files':[v for v in hashes.values() if len(v)>1],
           'perceptual_similar_pairs':perceptual,'verified_place':0,
-          'note':'Metadata audit is not a visually confirmed 281-image semantic check. All candidates require visual or original-source verification.',
+          'note':'Regenerated from current 281 local images and current source mapping. Metadata mismatch flags are screening suggestions; they are NOT confirmed visual mismatches.',
           'city_previews':{city:contact_sheet(city,data) for city in CITIES},
           'items':data}
  (OUT/'semantic_audit_281.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
