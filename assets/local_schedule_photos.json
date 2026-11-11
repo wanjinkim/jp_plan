@@ -103,7 +103,8 @@
     "source_verified_by": "current_catalog_for_changed_image",
     "url": "./assets/photos/schedules/hiroshima/d1-09.jpg",
     "place": "広島駅 ホテル",
-    "source_proof_blob_sha": "ad218f2e5d881ee2195061ecf5855da4556fd95a"
+    "source_proof_blob_sha": "ad218f2e5d881ee2195061ecf5855da4556fd95a",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "hiroshima-d2-01": {
     "url": "./assets/photos/schedules/hiroshima/d2-01.jpg",
@@ -232,7 +233,7 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "match": "curated_unique_subject",
     "source_proof_blob_sha": "01e659ac12389ece516bd81d8ea3e183a53b2f57",
-    "description_scope": "히로시마역 북쪽 출입구 실제 사진"
+    "description_scope": "히로시마역 북쪽 출입구 실제 사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "hiroshima-d3-02": {
     "url": "./assets/photos/schedules/hiroshima/d3-02.jpg",
@@ -314,7 +315,8 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "86efc031cd2d8c2e8af77c8cdadad16e0881875c",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "shizuoka-d1-03": {
     "url": "./assets/photos/schedules/shizuoka/d1-03.jpg",
@@ -385,7 +387,8 @@
     "source_verified_by": "current_catalog_for_changed_image",
     "url": "./assets/photos/schedules/shizuoka/d1-08.jpg",
     "place": "静岡駅 ホテル",
-    "source_proof_blob_sha": "7172618b820b7e4fbd9b81226028f06d71817816"
+    "source_proof_blob_sha": "7172618b820b7e4fbd9b81226028f06d71817816",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "shizuoka-d2-01": {
     "url": "./assets/photos/schedules/shizuoka/d2-01.jpg",
@@ -502,7 +505,7 @@
     "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
     "match": "curated_unique_subject",
     "source_proof_blob_sha": "38fcad42b23ea5254ef0ff90e251ecb8409a63d4",
-    "description_scope": "시즈오카역 신칸센 개찰구 실제 사진"
+    "description_scope": "시즈오카역 신칸센 개찰구 실제 사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "shizuoka-d3-02": {
     "url": "./assets/photos/schedules/shizuoka/d3-02.jpg",
@@ -571,7 +574,8 @@
     "license_url": "https://creativecommons.org/licenses/by/2.5",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "cb2f5ffcaf50f4deae64e7a43eec105604e7b6c1",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "sapporo-d1-03": {
     "url": "./assets/photos/schedules/sapporo/d1-03.jpg",
@@ -619,7 +623,8 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "8dd86ff243db9eceeb23245f2896c16f5f18d1d4",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
+    "description_scope": "음식·활동 참고사진 · 실제 방문 식당은 일정에서 확인 필요"
   },
   "sapporo-d1-07": {
     "source": "https://commons.wikimedia.org/wiki/File:Ganso_Ramen_Street_by_zezebono_in_Sapporo,_Hokkaido.jpg",
@@ -757,7 +762,7 @@
     "license_url": "https://creativecommons.org/licenses/by/4.0",
     "match": "curated_unique_subject",
     "source_proof_blob_sha": "5574155c12cbc298104e8283c64663981c864f66",
-    "description_scope": "삿포로역 실내 실제 사진"
+    "description_scope": "삿포로역 실내 실제 사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "sapporo-d3-02": {
     "url": "./assets/photos/schedules/sapporo/d3-02.jpg",
@@ -838,7 +843,8 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "97fc12802db5032d6c354d121d5d810a0dd68bdb",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "nagoya-d1-03": {
     "url": "./assets/photos/schedules/nagoya/d1-03.jpg",
@@ -886,7 +892,8 @@
     "license_url": "https://creativecommons.org/licenses/by/2.0",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "0e2fbfe01273669191861d8cccfc1a779297dd22",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
+    "description_scope": "음식·활동 참고사진 · 실제 방문 식당은 일정에서 확인 필요"
   },
   "nagoya-d1-07": {
     "url": "./assets/photos/schedules/nagoya/d1-07.jpg",
@@ -910,7 +917,8 @@
     "license_url": "",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "134bc5248d2adde893da2165c8b6c27475976bdf",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "nagoya-d2-01": {
     "url": "./assets/photos/schedules/nagoya/d2-01.jpg",
@@ -1012,7 +1020,8 @@
     "license_url": "https://creativecommons.org/licenses/by/2.0",
     "match": "place_or_activity_match",
     "source_proof_blob_sha": "dadd7864c662f2530d9a5d5f59994e4f72dc0911",
-    "source_verified_by": "download_verified_content"
+    "source_verified_by": "download_verified_content",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "nagoya-d3-02": {
     "url": "./assets/photos/schedules/nagoya/d3-02.jpg",
@@ -1081,7 +1090,8 @@
     "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
     "match": "manual_venue_and_season_review",
     "source_verified_by": "commons_file_metadata_and_visual_review",
-    "source_proof_blob_sha": "40302821063d29ba2e5e4d91913621373af1f0f6"
+    "source_proof_blob_sha": "40302821063d29ba2e5e4d91913621373af1f0f6",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "okinawa-d1-03": {
     "url": "./assets/photos/schedules/okinawa/d1-03.jpg",
@@ -1128,7 +1138,7 @@
     "license_url": "",
     "match": "exact_facility_visual_review",
     "source_proof_blob_sha": "f6d40fc60a191b15283c0839a7df2de02456298e",
-    "description_scope": "류큐온천 류진노유의 바다 전망 노천탕"
+    "description_scope": "류큐온천 류진노유의 바다 전망 노천탕 · 실제 숙소 예약 여부 확인 필요"
   },
   "okinawa-d1-07": {
     "url": "./assets/photos/schedules/okinawa/d1-07.jpg",
@@ -1164,7 +1174,8 @@
     "license_url": "",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "1e2c5d75c258c3f4bbffd0f7f9ec4a7baed1dbaf",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "okinawa-d2-01": {
     "url": "./assets/photos/schedules/okinawa/d2-01.jpg",
@@ -1280,7 +1291,8 @@
     "license_url": "https://creativecommons.org/licenses/by/4.0",
     "match": "place_or_activity_match",
     "source_proof_blob_sha": "78f71e5e3dcb7b29efcbdee9ad2b7f4b863f940c",
-    "source_verified_by": "download_verified_content"
+    "source_verified_by": "download_verified_content",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "okinawa-d3-01": {
     "url": "./assets/photos/schedules/okinawa/d3-01.jpg",
@@ -1291,7 +1303,8 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
     "match": "place_or_activity_match",
     "source_proof_blob_sha": "a2b29e1c72e24ad4938dbf234db43b323b86504d",
-    "source_verified_by": "download_verified_content"
+    "source_verified_by": "download_verified_content",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "okinawa-d3-02": {
     "url": "./assets/photos/schedules/okinawa/d3-02.jpg",
@@ -1360,7 +1373,8 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "8e10d2fb5903e8240cf17390f402148bdb2c6ad2",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "sendai-d1-03": {
     "url": "./assets/photos/schedules/sendai/d1-03.jpg",
@@ -1372,7 +1386,8 @@
     "license_url": "",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "c9afb491f3f74d2577df6b59edcbfbb77881cae8",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
+    "description_scope": "음식·활동 참고사진 · 실제 방문 식당은 일정에서 확인 필요"
   },
   "sendai-d1-04": {
     "url": "./assets/photos/schedules/sendai/d1-04.jpg",
@@ -1431,7 +1446,8 @@
     "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "ecd9b21bf45f6044a54ae682c7bf066a887a7d1c",
-    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b"
+    "source_proof_commit": "de1de82d2a324b24cd2720102e873a185a0cc57b",
+    "description_scope": "음식·활동 참고사진 · 실제 방문 식당은 일정에서 확인 필요"
   },
   "sendai-d1-09": {
     "url": "./assets/photos/schedules/sendai/d1-09.jpg",
@@ -1442,7 +1458,8 @@
     "license_url": "",
     "match": "place_or_activity_match",
     "source_proof_blob_sha": "cd6da513a1e54cae7efecef41474b5292546745e",
-    "source_verified_by": "download_verified_content"
+    "source_verified_by": "download_verified_content",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "sendai-d2-01": {
     "url": "./assets/photos/schedules/sendai/d2-01.jpg",
@@ -1557,7 +1574,8 @@
     "source_verified_by": "current_catalog_for_changed_image",
     "url": "./assets/photos/schedules/sendai/d2-10.jpg",
     "place": "仙台駅 ホテル",
-    "source_proof_blob_sha": "67d7d56917a3574919ceae2554d0aa7dd3728c18"
+    "source_proof_blob_sha": "67d7d56917a3574919ceae2554d0aa7dd3728c18",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "sendai-d3-01": {
     "url": "./assets/photos/schedules/sendai/d3-01.jpg",
@@ -1568,7 +1586,7 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "match": "curated_unique_subject",
     "source_proof_blob_sha": "4630bf17f8ddbf06325d22a8321be69aab449fde",
-    "description_scope": "센다이역 실제 외관"
+    "description_scope": "센다이역 실제 외관 · 실제 숙소 예약 여부 확인 필요"
   },
   "sendai-d3-02": {
     "url": "./assets/photos/schedules/sendai/d3-02.jpg",
@@ -1650,7 +1668,8 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "2bbec0c5c90e4b9e3957870fdd44720225f2f908",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "fukuoka-d1-03": {
     "url": "./assets/photos/schedules/fukuoka/d1-03.jpg",
@@ -1746,7 +1765,8 @@
     "license_url": "https://creativecommons.org/licenses/by/3.0",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "5b3dd83ab3d1ec849a74cecea78de59bae208d8f",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "fukuoka-d2-01": {
     "url": "./assets/photos/schedules/fukuoka/d2-01.jpg",
@@ -1858,7 +1878,8 @@
     "source_verified_by": "current_catalog_for_changed_image",
     "url": "./assets/photos/schedules/fukuoka/d2-10.jpg",
     "place": "博多駅",
-    "source_proof_blob_sha": "2db80a45ac37625b44ec9b789a2728dc5020c582"
+    "source_proof_blob_sha": "2db80a45ac37625b44ec9b789a2728dc5020c582",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "fukuoka-d3-01": {
     "url": "./assets/photos/schedules/fukuoka/d3-01.jpg",
@@ -1869,7 +1890,8 @@
     "license_url": "https://creativecommons.org/licenses/by/3.0",
     "match": "place_or_activity_match",
     "source_proof_blob_sha": "0c5103e969d0560b2d59312e4649524683232244",
-    "source_verified_by": "download_verified_content"
+    "source_verified_by": "download_verified_content",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "fukuoka-d3-02": {
     "source": "https://commons.wikimedia.org/wiki/File:Sumiyoshi-jinja_(Fukuoka)_haiden-1.JPG",
@@ -1939,7 +1961,8 @@
     "license_url": "",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "e99081554d5b08905e6e814b1f362f9e6133ff51",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "osaka-d1-03": {
     "url": "./assets/photos/schedules/osaka/d1-03.jpg",
@@ -2009,7 +2032,8 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
     "match": "place_or_activity_match",
     "source_proof_blob_sha": "50b7b4b049d51e5691ff466880dc3f2c4b34df3e",
-    "source_verified_by": "download_verified_content"
+    "source_verified_by": "download_verified_content",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "osaka-d2-01": {
     "url": "./assets/photos/schedules/osaka/d2-01.jpg",
@@ -2197,7 +2221,8 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "643ab4f27270cc858ccdf00143db77e1a783afa2",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "tokyo-d1-03": {
     "url": "./assets/photos/schedules/tokyo/d1-03.jpg",
@@ -2382,7 +2407,8 @@
     "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
     "match": "place_or_activity_match",
     "source_proof_blob_sha": "268599e439e99f057ad98ab2e6201c14e92bec47",
-    "source_verified_by": "download_verified_content"
+    "source_verified_by": "download_verified_content",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "tokyo-d3-02": {
     "url": "./assets/photos/schedules/tokyo/d3-02.jpg",
@@ -2463,7 +2489,8 @@
     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "3afd592d5bcc05e798ac2cf3aeeb6dcdb84a03e6",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "matsuyama-d1-03": {
     "source": "https://commons.wikimedia.org/wiki/File:Matsuyama_Castle_Ropeway,_%E6%9D%BE%E5%B1%B1%E5%9F%8E_%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4_-_panoramio.jpg",
@@ -2665,7 +2692,8 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "4813baa647c057435f1128b82d97616c68aaea6e",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "matsuyama-d3-01": {
     "url": "./assets/photos/schedules/matsuyama/d3-01.jpg",
@@ -2676,7 +2704,8 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "match": "place_or_activity_match",
     "source_proof_blob_sha": "b077ef1530318f37968e7c38663ce11ceb0cf166",
-    "source_verified_by": "download_verified_content"
+    "source_verified_by": "download_verified_content",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "matsuyama-d3-02": {
     "url": "./assets/photos/schedules/matsuyama/d3-02.jpg",
@@ -2746,7 +2775,8 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "2b3725da22753c2e656fc9c6d9ce5c37ea3e0e6e",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "takamatsu-d1-03": {
     "source": "https://commons.wikimedia.org/wiki/File:Kama-age_sanuki_udon_by_sekido_in_Takamatsu,_Kagawa.jpg",
@@ -3005,7 +3035,8 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "provider": "Wikimedia Commons",
     "source_proof_blob_sha": "ea01f3e90a598920fa9a31f357745045cd3db77a",
-    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f"
+    "source_proof_commit": "51711fc203509bbffb4b43dea3c9708ea4dad90f",
+    "description_scope": "여행 일정의 숙박·이동 관련 참고사진 · 실제 숙소 예약 여부 확인 필요"
   },
   "kumamoto-d1-03": {
     "url": "./assets/photos/schedules/kumamoto/d1-03.jpg",
