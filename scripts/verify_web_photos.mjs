@@ -1,8 +1,26 @@
 import { chromium } from 'playwright';
 import fs from 'node:fs';
+import crypto from 'node:crypto';
 
 const cities = ['hiroshima','shizuoka','sapporo','nagoya','okinawa','sendai',
                 'fukuoka','osaka','tokyo','matsuyama','takamatsu','kumamoto'];
+// Ensure that each visible schedule image represents distinct JPEG bytes, not a renamed duplicate.
+// Confirm the displayed file is the same version described by its source Git blob SHA.
+const manifest=JSON.parse(fs.readFileSync('assets/photo_manifest_281.json','utf-8'));
+const mapped=JSON.parse(fs.readFileSync('assets/local_schedule_photos.json','utf-8'));
+const jpegHashes=new Set();
+if(manifest.length!==281||Object.keys(mapped).length!==281)throw Error('Photo manifest/index must both contain 281 images');
+for(const entry of manifest){
+  const photo=mapped[entry.key];
+  if(!photo?.source||photo.url!=='./'+entry.local_path)throw Error('Missing source/index: '+entry.key);
+  const bytes=fs.readFileSync(entry.local_path);
+  const blobSHA=crypto.createHash('sha1').update(Buffer.from('blob '+bytes.length+'\0')).update(bytes).digest('hex');
+  if(photo.source_proof_blob_sha!==blobSHA)throw Error('Image bytes diverged from their original source: '+entry.key);
+  const hash=crypto.createHash('sha256').update(bytes).digest('hex');
+  if(jpegHashes.has(hash))throw Error('Identical image repeated in a different itinerary slot: '+entry.key);
+  jpegHashes.add(hash);
+}
+console.log('SOURCE-SHA VALIDATED AND UNIQUE PHOTOGRAPHS:',jpegHashes.size,'/281');
 const browser = await chromium.launch({headless:true,args:['--no-sandbox']});
 const result = {checkedAt: new Date().toISOString(), cities:{}, checked:0,loaded:0,missing:[],errors:[],blogCards:0,lightboxes:0,searchButtons:0};
 try {
